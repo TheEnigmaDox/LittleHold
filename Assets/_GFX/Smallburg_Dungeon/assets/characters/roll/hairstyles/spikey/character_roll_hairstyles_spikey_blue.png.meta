@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 0b13e9e703c4c5d439a6ff0e6f9df2e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4854320139659904361
+    second: character_roll_hairstyles_spikey_blue_0
+  - first:
+      213: 3888307960965431777
+    second: character_roll_hairstyles_spikey_blue_1
+  - first:
+      213: 8299090527008347068
+    second: character_roll_hairstyles_spikey_blue_2
+  - first:
+      213: 3137734816558736325
+    second: character_roll_hairstyles_spikey_blue_3
+  - first:
+      213: 6035217904450241290
+    second: character_roll_hairstyles_spikey_blue_4
+  - first:
+      213: -4773663416021487639
+    second: character_roll_hairstyles_spikey_blue_5
+  - first:
+      213: 935714096887726672
+    second: character_roll_hairstyles_spikey_blue_6
+  - first:
+      213: -2876505932064513569
+    second: character_roll_hairstyles_spikey_blue_7
+  - first:
+      213: -8798804949908339810
+    second: character_roll_hairstyles_spikey_blue_8
+  - first:
+      213: 2679492164433169407
+    second: character_roll_hairstyles_spikey_blue_9
+  - first:
+      213: -706027911771902036
+    second: character_roll_hairstyles_spikey_blue_10
+  - first:
+      213: 4159783804422849571
+    second: character_roll_hairstyles_spikey_blue_11
+  - first:
+      213: -8772804049567757128
+    second: character_roll_hairstyles_spikey_blue_12
+  - first:
+      213: -3968990147389383193
+    second: character_roll_hairstyles_spikey_blue_13
+  - first:
+      213: -5341285834637063220
+    second: character_roll_hairstyles_spikey_blue_14
+  - first:
+      213: -8323704415298275591
+    second: character_roll_hairstyles_spikey_blue_15
+  - first:
+      213: 6861955176111291051
+    second: character_roll_hairstyles_spikey_blue_16
+  - first:
+      213: -1316870333649492448
+    second: character_roll_hairstyles_spikey_blue_17
+  - first:
+      213: 7947022308048714502
+    second: character_roll_hairstyles_spikey_blue_18
+  - first:
+      213: 8477549325786004779
+    second: character_roll_hairstyles_spikey_blue_19
+  - first:
+      213: 3457510216018013457
+    second: character_roll_hairstyles_spikey_blue_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 224
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965047e92720e5340800000000000000
+      internalID: 4854320139659904361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10ba64d7b06f530800000000000000
+      internalID: 3888307960965431777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 216
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb354252dda4c2370800000000000000
+      internalID: 8299090527008347068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 215
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3eb54f0397b8b20800000000000000
+      internalID: 3137734816558736325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0385d845b661c350800000000000000
+      internalID: 6035217904450241290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efe2c24a6a80cdb0800000000000000
+      internalID: -4773663416021487639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052815473035cfc00800000000000000
+      internalID: 935714096887726672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 152
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1adfc58199418d0800000000000000
+      internalID: -2876505932064513569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c3c0248d54e580800000000000000
+      internalID: -8798804949908339810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 151
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb4b7f4de77f2520800000000000000
+      internalID: 2679492164433169407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf235dda5fa336f0800000000000000
+      internalID: -706027911771902036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3240c05a4558ab930800000000000000
+      internalID: 4159783804422849571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 97
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcc76d723db04680800000000000000
+      internalID: -8772804049567757128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 96
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed94d35d705be8c0800000000000000
+      internalID: -3968990147389383193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbc1ae25d0ffd5b0800000000000000
+      internalID: -5341285834637063220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6bbc66fe24c7c80800000000000000
+      internalID: -8323704415298275591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa34c060ef8a3f50800000000000000
+      internalID: 6861955176111291051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026629b986989bde0800000000000000
+      internalID: -1316870333649492448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b395d1fae794e60800000000000000
+      internalID: 7947022308048714502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2db351223e46a570800000000000000
+      internalID: 8477549325786004779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_spikey_blue_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da909093b8bff20800000000000000
+      internalID: 3457510216018013457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_spikey_blue_0: 4854320139659904361
+      character_roll_hairstyles_spikey_blue_1: 3888307960965431777
+      character_roll_hairstyles_spikey_blue_10: -706027911771902036
+      character_roll_hairstyles_spikey_blue_11: 4159783804422849571
+      character_roll_hairstyles_spikey_blue_12: -8772804049567757128
+      character_roll_hairstyles_spikey_blue_13: -3968990147389383193
+      character_roll_hairstyles_spikey_blue_14: -5341285834637063220
+      character_roll_hairstyles_spikey_blue_15: -8323704415298275591
+      character_roll_hairstyles_spikey_blue_16: 6861955176111291051
+      character_roll_hairstyles_spikey_blue_17: -1316870333649492448
+      character_roll_hairstyles_spikey_blue_18: 7947022308048714502
+      character_roll_hairstyles_spikey_blue_19: 8477549325786004779
+      character_roll_hairstyles_spikey_blue_2: 8299090527008347068
+      character_roll_hairstyles_spikey_blue_20: 3457510216018013457
+      character_roll_hairstyles_spikey_blue_3: 3137734816558736325
+      character_roll_hairstyles_spikey_blue_4: 6035217904450241290
+      character_roll_hairstyles_spikey_blue_5: -4773663416021487639
+      character_roll_hairstyles_spikey_blue_6: 935714096887726672
+      character_roll_hairstyles_spikey_blue_7: -2876505932064513569
+      character_roll_hairstyles_spikey_blue_8: -8798804949908339810
+      character_roll_hairstyles_spikey_blue_9: 2679492164433169407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

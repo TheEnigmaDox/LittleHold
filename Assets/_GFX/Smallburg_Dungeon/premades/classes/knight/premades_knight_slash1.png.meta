@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8b3890161990ac145a54fbeb3e54e6a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5687188787835376866
+    second: premades_knight_slash1_0
+  - first:
+      213: 5559165565458906362
+    second: premades_knight_slash1_1
+  - first:
+      213: 2718130589639099907
+    second: premades_knight_slash1_2
+  - first:
+      213: -7535931026703394197
+    second: premades_knight_slash1_3
+  - first:
+      213: 5511237349851690282
+    second: premades_knight_slash1_4
+  - first:
+      213: -2974866913079239700
+    second: premades_knight_slash1_5
+  - first:
+      213: 6257298888849123688
+    second: premades_knight_slash1_6
+  - first:
+      213: 5332569616224672241
+    second: premades_knight_slash1_7
+  - first:
+      213: 6050005097837195491
+    second: premades_knight_slash1_8
+  - first:
+      213: 8874837030017297963
+    second: premades_knight_slash1_9
+  - first:
+      213: -8950816352031022798
+    second: premades_knight_slash1_10
+  - first:
+      213: -3102351523445253965
+    second: premades_knight_slash1_11
+  - first:
+      213: -6388364859666238158
+    second: premades_knight_slash1_12
+  - first:
+      213: -9204832370703188846
+    second: premades_knight_slash1_13
+  - first:
+      213: 1764767705802639785
+    second: premades_knight_slash1_14
+  - first:
+      213: 2847694249959197672
+    second: premades_knight_slash1_15
+  - first:
+      213: -8045756188068618107
+    second: premades_knight_slash1_16
+  - first:
+      213: -8996280477219015309
+    second: premades_knight_slash1_17
+  - first:
+      213: -5173094290469937293
+    second: premades_knight_slash1_18
+  - first:
+      213: 6096577870341346656
+    second: premades_knight_slash1_19
+  - first:
+      213: 7725209797108133433
+    second: premades_knight_slash1_20
+  - first:
+      213: -3838874039513677011
+    second: premades_knight_slash1_21
+  - first:
+      213: -9087172872270794029
+    second: premades_knight_slash1_22
+  - first:
+      213: 3760189992250568475
+    second: premades_knight_slash1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_knight_slash1_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 213
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bec72fdeb0311b0800000000000000
+      internalID: -5687188787835376866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcf2c8c0af162d40800000000000000
+      internalID: 5559165565458906362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306cf88be5db8b520800000000000000
+      internalID: 2718130589639099907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 210
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6adf7588aefa6790800000000000000
+      internalID: -7535931026703394197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 210
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2576ce7b29db7c40800000000000000
+      internalID: 5511237349851690282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 212
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb59d7dd4627b6d0800000000000000
+      internalID: -2974866913079239700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8696c43df2466d650800000000000000
+      internalID: 6257298888849123688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 146
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9dc1310d7110a40800000000000000
+      internalID: 5332569616224672241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 146
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e073e9059fe5f350800000000000000
+      internalID: 6050005097837195491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 146
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ee9a50241c92b70800000000000000
+      internalID: 8874837030017297963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 146
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231ee6783ff48c380800000000000000
+      internalID: -8950816352031022798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 148
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b857a4f9bb32f4d0800000000000000
+      internalID: -3102351523445253965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357104d108f757a0800000000000000
+      internalID: -6388364859666238158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c38376abdd14080800000000000000
+      internalID: -9204832370703188846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 81
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a98277d0e6bd7810800000000000000
+      internalID: 1764767705802639785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb8db525da058720800000000000000
+      internalID: 2847694249959197672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 81
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e4cc006bb75090800000000000000
+      internalID: -8045756188068618107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 84
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375349ff19ac62380800000000000000
+      internalID: -8996280477219015309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f10faa62a7538b0800000000000000
+      internalID: -5173094290469937293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0651433a5456b9450800000000000000
+      internalID: 6096577870341346656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e6ffb6165753b60800000000000000
+      internalID: 7725209797108133433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238159766499bac0800000000000000
+      internalID: -3838874039513677011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2bbb72b60e3e180800000000000000
+      internalID: -9087172872270794029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_slash1_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fe21820e0ee2430800000000000000
+      internalID: 3760189992250568475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_knight_slash1_0: -5687188787835376866
+      premades_knight_slash1_1: 5559165565458906362
+      premades_knight_slash1_10: -8950816352031022798
+      premades_knight_slash1_11: -3102351523445253965
+      premades_knight_slash1_12: -6388364859666238158
+      premades_knight_slash1_13: -9204832370703188846
+      premades_knight_slash1_14: 1764767705802639785
+      premades_knight_slash1_15: 2847694249959197672
+      premades_knight_slash1_16: -8045756188068618107
+      premades_knight_slash1_17: -8996280477219015309
+      premades_knight_slash1_18: -5173094290469937293
+      premades_knight_slash1_19: 6096577870341346656
+      premades_knight_slash1_2: 2718130589639099907
+      premades_knight_slash1_20: 7725209797108133433
+      premades_knight_slash1_21: -3838874039513677011
+      premades_knight_slash1_22: -9087172872270794029
+      premades_knight_slash1_23: 3760189992250568475
+      premades_knight_slash1_3: -7535931026703394197
+      premades_knight_slash1_4: 5511237349851690282
+      premades_knight_slash1_5: -2974866913079239700
+      premades_knight_slash1_6: 6257298888849123688
+      premades_knight_slash1_7: 5332569616224672241
+      premades_knight_slash1_8: 6050005097837195491
+      premades_knight_slash1_9: 8874837030017297963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

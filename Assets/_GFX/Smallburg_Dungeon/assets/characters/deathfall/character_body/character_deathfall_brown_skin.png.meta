@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 65c088459da9a6042b4daaa7d3e62b33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5884492282746994904
+    second: character_deathfall_brown_skin_0
+  - first:
+      213: 1151715232851256698
+    second: character_deathfall_brown_skin_1
+  - first:
+      213: -330989663625109871
+    second: character_deathfall_brown_skin_2
+  - first:
+      213: -1688703644365877603
+    second: character_deathfall_brown_skin_3
+  - first:
+      213: -4191977278582952272
+    second: character_deathfall_brown_skin_4
+  - first:
+      213: -6901335089518316999
+    second: character_deathfall_brown_skin_5
+  - first:
+      213: 5689368171805282015
+    second: character_deathfall_brown_skin_6
+  - first:
+      213: 3064086615765484196
+    second: character_deathfall_brown_skin_7
+  - first:
+      213: 8661125863918664325
+    second: character_deathfall_brown_skin_8
+  - first:
+      213: -3794993921209225987
+    second: character_deathfall_brown_skin_9
+  - first:
+      213: -6178473001198479223
+    second: character_deathfall_brown_skin_10
+  - first:
+      213: 2109381244806529858
+    second: character_deathfall_brown_skin_11
+  - first:
+      213: 1144932991142359053
+    second: character_deathfall_brown_skin_12
+  - first:
+      213: -7230071505905499555
+    second: character_deathfall_brown_skin_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f765b3275165ea0800000000000000
+      internalID: -5884492282746994904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756188f6e6bbff00800000000000000
+      internalID: 1151715232851256698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9c4397a6186bf0800000000000000
+      internalID: -330989663625109871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e0aaa8bf48098e0800000000000000
+      internalID: -1688703644365877603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beed8b00ea13d5c0800000000000000
+      internalID: -4191977278582952272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93272590d488930a0800000000000000
+      internalID: -6901335089518316999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 85
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde0edc6532b4fe40800000000000000
+      internalID: 5689368171805282015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20bb5fa82d58a20800000000000000
+      internalID: 3064086615765484196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58af1d9a510823870800000000000000
+      internalID: 8661125863918664325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcae89a229755bc0800000000000000
+      internalID: -3794993921209225987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98819355a87a14aa0800000000000000
+      internalID: -6178473001198479223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438090f017064d10800000000000000
+      internalID: 2109381244806529858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d007aa44d7e93ef00800000000000000
+      internalID: 1144932991142359053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathfall_brown_skin_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 21
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5244dd9540a9ab90800000000000000
+      internalID: -7230071505905499555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_deathfall_brown_skin_0: -5884492282746994904
+      character_deathfall_brown_skin_1: 1151715232851256698
+      character_deathfall_brown_skin_10: -6178473001198479223
+      character_deathfall_brown_skin_11: 2109381244806529858
+      character_deathfall_brown_skin_12: 1144932991142359053
+      character_deathfall_brown_skin_13: -7230071505905499555
+      character_deathfall_brown_skin_2: -330989663625109871
+      character_deathfall_brown_skin_3: -1688703644365877603
+      character_deathfall_brown_skin_4: -4191977278582952272
+      character_deathfall_brown_skin_5: -6901335089518316999
+      character_deathfall_brown_skin_6: 5689368171805282015
+      character_deathfall_brown_skin_7: 3064086615765484196
+      character_deathfall_brown_skin_8: 8661125863918664325
+      character_deathfall_brown_skin_9: -3794993921209225987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

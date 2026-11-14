@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 15a74590c4d6e8543a240868e66b086b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7376189333992055111
+    second: character_super_slash_armor_hands_knight_0
+  - first:
+      213: -7460274139830146092
+    second: character_super_slash_armor_hands_knight_1
+  - first:
+      213: 345766035665942053
+    second: character_super_slash_armor_hands_knight_2
+  - first:
+      213: -2580372744798703784
+    second: character_super_slash_armor_hands_knight_3
+  - first:
+      213: -3454059269916302779
+    second: character_super_slash_armor_hands_knight_4
+  - first:
+      213: 4441448751093305884
+    second: character_super_slash_armor_hands_knight_5
+  - first:
+      213: 2796944794137233591
+    second: character_super_slash_armor_hands_knight_6
+  - first:
+      213: 7835843921387190304
+    second: character_super_slash_armor_hands_knight_7
+  - first:
+      213: -2922779652005584174
+    second: character_super_slash_armor_hands_knight_8
+  - first:
+      213: -7380508420740786204
+    second: character_super_slash_armor_hands_knight_9
+  - first:
+      213: 1168237445395858090
+    second: character_super_slash_armor_hands_knight_10
+  - first:
+      213: 142155381526497071
+    second: character_super_slash_armor_hands_knight_11
+  - first:
+      213: -8158020962949151435
+    second: character_super_slash_armor_hands_knight_12
+  - first:
+      213: -1519861575239998912
+    second: character_super_slash_armor_hands_knight_13
+  - first:
+      213: 4868294191578212622
+    second: character_super_slash_armor_hands_knight_14
+  - first:
+      213: -1214630716477764114
+    second: character_super_slash_armor_hands_knight_15
+  - first:
+      213: -2079112678851870783
+    second: character_super_slash_armor_hands_knight_16
+  - first:
+      213: 137832817712662075
+    second: character_super_slash_armor_hands_knight_17
+  - first:
+      213: -8309589612602972889
+    second: character_super_slash_armor_hands_knight_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412f985e1d7d5660800000000000000
+      internalID: 7376189333992055111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db24603238c77890800000000000000
+      internalID: -7460274139830146092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 219
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267343a0686cc400800000000000000
+      internalID: 345766035665942053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 219
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6c26f8aca03cd0800000000000000
+      internalID: -2580372744798703784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 218
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5426e77f467b010d0800000000000000
+      internalID: -3454059269916302779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 218
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12d4097b1233ad30800000000000000
+      internalID: 4441448751093305884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 157
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b88deea87eb0d620800000000000000
+      internalID: 2796944794137233591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 154
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028ffa9c7828ebc60800000000000000
+      internalID: 7835843921387190304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2a77d54633077d0800000000000000
+      internalID: -2922779652005584174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 155
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e757f7e1ba239990800000000000000
+      internalID: -7380508420740786204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 154
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2412a54c9663010800000000000000
+      internalID: 1168237445395858090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 26
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f270ccaf09909f100800000000000000
+      internalID: 142155381526497071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 92
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c9314823e8ce80800000000000000
+      internalID: -8158020962949151435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 11
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042ed0c23fd58eae0800000000000000
+      internalID: -1519861575239998912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 90
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09ed1f16c7af8340800000000000000
+      internalID: 4868294191578212622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 90
+        width: 72
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed801b7cc3c42fe0800000000000000
+      internalID: -1214630716477764114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cff501c8028523e0800000000000000
+      internalID: -2079112678851870783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36872aa73ea9e100800000000000000
+      internalID: 137832817712662075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_hands_knight_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725268ff5486eac80800000000000000
+      internalID: -8309589612602972889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_armor_hands_knight_0: 7376189333992055111
+      character_super_slash_armor_hands_knight_1: -7460274139830146092
+      character_super_slash_armor_hands_knight_10: 1168237445395858090
+      character_super_slash_armor_hands_knight_11: 142155381526497071
+      character_super_slash_armor_hands_knight_12: -8158020962949151435
+      character_super_slash_armor_hands_knight_13: -1519861575239998912
+      character_super_slash_armor_hands_knight_14: 4868294191578212622
+      character_super_slash_armor_hands_knight_15: -1214630716477764114
+      character_super_slash_armor_hands_knight_16: -2079112678851870783
+      character_super_slash_armor_hands_knight_17: 137832817712662075
+      character_super_slash_armor_hands_knight_18: -8309589612602972889
+      character_super_slash_armor_hands_knight_2: 345766035665942053
+      character_super_slash_armor_hands_knight_3: -2580372744798703784
+      character_super_slash_armor_hands_knight_4: -3454059269916302779
+      character_super_slash_armor_hands_knight_5: 4441448751093305884
+      character_super_slash_armor_hands_knight_6: 2796944794137233591
+      character_super_slash_armor_hands_knight_7: 7835843921387190304
+      character_super_slash_armor_hands_knight_8: -2922779652005584174
+      character_super_slash_armor_hands_knight_9: -7380508420740786204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 925dae09c411d2644b1bac52899c46ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7216753147329749521
+    second: premades_knight_jump_0
+  - first:
+      213: 1605107606778662324
+    second: premades_knight_jump_1
+  - first:
+      213: 6471878443970779053
+    second: premades_knight_jump_2
+  - first:
+      213: 4156807179514417709
+    second: premades_knight_jump_3
+  - first:
+      213: -5155193137078211966
+    second: premades_knight_jump_4
+  - first:
+      213: 856722142992440065
+    second: premades_knight_jump_5
+  - first:
+      213: 2128371372706942119
+    second: premades_knight_jump_6
+  - first:
+      213: 3433152364577128020
+    second: premades_knight_jump_7
+  - first:
+      213: -8603419600629100392
+    second: premades_knight_jump_8
+  - first:
+      213: -3410174555011641938
+    second: premades_knight_jump_9
+  - first:
+      213: 8573802423165070397
+    second: premades_knight_jump_10
+  - first:
+      213: 845674378252119874
+    second: premades_knight_jump_11
+  - first:
+      213: -4994022465620931177
+    second: premades_knight_jump_12
+  - first:
+      213: -7329727159113482767
+    second: premades_knight_jump_13
+  - first:
+      213: -3296151374674767550
+    second: premades_knight_jump_14
+  - first:
+      213: 1193278756582291509
+    second: premades_knight_jump_15
+  - first:
+      213: 3052847091488343501
+    second: premades_knight_jump_16
+  - first:
+      213: 2220929436780655657
+    second: premades_knight_jump_17
+  - first:
+      213: -15198306621354351
+    second: premades_knight_jump_18
+  - first:
+      213: 1450389429477520271
+    second: premades_knight_jump_19
+  - first:
+      213: 1980203163503005534
+    second: premades_knight_jump_20
+  - first:
+      213: 8816418844917925571
+    second: premades_knight_jump_21
+  - first:
+      213: 1076696419388532891
+    second: premades_knight_jump_22
+  - first:
+      213: 6519679125839878253
+    second: premades_knight_jump_23
+  - first:
+      213: 373144831341568683
+    second: premades_knight_jump_24
+  - first:
+      213: 4927577450410521176
+    second: premades_knight_jump_25
+  - first:
+      213: -8279677742985329789
+    second: premades_knight_jump_26
+  - first:
+      213: 1576733069795192465
+    second: premades_knight_jump_27
+  - first:
+      213: -4612894040154911052
+    second: premades_knight_jump_28
+  - first:
+      213: -3229789171962723976
+    second: premades_knight_jump_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_knight_jump_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 213
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed5abd9f31f8db90800000000000000
+      internalID: -7216753147329749521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 221
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdc1583ddc764610800000000000000
+      internalID: 1605107606778662324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 219
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7d262c72bb0d950800000000000000
+      internalID: 6471878443970779053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 213
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2210c62b12ffa930800000000000000
+      internalID: 4156807179514417709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 213
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aebebb7231578b0800000000000000
+      internalID: -5155193137078211966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 213
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b964cff30b3eb00800000000000000
+      internalID: 856722142992440065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acce44ac7e798d10800000000000000
+      internalID: 2128371372706942119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e796ec2e105af20800000000000000
+      internalID: 3433152364577128020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8909ed2c4738a9880800000000000000
+      internalID: -8603419600629100392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 157
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead84726f40aca0d0800000000000000
+      internalID: -3410174555011641938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 155
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c232fb0e34cf670800000000000000
+      internalID: 8573802423165070397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fed5fcd507cbb00800000000000000
+      internalID: 845674378252119874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 149
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0858e60ba1bab0800000000000000
+      internalID: -4994022465620931177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdf18cbbf3974a90800000000000000
+      internalID: -7329727159113482767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241589ad9c7b142d0800000000000000
+      internalID: -3296151374674767550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5387b14f4b06f8010800000000000000
+      internalID: 1193278756582291509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 86
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc54fb94144ed5a20800000000000000
+      internalID: 3052847091488343501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 93
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f4864e8352de10800000000000000
+      internalID: 2220929436780655657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e85ac78310acff0800000000000000
+      internalID: -15198306621354351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f833df96081d02410800000000000000
+      internalID: 1450389429477520271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f83bf19481b7b10800000000000000
+      internalID: 1980203163503005534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c684626a363a5a70800000000000000
+      internalID: 8816418844917925571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a69850b131fe00800000000000000
+      internalID: 1076696419388532891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6817394f9d8a7a50800000000000000
+      internalID: 6519679125839878253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba223e14f3dad2500800000000000000
+      internalID: 373144831341568683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b1fe6595426440800000000000000
+      internalID: 4927577450410521176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383c6aad5fca81d80800000000000000
+      internalID: -8279677742985329789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ee0c28f5ea1e510800000000000000
+      internalID: 1576733069795192465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4becc068f45bbffb0800000000000000
+      internalID: -4612894040154911052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_jump_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87142c93cdb7d23d0800000000000000
+      internalID: -3229789171962723976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_knight_jump_0: -7216753147329749521
+      premades_knight_jump_1: 1605107606778662324
+      premades_knight_jump_10: 8573802423165070397
+      premades_knight_jump_11: 845674378252119874
+      premades_knight_jump_12: -4994022465620931177
+      premades_knight_jump_13: -7329727159113482767
+      premades_knight_jump_14: -3296151374674767550
+      premades_knight_jump_15: 1193278756582291509
+      premades_knight_jump_16: 3052847091488343501
+      premades_knight_jump_17: 2220929436780655657
+      premades_knight_jump_18: -15198306621354351
+      premades_knight_jump_19: 1450389429477520271
+      premades_knight_jump_2: 6471878443970779053
+      premades_knight_jump_20: 1980203163503005534
+      premades_knight_jump_21: 8816418844917925571
+      premades_knight_jump_22: 1076696419388532891
+      premades_knight_jump_23: 6519679125839878253
+      premades_knight_jump_24: 373144831341568683
+      premades_knight_jump_25: 4927577450410521176
+      premades_knight_jump_26: -8279677742985329789
+      premades_knight_jump_27: 1576733069795192465
+      premades_knight_jump_28: -4612894040154911052
+      premades_knight_jump_29: -3229789171962723976
+      premades_knight_jump_3: 4156807179514417709
+      premades_knight_jump_4: -5155193137078211966
+      premades_knight_jump_5: 856722142992440065
+      premades_knight_jump_6: 2128371372706942119
+      premades_knight_jump_7: 3433152364577128020
+      premades_knight_jump_8: -8603419600629100392
+      premades_knight_jump_9: -3410174555011641938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

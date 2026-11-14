@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 1f4117f194653944d9fba38f598070c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7834243062898500856
+    second: character_hit_hairstyles_spikey_hair_brown_dark_0
+  - first:
+      213: 9057711072560365918
+    second: character_hit_hairstyles_spikey_hair_brown_dark_1
+  - first:
+      213: -6657706585075212737
+    second: character_hit_hairstyles_spikey_hair_brown_dark_2
+  - first:
+      213: -6955538960467519026
+    second: character_hit_hairstyles_spikey_hair_brown_dark_3
+  - first:
+      213: 8107340194452998689
+    second: character_hit_hairstyles_spikey_hair_brown_dark_4
+  - first:
+      213: 8028641131308996279
+    second: character_hit_hairstyles_spikey_hair_brown_dark_5
+  - first:
+      213: -6011386173904601181
+    second: character_hit_hairstyles_spikey_hair_brown_dark_6
+  - first:
+      213: -9081101668324790737
+    second: character_hit_hairstyles_spikey_hair_brown_dark_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bdddf117d274390800000000000000
+      internalID: -7834243062898500856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 223
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51451e0b3473bd70800000000000000
+      internalID: 9057711072560365918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e10d982231b93a0800000000000000
+      internalID: -6657706585075212737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 159
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec991ffda26f87f90800000000000000
+      internalID: -6955538960467519026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0e9bc3fe038070800000000000000
+      internalID: 8107340194452998689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 95
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b653c442967b6f60800000000000000
+      internalID: 8028641131308996279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb8b0ef14439ca0800000000000000
+      internalID: -6011386173904601181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_hairstyles_spikey_hair_brown_dark_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 28
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e2b4a752279f180800000000000000
+      internalID: -9081101668324790737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_hit_hairstyles_spikey_hair_brown_dark_0: -7834243062898500856
+      character_hit_hairstyles_spikey_hair_brown_dark_1: 9057711072560365918
+      character_hit_hairstyles_spikey_hair_brown_dark_2: -6657706585075212737
+      character_hit_hairstyles_spikey_hair_brown_dark_3: -6955538960467519026
+      character_hit_hairstyles_spikey_hair_brown_dark_4: 8107340194452998689
+      character_hit_hairstyles_spikey_hair_brown_dark_5: 8028641131308996279
+      character_hit_hairstyles_spikey_hair_brown_dark_6: -6011386173904601181
+      character_hit_hairstyles_spikey_hair_brown_dark_7: -9081101668324790737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

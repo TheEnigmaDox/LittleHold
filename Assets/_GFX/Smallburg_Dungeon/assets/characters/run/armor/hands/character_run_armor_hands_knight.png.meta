@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 4bdbae8b16e00d440b1e13e164f24b5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9170071218579885053
+    second: character_run_armor_hands_knight_0
+  - first:
+      213: 4323836216536422460
+    second: character_run_armor_hands_knight_1
+  - first:
+      213: -6630452863204482362
+    second: character_run_armor_hands_knight_2
+  - first:
+      213: 4740913531155626917
+    second: character_run_armor_hands_knight_3
+  - first:
+      213: 4442071056886367962
+    second: character_run_armor_hands_knight_4
+  - first:
+      213: -624535678883756027
+    second: character_run_armor_hands_knight_5
+  - first:
+      213: 2939099390387322572
+    second: character_run_armor_hands_knight_6
+  - first:
+      213: -1462462777351480042
+    second: character_run_armor_hands_knight_7
+  - first:
+      213: -514838343118109429
+    second: character_run_armor_hands_knight_8
+  - first:
+      213: 6872762647019883216
+    second: character_run_armor_hands_knight_9
+  - first:
+      213: 1850644670680348862
+    second: character_run_armor_hands_knight_10
+  - first:
+      213: 1493782461529265557
+    second: character_run_armor_hands_knight_11
+  - first:
+      213: -2607096952163755096
+    second: character_run_armor_hands_knight_12
+  - first:
+      213: 7662516716648216679
+    second: character_run_armor_hands_knight_13
+  - first:
+      213: 3093431072486149132
+    second: character_run_armor_hands_knight_14
+  - first:
+      213: 1029888245773558219
+    second: character_run_armor_hands_knight_15
+  - first:
+      213: 2006334943210853671
+    second: character_run_armor_hands_knight_16
+  - first:
+      213: -759897743098368666
+    second: character_run_armor_hands_knight_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbcc7c2033a24f70800000000000000
+      internalID: 9170071218579885053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 218
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385f99512a510c30800000000000000
+      internalID: 4323836216536422460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a9b42046ebf3a0800000000000000
+      internalID: -6630452863204482362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abbf57fcbb1bc140800000000000000
+      internalID: 4740913531155626917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad681c4571865ad30800000000000000
+      internalID: 4442071056886367962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5088396eb143557f0800000000000000
+      internalID: -624535678883756027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 154
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce7a93d257c9c820800000000000000
+      internalID: 2939099390387322572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ddbba3ad944bbe0800000000000000
+      internalID: -1462462777351480042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05c1b1314dead8f0800000000000000
+      internalID: -514838343118109429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da8139c635f06f50800000000000000
+      internalID: 6872762647019883216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb83f59d58fcea910800000000000000
+      internalID: 1850644670680348862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 13
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595192ffb3bfab410800000000000000
+      internalID: 1493782461529265557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab964f822bb1dbd0800000000000000
+      internalID: -2607096952163755096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7683f452b5ab65a60800000000000000
+      internalID: 7662516716648216679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c41b4bb231eea20800000000000000
+      internalID: 3093431072486149132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1eea727e5ea4e00800000000000000
+      internalID: 1029888245773558219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255986300fe7db10800000000000000
+      internalID: 2006334943210853671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_run_armor_hands_knight_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 24
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d200d570d4475f0800000000000000
+      internalID: -759897743098368666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_run_armor_hands_knight_0: 9170071218579885053
+      character_run_armor_hands_knight_1: 4323836216536422460
+      character_run_armor_hands_knight_10: 1850644670680348862
+      character_run_armor_hands_knight_11: 1493782461529265557
+      character_run_armor_hands_knight_12: -2607096952163755096
+      character_run_armor_hands_knight_13: 7662516716648216679
+      character_run_armor_hands_knight_14: 3093431072486149132
+      character_run_armor_hands_knight_15: 1029888245773558219
+      character_run_armor_hands_knight_16: 2006334943210853671
+      character_run_armor_hands_knight_17: -759897743098368666
+      character_run_armor_hands_knight_2: -6630452863204482362
+      character_run_armor_hands_knight_3: 4740913531155626917
+      character_run_armor_hands_knight_4: 4442071056886367962
+      character_run_armor_hands_knight_5: -624535678883756027
+      character_run_armor_hands_knight_6: 2939099390387322572
+      character_run_armor_hands_knight_7: -1462462777351480042
+      character_run_armor_hands_knight_8: -514838343118109429
+      character_run_armor_hands_knight_9: 6872762647019883216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

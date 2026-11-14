@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3ed0a079359789c428d13fc1742ed07e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1131379481676853515
+    second: character_slash_1_armor_chest_knight_0
+  - first:
+      213: 323787008742747573
+    second: character_slash_1_armor_chest_knight_1
+  - first:
+      213: 1309962820912979435
+    second: character_slash_1_armor_chest_knight_2
+  - first:
+      213: 1360553541643731456
+    second: character_slash_1_armor_chest_knight_3
+  - first:
+      213: 7379494036340592910
+    second: character_slash_1_armor_chest_knight_4
+  - first:
+      213: 2185439513584429767
+    second: character_slash_1_armor_chest_knight_5
+  - first:
+      213: 4602333605645410415
+    second: character_slash_1_armor_chest_knight_6
+  - first:
+      213: 7119373747815086522
+    second: character_slash_1_armor_chest_knight_7
+  - first:
+      213: 6037252201665158215
+    second: character_slash_1_armor_chest_knight_8
+  - first:
+      213: -354642313152676274
+    second: character_slash_1_armor_chest_knight_9
+  - first:
+      213: -3410775703824284384
+    second: character_slash_1_armor_chest_knight_10
+  - first:
+      213: -7216085788714943098
+    second: character_slash_1_armor_chest_knight_11
+  - first:
+      213: -1658398908311698682
+    second: character_slash_1_armor_chest_knight_12
+  - first:
+      213: 7948224517814052375
+    second: character_slash_1_armor_chest_knight_13
+  - first:
+      213: 170141359409951314
+    second: character_slash_1_armor_chest_knight_14
+  - first:
+      213: 1388384753506515781
+    second: character_slash_1_armor_chest_knight_15
+  - first:
+      213: 4727484286758946500
+    second: character_slash_1_armor_chest_knight_16
+  - first:
+      213: -1481150095423794165
+    second: character_slash_1_armor_chest_knight_17
+  - first:
+      213: 8776152004151646750
+    second: character_slash_1_armor_chest_knight_18
+  - first:
+      213: -556932925301919368
+    second: character_slash_1_armor_chest_knight_19
+  - first:
+      213: 8243868962235820467
+    second: character_slash_1_armor_chest_knight_20
+  - first:
+      213: -6923874310180698289
+    second: character_slash_1_armor_chest_knight_21
+  - first:
+      213: 9136242942779173606
+    second: character_slash_1_armor_chest_knight_22
+  - first:
+      213: -2040522005962858554
+    second: character_slash_1_armor_chest_knight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 217
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe4c701b588c40f0800000000000000
+      internalID: -1131379481676853515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 217
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd6ff6a1925e7400800000000000000
+      internalID: 323787008742747573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 217
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed9c71ce3ced2210800000000000000
+      internalID: 1309962820912979435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 217
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0020393dc38a1e210800000000000000
+      internalID: 1360553541643731456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 217
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01d1325aba396660800000000000000
+      internalID: 7379494036340592910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 217
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6d4d98ad345e10800000000000000
+      internalID: 2185439513584429767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 153
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f606656b706cedf30800000000000000
+      internalID: 4602333605645410415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab972cd14b81dc260800000000000000
+      internalID: 7119373747815086522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c52b304e0a8c350800000000000000
+      internalID: 6037252201665158215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e3636f1be041bf0800000000000000
+      internalID: -354642313152676274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0254505819d7aa0d0800000000000000
+      internalID: -3410775703824284384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db6e625305bdb90800000000000000
+      internalID: -7216085788714943098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038f2ebafe2cf8e0800000000000000
+      internalID: -1658398908311698682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7166b536614cd4e60800000000000000
+      internalID: 7948224517814052375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527b393aa67c5200800000000000000
+      internalID: 170141359409951314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bf25cc398844310800000000000000
+      internalID: 1388384753506515781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6028959e56b9140800000000000000
+      internalID: 4727484286758946500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b049a3fe5d5e17be0800000000000000
+      internalID: -1481150095423794165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a9a4eefb72bc970800000000000000
+      internalID: 8776152004151646750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f8a784706548f0800000000000000
+      internalID: -556932925301919368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b92feca42b186270800000000000000
+      internalID: 8243868962235820467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f470a38cff479ef90800000000000000
+      internalID: -6923874310180698289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaa502fc847ace70800000000000000
+      internalID: 9136242942779173606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_knight_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5736fb0c9ea3e0800000000000000
+      internalID: -2040522005962858554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_1_armor_chest_knight_0: -1131379481676853515
+      character_slash_1_armor_chest_knight_1: 323787008742747573
+      character_slash_1_armor_chest_knight_10: -3410775703824284384
+      character_slash_1_armor_chest_knight_11: -7216085788714943098
+      character_slash_1_armor_chest_knight_12: -1658398908311698682
+      character_slash_1_armor_chest_knight_13: 7948224517814052375
+      character_slash_1_armor_chest_knight_14: 170141359409951314
+      character_slash_1_armor_chest_knight_15: 1388384753506515781
+      character_slash_1_armor_chest_knight_16: 4727484286758946500
+      character_slash_1_armor_chest_knight_17: -1481150095423794165
+      character_slash_1_armor_chest_knight_18: 8776152004151646750
+      character_slash_1_armor_chest_knight_19: -556932925301919368
+      character_slash_1_armor_chest_knight_2: 1309962820912979435
+      character_slash_1_armor_chest_knight_20: 8243868962235820467
+      character_slash_1_armor_chest_knight_21: -6923874310180698289
+      character_slash_1_armor_chest_knight_22: 9136242942779173606
+      character_slash_1_armor_chest_knight_23: -2040522005962858554
+      character_slash_1_armor_chest_knight_3: 1360553541643731456
+      character_slash_1_armor_chest_knight_4: 7379494036340592910
+      character_slash_1_armor_chest_knight_5: 2185439513584429767
+      character_slash_1_armor_chest_knight_6: 4602333605645410415
+      character_slash_1_armor_chest_knight_7: 7119373747815086522
+      character_slash_1_armor_chest_knight_8: 6037252201665158215
+      character_slash_1_armor_chest_knight_9: -354642313152676274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

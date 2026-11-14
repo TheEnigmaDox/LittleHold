@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 7f185eb47b3f58d4281a9b29dbf763fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1425765780738035084
+    second: premades_knight_special_weapon_4_0
+  - first:
+      213: 6282364977182227488
+    second: premades_knight_special_weapon_4_1
+  - first:
+      213: 1577342235687749563
+    second: premades_knight_special_weapon_4_2
+  - first:
+      213: 1911030252994315931
+    second: premades_knight_special_weapon_4_3
+  - first:
+      213: 8242443390072385395
+    second: premades_knight_special_weapon_4_4
+  - first:
+      213: 2367978264280613235
+    second: premades_knight_special_weapon_4_5
+  - first:
+      213: -4752051089919122141
+    second: premades_knight_special_weapon_4_6
+  - first:
+      213: 844965978499928707
+    second: premades_knight_special_weapon_4_7
+  - first:
+      213: 7202759114277047245
+    second: premades_knight_special_weapon_4_8
+  - first:
+      213: -4440869834589016787
+    second: premades_knight_special_weapon_4_9
+  - first:
+      213: -2603204147959301425
+    second: premades_knight_special_weapon_4_10
+  - first:
+      213: -6568114758879982274
+    second: premades_knight_special_weapon_4_11
+  - first:
+      213: -1247993241240486252
+    second: premades_knight_special_weapon_4_12
+  - first:
+      213: -8184733859699877690
+    second: premades_knight_special_weapon_4_13
+  - first:
+      213: -7214263676569751606
+    second: premades_knight_special_weapon_4_14
+  - first:
+      213: -6202353529003061867
+    second: premades_knight_special_weapon_4_15
+  - first:
+      213: -2775198940244312168
+    second: premades_knight_special_weapon_4_16
+  - first:
+      213: -2361047392642600587
+    second: premades_knight_special_weapon_4_17
+  - first:
+      213: 7741208605509752529
+    second: premades_knight_special_weapon_4_18
+  - first:
+      213: -5202259771399250231
+    second: premades_knight_special_weapon_4_19
+  - first:
+      213: 4681685167994248139
+    second: premades_knight_special_weapon_4_20
+  - first:
+      213: -9191424054642816571
+    second: premades_knight_special_weapon_4_21
+  - first:
+      213: 5445522370937773002
+    second: premades_knight_special_weapon_4_22
+  - first:
+      213: -5184297396041446535
+    second: premades_knight_special_weapon_4_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d4ccd6c6659c310800000000000000
+      internalID: 1425765780738035084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c3d4e49a17f2750800000000000000
+      internalID: 6282364977182227488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 205
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7836ff768d3e510800000000000000
+      internalID: 1577342235687749563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 205
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9640c8d3e7558a10800000000000000
+      internalID: 1911030252994315931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 205
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fe78ac79a036270800000000000000
+      internalID: 8242443390072385395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 205
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ca4e6fafbcd020800000000000000
+      internalID: 2367978264280613235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 149
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325ecde06b25d0eb0800000000000000
+      internalID: -4752051089919122141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38257c3a41ce9bb00800000000000000
+      internalID: 844965978499928707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 141
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc039a04755f360800000000000000
+      internalID: 7202759114277047245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 141
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de2970a6cde52c0800000000000000
+      internalID: -4440869834589016787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 141
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaff0bae9f8fdbd0800000000000000
+      internalID: -2603204147959301425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 141
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d45f81d6e59d4a0800000000000000
+      internalID: -6568114758879982274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb5cd52cc3eaee0800000000000000
+      internalID: -1247993241240486252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81a7f4bebf96e80800000000000000
+      internalID: -8184733859699877690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 78
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf6e02b869c1eb90800000000000000
+      internalID: -7214263676569751606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 78
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dc16ca350dce9a0800000000000000
+      internalID: -6202353529003061867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 78
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f72b974438c79d0800000000000000
+      internalID: -2775198940244312168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 78
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571fcafd7efdb3fd0800000000000000
+      internalID: -2361047392642600587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d61b97463c4e6b60800000000000000
+      internalID: 7741208605509752529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 17
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce5178fc4cddc7b0800000000000000
+      internalID: -5202259771399250231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 17
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb138c0bdfa8f040800000000000000
+      internalID: 4681685167994248139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 17
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9c8034580817080800000000000000
+      internalID: -9191424054642816571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 21
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb5038aeb1629b40800000000000000
+      internalID: 5445522370937773002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_special_weapon_4_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b87f26cfcad08b0800000000000000
+      internalID: -5184297396041446535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_knight_special_weapon_4_0: 1425765780738035084
+      premades_knight_special_weapon_4_1: 6282364977182227488
+      premades_knight_special_weapon_4_10: -2603204147959301425
+      premades_knight_special_weapon_4_11: -6568114758879982274
+      premades_knight_special_weapon_4_12: -1247993241240486252
+      premades_knight_special_weapon_4_13: -8184733859699877690
+      premades_knight_special_weapon_4_14: -7214263676569751606
+      premades_knight_special_weapon_4_15: -6202353529003061867
+      premades_knight_special_weapon_4_16: -2775198940244312168
+      premades_knight_special_weapon_4_17: -2361047392642600587
+      premades_knight_special_weapon_4_18: 7741208605509752529
+      premades_knight_special_weapon_4_19: -5202259771399250231
+      premades_knight_special_weapon_4_2: 1577342235687749563
+      premades_knight_special_weapon_4_20: 4681685167994248139
+      premades_knight_special_weapon_4_21: -9191424054642816571
+      premades_knight_special_weapon_4_22: 5445522370937773002
+      premades_knight_special_weapon_4_23: -5184297396041446535
+      premades_knight_special_weapon_4_3: 1911030252994315931
+      premades_knight_special_weapon_4_4: 8242443390072385395
+      premades_knight_special_weapon_4_5: 2367978264280613235
+      premades_knight_special_weapon_4_6: -4752051089919122141
+      premades_knight_special_weapon_4_7: 844965978499928707
+      premades_knight_special_weapon_4_8: 7202759114277047245
+      premades_knight_special_weapon_4_9: -4440869834589016787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

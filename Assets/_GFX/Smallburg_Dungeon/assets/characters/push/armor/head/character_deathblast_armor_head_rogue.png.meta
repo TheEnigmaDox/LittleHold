@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 9976c6a590d432e488a8b7c0b36b16c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7746404774573298589
+    second: character_deathblast_armor_head_rogue_0
+  - first:
+      213: 3852420275646258523
+    second: character_deathblast_armor_head_rogue_1
+  - first:
+      213: -4509591050013123317
+    second: character_deathblast_armor_head_rogue_2
+  - first:
+      213: -5212972229209416545
+    second: character_deathblast_armor_head_rogue_3
+  - first:
+      213: -9068630784125266305
+    second: character_deathblast_armor_head_rogue_4
+  - first:
+      213: 5680352905640755706
+    second: character_deathblast_armor_head_rogue_5
+  - first:
+      213: -1720413753799616527
+    second: character_deathblast_armor_head_rogue_6
+  - first:
+      213: -4099661608104707108
+    second: character_deathblast_armor_head_rogue_7
+  - first:
+      213: 5219917765987430104
+    second: character_deathblast_armor_head_rogue_8
+  - first:
+      213: 980885982427716973
+    second: character_deathblast_armor_head_rogue_9
+  - first:
+      213: 4185945395888850418
+    second: character_deathblast_armor_head_rogue_10
+  - first:
+      213: -320167366404476093
+    second: character_deathblast_armor_head_rogue_11
+  - first:
+      213: 8352306526413286957
+    second: character_deathblast_armor_head_rogue_12
+  - first:
+      213: -6543798606750914329
+    second: character_deathblast_armor_head_rogue_13
+  - first:
+      213: -5173497404592625600
+    second: character_deathblast_armor_head_rogue_14
+  - first:
+      213: -8076565193000095209
+    second: character_deathblast_armor_head_rogue_15
+  - first:
+      213: 1223027047564689253
+    second: character_deathblast_armor_head_rogue_16
+  - first:
+      213: -1205720152963186171
+    second: character_deathblast_armor_head_rogue_17
+  - first:
+      213: 2194195850194776193
+    second: character_deathblast_armor_head_rogue_18
+  - first:
+      213: 8090715917234681809
+    second: character_deathblast_armor_head_rogue_19
+  - first:
+      213: -3403297334420814172
+    second: character_deathblast_armor_head_rogue_20
+  - first:
+      213: 3239458983564001995
+    second: character_deathblast_armor_head_rogue_21
+  - first:
+      213: -4409633901410514654
+    second: character_deathblast_armor_head_rogue_22
+  - first:
+      213: -2490857968778367166
+    second: character_deathblast_armor_head_rogue_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c2b2556ed3f7490800000000000000
+      internalID: -7746404774573298589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d586764db867530800000000000000
+      internalID: 3852420275646258523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ddfa535d6ba61c0800000000000000
+      internalID: -4509591050013123317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c1ff5806dc7a7b0800000000000000
+      internalID: -5212972229209416545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f769a097950c52280800000000000000
+      internalID: -9068630784125266305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af143933fdaa4de40800000000000000
+      internalID: 5680352905640755706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d31a5eccdf18e0800000000000000
+      internalID: -1720413753799616527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbc950d731b17c0800000000000000
+      internalID: -4099661608104707108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6e664d8fd07840800000000000000
+      internalID: 5219917765987430104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d93c3aa9ecc9d00800000000000000
+      internalID: 980885982427716973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f50323d827771a30800000000000000
+      internalID: 4185945395888850418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343f9c00a798e8bf0800000000000000
+      internalID: -320167366404476093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e6a0a888a59e370800000000000000
+      internalID: 8352306526413286957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86ae276d1cf25a0800000000000000
+      internalID: -6543798606750914329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048e9d8558b0438b0800000000000000
+      internalID: -5173497404592625600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f1f99fb64aef80800000000000000
+      internalID: -8076565193000095209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb9c0be9019f010800000000000000
+      internalID: 1223027047564689253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5028918b8eb644fe0800000000000000
+      internalID: -1205720152963186171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180fe7a1089537e10800000000000000
+      internalID: 2194195850194776193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d73f51a24ff74070800000000000000
+      internalID: 8090715917234681809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a640d41b1f05c0d0800000000000000
+      internalID: -3403297334420814172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2c7cb38ced4fc20800000000000000
+      internalID: 3239458983564001995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22908e47455ddc2c0800000000000000
+      internalID: -4409633901410514654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_rogue_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fa301efd1be6dd0800000000000000
+      internalID: -2490857968778367166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_deathblast_armor_head_rogue_0: -7746404774573298589
+      character_deathblast_armor_head_rogue_1: 3852420275646258523
+      character_deathblast_armor_head_rogue_10: 4185945395888850418
+      character_deathblast_armor_head_rogue_11: -320167366404476093
+      character_deathblast_armor_head_rogue_12: 8352306526413286957
+      character_deathblast_armor_head_rogue_13: -6543798606750914329
+      character_deathblast_armor_head_rogue_14: -5173497404592625600
+      character_deathblast_armor_head_rogue_15: -8076565193000095209
+      character_deathblast_armor_head_rogue_16: 1223027047564689253
+      character_deathblast_armor_head_rogue_17: -1205720152963186171
+      character_deathblast_armor_head_rogue_18: 2194195850194776193
+      character_deathblast_armor_head_rogue_19: 8090715917234681809
+      character_deathblast_armor_head_rogue_2: -4509591050013123317
+      character_deathblast_armor_head_rogue_20: -3403297334420814172
+      character_deathblast_armor_head_rogue_21: 3239458983564001995
+      character_deathblast_armor_head_rogue_22: -4409633901410514654
+      character_deathblast_armor_head_rogue_23: -2490857968778367166
+      character_deathblast_armor_head_rogue_3: -5212972229209416545
+      character_deathblast_armor_head_rogue_4: -9068630784125266305
+      character_deathblast_armor_head_rogue_5: 5680352905640755706
+      character_deathblast_armor_head_rogue_6: -1720413753799616527
+      character_deathblast_armor_head_rogue_7: -4099661608104707108
+      character_deathblast_armor_head_rogue_8: 5219917765987430104
+      character_deathblast_armor_head_rogue_9: 980885982427716973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

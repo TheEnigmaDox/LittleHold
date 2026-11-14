@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 916958ec239e94848b0af7ca5ab76d40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7824625614744183211
+    second: character_tools_hoe_hairstyles_bald_black_0
+  - first:
+      213: 953860498058568411
+    second: character_tools_hoe_hairstyles_bald_black_1
+  - first:
+      213: -6924410362279821389
+    second: character_tools_hoe_hairstyles_bald_black_2
+  - first:
+      213: 8025847311108310255
+    second: character_tools_hoe_hairstyles_bald_black_3
+  - first:
+      213: -5946176583972733843
+    second: character_tools_hoe_hairstyles_bald_black_4
+  - first:
+      213: 5515837508631939951
+    second: character_tools_hoe_hairstyles_bald_black_5
+  - first:
+      213: 6828756817639210876
+    second: character_tools_hoe_hairstyles_bald_black_6
+  - first:
+      213: -5266624790787073345
+    second: character_tools_hoe_hairstyles_bald_black_7
+  - first:
+      213: 8358176375967188173
+    second: character_tools_hoe_hairstyles_bald_black_8
+  - first:
+      213: 7342393514421690322
+    second: character_tools_hoe_hairstyles_bald_black_9
+  - first:
+      213: -5192723043483780489
+    second: character_tools_hoe_hairstyles_bald_black_10
+  - first:
+      213: 4684226596266870968
+    second: character_tools_hoe_hairstyles_bald_black_11
+  - first:
+      213: 3455581148395228738
+    second: character_tools_hoe_hairstyles_bald_black_12
+  - first:
+      213: 4649832348355621858
+    second: character_tools_hoe_hairstyles_bald_black_13
+  - first:
+      213: 2114399129390936782
+    second: character_tools_hoe_hairstyles_bald_black_14
+  - first:
+      213: -2516361199845559495
+    second: character_tools_hoe_hairstyles_bald_black_15
+  - first:
+      213: -1276874706101476368
+    second: character_tools_hoe_hairstyles_bald_black_16
+  - first:
+      213: 8131806656547881075
+    second: character_tools_hoe_hairstyles_bald_black_17
+  - first:
+      213: 2577455362246383998
+    second: character_tools_hoe_hairstyles_bald_black_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ef3b3a87a69c60800000000000000
+      internalID: 7824625614744183211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2ee08b11bcc3d00800000000000000
+      internalID: 953860498058568411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bff64d667d87ef90800000000000000
+      internalID: -6924410362279821389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe482205b99816f60800000000000000
+      internalID: 8025847311108310255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3f8ca6efea7da0800000000000000
+      internalID: -5946176583972733843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b48cc6df03c8c40800000000000000
+      internalID: 5515837508631939951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f79e4352e94ce50800000000000000
+      internalID: 6828756817639210876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaded318a039e6b0800000000000000
+      internalID: -5266624790787073345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4069361253ef370800000000000000
+      internalID: 8358176375967188173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9c3ceffb65e560800000000000000
+      internalID: 7342393514421690322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77af92877edbfe7b0800000000000000
+      internalID: -5192723043483780489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b88ced6547b10140800000000000000
+      internalID: 4684226596266870968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e42aafeb0b4ff20800000000000000
+      internalID: 3455581148395228738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 333
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e37bdc82e5878040800000000000000
+      internalID: 4649832348355621858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2fdbc3ecad75d10800000000000000
+      internalID: 2114399129390936782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93331ac22d6141dd0800000000000000
+      internalID: -2516361199845559495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3e3205831a74ee0800000000000000
+      internalID: -1276874706101476368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37081b9e11bf9d070800000000000000
+      internalID: 8131806656547881075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_black_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e791f1bfef5f4c320800000000000000
+      internalID: 2577455362246383998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_hoe_hairstyles_bald_black_0: 7824625614744183211
+      character_tools_hoe_hairstyles_bald_black_1: 953860498058568411
+      character_tools_hoe_hairstyles_bald_black_10: -5192723043483780489
+      character_tools_hoe_hairstyles_bald_black_11: 4684226596266870968
+      character_tools_hoe_hairstyles_bald_black_12: 3455581148395228738
+      character_tools_hoe_hairstyles_bald_black_13: 4649832348355621858
+      character_tools_hoe_hairstyles_bald_black_14: 2114399129390936782
+      character_tools_hoe_hairstyles_bald_black_15: -2516361199845559495
+      character_tools_hoe_hairstyles_bald_black_16: -1276874706101476368
+      character_tools_hoe_hairstyles_bald_black_17: 8131806656547881075
+      character_tools_hoe_hairstyles_bald_black_18: 2577455362246383998
+      character_tools_hoe_hairstyles_bald_black_2: -6924410362279821389
+      character_tools_hoe_hairstyles_bald_black_3: 8025847311108310255
+      character_tools_hoe_hairstyles_bald_black_4: -5946176583972733843
+      character_tools_hoe_hairstyles_bald_black_5: 5515837508631939951
+      character_tools_hoe_hairstyles_bald_black_6: 6828756817639210876
+      character_tools_hoe_hairstyles_bald_black_7: -5266624790787073345
+      character_tools_hoe_hairstyles_bald_black_8: 8358176375967188173
+      character_tools_hoe_hairstyles_bald_black_9: 7342393514421690322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

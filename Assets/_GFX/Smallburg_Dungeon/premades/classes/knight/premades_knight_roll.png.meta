@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: d21ee919a0800e74c8c2c2603a152e97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6578669325549664082
+    second: premades_knight_roll_0
+  - first:
+      213: 9143635652289497990
+    second: premades_knight_roll_1
+  - first:
+      213: 4453079499058429755
+    second: premades_knight_roll_2
+  - first:
+      213: 4791226275726413632
+    second: premades_knight_roll_3
+  - first:
+      213: 8430358801125075080
+    second: premades_knight_roll_4
+  - first:
+      213: 3687920045925547389
+    second: premades_knight_roll_5
+  - first:
+      213: 3676668535663820145
+    second: premades_knight_roll_6
+  - first:
+      213: -4117802696404177364
+    second: premades_knight_roll_7
+  - first:
+      213: 5168817664849738063
+    second: premades_knight_roll_8
+  - first:
+      213: 9205104275720986691
+    second: premades_knight_roll_9
+  - first:
+      213: -4765411027158997050
+    second: premades_knight_roll_10
+  - first:
+      213: 5210336795560596041
+    second: premades_knight_roll_11
+  - first:
+      213: -7866990104533780776
+    second: premades_knight_roll_12
+  - first:
+      213: 1377384391839083745
+    second: premades_knight_roll_13
+  - first:
+      213: -1608600976370429004
+    second: premades_knight_roll_14
+  - first:
+      213: -7517107537032998957
+    second: premades_knight_roll_15
+  - first:
+      213: -680170341624568362
+    second: premades_knight_roll_16
+  - first:
+      213: -9083084801365479015
+    second: premades_knight_roll_17
+  - first:
+      213: 1951051646269590989
+    second: premades_knight_roll_18
+  - first:
+      213: -4492174480586024014
+    second: premades_knight_roll_19
+  - first:
+      213: 720643170085133039
+    second: premades_knight_roll_20
+  - first:
+      213: 4794017956213984614
+    second: premades_knight_roll_21
+  - first:
+      213: 2712884824887153219
+    second: premades_knight_roll_22
+  - first:
+      213: -5180382572898308500
+    second: premades_knight_roll_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_knight_roll_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 213
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257752475e02c4b50800000000000000
+      internalID: 6578669325549664082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b00524e28b4ee70800000000000000
+      internalID: 9143635652289497990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fb3f106348ccd30800000000000000
+      internalID: 4453079499058429755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fc03ba9eadd7240800000000000000
+      internalID: 4791226275726413632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888e526e9a6aef470800000000000000
+      internalID: 8430358801125075080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 213
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d3f690ebf1e2330800000000000000
+      internalID: 3687920045925547389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df819ad86260330800000000000000
+      internalID: 3676668535663820145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 149
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eeea1c340aad6c0800000000000000
+      internalID: -4117802696404177364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 149
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f126d7445bb740800000000000000
+      internalID: 5168817664849738063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34067ca61991fbf70800000000000000
+      internalID: 9205104275720986691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c765754bebddddb0800000000000000
+      internalID: -4765411027158997050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9425983c5b5de4840800000000000000
+      internalID: 5210336795560596041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 85
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d630c75e26d2d290800000000000000
+      internalID: -7866990104533780776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec6cb28ec37d1310800000000000000
+      internalID: 1377384391839083745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3181a4fe91da9e0800000000000000
+      internalID: -1608600976370429004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 85
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df8cbcb58edda790800000000000000
+      internalID: -7517107537032998957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 85
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d526b09dac8f86f0800000000000000
+      internalID: -680170341624568362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9917cd55f7662f180800000000000000
+      internalID: -9083084801365479015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd075a9227831b10800000000000000
+      internalID: 1951051646269590989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb58974c1798a1c0800000000000000
+      internalID: -4492174480586024014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea5cb2252d300a00800000000000000
+      internalID: 720643170085133039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 21
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d8afe6ee5c78240800000000000000
+      internalID: 4794017956213984614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34252ffef5a16a520800000000000000
+      internalID: 2712884824887153219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_roll_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 21
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea5cd2f759b18b0800000000000000
+      internalID: -5180382572898308500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_knight_roll_0: 6578669325549664082
+      premades_knight_roll_1: 9143635652289497990
+      premades_knight_roll_10: -4765411027158997050
+      premades_knight_roll_11: 5210336795560596041
+      premades_knight_roll_12: -7866990104533780776
+      premades_knight_roll_13: 1377384391839083745
+      premades_knight_roll_14: -1608600976370429004
+      premades_knight_roll_15: -7517107537032998957
+      premades_knight_roll_16: -680170341624568362
+      premades_knight_roll_17: -9083084801365479015
+      premades_knight_roll_18: 1951051646269590989
+      premades_knight_roll_19: -4492174480586024014
+      premades_knight_roll_2: 4453079499058429755
+      premades_knight_roll_20: 720643170085133039
+      premades_knight_roll_21: 4794017956213984614
+      premades_knight_roll_22: 2712884824887153219
+      premades_knight_roll_23: -5180382572898308500
+      premades_knight_roll_3: 4791226275726413632
+      premades_knight_roll_4: 8430358801125075080
+      premades_knight_roll_5: 3687920045925547389
+      premades_knight_roll_6: 3676668535663820145
+      premades_knight_roll_7: -4117802696404177364
+      premades_knight_roll_8: 5168817664849738063
+      premades_knight_roll_9: 9205104275720986691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

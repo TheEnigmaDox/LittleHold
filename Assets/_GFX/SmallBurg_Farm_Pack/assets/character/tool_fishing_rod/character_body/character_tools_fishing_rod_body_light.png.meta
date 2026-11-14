@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: c854eb7574de4984ea0408ca1331f37a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3999181090603953403
+    second: character_tools_fishing_rod_body_light_0
+  - first:
+      213: -1429156688001462315
+    second: character_tools_fishing_rod_body_light_1
+  - first:
+      213: -7156435856199419870
+    second: character_tools_fishing_rod_body_light_2
+  - first:
+      213: -9012945845750295376
+    second: character_tools_fishing_rod_body_light_3
+  - first:
+      213: 843810876714079938
+    second: character_tools_fishing_rod_body_light_4
+  - first:
+      213: -4180389556419514561
+    second: character_tools_fishing_rod_body_light_5
+  - first:
+      213: -3640359652995976310
+    second: character_tools_fishing_rod_body_light_6
+  - first:
+      213: -7432559413582229911
+    second: character_tools_fishing_rod_body_light_7
+  - first:
+      213: 6679985915612011201
+    second: character_tools_fishing_rod_body_light_8
+  - first:
+      213: 4426085858935752962
+    second: character_tools_fishing_rod_body_light_9
+  - first:
+      213: -8168714703714686768
+    second: character_tools_fishing_rod_body_light_10
+  - first:
+      213: 6798060461699473616
+    second: character_tools_fishing_rod_body_light_11
+  - first:
+      213: 9016694630137220837
+    second: character_tools_fishing_rod_body_light_12
+  - first:
+      213: 9028298717279363179
+    second: character_tools_fishing_rod_body_light_13
+  - first:
+      213: 4733350174718194379
+    second: character_tools_fishing_rod_body_light_14
+  - first:
+      213: 1438043268647962673
+    second: character_tools_fishing_rod_body_light_15
+  - first:
+      213: 4692349800990818440
+    second: character_tools_fishing_rod_body_light_16
+  - first:
+      213: -3407937356711050949
+    second: character_tools_fishing_rod_body_light_17
+  - first:
+      213: 1143876976685637423
+    second: character_tools_fishing_rod_body_light_18
+  - first:
+      213: -2753777798652090391
+    second: character_tools_fishing_rod_body_light_19
+  - first:
+      213: -5923405108370170313
+    second: character_tools_fishing_rod_body_light_20
+  - first:
+      213: 1328917540185711405
+    second: character_tools_fishing_rod_body_light_21
+  - first:
+      213: 6645994870498347035
+    second: character_tools_fishing_rod_body_light_22
+  - first:
+      213: -2421011846145620469
+    second: character_tools_fishing_rod_body_light_23
+  - first:
+      213: 8620223598852439199
+    second: character_tools_fishing_rod_body_light_24
+  - first:
+      213: -7419733613106767685
+    second: character_tools_fishing_rod_body_light_25
+  - first:
+      213: 2861646538212245661
+    second: character_tools_fishing_rod_body_light_26
+  - first:
+      213: 2259315780290005069
+    second: character_tools_fishing_rod_body_light_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50397169cfd0088c0800000000000000
+      internalID: -3999181090603953403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df8c43709d9a2ce0800000000000000
+      internalID: -1429156688001462315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 213
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2287d55518b3fac90800000000000000
+      internalID: -7156435856199419870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 213
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4983481859be280800000000000000
+      internalID: -9012945845750295376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6572c8581d5bb00800000000000000
+      internalID: 843810876714079938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3facdad8d54cf5c0800000000000000
+      internalID: -4180389556419514561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 213
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83b28cde28da7dc0800000000000000
+      internalID: -3640359652995976310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 149
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e027db79e3ad890800000000000000
+      internalID: -7432559413582229911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 149
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca9aa45cc314bc50800000000000000
+      internalID: 6679985915612011201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 149
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ce3763ad9c6d30800000000000000
+      internalID: 4426085858935752962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 149
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86395b145e2ae80800000000000000
+      internalID: -8168714703714686768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 149
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a935e8ff875e50800000000000000
+      internalID: 6798060461699473616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 149
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee408d5efbb12d70800000000000000
+      internalID: 9016694630137220837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 149
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b602d8179d5fa4d70800000000000000
+      internalID: 9028298717279363179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc27c91d7ec30b140800000000000000
+      internalID: 4733350174718194379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 86
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384767dbb4f4f310800000000000000
+      internalID: 1438043268647962673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 85
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880cee968439e1140800000000000000
+      internalID: 4692349800990818440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 84
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b314474b70394b0d0800000000000000
+      internalID: -3407937356711050949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 83
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f581ebc0edfdf00800000000000000
+      internalID: 1143876976685637423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 80
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e72cf8aead98c9d0800000000000000
+      internalID: -2753777798652090391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 80
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e9cdeff66dbcda0800000000000000
+      internalID: -5923405108370170313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d232e8e3673417210800000000000000
+      internalID: 1328917540185711405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184f1b6f115b3c50800000000000000
+      internalID: 6645994870498347035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 22
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b064a719d86d66ed0800000000000000
+      internalID: -2421011846145620469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 23
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cf906f0bf21a770800000000000000
+      internalID: 8620223598852439199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8debe179fc70990800000000000000
+      internalID: -7419733613106767685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 22
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d900ed66d5c96b720800000000000000
+      internalID: 2861646538212245661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_body_light_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 22
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ce975bb3ba5f10800000000000000
+      internalID: 2259315780290005069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fishing_rod_body_light_0: -3999181090603953403
+      character_tools_fishing_rod_body_light_1: -1429156688001462315
+      character_tools_fishing_rod_body_light_10: -8168714703714686768
+      character_tools_fishing_rod_body_light_11: 6798060461699473616
+      character_tools_fishing_rod_body_light_12: 9016694630137220837
+      character_tools_fishing_rod_body_light_13: 9028298717279363179
+      character_tools_fishing_rod_body_light_14: 4733350174718194379
+      character_tools_fishing_rod_body_light_15: 1438043268647962673
+      character_tools_fishing_rod_body_light_16: 4692349800990818440
+      character_tools_fishing_rod_body_light_17: -3407937356711050949
+      character_tools_fishing_rod_body_light_18: 1143876976685637423
+      character_tools_fishing_rod_body_light_19: -2753777798652090391
+      character_tools_fishing_rod_body_light_2: -7156435856199419870
+      character_tools_fishing_rod_body_light_20: -5923405108370170313
+      character_tools_fishing_rod_body_light_21: 1328917540185711405
+      character_tools_fishing_rod_body_light_22: 6645994870498347035
+      character_tools_fishing_rod_body_light_23: -2421011846145620469
+      character_tools_fishing_rod_body_light_24: 8620223598852439199
+      character_tools_fishing_rod_body_light_25: -7419733613106767685
+      character_tools_fishing_rod_body_light_26: 2861646538212245661
+      character_tools_fishing_rod_body_light_27: 2259315780290005069
+      character_tools_fishing_rod_body_light_3: -9012945845750295376
+      character_tools_fishing_rod_body_light_4: 843810876714079938
+      character_tools_fishing_rod_body_light_5: -4180389556419514561
+      character_tools_fishing_rod_body_light_6: -3640359652995976310
+      character_tools_fishing_rod_body_light_7: -7432559413582229911
+      character_tools_fishing_rod_body_light_8: 6679985915612011201
+      character_tools_fishing_rod_body_light_9: 4426085858935752962
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

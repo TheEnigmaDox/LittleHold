@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 083eb09fe6fdfe349bd00d22de273399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6803431522683133844
+    second: character_roll_light_skin_0
+  - first:
+      213: 4839624314572992466
+    second: character_roll_light_skin_1
+  - first:
+      213: -873044578222939071
+    second: character_roll_light_skin_2
+  - first:
+      213: 186849761189769921
+    second: character_roll_light_skin_3
+  - first:
+      213: -377520493225375252
+    second: character_roll_light_skin_4
+  - first:
+      213: -7614483076627532278
+    second: character_roll_light_skin_5
+  - first:
+      213: -7122812084072196675
+    second: character_roll_light_skin_6
+  - first:
+      213: 8937378825243685807
+    second: character_roll_light_skin_7
+  - first:
+      213: -2804722134072403068
+    second: character_roll_light_skin_8
+  - first:
+      213: 7040761503942211563
+    second: character_roll_light_skin_9
+  - first:
+      213: -135503884695416002
+    second: character_roll_light_skin_10
+  - first:
+      213: 3382543303353198308
+    second: character_roll_light_skin_11
+  - first:
+      213: -8004363981467559547
+    second: character_roll_light_skin_12
+  - first:
+      213: -1218035428168862007
+    second: character_roll_light_skin_13
+  - first:
+      213: -3733871812259364822
+    second: character_roll_light_skin_14
+  - first:
+      213: -3815722837743887250
+    second: character_roll_light_skin_15
+  - first:
+      213: -350616362119927477
+    second: character_roll_light_skin_16
+  - first:
+      213: -1611303652970661384
+    second: character_roll_light_skin_17
+  - first:
+      213: -8487780451362164652
+    second: character_roll_light_skin_18
+  - first:
+      213: 1118319086090106217
+    second: character_roll_light_skin_19
+  - first:
+      213: 1328587701363380761
+    second: character_roll_light_skin_20
+  - first:
+      213: 473760185051598696
+    second: character_roll_light_skin_21
+  - first:
+      213: -7131710673153876988
+    second: character_roll_light_skin_22
+  - first:
+      213: 2230090399639381325
+    second: character_roll_light_skin_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_light_skin_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 213
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60e6c4831b5591a0800000000000000
+      internalID: -6803431522683133844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df67743cacc92340800000000000000
+      internalID: 4839624314572992466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 213
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e0f9e49252e3f0800000000000000
+      internalID: -873044578222939071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2351a2ed2d79200800000000000000
+      internalID: 186849761189769921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90fd19c17c2caf0800000000000000
+      internalID: -377520493225375252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06746d2cfbe35690800000000000000
+      internalID: -7614483076627532278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db55407d520b62d90800000000000000
+      internalID: -7122812084072196675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 149
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37fb570b2f70c70800000000000000
+      internalID: 8937378825243685807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b50f04410a319d0800000000000000
+      internalID: -2804722134072403068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be778b6c84fc5b160800000000000000
+      internalID: 7040761503942211563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 149
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e335b0f4fe79e1ef0800000000000000
+      internalID: -135503884695416002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e66eb1863531fe20800000000000000
+      internalID: 3382543303353198308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d1b72e59cae090800000000000000
+      internalID: -8004363981467559547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c677244b3ba81fe0800000000000000
+      internalID: -1218035428168862007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20cf61ae5f9e2cc0800000000000000
+      internalID: -3733871812259364822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1eeeab44db0bc0800000000000000
+      internalID: -3815722837743887250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49e66bb64c522bf0800000000000000
+      internalID: -350616362119927477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9f46b5ddf73a9e0800000000000000
+      internalID: -1611303652970661384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450bd0156a8553a80800000000000000
+      internalID: -8487780451362164652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b0ff9841158f00800000000000000
+      internalID: 1118319086090106217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91297b8a977107210800000000000000
+      internalID: 1328587701363380761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f49b2d062239600800000000000000
+      internalID: 473760185051598696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1dcd9de2170d90800000000000000
+      internalID: -7131710673153876988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_light_skin_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a387276fd2fe10800000000000000
+      internalID: 2230090399639381325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_light_skin_0: -6803431522683133844
+      character_roll_light_skin_1: 4839624314572992466
+      character_roll_light_skin_10: -135503884695416002
+      character_roll_light_skin_11: 3382543303353198308
+      character_roll_light_skin_12: -8004363981467559547
+      character_roll_light_skin_13: -1218035428168862007
+      character_roll_light_skin_14: -3733871812259364822
+      character_roll_light_skin_15: -3815722837743887250
+      character_roll_light_skin_16: -350616362119927477
+      character_roll_light_skin_17: -1611303652970661384
+      character_roll_light_skin_18: -8487780451362164652
+      character_roll_light_skin_19: 1118319086090106217
+      character_roll_light_skin_2: -873044578222939071
+      character_roll_light_skin_20: 1328587701363380761
+      character_roll_light_skin_21: 473760185051598696
+      character_roll_light_skin_22: -7131710673153876988
+      character_roll_light_skin_23: 2230090399639381325
+      character_roll_light_skin_3: 186849761189769921
+      character_roll_light_skin_4: -377520493225375252
+      character_roll_light_skin_5: -7614483076627532278
+      character_roll_light_skin_6: -7122812084072196675
+      character_roll_light_skin_7: 8937378825243685807
+      character_roll_light_skin_8: -2804722134072403068
+      character_roll_light_skin_9: 7040761503942211563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

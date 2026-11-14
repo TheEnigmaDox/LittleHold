@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 2de9b631c77fa1a4bb143c5424b003f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7201269338696103593
+    second: character_roll_hairstyles_pony_tail_black_0
+  - first:
+      213: -3120530929833903424
+    second: character_roll_hairstyles_pony_tail_black_1
+  - first:
+      213: 789960157408101421
+    second: character_roll_hairstyles_pony_tail_black_2
+  - first:
+      213: -3167799193792998986
+    second: character_roll_hairstyles_pony_tail_black_3
+  - first:
+      213: -5934903299897701325
+    second: character_roll_hairstyles_pony_tail_black_4
+  - first:
+      213: -8917945836524920963
+    second: character_roll_hairstyles_pony_tail_black_5
+  - first:
+      213: 3500860615693150423
+    second: character_roll_hairstyles_pony_tail_black_6
+  - first:
+      213: 108267140851303050
+    second: character_roll_hairstyles_pony_tail_black_7
+  - first:
+      213: 5284707897594956736
+    second: character_roll_hairstyles_pony_tail_black_8
+  - first:
+      213: 8587283269197910518
+    second: character_roll_hairstyles_pony_tail_black_9
+  - first:
+      213: -4865147110239184535
+    second: character_roll_hairstyles_pony_tail_black_10
+  - first:
+      213: -4095129836438090269
+    second: character_roll_hairstyles_pony_tail_black_11
+  - first:
+      213: 9214537022397540630
+    second: character_roll_hairstyles_pony_tail_black_12
+  - first:
+      213: -4790359629370579348
+    second: character_roll_hairstyles_pony_tail_black_13
+  - first:
+      213: -1921705576692699472
+    second: character_roll_hairstyles_pony_tail_black_14
+  - first:
+      213: 4688724535414720792
+    second: character_roll_hairstyles_pony_tail_black_15
+  - first:
+      213: 3031257689856002663
+    second: character_roll_hairstyles_pony_tail_black_16
+  - first:
+      213: 561579462133295684
+    second: character_roll_hairstyles_pony_tail_black_17
+  - first:
+      213: 1482593313677271905
+    second: character_roll_hairstyles_pony_tail_black_18
+  - first:
+      213: -7664873959842461082
+    second: character_roll_hairstyles_pony_tail_black_19
+  - first:
+      213: -7190712942565864671
+    second: character_roll_hairstyles_pony_tail_black_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 223
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6b4e04f4c00f360800000000000000
+      internalID: 7201269338696103593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 217
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca71a017a5a1b4d0800000000000000
+      internalID: -3120530929833903424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 218
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248509e39086fa00800000000000000
+      internalID: 789960157408101421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 214
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1133eba67b904d0800000000000000
+      internalID: -3167799193792998986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 220
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ccd49a4ecf2ada0800000000000000
+      internalID: -5934903299897701325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 222
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f12cfc2871d3480800000000000000
+      internalID: -8917945836524920963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ab8e7e2e859030800000000000000
+      internalID: 3500860615693150423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 153
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a820a471464a08100800000000000000
+      internalID: 108267140851303050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 154
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb49d155dd075940800000000000000
+      internalID: 5284707897594956736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1523ec2a82c2770800000000000000
+      internalID: 8587283269197910518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 156
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969dc2ada768b7cb0800000000000000
+      internalID: -4865147110239184535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 158
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed01065c1d2b27c0800000000000000
+      internalID: -4095129836438090269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e0b5e99c90ef70800000000000000
+      internalID: 9214537022397540630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66aef82c49358db0800000000000000
+      internalID: -4790359629370579348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 86
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be285aa5fab455e0800000000000000
+      internalID: -1921705576692699472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8198d0f7f12b11140800000000000000
+      internalID: 4688724535414720792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac9820fc0311a20800000000000000
+      internalID: 3031257689856002663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a2c91ab812bc700800000000000000
+      internalID: 561579462133295684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 25
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1636a1083ca339410800000000000000
+      internalID: 1482593313677271905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac2776eb5e0a590800000000000000
+      internalID: -7664873959842461082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_pony_tail_black_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bce804da4753c90800000000000000
+      internalID: -7190712942565864671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_pony_tail_black_0: 7201269338696103593
+      character_roll_hairstyles_pony_tail_black_1: -3120530929833903424
+      character_roll_hairstyles_pony_tail_black_10: -4865147110239184535
+      character_roll_hairstyles_pony_tail_black_11: -4095129836438090269
+      character_roll_hairstyles_pony_tail_black_12: 9214537022397540630
+      character_roll_hairstyles_pony_tail_black_13: -4790359629370579348
+      character_roll_hairstyles_pony_tail_black_14: -1921705576692699472
+      character_roll_hairstyles_pony_tail_black_15: 4688724535414720792
+      character_roll_hairstyles_pony_tail_black_16: 3031257689856002663
+      character_roll_hairstyles_pony_tail_black_17: 561579462133295684
+      character_roll_hairstyles_pony_tail_black_18: 1482593313677271905
+      character_roll_hairstyles_pony_tail_black_19: -7664873959842461082
+      character_roll_hairstyles_pony_tail_black_2: 789960157408101421
+      character_roll_hairstyles_pony_tail_black_20: -7190712942565864671
+      character_roll_hairstyles_pony_tail_black_3: -3167799193792998986
+      character_roll_hairstyles_pony_tail_black_4: -5934903299897701325
+      character_roll_hairstyles_pony_tail_black_5: -8917945836524920963
+      character_roll_hairstyles_pony_tail_black_6: 3500860615693150423
+      character_roll_hairstyles_pony_tail_black_7: 108267140851303050
+      character_roll_hairstyles_pony_tail_black_8: 5284707897594956736
+      character_roll_hairstyles_pony_tail_black_9: 8587283269197910518
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 2c7ab7415f85b974cb1d9af0b086a718
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5757873111176520323
+    second: character_slash_1_hairstyles_bald_green_0
+  - first:
+      213: 8679432163320944218
+    second: character_slash_1_hairstyles_bald_green_1
+  - first:
+      213: 2871629062748022421
+    second: character_slash_1_hairstyles_bald_green_2
+  - first:
+      213: -1454699706919951647
+    second: character_slash_1_hairstyles_bald_green_3
+  - first:
+      213: -7322430937918220646
+    second: character_slash_1_hairstyles_bald_green_4
+  - first:
+      213: 9202713969223783769
+    second: character_slash_1_hairstyles_bald_green_5
+  - first:
+      213: 7244310015248505675
+    second: character_slash_1_hairstyles_bald_green_6
+  - first:
+      213: 4429361217593860279
+    second: character_slash_1_hairstyles_bald_green_7
+  - first:
+      213: 1487014175391910717
+    second: character_slash_1_hairstyles_bald_green_8
+  - first:
+      213: -5995248143158929137
+    second: character_slash_1_hairstyles_bald_green_9
+  - first:
+      213: 3731379699704949960
+    second: character_slash_1_hairstyles_bald_green_10
+  - first:
+      213: -5716732711866941195
+    second: character_slash_1_hairstyles_bald_green_11
+  - first:
+      213: 5412510570990988366
+    second: character_slash_1_hairstyles_bald_green_12
+  - first:
+      213: 3394814697938272917
+    second: character_slash_1_hairstyles_bald_green_13
+  - first:
+      213: 7553820800655881776
+    second: character_slash_1_hairstyles_bald_green_14
+  - first:
+      213: -4405785264662155641
+    second: character_slash_1_hairstyles_bald_green_15
+  - first:
+      213: 3579871327691694240
+    second: character_slash_1_hairstyles_bald_green_16
+  - first:
+      213: 4184307110325864898
+    second: character_slash_1_hairstyles_bald_green_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ddc8279ece710b0800000000000000
+      internalID: -5757873111176520323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5658d22199837870800000000000000
+      internalID: 8679432163320944218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596a8c30b631ad720800000000000000
+      internalID: 2871629062748022421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2eb2ae25edfcbe0800000000000000
+      internalID: -1454699706919951647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96dd0d9bdf716a90800000000000000
+      internalID: -7322430937918220646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955db11d89b96bf70800000000000000
+      internalID: 9202713969223783769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b11bda395f88460800000000000000
+      internalID: 7244310015248505675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 334
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e2944f80487d30800000000000000
+      internalID: 4429361217593860279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b8434938fe2a410800000000000000
+      internalID: 1487014175391910717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0911b6f3999ccca0800000000000000
+      internalID: -5995248143158929137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6403311688c330800000000000000
+      internalID: 3731379699704949960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0c05913e51aa0b0800000000000000
+      internalID: -5716732711866941195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ce6f600b91d1b40800000000000000
+      internalID: 5412510570990988366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592c2e43bfdcc1f20800000000000000
+      internalID: 3394814697938272917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036fc001fff84d860800000000000000
+      internalID: 7553820800655881776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e692705a18bd2c0800000000000000
+      internalID: -4405785264662155641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a06bac61024ea130800000000000000
+      internalID: 3579871327691694240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_green_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94d1eb525a11a30800000000000000
+      internalID: 4184307110325864898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_1_hairstyles_bald_green_0: -5757873111176520323
+      character_slash_1_hairstyles_bald_green_1: 8679432163320944218
+      character_slash_1_hairstyles_bald_green_10: 3731379699704949960
+      character_slash_1_hairstyles_bald_green_11: -5716732711866941195
+      character_slash_1_hairstyles_bald_green_12: 5412510570990988366
+      character_slash_1_hairstyles_bald_green_13: 3394814697938272917
+      character_slash_1_hairstyles_bald_green_14: 7553820800655881776
+      character_slash_1_hairstyles_bald_green_15: -4405785264662155641
+      character_slash_1_hairstyles_bald_green_16: 3579871327691694240
+      character_slash_1_hairstyles_bald_green_17: 4184307110325864898
+      character_slash_1_hairstyles_bald_green_2: 2871629062748022421
+      character_slash_1_hairstyles_bald_green_3: -1454699706919951647
+      character_slash_1_hairstyles_bald_green_4: -7322430937918220646
+      character_slash_1_hairstyles_bald_green_5: 9202713969223783769
+      character_slash_1_hairstyles_bald_green_6: 7244310015248505675
+      character_slash_1_hairstyles_bald_green_7: 4429361217593860279
+      character_slash_1_hairstyles_bald_green_8: 1487014175391910717
+      character_slash_1_hairstyles_bald_green_9: -5995248143158929137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 04d44888e83c9f74dad7b8811989932e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4878321581436842419
+    second: tools_pickaxe_shadow_0
+  - first:
+      213: -7156075159939599858
+    second: tools_pickaxe_shadow_1
+  - first:
+      213: -2748597851677171354
+    second: tools_pickaxe_shadow_2
+  - first:
+      213: 4891039710933282910
+    second: tools_pickaxe_shadow_3
+  - first:
+      213: 2362141072000293831
+    second: tools_pickaxe_shadow_4
+  - first:
+      213: 6242396166416950077
+    second: tools_pickaxe_shadow_5
+  - first:
+      213: 9043040101334367212
+    second: tools_pickaxe_shadow_6
+  - first:
+      213: 8937653456954840711
+    second: tools_pickaxe_shadow_7
+  - first:
+      213: -6628540320698908942
+    second: tools_pickaxe_shadow_8
+  - first:
+      213: -6093791260540831721
+    second: tools_pickaxe_shadow_9
+  - first:
+      213: 8643140976928850060
+    second: tools_pickaxe_shadow_10
+  - first:
+      213: -3664337066037954897
+    second: tools_pickaxe_shadow_11
+  - first:
+      213: 3990079321350310819
+    second: tools_pickaxe_shadow_12
+  - first:
+      213: 4475811555773462051
+    second: tools_pickaxe_shadow_13
+  - first:
+      213: 3615523936638796869
+    second: tools_pickaxe_shadow_14
+  - first:
+      213: -6804434850333509183
+    second: tools_pickaxe_shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 212
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ec55e3e58bc4cb0800000000000000
+      internalID: -4878321581436842419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 212
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02bdc97e8380bc90800000000000000
+      internalID: -7156075159939599858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 212
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661616c01d40bd9d0800000000000000
+      internalID: -2748597851677171354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 212
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50f18804b670e340800000000000000
+      internalID: 4891039710933282910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 203
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb10f13ac208c020800000000000000
+      internalID: 2362141072000293831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ea8e5d3271a650800000000000000
+      internalID: 6242396166416950077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb5a16f055f7d70800000000000000
+      internalID: 9043040101334367212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786d553277ce80c70800000000000000
+      internalID: 8937653456954840711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 22
+        width: 206
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe3365a2b1b204a0800000000000000
+      internalID: -6628540320698908942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718751482218e6ba0800000000000000
+      internalID: -6093791260540831721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c808779dcea92f770800000000000000
+      internalID: 8643140976928850060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6b2895ad8a52dc0800000000000000
+      internalID: -3664337066037954897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab87be900c9f5730800000000000000
+      internalID: 3990079321350310819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326377765e64d1e30800000000000000
+      internalID: 4475811555773462051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 21
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54407405ddbec2230800000000000000
+      internalID: 3615523936638796869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_pickaxe_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 21
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c935981e8ac191a0800000000000000
+      internalID: -6804434850333509183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tools_pickaxe_shadow_0: -4878321581436842419
+      tools_pickaxe_shadow_1: -7156075159939599858
+      tools_pickaxe_shadow_10: 8643140976928850060
+      tools_pickaxe_shadow_11: -3664337066037954897
+      tools_pickaxe_shadow_12: 3990079321350310819
+      tools_pickaxe_shadow_13: 4475811555773462051
+      tools_pickaxe_shadow_14: 3615523936638796869
+      tools_pickaxe_shadow_15: -6804434850333509183
+      tools_pickaxe_shadow_2: -2748597851677171354
+      tools_pickaxe_shadow_3: 4891039710933282910
+      tools_pickaxe_shadow_4: 2362141072000293831
+      tools_pickaxe_shadow_5: 6242396166416950077
+      tools_pickaxe_shadow_6: 9043040101334367212
+      tools_pickaxe_shadow_7: 8937653456954840711
+      tools_pickaxe_shadow_8: -6628540320698908942
+      tools_pickaxe_shadow_9: -6093791260540831721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

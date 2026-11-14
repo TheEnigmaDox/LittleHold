@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d61516b0107d2074ea8fdd306fb0e5fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8784139339624265602
+    second: character_walk_armor_hands_knight_0
+  - first:
+      213: 5533466841406611221
+    second: character_walk_armor_hands_knight_1
+  - first:
+      213: -6286246933449431399
+    second: character_walk_armor_hands_knight_2
+  - first:
+      213: -5369257195997889202
+    second: character_walk_armor_hands_knight_3
+  - first:
+      213: -2875943349771503871
+    second: character_walk_armor_hands_knight_4
+  - first:
+      213: -7407943118022509295
+    second: character_walk_armor_hands_knight_5
+  - first:
+      213: 2411182254824383290
+    second: character_walk_armor_hands_knight_6
+  - first:
+      213: 9174489639673538542
+    second: character_walk_armor_hands_knight_7
+  - first:
+      213: 7783226407036302341
+    second: character_walk_armor_hands_knight_8
+  - first:
+      213: -184013373718199203
+    second: character_walk_armor_hands_knight_9
+  - first:
+      213: -7810051157277971160
+    second: character_walk_armor_hands_knight_10
+  - first:
+      213: 7661158798386800035
+    second: character_walk_armor_hands_knight_11
+  - first:
+      213: -181884387504376706
+    second: character_walk_armor_hands_knight_12
+  - first:
+      213: 3243876780494553633
+    second: character_walk_armor_hands_knight_13
+  - first:
+      213: 1299671367457432689
+    second: character_walk_armor_hands_knight_14
+  - first:
+      213: 6253476611095024045
+    second: character_walk_armor_hands_knight_15
+  - first:
+      213: 5703272451596613457
+    second: character_walk_armor_hands_knight_16
+  - first:
+      213: 5760106003817799934
+    second: character_walk_armor_hands_knight_17
+  - first:
+      213: 7913074797540126668
+    second: character_walk_armor_hands_knight_18
+  - first:
+      213: -7755796362868807375
+    second: character_walk_armor_hands_knight_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78492c9fc7781680800000000000000
+      internalID: -8784139339624265602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f917256c2dacc40800000000000000
+      internalID: 5533466841406611221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996ab5158b3c2c8a0800000000000000
+      internalID: -6286246933449431399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 217
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df5dc17019c75b0800000000000000
+      internalID: -5369257195997889202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 216
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107f8b2c2c89618d0800000000000000
+      internalID: -2875943349771503871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 217
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11df7fdabf2b13990800000000000000
+      internalID: -7407943118022509295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33688b5c7d367120800000000000000
+      internalID: 2411182254824383290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee72e3008b5525f70800000000000000
+      internalID: 9174489639673538542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504b6dd0e23930c60800000000000000
+      internalID: 7783226407036302341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 153
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540b91cfc0427df0800000000000000
+      internalID: -184013373718199203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d61d41adf1d9390800000000000000
+      internalID: -7810051157277971160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 153
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a524b92657e15a60800000000000000
+      internalID: 7661158798386800035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74bc9cfc11d97df0800000000000000
+      internalID: -181884387504376706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 143
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122048cbeb0940d20800000000000000
+      internalID: 3243876780494553633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174eb06093c590210800000000000000
+      internalID: 1299671367457432689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1588f68dfc8c650800000000000000
+      internalID: 6253476611095024045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157ffa6d318162f40800000000000000
+      internalID: 5703272451596613457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0a72264e100ff40800000000000000
+      internalID: 5760106003817799934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa9746a93e0dd60800000000000000
+      internalID: 7913074797540126668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_hands_knight_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13920f8cc40ed5490800000000000000
+      internalID: -7755796362868807375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_armor_hands_knight_0: -8784139339624265602
+      character_walk_armor_hands_knight_1: 5533466841406611221
+      character_walk_armor_hands_knight_10: -7810051157277971160
+      character_walk_armor_hands_knight_11: 7661158798386800035
+      character_walk_armor_hands_knight_12: -181884387504376706
+      character_walk_armor_hands_knight_13: 3243876780494553633
+      character_walk_armor_hands_knight_14: 1299671367457432689
+      character_walk_armor_hands_knight_15: 6253476611095024045
+      character_walk_armor_hands_knight_16: 5703272451596613457
+      character_walk_armor_hands_knight_17: 5760106003817799934
+      character_walk_armor_hands_knight_18: 7913074797540126668
+      character_walk_armor_hands_knight_19: -7755796362868807375
+      character_walk_armor_hands_knight_2: -6286246933449431399
+      character_walk_armor_hands_knight_3: -5369257195997889202
+      character_walk_armor_hands_knight_4: -2875943349771503871
+      character_walk_armor_hands_knight_5: -7407943118022509295
+      character_walk_armor_hands_knight_6: 2411182254824383290
+      character_walk_armor_hands_knight_7: 9174489639673538542
+      character_walk_armor_hands_knight_8: 7783226407036302341
+      character_walk_armor_hands_knight_9: -184013373718199203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

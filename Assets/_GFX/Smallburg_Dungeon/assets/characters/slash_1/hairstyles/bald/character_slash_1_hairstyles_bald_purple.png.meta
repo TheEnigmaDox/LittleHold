@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 730041edd2d3e5e4fbd9988dbcbe4272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8594193582013290670
+    second: character_slash_1_hairstyles_bald_purple_0
+  - first:
+      213: -5424085465595599361
+    second: character_slash_1_hairstyles_bald_purple_1
+  - first:
+      213: 3015784701587624165
+    second: character_slash_1_hairstyles_bald_purple_2
+  - first:
+      213: 1076767865108193566
+    second: character_slash_1_hairstyles_bald_purple_3
+  - first:
+      213: 6389556751797877136
+    second: character_slash_1_hairstyles_bald_purple_4
+  - first:
+      213: 4330548689900864625
+    second: character_slash_1_hairstyles_bald_purple_5
+  - first:
+      213: 8825712147099723699
+    second: character_slash_1_hairstyles_bald_purple_6
+  - first:
+      213: 6172433239839526280
+    second: character_slash_1_hairstyles_bald_purple_7
+  - first:
+      213: 3333083492946803755
+    second: character_slash_1_hairstyles_bald_purple_8
+  - first:
+      213: -2956397402541230224
+    second: character_slash_1_hairstyles_bald_purple_9
+  - first:
+      213: 1854094091441660409
+    second: character_slash_1_hairstyles_bald_purple_10
+  - first:
+      213: -8605171602374688931
+    second: character_slash_1_hairstyles_bald_purple_11
+  - first:
+      213: -2746771979181200081
+    second: character_slash_1_hairstyles_bald_purple_12
+  - first:
+      213: 4745073437895111122
+    second: character_slash_1_hairstyles_bald_purple_13
+  - first:
+      213: 3934715870837895815
+    second: character_slash_1_hairstyles_bald_purple_14
+  - first:
+      213: 6971396292592035150
+    second: character_slash_1_hairstyles_bald_purple_15
+  - first:
+      213: -56197572884848830
+    second: character_slash_1_hairstyles_bald_purple_16
+  - first:
+      213: -2941047467384638294
+    second: character_slash_1_hairstyles_bald_purple_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257e72d987a4bb880800000000000000
+      internalID: -8594193582013290670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a0dfc107c9b4b0800000000000000
+      internalID: -5424085465595599361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0103135383ad920800000000000000
+      internalID: 3015784701587624165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1164591ba271fe00800000000000000
+      internalID: 1076767865108193566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0997c1f23044ca850800000000000000
+      internalID: 6389556751797877136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740318d613391c30800000000000000
+      internalID: 4330548689900864625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7aab9ef6a3b7a70800000000000000
+      internalID: 8825712147099723699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 334
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc2742453e8a550800000000000000
+      internalID: 6172433239839526280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cffc307cd714e20800000000000000
+      internalID: 3333083492946803755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07774aed934c8f6d0800000000000000
+      internalID: -2956397402541230224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1e784b0c01bb910800000000000000
+      internalID: 1854094091441660409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f7d21150a449880800000000000000
+      internalID: -8605171602374688931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d68ed107181e9d0800000000000000
+      internalID: -2746771979181200081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d131eab623e9d140800000000000000
+      internalID: 4745073437895111122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782726dcc3bea9630800000000000000
+      internalID: 3934715870837895815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e456c68fdff5fb060800000000000000
+      internalID: 6971396292592035150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f95feea98583ff0800000000000000
+      internalID: -56197572884848830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_purple_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4f9f629ec4f27d0800000000000000
+      internalID: -2941047467384638294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_1_hairstyles_bald_purple_0: -8594193582013290670
+      character_slash_1_hairstyles_bald_purple_1: -5424085465595599361
+      character_slash_1_hairstyles_bald_purple_10: 1854094091441660409
+      character_slash_1_hairstyles_bald_purple_11: -8605171602374688931
+      character_slash_1_hairstyles_bald_purple_12: -2746771979181200081
+      character_slash_1_hairstyles_bald_purple_13: 4745073437895111122
+      character_slash_1_hairstyles_bald_purple_14: 3934715870837895815
+      character_slash_1_hairstyles_bald_purple_15: 6971396292592035150
+      character_slash_1_hairstyles_bald_purple_16: -56197572884848830
+      character_slash_1_hairstyles_bald_purple_17: -2941047467384638294
+      character_slash_1_hairstyles_bald_purple_2: 3015784701587624165
+      character_slash_1_hairstyles_bald_purple_3: 1076767865108193566
+      character_slash_1_hairstyles_bald_purple_4: 6389556751797877136
+      character_slash_1_hairstyles_bald_purple_5: 4330548689900864625
+      character_slash_1_hairstyles_bald_purple_6: 8825712147099723699
+      character_slash_1_hairstyles_bald_purple_7: 6172433239839526280
+      character_slash_1_hairstyles_bald_purple_8: 3333083492946803755
+      character_slash_1_hairstyles_bald_purple_9: -2956397402541230224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

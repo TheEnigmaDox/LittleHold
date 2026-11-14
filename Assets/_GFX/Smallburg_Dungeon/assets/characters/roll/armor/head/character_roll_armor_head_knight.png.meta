@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 27a863a9e14bddd4d9a024194a8e94a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1191059082032060138
+    second: character_roll_armor_head_knight_0
+  - first:
+      213: 406206437640650674
+    second: character_roll_armor_head_knight_1
+  - first:
+      213: -3647933599758671651
+    second: character_roll_armor_head_knight_2
+  - first:
+      213: 1505623635137574835
+    second: character_roll_armor_head_knight_3
+  - first:
+      213: -4885193097015465641
+    second: character_roll_armor_head_knight_4
+  - first:
+      213: 9098613014617519676
+    second: character_roll_armor_head_knight_5
+  - first:
+      213: 4569826707387425155
+    second: character_roll_armor_head_knight_6
+  - first:
+      213: -3317873297001240318
+    second: character_roll_armor_head_knight_7
+  - first:
+      213: -6118250825006754087
+    second: character_roll_armor_head_knight_8
+  - first:
+      213: 6578012132970065792
+    second: character_roll_armor_head_knight_9
+  - first:
+      213: 394738723226871029
+    second: character_roll_armor_head_knight_10
+  - first:
+      213: -1921008474025443904
+    second: character_roll_armor_head_knight_11
+  - first:
+      213: -5934387104459600738
+    second: character_roll_armor_head_knight_12
+  - first:
+      213: -6223524822021556716
+    second: character_roll_armor_head_knight_13
+  - first:
+      213: -292945160234466116
+    second: character_roll_armor_head_knight_14
+  - first:
+      213: 9074396144794705266
+    second: character_roll_armor_head_knight_15
+  - first:
+      213: -2466257495599019154
+    second: character_roll_armor_head_knight_16
+  - first:
+      213: 1795270622417120834
+    second: character_roll_armor_head_knight_17
+  - first:
+      213: 2706474544978961325
+    second: character_roll_armor_head_knight_18
+  - first:
+      213: -6344844826024165775
+    second: character_roll_armor_head_knight_19
+  - first:
+      213: -1546041520405098233
+    second: character_roll_armor_head_knight_20
+  - first:
+      213: -7565801624045372419
+    second: character_roll_armor_head_knight_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 223
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e9fc4312887fe0800000000000000
+      internalID: -1191059082032060138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 217
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3c055a9223a500800000000000000
+      internalID: 406206437640650674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd02c26f7bfef5dc0800000000000000
+      internalID: -3647933599758671651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 214
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7bec118bc05e410800000000000000
+      internalID: 1505623635137574835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759e339d2ce443cb0800000000000000
+      internalID: -4885193097015465641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f50d8454c44e70800000000000000
+      internalID: 9098613014617519676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381abeaad294b6f30800000000000000
+      internalID: 4569826707387425155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ac72b0db84f1d0800000000000000
+      internalID: -3317873297001240318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 153
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d65bb06a4b971ba0800000000000000
+      internalID: -6118250825006754087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe3e1ee2bc94b50800000000000000
+      internalID: 6578012132970065792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 156
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4670107c46a7500800000000000000
+      internalID: 394738723226871029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdb23788f43755e0800000000000000
+      internalID: -1921008474025443904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cc607ce52d4ada0800000000000000
+      internalID: -5934387104459600738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4163494e52991a9a0800000000000000
+      internalID: -6223524822021556716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 88
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb40e89cdef3febf0800000000000000
+      internalID: -292945160234466116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d99a9273bbeed70800000000000000
+      internalID: 9074396144794705266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b0d22efd716cdd0800000000000000
+      internalID: -2466257495599019154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eeddc8e151ae810800000000000000
+      internalID: 1795270622417120834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 23
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3ab1752445f8520800000000000000
+      internalID: 2706474544978961325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ebad54f3592f7a0800000000000000
+      internalID: -6344844826024165775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701df30bd6b5b8ae0800000000000000
+      internalID: -1546041520405098233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_head_knight_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbb3bd128fd00790800000000000000
+      internalID: -7565801624045372419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_armor_head_knight_0: -1191059082032060138
+      character_roll_armor_head_knight_1: 406206437640650674
+      character_roll_armor_head_knight_10: 394738723226871029
+      character_roll_armor_head_knight_11: -1921008474025443904
+      character_roll_armor_head_knight_12: -5934387104459600738
+      character_roll_armor_head_knight_13: -6223524822021556716
+      character_roll_armor_head_knight_14: -292945160234466116
+      character_roll_armor_head_knight_15: 9074396144794705266
+      character_roll_armor_head_knight_16: -2466257495599019154
+      character_roll_armor_head_knight_17: 1795270622417120834
+      character_roll_armor_head_knight_18: 2706474544978961325
+      character_roll_armor_head_knight_19: -6344844826024165775
+      character_roll_armor_head_knight_2: -3647933599758671651
+      character_roll_armor_head_knight_20: -1546041520405098233
+      character_roll_armor_head_knight_21: -7565801624045372419
+      character_roll_armor_head_knight_3: 1505623635137574835
+      character_roll_armor_head_knight_4: -4885193097015465641
+      character_roll_armor_head_knight_5: 9098613014617519676
+      character_roll_armor_head_knight_6: 4569826707387425155
+      character_roll_armor_head_knight_7: -3317873297001240318
+      character_roll_armor_head_knight_8: -6118250825006754087
+      character_roll_armor_head_knight_9: 6578012132970065792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

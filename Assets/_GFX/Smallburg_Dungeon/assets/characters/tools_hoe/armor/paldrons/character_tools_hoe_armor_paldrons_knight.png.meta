@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 9ff0a75596f3efb4f954e0a10dae00a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8805628526305644587
+    second: character_tools_hoe_armor_paldrons_knight_0
+  - first:
+      213: -6400402205568069366
+    second: character_tools_hoe_armor_paldrons_knight_1
+  - first:
+      213: 3486553761428779980
+    second: character_tools_hoe_armor_paldrons_knight_2
+  - first:
+      213: -2691716216450636775
+    second: character_tools_hoe_armor_paldrons_knight_3
+  - first:
+      213: 2386371283043592790
+    second: character_tools_hoe_armor_paldrons_knight_4
+  - first:
+      213: 4103336985035716421
+    second: character_tools_hoe_armor_paldrons_knight_5
+  - first:
+      213: -4737846681679425564
+    second: character_tools_hoe_armor_paldrons_knight_6
+  - first:
+      213: -7065117021759946197
+    second: character_tools_hoe_armor_paldrons_knight_7
+  - first:
+      213: -1719831527971266985
+    second: character_tools_hoe_armor_paldrons_knight_8
+  - first:
+      213: 4787375866707659686
+    second: character_tools_hoe_armor_paldrons_knight_9
+  - first:
+      213: -4148843544528150336
+    second: character_tools_hoe_armor_paldrons_knight_10
+  - first:
+      213: 6196657966664146443
+    second: character_tools_hoe_armor_paldrons_knight_11
+  - first:
+      213: 6057587338375751073
+    second: character_tools_hoe_armor_paldrons_knight_12
+  - first:
+      213: -3434691064142345563
+    second: character_tools_hoe_armor_paldrons_knight_13
+  - first:
+      213: 4604868270133966245
+    second: character_tools_hoe_armor_paldrons_knight_14
+  - first:
+      213: -1268495580885364768
+    second: character_tools_hoe_armor_paldrons_knight_15
+  - first:
+      213: 1202007714712440264
+    second: character_tools_hoe_armor_paldrons_knight_16
+  - first:
+      213: 474570034357826482
+    second: character_tools_hoe_armor_paldrons_knight_17
+  - first:
+      213: 5745232667528356953
+    second: character_tools_hoe_armor_paldrons_knight_18
+  - first:
+      213: -7518511821021837970
+    second: character_tools_hoe_armor_paldrons_knight_19
+  - first:
+      213: -2575762058293092558
+    second: character_tools_hoe_armor_paldrons_knight_20
+  - first:
+      213: 6182497043682527735
+    second: character_tools_hoe_armor_paldrons_knight_21
+  - first:
+      213: -6696701790082304013
+    second: character_tools_hoe_armor_paldrons_knight_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6181728f1cc580800000000000000
+      internalID: -8805628526305644587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 221
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011d75da143d27a0800000000000000
+      internalID: -6400402205568069366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 219
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3b3486c2ab26030800000000000000
+      internalID: 3486553761428779980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9142d4acc5a15aad0800000000000000
+      internalID: -2691716216450636775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aa104d9081e1120800000000000000
+      internalID: 2386371283043592790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b6ca5f3bf1f830800000000000000
+      internalID: 4103336985035716421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef0c329b89cf3eb0800000000000000
+      internalID: -4737846681679425564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ce655089a3fd90800000000000000
+      internalID: -7065117021759946197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e51cd565ee128e0800000000000000
+      internalID: -1719831527971266985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 155
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab43657cfc207240800000000000000
+      internalID: 4787375866707659686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c02abb17c85c66c0800000000000000
+      internalID: -4148843544528150336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5c91e693fef550800000000000000
+      internalID: 6196657966664146443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a56acbf69fd01450800000000000000
+      internalID: 6057587338375751073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa4698cca68550d0800000000000000
+      internalID: -3434691064142345563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57dc64b47c7ef30800000000000000
+      internalID: 4604868270133966245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 90
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efcc2e6df5656ee0800000000000000
+      internalID: -1268495580885364768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc6b4e5a36ea010800000000000000
+      internalID: 1202007714712440264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b371fe8ee2069600800000000000000
+      internalID: 474570034357826482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9546ffbebaa2bbf40800000000000000
+      internalID: 5745232667528356953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e650b646551e8a790800000000000000
+      internalID: -7518511821021837970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fd2811e0e014cd0800000000000000
+      internalID: -2575762058293092558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f989911e44acc550800000000000000
+      internalID: 6182497043682527735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_armor_paldrons_knight_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7fb6bd3398013a0800000000000000
+      internalID: -6696701790082304013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_hoe_armor_paldrons_knight_0: -8805628526305644587
+      character_tools_hoe_armor_paldrons_knight_1: -6400402205568069366
+      character_tools_hoe_armor_paldrons_knight_10: -4148843544528150336
+      character_tools_hoe_armor_paldrons_knight_11: 6196657966664146443
+      character_tools_hoe_armor_paldrons_knight_12: 6057587338375751073
+      character_tools_hoe_armor_paldrons_knight_13: -3434691064142345563
+      character_tools_hoe_armor_paldrons_knight_14: 4604868270133966245
+      character_tools_hoe_armor_paldrons_knight_15: -1268495580885364768
+      character_tools_hoe_armor_paldrons_knight_16: 1202007714712440264
+      character_tools_hoe_armor_paldrons_knight_17: 474570034357826482
+      character_tools_hoe_armor_paldrons_knight_18: 5745232667528356953
+      character_tools_hoe_armor_paldrons_knight_19: -7518511821021837970
+      character_tools_hoe_armor_paldrons_knight_2: 3486553761428779980
+      character_tools_hoe_armor_paldrons_knight_20: -2575762058293092558
+      character_tools_hoe_armor_paldrons_knight_21: 6182497043682527735
+      character_tools_hoe_armor_paldrons_knight_22: -6696701790082304013
+      character_tools_hoe_armor_paldrons_knight_3: -2691716216450636775
+      character_tools_hoe_armor_paldrons_knight_4: 2386371283043592790
+      character_tools_hoe_armor_paldrons_knight_5: 4103336985035716421
+      character_tools_hoe_armor_paldrons_knight_6: -4737846681679425564
+      character_tools_hoe_armor_paldrons_knight_7: -7065117021759946197
+      character_tools_hoe_armor_paldrons_knight_8: -1719831527971266985
+      character_tools_hoe_armor_paldrons_knight_9: 4787375866707659686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: e53d70ee39ab20d49beb577aa86bdbee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1659931995524351849
+    second: character_roll_hairstyles_bald_brown_light_0
+  - first:
+      213: 7571074304254695741
+    second: character_roll_hairstyles_bald_brown_light_1
+  - first:
+      213: 2247209618173388076
+    second: character_roll_hairstyles_bald_brown_light_2
+  - first:
+      213: -6090113197579901303
+    second: character_roll_hairstyles_bald_brown_light_3
+  - first:
+      213: -2622214180033422814
+    second: character_roll_hairstyles_bald_brown_light_4
+  - first:
+      213: -2556929080966579484
+    second: character_roll_hairstyles_bald_brown_light_5
+  - first:
+      213: 622032413475109628
+    second: character_roll_hairstyles_bald_brown_light_6
+  - first:
+      213: 7993395594030221566
+    second: character_roll_hairstyles_bald_brown_light_7
+  - first:
+      213: 922457250811043601
+    second: character_roll_hairstyles_bald_brown_light_8
+  - first:
+      213: -4831627351264320069
+    second: character_roll_hairstyles_bald_brown_light_9
+  - first:
+      213: -7502204702355942736
+    second: character_roll_hairstyles_bald_brown_light_10
+  - first:
+      213: 2147052798214480699
+    second: character_roll_hairstyles_bald_brown_light_11
+  - first:
+      213: -2736870046575067762
+    second: character_roll_hairstyles_bald_brown_light_12
+  - first:
+      213: 232309889152565926
+    second: character_roll_hairstyles_bald_brown_light_13
+  - first:
+      213: -3634240849053841607
+    second: character_roll_hairstyles_bald_brown_light_14
+  - first:
+      213: 8917321627379947144
+    second: character_roll_hairstyles_bald_brown_light_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798377f05acb6f8e0800000000000000
+      internalID: -1659931995524351849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39503967fbd11960800000000000000
+      internalID: 7571074304254695741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 220
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e013dd31bf2f10800000000000000
+      internalID: 2247209618173388076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 215
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986e45840529b7ba0800000000000000
+      internalID: -6090113197579901303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 221
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a9d1aa8160c9bd0800000000000000
+      internalID: -2622214180033422814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eafe1d4c86f38cd0800000000000000
+      internalID: -2556929080966579484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa76f33f27e1a800800000000000000
+      internalID: 622032413475109628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8085321fe3eee60800000000000000
+      internalID: 7993395594030221566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 156
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f53137bf93dcc00800000000000000
+      internalID: 922457250811043601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 151
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb524d8e58c92fcb0800000000000000
+      internalID: -4831627351264320069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 157
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b21fc35290d2e790800000000000000
+      internalID: -7502204702355942736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b332597f42ddbcd10800000000000000
+      internalID: 2147052798214480699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d7c75713fa40ad0800000000000000
+      internalID: -2736870046575067762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 25
+        width: 78
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2cfb40d94593300800000000000000
+      internalID: 232309889152565926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9378eebe335909dc0800000000000000
+      internalID: -3634240849053841607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886d3eb26c0b0cb70800000000000000
+      internalID: 8917321627379947144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_bald_brown_light_0: -1659931995524351849
+      character_roll_hairstyles_bald_brown_light_1: 7571074304254695741
+      character_roll_hairstyles_bald_brown_light_10: -7502204702355942736
+      character_roll_hairstyles_bald_brown_light_11: 2147052798214480699
+      character_roll_hairstyles_bald_brown_light_12: -2736870046575067762
+      character_roll_hairstyles_bald_brown_light_13: 232309889152565926
+      character_roll_hairstyles_bald_brown_light_14: -3634240849053841607
+      character_roll_hairstyles_bald_brown_light_15: 8917321627379947144
+      character_roll_hairstyles_bald_brown_light_2: 2247209618173388076
+      character_roll_hairstyles_bald_brown_light_3: -6090113197579901303
+      character_roll_hairstyles_bald_brown_light_4: -2622214180033422814
+      character_roll_hairstyles_bald_brown_light_5: -2556929080966579484
+      character_roll_hairstyles_bald_brown_light_6: 622032413475109628
+      character_roll_hairstyles_bald_brown_light_7: 7993395594030221566
+      character_roll_hairstyles_bald_brown_light_8: 922457250811043601
+      character_roll_hairstyles_bald_brown_light_9: -4831627351264320069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 738e4f22d54859344af3d338f486c579
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4423610380274168910
+    second: character_deathblast_orc_green_skin_0
+  - first:
+      213: -2667968989345860087
+    second: character_deathblast_orc_green_skin_1
+  - first:
+      213: 339417572385391654
+    second: character_deathblast_orc_green_skin_2
+  - first:
+      213: 4382224769079299393
+    second: character_deathblast_orc_green_skin_3
+  - first:
+      213: -7163740180331647462
+    second: character_deathblast_orc_green_skin_4
+  - first:
+      213: 7164915240186734918
+    second: character_deathblast_orc_green_skin_5
+  - first:
+      213: -8101912514024684742
+    second: character_deathblast_orc_green_skin_6
+  - first:
+      213: 6863832451770069990
+    second: character_deathblast_orc_green_skin_7
+  - first:
+      213: 6347836469413090940
+    second: character_deathblast_orc_green_skin_8
+  - first:
+      213: 425049577123856553
+    second: character_deathblast_orc_green_skin_9
+  - first:
+      213: -2077560656534171043
+    second: character_deathblast_orc_green_skin_10
+  - first:
+      213: -4870570483093138189
+    second: character_deathblast_orc_green_skin_11
+  - first:
+      213: 4114538860401707784
+    second: character_deathblast_orc_green_skin_12
+  - first:
+      213: 49554313683273000
+    second: character_deathblast_orc_green_skin_13
+  - first:
+      213: 4330474411023716072
+    second: character_deathblast_orc_green_skin_14
+  - first:
+      213: 5264759906395686531
+    second: character_deathblast_orc_green_skin_15
+  - first:
+      213: 2320164346040262134
+    second: character_deathblast_orc_green_skin_16
+  - first:
+      213: -3879172651616357771
+    second: character_deathblast_orc_green_skin_17
+  - first:
+      213: -2054367159678337164
+    second: character_deathblast_orc_green_skin_18
+  - first:
+      213: 5380919648153148511
+    second: character_deathblast_orc_green_skin_19
+  - first:
+      213: -1366400996261480991
+    second: character_deathblast_orc_green_skin_20
+  - first:
+      213: 1110052550123301900
+    second: character_deathblast_orc_green_skin_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb0703ebcd2c92c0800000000000000
+      internalID: -4423610380274168910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9063846f65879fad0800000000000000
+      internalID: -2667968989345860087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6248e88db7ad5b400800000000000000
+      internalID: 339417572385391654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dc3ee953ac0dc30800000000000000
+      internalID: 4382224769079299393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ea328d248459c90800000000000000
+      internalID: -7163740180331647462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ec191374ee6360800000000000000
+      internalID: 7164915240186734918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3344488e79309f80800000000000000
+      internalID: -8101912514024684742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 23
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3bd8daf3b314f50800000000000000
+      internalID: 6863832451770069990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 87
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7613abf2ab081850800000000000000
+      internalID: 6347836469413090940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c560a65416e500800000000000000
+      internalID: 425049577123856553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5214fb17950b23e0800000000000000
+      internalID: -2077560656534171043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f41bb573f1486cb0800000000000000
+      internalID: -4870570483093138189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bc8c43b47c91930800000000000000
+      internalID: 4114538860401707784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250e20c26d00b000800000000000000
+      internalID: 49554313683273000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 85
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeccf1788fe81c30800000000000000
+      internalID: 4330474411023716072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 21
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3860f60bd3f201940800000000000000
+      internalID: 5264759906395686531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 96
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd91421e21e23020800000000000000
+      internalID: 2320164346040262134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 16
+        width: 153
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5723ffda6096a2ac0800000000000000
+      internalID: -3879172651616357771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff429e3fb6d73e0800000000000000
+      internalID: -2054367159678337164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 32
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c961129eddcaa40800000000000000
+      internalID: 5380919648153148511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5381d8881990de0800000000000000
+      internalID: -1366400996261480991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_orc_green_skin_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cad1cb9e2b76f00800000000000000
+      internalID: 1110052550123301900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_deathblast_orc_green_skin_0: -4423610380274168910
+      character_deathblast_orc_green_skin_1: -2667968989345860087
+      character_deathblast_orc_green_skin_10: -2077560656534171043
+      character_deathblast_orc_green_skin_11: -4870570483093138189
+      character_deathblast_orc_green_skin_12: 4114538860401707784
+      character_deathblast_orc_green_skin_13: 49554313683273000
+      character_deathblast_orc_green_skin_14: 4330474411023716072
+      character_deathblast_orc_green_skin_15: 5264759906395686531
+      character_deathblast_orc_green_skin_16: 2320164346040262134
+      character_deathblast_orc_green_skin_17: -3879172651616357771
+      character_deathblast_orc_green_skin_18: -2054367159678337164
+      character_deathblast_orc_green_skin_19: 5380919648153148511
+      character_deathblast_orc_green_skin_2: 339417572385391654
+      character_deathblast_orc_green_skin_20: -1366400996261480991
+      character_deathblast_orc_green_skin_21: 1110052550123301900
+      character_deathblast_orc_green_skin_3: 4382224769079299393
+      character_deathblast_orc_green_skin_4: -7163740180331647462
+      character_deathblast_orc_green_skin_5: 7164915240186734918
+      character_deathblast_orc_green_skin_6: -8101912514024684742
+      character_deathblast_orc_green_skin_7: 6863832451770069990
+      character_deathblast_orc_green_skin_8: 6347836469413090940
+      character_deathblast_orc_green_skin_9: 425049577123856553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

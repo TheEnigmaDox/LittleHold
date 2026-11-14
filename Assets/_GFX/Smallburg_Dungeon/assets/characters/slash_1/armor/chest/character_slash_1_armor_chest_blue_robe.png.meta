@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b03ee6d3568c1b841869bd773dbde146
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4201656349403562781
+    second: character_slash_1_armor_chest_blue_robe_0
+  - first:
+      213: 7467843247019945710
+    second: character_slash_1_armor_chest_blue_robe_1
+  - first:
+      213: -5623849051355277472
+    second: character_slash_1_armor_chest_blue_robe_2
+  - first:
+      213: -4993565326816719317
+    second: character_slash_1_armor_chest_blue_robe_3
+  - first:
+      213: 4415999501318657911
+    second: character_slash_1_armor_chest_blue_robe_4
+  - first:
+      213: 704901806637659132
+    second: character_slash_1_armor_chest_blue_robe_5
+  - first:
+      213: 775033274745558021
+    second: character_slash_1_armor_chest_blue_robe_6
+  - first:
+      213: 325424484802746447
+    second: character_slash_1_armor_chest_blue_robe_7
+  - first:
+      213: 7936761664792498577
+    second: character_slash_1_armor_chest_blue_robe_8
+  - first:
+      213: 3925034292209997793
+    second: character_slash_1_armor_chest_blue_robe_9
+  - first:
+      213: -3787001541619998268
+    second: character_slash_1_armor_chest_blue_robe_10
+  - first:
+      213: -4235954807666683322
+    second: character_slash_1_armor_chest_blue_robe_11
+  - first:
+      213: -2137730967855803782
+    second: character_slash_1_armor_chest_blue_robe_12
+  - first:
+      213: -6660666509331402939
+    second: character_slash_1_armor_chest_blue_robe_13
+  - first:
+      213: -8287150884935971002
+    second: character_slash_1_armor_chest_blue_robe_14
+  - first:
+      213: 1720458319929425656
+    second: character_slash_1_armor_chest_blue_robe_15
+  - first:
+      213: 8650182122189039523
+    second: character_slash_1_armor_chest_blue_robe_16
+  - first:
+      213: 3910566212326805101
+    second: character_slash_1_armor_chest_blue_robe_17
+  - first:
+      213: 6181502054360105927
+    second: character_slash_1_armor_chest_blue_robe_18
+  - first:
+      213: 6486036399026339753
+    second: character_slash_1_armor_chest_blue_robe_19
+  - first:
+      213: 813116114562219499
+    second: character_slash_1_armor_chest_blue_robe_20
+  - first:
+      213: -5509676108218905757
+    second: character_slash_1_armor_chest_blue_robe_21
+  - first:
+      213: -1797058863749622010
+    second: character_slash_1_armor_chest_blue_robe_22
+  - first:
+      213: -3990715700313564242
+    second: character_slash_1_armor_chest_blue_robe_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 216
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c67e30384f4a30800000000000000
+      internalID: 4201656349403562781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 217
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee6ce8eddb13a760800000000000000
+      internalID: 7467843247019945710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 217
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0671d8f851314f1b0800000000000000
+      internalID: -5623849051355277472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 217
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ec164daca43bab0800000000000000
+      internalID: -4993565326816719317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 217
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77796644628c84d30800000000000000
+      internalID: 4415999501318657911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 216
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33b2a557058c900800000000000000
+      internalID: 704901806637659132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 152
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504115638a871ca00800000000000000
+      internalID: 775033274745558021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48d1e148d3248400800000000000000
+      internalID: 325424484802746447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 153
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19115e0feaa052e60800000000000000
+      internalID: 7936761664792498577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 153
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7576e94e5887630800000000000000
+      internalID: 3925034292209997793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 153
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c122eb892ed17bc0800000000000000
+      internalID: -3787001541619998268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 152
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6425b64ab8dd635c0800000000000000
+      internalID: -4235954807666683322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a725a9bc2014552e0800000000000000
+      internalID: -2137730967855803782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe5f7791f8093a0800000000000000
+      internalID: -6660666509331402939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 89
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fc3576d202efc80800000000000000
+      internalID: -8287150884935971002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 89
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe32420abb40e710800000000000000
+      internalID: 1720458319929425656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 89
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7238b3fce9b0870800000000000000
+      internalID: 8650182122189039523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 89
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e4264404f154630800000000000000
+      internalID: 3910566212326805101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c34b701e5b19c550800000000000000
+      internalID: 6181502054360105927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff73c8db7030a50800000000000000
+      internalID: 6486036399026339753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed70a15cc4c84b00800000000000000
+      internalID: 813116114562219499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bc72665c2b983b0800000000000000
+      internalID: -5509676108218905757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079cb11c709f07e0800000000000000
+      internalID: -1797058863749622010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_chest_blue_robe_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5c3bd6312e98c0800000000000000
+      internalID: -3990715700313564242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_1_armor_chest_blue_robe_0: 4201656349403562781
+      character_slash_1_armor_chest_blue_robe_1: 7467843247019945710
+      character_slash_1_armor_chest_blue_robe_10: -3787001541619998268
+      character_slash_1_armor_chest_blue_robe_11: -4235954807666683322
+      character_slash_1_armor_chest_blue_robe_12: -2137730967855803782
+      character_slash_1_armor_chest_blue_robe_13: -6660666509331402939
+      character_slash_1_armor_chest_blue_robe_14: -8287150884935971002
+      character_slash_1_armor_chest_blue_robe_15: 1720458319929425656
+      character_slash_1_armor_chest_blue_robe_16: 8650182122189039523
+      character_slash_1_armor_chest_blue_robe_17: 3910566212326805101
+      character_slash_1_armor_chest_blue_robe_18: 6181502054360105927
+      character_slash_1_armor_chest_blue_robe_19: 6486036399026339753
+      character_slash_1_armor_chest_blue_robe_2: -5623849051355277472
+      character_slash_1_armor_chest_blue_robe_20: 813116114562219499
+      character_slash_1_armor_chest_blue_robe_21: -5509676108218905757
+      character_slash_1_armor_chest_blue_robe_22: -1797058863749622010
+      character_slash_1_armor_chest_blue_robe_23: -3990715700313564242
+      character_slash_1_armor_chest_blue_robe_3: -4993565326816719317
+      character_slash_1_armor_chest_blue_robe_4: 4415999501318657911
+      character_slash_1_armor_chest_blue_robe_5: 704901806637659132
+      character_slash_1_armor_chest_blue_robe_6: 775033274745558021
+      character_slash_1_armor_chest_blue_robe_7: 325424484802746447
+      character_slash_1_armor_chest_blue_robe_8: 7936761664792498577
+      character_slash_1_armor_chest_blue_robe_9: 3925034292209997793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

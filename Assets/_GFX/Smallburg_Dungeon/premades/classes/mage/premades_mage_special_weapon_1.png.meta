@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b453c7d2478cd1f4e8a425d504cd5924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1912489112006288131
+    second: premades_mage_special_weapon_1_0
+  - first:
+      213: 520524856679038339
+    second: premades_mage_special_weapon_1_1
+  - first:
+      213: 2792052493231304352
+    second: premades_mage_special_weapon_1_2
+  - first:
+      213: -3073626239431981185
+    second: premades_mage_special_weapon_1_3
+  - first:
+      213: -9078966615736611550
+    second: premades_mage_special_weapon_1_4
+  - first:
+      213: -9089813447987977677
+    second: premades_mage_special_weapon_1_5
+  - first:
+      213: 3777944141121915772
+    second: premades_mage_special_weapon_1_6
+  - first:
+      213: -1132609118580293909
+    second: premades_mage_special_weapon_1_7
+  - first:
+      213: -3523450041891958051
+    second: premades_mage_special_weapon_1_8
+  - first:
+      213: 7404914119164210373
+    second: premades_mage_special_weapon_1_9
+  - first:
+      213: -6688064488800428893
+    second: premades_mage_special_weapon_1_10
+  - first:
+      213: -3200150692572199480
+    second: premades_mage_special_weapon_1_11
+  - first:
+      213: -8473217355594701493
+    second: premades_mage_special_weapon_1_12
+  - first:
+      213: 799865434683620193
+    second: premades_mage_special_weapon_1_13
+  - first:
+      213: -9003166506366411696
+    second: premades_mage_special_weapon_1_14
+  - first:
+      213: 7577155964616114137
+    second: premades_mage_special_weapon_1_15
+  - first:
+      213: 5045221910501959399
+    second: premades_mage_special_weapon_1_16
+  - first:
+      213: -506686570713420527
+    second: premades_mage_special_weapon_1_17
+  - first:
+      213: 4525957411080705855
+    second: premades_mage_special_weapon_1_18
+  - first:
+      213: -2848085100276767009
+    second: premades_mage_special_weapon_1_19
+  - first:
+      213: 6267089968841332159
+    second: premades_mage_special_weapon_1_20
+  - first:
+      213: -4527659695910785320
+    second: premades_mage_special_weapon_1_21
+  - first:
+      213: -7021400858700458307
+    second: premades_mage_special_weapon_1_22
+  - first:
+      213: -4864432990258959898
+    second: premades_mage_special_weapon_1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 213
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303efede6b68a8a10800000000000000
+      internalID: 1912489112006288131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d7d1b6996493700800000000000000
+      internalID: 520524856679038339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 206
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeab4d13fc5fb620800000000000000
+      internalID: 2792052493231304352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 206
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77465258394855d0800000000000000
+      internalID: -3073626239431981185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 206
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d836527f7010280800000000000000
+      internalID: -9078966615736611550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 206
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332ab1634de7ad180800000000000000
+      internalID: -9089813447987977677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b07d01e24fd6430800000000000000
+      internalID: 3777944141121915772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 149
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee37a9e10a2840f0800000000000000
+      internalID: -1132609118580293909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 142
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2d13ddad03a1fc0800000000000000
+      internalID: -3523450041891958051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 142
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccae01982a83c660800000000000000
+      internalID: 7404914119164210373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 142
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac552648c83f23a0800000000000000
+      internalID: -6688064488800428893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 142
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5838576e7c693d0800000000000000
+      internalID: -3200150692572199480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b456a1745b5196a80800000000000000
+      internalID: -8473217355594701493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3e6eff51b91b00800000000000000
+      internalID: 799865434683620193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cd55663c35e0380800000000000000
+      internalID: -9003166506366411696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dffcae4437772960800000000000000
+      internalID: 7577155964616114137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 78
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ac7cc89a340640800000000000000
+      internalID: 5045221910501959399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 78
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d6a2c9f33e7f8f0800000000000000
+      internalID: -506686570713420527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37130c294e6fce30800000000000000
+      internalID: 4525957411080705855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6abebe0b19978d0800000000000000
+      internalID: -2848085100276767009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 17
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb593384f1d29f650800000000000000
+      internalID: 6267089968841332159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 17
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6261ce758a21c0800000000000000
+      internalID: -4527659695910785320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 21
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db65987be19fe8e90800000000000000
+      internalID: -7021400858700458307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_special_weapon_1_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e96cedd7ff0e7cb0800000000000000
+      internalID: -4864432990258959898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_mage_special_weapon_1_0: 1912489112006288131
+      premades_mage_special_weapon_1_1: 520524856679038339
+      premades_mage_special_weapon_1_10: -6688064488800428893
+      premades_mage_special_weapon_1_11: -3200150692572199480
+      premades_mage_special_weapon_1_12: -8473217355594701493
+      premades_mage_special_weapon_1_13: 799865434683620193
+      premades_mage_special_weapon_1_14: -9003166506366411696
+      premades_mage_special_weapon_1_15: 7577155964616114137
+      premades_mage_special_weapon_1_16: 5045221910501959399
+      premades_mage_special_weapon_1_17: -506686570713420527
+      premades_mage_special_weapon_1_18: 4525957411080705855
+      premades_mage_special_weapon_1_19: -2848085100276767009
+      premades_mage_special_weapon_1_2: 2792052493231304352
+      premades_mage_special_weapon_1_20: 6267089968841332159
+      premades_mage_special_weapon_1_21: -4527659695910785320
+      premades_mage_special_weapon_1_22: -7021400858700458307
+      premades_mage_special_weapon_1_23: -4864432990258959898
+      premades_mage_special_weapon_1_3: -3073626239431981185
+      premades_mage_special_weapon_1_4: -9078966615736611550
+      premades_mage_special_weapon_1_5: -9089813447987977677
+      premades_mage_special_weapon_1_6: 3777944141121915772
+      premades_mage_special_weapon_1_7: -1132609118580293909
+      premades_mage_special_weapon_1_8: -3523450041891958051
+      premades_mage_special_weapon_1_9: 7404914119164210373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

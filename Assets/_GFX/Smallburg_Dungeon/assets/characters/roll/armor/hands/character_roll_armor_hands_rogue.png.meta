@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d8e0432c9539cc549801ca1af36bba0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2553265712807502069
+    second: character_roll_armor_hands_rogue_0
+  - first:
+      213: 6299665017569755992
+    second: character_roll_armor_hands_rogue_1
+  - first:
+      213: -2854812339425215667
+    second: character_roll_armor_hands_rogue_2
+  - first:
+      213: 7656163664535217877
+    second: character_roll_armor_hands_rogue_3
+  - first:
+      213: 3942710469641587212
+    second: character_roll_armor_hands_rogue_4
+  - first:
+      213: 9148612213912833879
+    second: character_roll_armor_hands_rogue_5
+  - first:
+      213: 4713106587111179880
+    second: character_roll_armor_hands_rogue_6
+  - first:
+      213: -8105061340358029544
+    second: character_roll_armor_hands_rogue_7
+  - first:
+      213: 2462940665903702832
+    second: character_roll_armor_hands_rogue_8
+  - first:
+      213: -4884457051700782546
+    second: character_roll_armor_hands_rogue_9
+  - first:
+      213: 2144824236773495936
+    second: character_roll_armor_hands_rogue_10
+  - first:
+      213: -1377622088250727955
+    second: character_roll_armor_hands_rogue_11
+  - first:
+      213: -4763445406203009670
+    second: character_roll_armor_hands_rogue_12
+  - first:
+      213: 3237676725208722973
+    second: character_roll_armor_hands_rogue_13
+  - first:
+      213: -2175969903397072670
+    second: character_roll_armor_hands_rogue_14
+  - first:
+      213: 6001898884691815397
+    second: character_roll_armor_hands_rogue_15
+  - first:
+      213: -8178350066389306551
+    second: character_roll_armor_hands_rogue_16
+  - first:
+      213: 4275251621083355955
+    second: character_roll_armor_hands_rogue_17
+  - first:
+      213: 7533679539973812868
+    second: character_roll_armor_hands_rogue_18
+  - first:
+      213: -8364683278966216073
+    second: character_roll_armor_hands_rogue_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 219
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f9ceaac5af09cd0800000000000000
+      internalID: -2553265712807502069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8534338d4f7ec6750800000000000000
+      internalID: 6299665017569755992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b78208d4ba168d0800000000000000
+      internalID: -2854812339425215667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 217
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6efdee948204a60800000000000000
+      internalID: 7656163664535217877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a4333684257b630800000000000000
+      internalID: 3942710469641587212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 216
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f031e465666fe70800000000000000
+      internalID: 9148612213912833879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 155
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866c0594871586140800000000000000
+      internalID: 4713106587111179880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f453547a9058f80800000000000000
+      internalID: -8105061340358029544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033ed068c7f1e2220800000000000000
+      internalID: 2462940665903702832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 153
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a19b0c03ce63cb0800000000000000
+      internalID: -4884457051700782546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08458829742f3cd10800000000000000
+      internalID: 2144824236773495936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1651b7204b1ece0800000000000000
+      internalID: -1377622088250727955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ad4014a7d4edb0800000000000000
+      internalID: -4763445406203009670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 29
+        width: 15
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ead9fd3d98eec20800000000000000
+      internalID: 3237676725208722973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 25
+        width: 207
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e09312d6e66dc1e0800000000000000
+      internalID: -2175969903397072670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb6ed77c370b4350800000000000000
+      internalID: 6001898884691815397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943b21402f9a08e80800000000000000
+      internalID: -8178350066389306551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1618b2beb45b30800000000000000
+      internalID: 4275251621083355955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48274cf50a10d8860800000000000000
+      internalID: 7533679539973812868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_armor_hands_rogue_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 25
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aa19230ecaaeb80800000000000000
+      internalID: -8364683278966216073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_armor_hands_rogue_0: -2553265712807502069
+      character_roll_armor_hands_rogue_1: 6299665017569755992
+      character_roll_armor_hands_rogue_10: 2144824236773495936
+      character_roll_armor_hands_rogue_11: -1377622088250727955
+      character_roll_armor_hands_rogue_12: -4763445406203009670
+      character_roll_armor_hands_rogue_13: 3237676725208722973
+      character_roll_armor_hands_rogue_14: -2175969903397072670
+      character_roll_armor_hands_rogue_15: 6001898884691815397
+      character_roll_armor_hands_rogue_16: -8178350066389306551
+      character_roll_armor_hands_rogue_17: 4275251621083355955
+      character_roll_armor_hands_rogue_18: 7533679539973812868
+      character_roll_armor_hands_rogue_19: -8364683278966216073
+      character_roll_armor_hands_rogue_2: -2854812339425215667
+      character_roll_armor_hands_rogue_3: 7656163664535217877
+      character_roll_armor_hands_rogue_4: 3942710469641587212
+      character_roll_armor_hands_rogue_5: 9148612213912833879
+      character_roll_armor_hands_rogue_6: 4713106587111179880
+      character_roll_armor_hands_rogue_7: -8105061340358029544
+      character_roll_armor_hands_rogue_8: 2462940665903702832
+      character_roll_armor_hands_rogue_9: -4884457051700782546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

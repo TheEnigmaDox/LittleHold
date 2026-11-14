@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 9ce8cf77906ca7447a9861075d54bb81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6392168800852043857
+    second: character_slash_2_dark_skin_0
+  - first:
+      213: 686304368115313603
+    second: character_slash_2_dark_skin_1
+  - first:
+      213: 2537185613567481974
+    second: character_slash_2_dark_skin_2
+  - first:
+      213: -1493172570223329590
+    second: character_slash_2_dark_skin_3
+  - first:
+      213: 4157712902756992621
+    second: character_slash_2_dark_skin_4
+  - first:
+      213: -8534917731361210177
+    second: character_slash_2_dark_skin_5
+  - first:
+      213: 311093224072632966
+    second: character_slash_2_dark_skin_6
+  - first:
+      213: -8399312707491876386
+    second: character_slash_2_dark_skin_7
+  - first:
+      213: 6461320581243769996
+    second: character_slash_2_dark_skin_8
+  - first:
+      213: -276990953130842035
+    second: character_slash_2_dark_skin_9
+  - first:
+      213: 4090804756671944409
+    second: character_slash_2_dark_skin_10
+  - first:
+      213: 2103998169268484971
+    second: character_slash_2_dark_skin_11
+  - first:
+      213: -340649049691905760
+    second: character_slash_2_dark_skin_12
+  - first:
+      213: -529376697071572359
+    second: character_slash_2_dark_skin_13
+  - first:
+      213: 4393357614599714133
+    second: character_slash_2_dark_skin_14
+  - first:
+      213: -7409646128019106412
+    second: character_slash_2_dark_skin_15
+  - first:
+      213: -8263114200616043740
+    second: character_slash_2_dark_skin_16
+  - first:
+      213: -5727963535660184741
+    second: character_slash_2_dark_skin_17
+  - first:
+      213: 5161335851182756634
+    second: character_slash_2_dark_skin_18
+  - first:
+      213: 1593327418063171324
+    second: character_slash_2_dark_skin_19
+  - first:
+      213: 8138200458079102940
+    second: character_slash_2_dark_skin_20
+  - first:
+      213: -6829790211116471796
+    second: character_slash_2_dark_skin_21
+  - first:
+      213: 3522127604645253660
+    second: character_slash_2_dark_skin_22
+  - first:
+      213: -7200803722703230536
+    second: character_slash_2_dark_skin_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 212
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa711e0c7547a47a0800000000000000
+      internalID: -6392168800852043857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbef45cf2e368900800000000000000
+      internalID: 686304368115313603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 211
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678dbe97fd4e53320800000000000000
+      internalID: 2537185613567481974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 211
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace3b73657f274be0800000000000000
+      internalID: -1493172570223329590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6683e64bd923b930800000000000000
+      internalID: 4157712902756992621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb048031b81ed8980800000000000000
+      internalID: -8534917731361210177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a51e893a9315400800000000000000
+      internalID: 311093224072632966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1b5801895af6b80800000000000000
+      internalID: -8399312707491876386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 147
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8494f8c5d83ba950800000000000000
+      internalID: 6461320581243769996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48a3a8123ee72cf0800000000000000
+      internalID: -276990953130842035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 149
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6d8ee804575c830800000000000000
+      internalID: 4090804756671944409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 149
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf15fff27e23d10800000000000000
+      internalID: 2103998169268484971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 85
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0212a008e75c54bf0800000000000000
+      internalID: -340649049691905760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aeda2e2b647a8f0800000000000000
+      internalID: -529376697071572359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553975397758fc30800000000000000
+      internalID: 4393357614599714133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4959214ca16ab2990800000000000000
+      internalID: -7409646128019106412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b7bc51a65835d80800000000000000
+      internalID: -8263114200616043740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b859a238f2280b0800000000000000
+      internalID: -5727963535660184741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a139c385c9fb0a740800000000000000
+      internalID: 5161335851182756634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeab8c48d2ac1610800000000000000
+      internalID: 1593327418063171324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e9b6d232b0f070800000000000000
+      internalID: 8138200458079102940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a66ff1df5b731a0800000000000000
+      internalID: -6829790211116471796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 21
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c125a78356c11e030800000000000000
+      internalID: 3522127604645253660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_dark_skin_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 21
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9a6fa6a2b911c90800000000000000
+      internalID: -7200803722703230536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_2_dark_skin_0: -6392168800852043857
+      character_slash_2_dark_skin_1: 686304368115313603
+      character_slash_2_dark_skin_10: 4090804756671944409
+      character_slash_2_dark_skin_11: 2103998169268484971
+      character_slash_2_dark_skin_12: -340649049691905760
+      character_slash_2_dark_skin_13: -529376697071572359
+      character_slash_2_dark_skin_14: 4393357614599714133
+      character_slash_2_dark_skin_15: -7409646128019106412
+      character_slash_2_dark_skin_16: -8263114200616043740
+      character_slash_2_dark_skin_17: -5727963535660184741
+      character_slash_2_dark_skin_18: 5161335851182756634
+      character_slash_2_dark_skin_19: 1593327418063171324
+      character_slash_2_dark_skin_2: 2537185613567481974
+      character_slash_2_dark_skin_20: 8138200458079102940
+      character_slash_2_dark_skin_21: -6829790211116471796
+      character_slash_2_dark_skin_22: 3522127604645253660
+      character_slash_2_dark_skin_23: -7200803722703230536
+      character_slash_2_dark_skin_3: -1493172570223329590
+      character_slash_2_dark_skin_4: 4157712902756992621
+      character_slash_2_dark_skin_5: -8534917731361210177
+      character_slash_2_dark_skin_6: 311093224072632966
+      character_slash_2_dark_skin_7: -8399312707491876386
+      character_slash_2_dark_skin_8: 6461320581243769996
+      character_slash_2_dark_skin_9: -276990953130842035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

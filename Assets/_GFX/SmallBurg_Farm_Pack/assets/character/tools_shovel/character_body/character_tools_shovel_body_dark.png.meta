@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 374e2527a8c92c94a96c74ec07ab7fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 166995332551189691
+    second: character_tools_shovel_body_dark_0
+  - first:
+      213: -3735192987124847111
+    second: character_tools_shovel_body_dark_1
+  - first:
+      213: -296452252329398207
+    second: character_tools_shovel_body_dark_2
+  - first:
+      213: -7973393250552435891
+    second: character_tools_shovel_body_dark_3
+  - first:
+      213: 2701133669058284798
+    second: character_tools_shovel_body_dark_4
+  - first:
+      213: 5061838880385594276
+    second: character_tools_shovel_body_dark_5
+  - first:
+      213: 4204314399136253430
+    second: character_tools_shovel_body_dark_6
+  - first:
+      213: 60184985656529178
+    second: character_tools_shovel_body_dark_7
+  - first:
+      213: 3330440626305620077
+    second: character_tools_shovel_body_dark_8
+  - first:
+      213: 3425250102700640211
+    second: character_tools_shovel_body_dark_9
+  - first:
+      213: 6550365681711865175
+    second: character_tools_shovel_body_dark_10
+  - first:
+      213: -7219483411811748456
+    second: character_tools_shovel_body_dark_11
+  - first:
+      213: 7717841050773908658
+    second: character_tools_shovel_body_dark_12
+  - first:
+      213: 5096781504344100602
+    second: character_tools_shovel_body_dark_13
+  - first:
+      213: 873498589633619470
+    second: character_tools_shovel_body_dark_14
+  - first:
+      213: 4244109818720010391
+    second: character_tools_shovel_body_dark_15
+  - first:
+      213: 1298232532383145235
+    second: character_tools_shovel_body_dark_16
+  - first:
+      213: -2676928918064297638
+    second: character_tools_shovel_body_dark_17
+  - first:
+      213: -6416324171808290532
+    second: character_tools_shovel_body_dark_18
+  - first:
+      213: -8015208654475922084
+    second: character_tools_shovel_body_dark_19
+  - first:
+      213: -3499580976721998562
+    second: character_tools_shovel_body_dark_20
+  - first:
+      213: 4654103155007274039
+    second: character_tools_shovel_body_dark_21
+  - first:
+      213: 1950969189472905313
+    second: character_tools_shovel_body_dark_22
+  - first:
+      213: -5827202260953406225
+    second: character_tools_shovel_body_dark_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4acd3ce59415200800000000000000
+      internalID: 166995332551189691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 213
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fda4e2a4cde92cc0800000000000000
+      internalID: -3735192987124847111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 213
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140ba074f3ac2ebf0800000000000000
+      internalID: -296452252329398207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b235e5511d85190800000000000000
+      internalID: -7973393250552435891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 212
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc0113c2ca5c7520800000000000000
+      internalID: 2701133669058284798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f4a794a34f3640800000000000000
+      internalID: 5061838880385594276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5839caba9b85a30800000000000000
+      internalID: 4204314399136253430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 149
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119ed2fce1d5d000800000000000000
+      internalID: 60184985656529178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 149
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d97caa1a183e20800000000000000
+      internalID: 3330440626305620077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 149
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7875612dee88f20800000000000000
+      internalID: 3425250102700640211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 148
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d5857d1e297ea50800000000000000
+      internalID: 6550365681711865175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 149
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b221661e3fcb90800000000000000
+      internalID: -7219483411811748456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc6e487b874b1b60800000000000000
+      internalID: 7717841050773908658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe063836c76bb640800000000000000
+      internalID: 5096781504344100602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 82
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06aaead65a4f1c00800000000000000
+      internalID: 873498589633619470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 82
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790cd84d46b16ea30800000000000000
+      internalID: 4244109818720010391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 82
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9d802c9f340210800000000000000
+      internalID: 1298232532383145235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 82
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a598ecdf453a9dad0800000000000000
+      internalID: -2676928918064297638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c194d9f2923a4f6a0800000000000000
+      internalID: -6416324171808290532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557355f13244c090800000000000000
+      internalID: -8015208654475922084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d45cba4adfe6fc0800000000000000
+      internalID: -3499580976721998562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cbb363922b69040800000000000000
+      internalID: 4654103155007274039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 21
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168a342242c331b10800000000000000
+      internalID: 1950969189472905313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_body_dark_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 21
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4e481ea6e912fa0800000000000000
+      internalID: -5827202260953406225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_body_dark_0: 166995332551189691
+      character_tools_shovel_body_dark_1: -3735192987124847111
+      character_tools_shovel_body_dark_10: 6550365681711865175
+      character_tools_shovel_body_dark_11: -7219483411811748456
+      character_tools_shovel_body_dark_12: 7717841050773908658
+      character_tools_shovel_body_dark_13: 5096781504344100602
+      character_tools_shovel_body_dark_14: 873498589633619470
+      character_tools_shovel_body_dark_15: 4244109818720010391
+      character_tools_shovel_body_dark_16: 1298232532383145235
+      character_tools_shovel_body_dark_17: -2676928918064297638
+      character_tools_shovel_body_dark_18: -6416324171808290532
+      character_tools_shovel_body_dark_19: -8015208654475922084
+      character_tools_shovel_body_dark_2: -296452252329398207
+      character_tools_shovel_body_dark_20: -3499580976721998562
+      character_tools_shovel_body_dark_21: 4654103155007274039
+      character_tools_shovel_body_dark_22: 1950969189472905313
+      character_tools_shovel_body_dark_23: -5827202260953406225
+      character_tools_shovel_body_dark_3: -7973393250552435891
+      character_tools_shovel_body_dark_4: 2701133669058284798
+      character_tools_shovel_body_dark_5: 5061838880385594276
+      character_tools_shovel_body_dark_6: 4204314399136253430
+      character_tools_shovel_body_dark_7: 60184985656529178
+      character_tools_shovel_body_dark_8: 3330440626305620077
+      character_tools_shovel_body_dark_9: 3425250102700640211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

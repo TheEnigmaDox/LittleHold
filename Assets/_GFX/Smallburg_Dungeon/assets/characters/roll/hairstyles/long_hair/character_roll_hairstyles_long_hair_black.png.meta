@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 0a6aab840c70100469f54d7039e3c814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -837318629921597705
+    second: character_roll_hairstyles_long_hair_black_0
+  - first:
+      213: 9176836231601955995
+    second: character_roll_hairstyles_long_hair_black_1
+  - first:
+      213: -3507815168827103073
+    second: character_roll_hairstyles_long_hair_black_2
+  - first:
+      213: 651066661684465414
+    second: character_roll_hairstyles_long_hair_black_3
+  - first:
+      213: -1571151414531177535
+    second: character_roll_hairstyles_long_hair_black_4
+  - first:
+      213: -2102936430587243424
+    second: character_roll_hairstyles_long_hair_black_5
+  - first:
+      213: -3209582397982068581
+    second: character_roll_hairstyles_long_hair_black_6
+  - first:
+      213: -5157621252448099572
+    second: character_roll_hairstyles_long_hair_black_7
+  - first:
+      213: 5150723876116808222
+    second: character_roll_hairstyles_long_hair_black_8
+  - first:
+      213: -547726648871598643
+    second: character_roll_hairstyles_long_hair_black_9
+  - first:
+      213: -3945415806519167199
+    second: character_roll_hairstyles_long_hair_black_10
+  - first:
+      213: -3257353286490875406
+    second: character_roll_hairstyles_long_hair_black_11
+  - first:
+      213: 9148804029986799834
+    second: character_roll_hairstyles_long_hair_black_12
+  - first:
+      213: -6142725245988047668
+    second: character_roll_hairstyles_long_hair_black_13
+  - first:
+      213: 1903383870962232766
+    second: character_roll_hairstyles_long_hair_black_14
+  - first:
+      213: 4965465404173108131
+    second: character_roll_hairstyles_long_hair_black_15
+  - first:
+      213: 5860399950213065438
+    second: character_roll_hairstyles_long_hair_black_16
+  - first:
+      213: 354052183591408006
+    second: character_roll_hairstyles_long_hair_black_17
+  - first:
+      213: -8009673018355820190
+    second: character_roll_hairstyles_long_hair_black_18
+  - first:
+      213: -5989276792899611950
+    second: character_roll_hairstyles_long_hair_black_19
+  - first:
+      213: -2129501009051046210
+    second: character_roll_hairstyles_long_hair_black_20
+  - first:
+      213: -594681318782446121
+    second: character_roll_hairstyles_long_hair_black_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 222
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d4b3742f3164f0800000000000000
+      internalID: -837318629921597705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 216
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94a1928eebaa5f70800000000000000
+      internalID: 9176836231601955995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 216
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98655c60bcb15fc0800000000000000
+      internalID: -3507815168827103073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 214
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f4dc6edad090900800000000000000
+      internalID: 651066661684465414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 219
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c34480ec16223ae0800000000000000
+      internalID: -1571151414531177535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0649e9d457ed0d2e0800000000000000
+      internalID: -2102936430587243424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 158
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90beea60d54573d0800000000000000
+      internalID: -3209582397982068581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 152
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0363d11cc27c68b0800000000000000
+      internalID: -5157621252448099572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 152
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12c01c531c0b7740800000000000000
+      internalID: 5150723876116808222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 150
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc54efbc3851668f0800000000000000
+      internalID: -547726648871598643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 155
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b6394a311f39c0800000000000000
+      internalID: -3945415806519167199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f992c2b17e8bc2d0800000000000000
+      internalID: -3257353286490875406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad08607fac417fe70800000000000000
+      internalID: 9148804029986799834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4fe003fe7a0caa0800000000000000
+      internalID: -6142725245988047668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 88
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd69ebcb8d2a6a10800000000000000
+      internalID: 1903383870962232766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3ca381a70e8e440800000000000000
+      internalID: 4965465404173108131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaaa2a74b2545150800000000000000
+      internalID: 5860399950213065438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681daeac598d9e400800000000000000
+      internalID: 354052183591408006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269dedda3dce7d090800000000000000
+      internalID: -8009673018355820190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d25ab94d70d1eca0800000000000000
+      internalID: -5989276792899611950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe2da66d1e7272e0800000000000000
+      internalID: -2129501009051046210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_long_hair_black_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d55967cd744fb7f0800000000000000
+      internalID: -594681318782446121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_long_hair_black_0: -837318629921597705
+      character_roll_hairstyles_long_hair_black_1: 9176836231601955995
+      character_roll_hairstyles_long_hair_black_10: -3945415806519167199
+      character_roll_hairstyles_long_hair_black_11: -3257353286490875406
+      character_roll_hairstyles_long_hair_black_12: 9148804029986799834
+      character_roll_hairstyles_long_hair_black_13: -6142725245988047668
+      character_roll_hairstyles_long_hair_black_14: 1903383870962232766
+      character_roll_hairstyles_long_hair_black_15: 4965465404173108131
+      character_roll_hairstyles_long_hair_black_16: 5860399950213065438
+      character_roll_hairstyles_long_hair_black_17: 354052183591408006
+      character_roll_hairstyles_long_hair_black_18: -8009673018355820190
+      character_roll_hairstyles_long_hair_black_19: -5989276792899611950
+      character_roll_hairstyles_long_hair_black_2: -3507815168827103073
+      character_roll_hairstyles_long_hair_black_20: -2129501009051046210
+      character_roll_hairstyles_long_hair_black_21: -594681318782446121
+      character_roll_hairstyles_long_hair_black_3: 651066661684465414
+      character_roll_hairstyles_long_hair_black_4: -1571151414531177535
+      character_roll_hairstyles_long_hair_black_5: -2102936430587243424
+      character_roll_hairstyles_long_hair_black_6: -3209582397982068581
+      character_roll_hairstyles_long_hair_black_7: -5157621252448099572
+      character_roll_hairstyles_long_hair_black_8: 5150723876116808222
+      character_roll_hairstyles_long_hair_black_9: -547726648871598643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

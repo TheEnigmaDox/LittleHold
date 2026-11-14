@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 0a2b65060c761324f8a3261770791c3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4030781347543786574
+    second: character_jump_armor_head_headband_0
+  - first:
+      213: -7943602774142387029
+    second: character_jump_armor_head_headband_1
+  - first:
+      213: -6596555919939454724
+    second: character_jump_armor_head_headband_2
+  - first:
+      213: 1221625679133915886
+    second: character_jump_armor_head_headband_3
+  - first:
+      213: 5786980453432258538
+    second: character_jump_armor_head_headband_4
+  - first:
+      213: -3622765447338607818
+    second: character_jump_armor_head_headband_5
+  - first:
+      213: -2467024289734744962
+    second: character_jump_armor_head_headband_6
+  - first:
+      213: -7706740321412832937
+    second: character_jump_armor_head_headband_7
+  - first:
+      213: -8755348470629468277
+    second: character_jump_armor_head_headband_8
+  - first:
+      213: -2958263961548633745
+    second: character_jump_armor_head_headband_9
+  - first:
+      213: 2333164315987695457
+    second: character_jump_armor_head_headband_10
+  - first:
+      213: -3400624211355640089
+    second: character_jump_armor_head_headband_11
+  - first:
+      213: 1305136593724282475
+    second: character_jump_armor_head_headband_12
+  - first:
+      213: 4433447426143435757
+    second: character_jump_armor_head_headband_13
+  - first:
+      213: 6628830256533567378
+    second: character_jump_armor_head_headband_14
+  - first:
+      213: -4008043287117901026
+    second: character_jump_armor_head_headband_15
+  - first:
+      213: -7501971409794571455
+    second: character_jump_armor_head_headband_16
+  - first:
+      213: 6600839464906057039
+    second: character_jump_armor_head_headband_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 227
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbd16c68b9cf08c0800000000000000
+      internalID: -4030781347543786574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 230
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac7f6a2d57a2c190800000000000000
+      internalID: -7943602774142387029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 229
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8320347535474a0800000000000000
+      internalID: -6596555919939454724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 227
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeab54d251614f010800000000000000
+      internalID: 1221625679133915886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef65f8cf0c7f4050800000000000000
+      internalID: 5786980453432258538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 223
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bb2d6150a59bdc0800000000000000
+      internalID: -3622765447338607818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 163
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74a916ba7e53cdd0800000000000000
+      internalID: -2467024289734744962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 166
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751220e72882c0590800000000000000
+      internalID: -7706740321412832937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 165
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87fe5b24f0ce7680800000000000000
+      internalID: -8755348470629468277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 163
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69cd0cb99222f6d0800000000000000
+      internalID: -2958263961548633745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16750117590116020800000000000000
+      internalID: 2333164315987695457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 159
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eedd8b0c4e8ec0d0800000000000000
+      internalID: -3400624211355640089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 35
+        width: 203
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b669c4c21d6cc1210800000000000000
+      internalID: 1305136593724282475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 99
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb36a5d1f4c68d30800000000000000
+      internalID: 4433447426143435757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 101
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2977b0d4ff55efb50800000000000000
+      internalID: 6628830256533567378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 99
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13d2faadd19068c0800000000000000
+      internalID: -4008043287117901026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 31
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143ee0cffb4a3e790800000000000000
+      internalID: -7501971409794571455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_head_headband_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45ea154584ea9b50800000000000000
+      internalID: 6600839464906057039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_armor_head_headband_0: -4030781347543786574
+      character_jump_armor_head_headband_1: -7943602774142387029
+      character_jump_armor_head_headband_10: 2333164315987695457
+      character_jump_armor_head_headband_11: -3400624211355640089
+      character_jump_armor_head_headband_12: 1305136593724282475
+      character_jump_armor_head_headband_13: 4433447426143435757
+      character_jump_armor_head_headband_14: 6628830256533567378
+      character_jump_armor_head_headband_15: -4008043287117901026
+      character_jump_armor_head_headband_16: -7501971409794571455
+      character_jump_armor_head_headband_17: 6600839464906057039
+      character_jump_armor_head_headband_2: -6596555919939454724
+      character_jump_armor_head_headband_3: 1221625679133915886
+      character_jump_armor_head_headband_4: 5786980453432258538
+      character_jump_armor_head_headband_5: -3622765447338607818
+      character_jump_armor_head_headband_6: -2467024289734744962
+      character_jump_armor_head_headband_7: -7706740321412832937
+      character_jump_armor_head_headband_8: -8755348470629468277
+      character_jump_armor_head_headband_9: -2958263961548633745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

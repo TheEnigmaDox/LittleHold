@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: e2218326b95bb3d4881d5c451f1afc0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8856783719187600814
+    second: character_tools_shovel_armor_hands_rogue_0
+  - first:
+      213: 6709587985269455452
+    second: character_tools_shovel_armor_hands_rogue_1
+  - first:
+      213: 1273186390087738010
+    second: character_tools_shovel_armor_hands_rogue_2
+  - first:
+      213: -8487779061088698355
+    second: character_tools_shovel_armor_hands_rogue_3
+  - first:
+      213: 8196712560770327757
+    second: character_tools_shovel_armor_hands_rogue_4
+  - first:
+      213: -2090000807493322119
+    second: character_tools_shovel_armor_hands_rogue_5
+  - first:
+      213: 1904613197201186407
+    second: character_tools_shovel_armor_hands_rogue_6
+  - first:
+      213: -8340548722547578889
+    second: character_tools_shovel_armor_hands_rogue_7
+  - first:
+      213: 2364735387370321501
+    second: character_tools_shovel_armor_hands_rogue_8
+  - first:
+      213: -6473867436299218136
+    second: character_tools_shovel_armor_hands_rogue_9
+  - first:
+      213: -7681085936338433577
+    second: character_tools_shovel_armor_hands_rogue_10
+  - first:
+      213: 6871593738161613434
+    second: character_tools_shovel_armor_hands_rogue_11
+  - first:
+      213: -3505984550669717101
+    second: character_tools_shovel_armor_hands_rogue_12
+  - first:
+      213: 6385077181079273142
+    second: character_tools_shovel_armor_hands_rogue_13
+  - first:
+      213: -7856868230367256302
+    second: character_tools_shovel_armor_hands_rogue_14
+  - first:
+      213: 6566947706889735532
+    second: character_tools_shovel_armor_hands_rogue_15
+  - first:
+      213: -4062856568931499255
+    second: character_tools_shovel_armor_hands_rogue_16
+  - first:
+      213: 5752249087016225401
+    second: character_tools_shovel_armor_hands_rogue_17
+  - first:
+      213: -2138689047963254756
+    second: character_tools_shovel_armor_hands_rogue_18
+  - first:
+      213: -6192711184327942077
+    second: character_tools_shovel_armor_hands_rogue_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2c55f122661580800000000000000
+      internalID: -8856783719187600814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5af63349be3d1d50800000000000000
+      internalID: 6709587985269455452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 216
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92aa02b6444ba110800000000000000
+      internalID: 1273186390087738010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d004fc30ae9553a80800000000000000
+      internalID: -8487779061088698355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4a2be55a290c170800000000000000
+      internalID: 8196712560770327757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 218
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ab411c653def2e0800000000000000
+      internalID: -2090000807493322119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 218
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e92bd9c9b8e6a10800000000000000
+      internalID: 1904613197201186407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a6b0802b604c80800000000000000
+      internalID: -8340548722547578889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f0005e4a31d020800000000000000
+      internalID: 2364735387370321501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8239a60edd33826a0800000000000000
+      internalID: -6473867436299218136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d98c4b790d476590800000000000000
+      internalID: -7681085936338433577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aebebf81ecc5f50800000000000000
+      internalID: 6871593738161613434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 154
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f25d60ad385fc0800000000000000
+      internalID: -3505984550669717101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 154
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bebea9ddd95c9850800000000000000
+      internalID: 6385077181079273142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21168e1d8fbc6f290800000000000000
+      internalID: -7856868230367256302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 12
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8abf652c722b50800000000000000
+      internalID: 6566947706889735532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903c97bf975dd97c0800000000000000
+      internalID: -4062856568931499255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aca23611814df40800000000000000
+      internalID: 5752249087016225401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10c12364a9d152e0800000000000000
+      internalID: -2138689047963254756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_rogue_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3406b8dfcf11f0aa0800000000000000
+      internalID: -6192711184327942077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_armor_hands_rogue_0: -8856783719187600814
+      character_tools_shovel_armor_hands_rogue_1: 6709587985269455452
+      character_tools_shovel_armor_hands_rogue_10: -7681085936338433577
+      character_tools_shovel_armor_hands_rogue_11: 6871593738161613434
+      character_tools_shovel_armor_hands_rogue_12: -3505984550669717101
+      character_tools_shovel_armor_hands_rogue_13: 6385077181079273142
+      character_tools_shovel_armor_hands_rogue_14: -7856868230367256302
+      character_tools_shovel_armor_hands_rogue_15: 6566947706889735532
+      character_tools_shovel_armor_hands_rogue_16: -4062856568931499255
+      character_tools_shovel_armor_hands_rogue_17: 5752249087016225401
+      character_tools_shovel_armor_hands_rogue_18: -2138689047963254756
+      character_tools_shovel_armor_hands_rogue_19: -6192711184327942077
+      character_tools_shovel_armor_hands_rogue_2: 1273186390087738010
+      character_tools_shovel_armor_hands_rogue_3: -8487779061088698355
+      character_tools_shovel_armor_hands_rogue_4: 8196712560770327757
+      character_tools_shovel_armor_hands_rogue_5: -2090000807493322119
+      character_tools_shovel_armor_hands_rogue_6: 1904613197201186407
+      character_tools_shovel_armor_hands_rogue_7: -8340548722547578889
+      character_tools_shovel_armor_hands_rogue_8: 2364735387370321501
+      character_tools_shovel_armor_hands_rogue_9: -6473867436299218136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: a13962d96f4839c4bbf04748cdbbb12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -329540854615236539
+    second: character_walk_armor_chest_knight_0
+  - first:
+      213: -3781826829356895413
+    second: character_walk_armor_chest_knight_1
+  - first:
+      213: 5092011015626702403
+    second: character_walk_armor_chest_knight_2
+  - first:
+      213: -1138928391307653518
+    second: character_walk_armor_chest_knight_3
+  - first:
+      213: 2174185687939879238
+    second: character_walk_armor_chest_knight_4
+  - first:
+      213: -4912651082948340624
+    second: character_walk_armor_chest_knight_5
+  - first:
+      213: 6279075638478000871
+    second: character_walk_armor_chest_knight_6
+  - first:
+      213: -1260275860443039468
+    second: character_walk_armor_chest_knight_7
+  - first:
+      213: -6505136110252015608
+    second: character_walk_armor_chest_knight_8
+  - first:
+      213: 4344008063986852638
+    second: character_walk_armor_chest_knight_9
+  - first:
+      213: 3618285989493541068
+    second: character_walk_armor_chest_knight_10
+  - first:
+      213: -3651565788724351857
+    second: character_walk_armor_chest_knight_11
+  - first:
+      213: 10135719390230080
+    second: character_walk_armor_chest_knight_12
+  - first:
+      213: -5816206553862243609
+    second: character_walk_armor_chest_knight_13
+  - first:
+      213: 5797675538776656539
+    second: character_walk_armor_chest_knight_14
+  - first:
+      213: -5994826394896522063
+    second: character_walk_armor_chest_knight_15
+  - first:
+      213: 1818795977113102078
+    second: character_walk_armor_chest_knight_16
+  - first:
+      213: -6982202095751983309
+    second: character_walk_armor_chest_knight_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 218
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5402ea5b65c3d6bf0800000000000000
+      internalID: -329540854615236539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43f3222980448bc0800000000000000
+      internalID: -3781826829356895413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 218
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3ec24a057aa640800000000000000
+      internalID: 5092011015626702403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e008399a6b130f0800000000000000
+      internalID: -1138928391307653518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 154
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64115652d524c2e10800000000000000
+      internalID: 2174185687939879238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0741d6f4ed1c2dbb0800000000000000
+      internalID: -4912651082948340624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 154
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e25a457602c32750800000000000000
+      internalID: 6279075638478000871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419fa4b38c9928ee0800000000000000
+      internalID: -1260275860443039468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800ccd46c2d19b5a0800000000000000
+      internalID: -6505136110252015608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136e539154094c30800000000000000
+      internalID: 4344008063986852638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 90
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8098bdfebb63230800000000000000
+      internalID: 3618285989493541068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cad111348035dc0800000000000000
+      internalID: -3651565788724351857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0463cc11262042000800000000000000
+      internalID: 10135719390230080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eafdb074fea84fa0800000000000000
+      internalID: -5816206553862243609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a01c36f2b757050800000000000000
+      internalID: 5797675538776656539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4ae02e7291ecca0800000000000000
+      internalID: -5994826394896522063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef66cb60e49ad3910800000000000000
+      internalID: 1818795977113102078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_knight_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f07bcef2c3a1f90800000000000000
+      internalID: -6982202095751983309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_armor_chest_knight_0: -329540854615236539
+      character_walk_armor_chest_knight_1: -3781826829356895413
+      character_walk_armor_chest_knight_10: 3618285989493541068
+      character_walk_armor_chest_knight_11: -3651565788724351857
+      character_walk_armor_chest_knight_12: 10135719390230080
+      character_walk_armor_chest_knight_13: -5816206553862243609
+      character_walk_armor_chest_knight_14: 5797675538776656539
+      character_walk_armor_chest_knight_15: -5994826394896522063
+      character_walk_armor_chest_knight_16: 1818795977113102078
+      character_walk_armor_chest_knight_17: -6982202095751983309
+      character_walk_armor_chest_knight_2: 5092011015626702403
+      character_walk_armor_chest_knight_3: -1138928391307653518
+      character_walk_armor_chest_knight_4: 2174185687939879238
+      character_walk_armor_chest_knight_5: -4912651082948340624
+      character_walk_armor_chest_knight_6: 6279075638478000871
+      character_walk_armor_chest_knight_7: -1260275860443039468
+      character_walk_armor_chest_knight_8: -6505136110252015608
+      character_walk_armor_chest_knight_9: 4344008063986852638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

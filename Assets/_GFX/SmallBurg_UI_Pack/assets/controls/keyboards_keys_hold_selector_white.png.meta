@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 8d1bc037bea5748419c06818515a943f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2215774212006951579
+    second: keyboards_keys_hold_selector_white_0
+  - first:
+      213: -2086385692705554082
+    second: keyboards_keys_hold_selector_white_1
+  - first:
+      213: 352476012599876669
+    second: keyboards_keys_hold_selector_white_2
+  - first:
+      213: -5389202025021412650
+    second: keyboards_keys_hold_selector_white_3
+  - first:
+      213: -8657990615850075687
+    second: keyboards_keys_hold_selector_white_4
+  - first:
+      213: 5957803605738108665
+    second: keyboards_keys_hold_selector_white_5
+  - first:
+      213: -5551179814624506459
+    second: keyboards_keys_hold_selector_white_6
+  - first:
+      213: 2176046475394769911
+    second: keyboards_keys_hold_selector_white_7
+  - first:
+      213: 2604980014955658087
+    second: keyboards_keys_hold_selector_white_8
+  - first:
+      213: 6008484879283505416
+    second: keyboards_keys_hold_selector_white_9
+  - first:
+      213: -7767724380127512638
+    second: keyboards_keys_hold_selector_white_10
+  - first:
+      213: -6312779957223438170
+    second: keyboards_keys_hold_selector_white_11
+  - first:
+      213: 5438562587809022777
+    second: keyboards_keys_hold_selector_white_12
+  - first:
+      213: 1626026744141330727
+    second: keyboards_keys_hold_selector_white_13
+  - first:
+      213: 7919294909840717450
+    second: keyboards_keys_hold_selector_white_14
+  - first:
+      213: -3181352955664018110
+    second: keyboards_keys_hold_selector_white_15
+  - first:
+      213: 4475046076295107934
+    second: keyboards_keys_hold_selector_white_16
+  - first:
+      213: -6712763710961367183
+    second: keyboards_keys_hold_selector_white_17
+  - first:
+      213: -2885837412898400432
+    second: keyboards_keys_hold_selector_white_18
+  - first:
+      213: 6069024134165368629
+    second: keyboards_keys_hold_selector_white_19
+  - first:
+      213: -2283441425568006019
+    second: keyboards_keys_hold_selector_white_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cad6081dff31e0800000000000000
+      internalID: -2215774212006951579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5104d1444bab03e0800000000000000
+      internalID: -2086385692705554082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c9cd2e01f34e400800000000000000
+      internalID: 352476012599876669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da68cbbf45b535b0800000000000000
+      internalID: -5389202025021412650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d937992863a8d780800000000000000
+      internalID: -8657990615850075687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6bf8940de5ea250800000000000000
+      internalID: 5957803605738108665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adccf8be5f36f2b0800000000000000
+      internalID: -5551179814624506459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f365ac7dbed23e10800000000000000
+      internalID: 2176046475394769911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b7c66958fb62420800000000000000
+      internalID: 2604980014955658087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809cff3d92d626350800000000000000
+      internalID: 6008484879283505416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7bb59d4df733490800000000000000
+      internalID: -7767724380127512638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8cd7053108468a0800000000000000
+      internalID: -6312779957223438170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933061fdbd7a97b40800000000000000
+      internalID: 5438562587809022777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72934df65bec09610800000000000000
+      internalID: 1626026744141330727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a867d9423ccf6ed60800000000000000
+      internalID: 7919294909840717450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245d184a75099d3d0800000000000000
+      internalID: -3181352955664018110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55531352be8a1e30800000000000000
+      internalID: 4475046076295107934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177c30b78f877d2a0800000000000000
+      internalID: -6712763710961367183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05798aca92273f7d0800000000000000
+      internalID: -2885837412898400432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f03328b41893450800000000000000
+      internalID: 6069024134165368629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboards_keys_hold_selector_white_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 7
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d708b932f169f40e0800000000000000
+      internalID: -2283441425568006019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      keyboards_keys_hold_selector_white_0: -2215774212006951579
+      keyboards_keys_hold_selector_white_1: -2086385692705554082
+      keyboards_keys_hold_selector_white_10: -7767724380127512638
+      keyboards_keys_hold_selector_white_11: -6312779957223438170
+      keyboards_keys_hold_selector_white_12: 5438562587809022777
+      keyboards_keys_hold_selector_white_13: 1626026744141330727
+      keyboards_keys_hold_selector_white_14: 7919294909840717450
+      keyboards_keys_hold_selector_white_15: -3181352955664018110
+      keyboards_keys_hold_selector_white_16: 4475046076295107934
+      keyboards_keys_hold_selector_white_17: -6712763710961367183
+      keyboards_keys_hold_selector_white_18: -2885837412898400432
+      keyboards_keys_hold_selector_white_19: 6069024134165368629
+      keyboards_keys_hold_selector_white_2: 352476012599876669
+      keyboards_keys_hold_selector_white_20: -2283441425568006019
+      keyboards_keys_hold_selector_white_3: -5389202025021412650
+      keyboards_keys_hold_selector_white_4: -8657990615850075687
+      keyboards_keys_hold_selector_white_5: 5957803605738108665
+      keyboards_keys_hold_selector_white_6: -5551179814624506459
+      keyboards_keys_hold_selector_white_7: 2176046475394769911
+      keyboards_keys_hold_selector_white_8: 2604980014955658087
+      keyboards_keys_hold_selector_white_9: 6008484879283505416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

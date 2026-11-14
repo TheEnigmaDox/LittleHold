@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b1fb47838f9ea8343a45e95b1797ad5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3317336646817170176
+    second: character_jump_hairstyles_small_hair_red_0
+  - first:
+      213: 5773931584756450814
+    second: character_jump_hairstyles_small_hair_red_1
+  - first:
+      213: -7654562025010359914
+    second: character_jump_hairstyles_small_hair_red_2
+  - first:
+      213: -3247780404274716887
+    second: character_jump_hairstyles_small_hair_red_3
+  - first:
+      213: -8254727692945564639
+    second: character_jump_hairstyles_small_hair_red_4
+  - first:
+      213: 8726782056421029906
+    second: character_jump_hairstyles_small_hair_red_5
+  - first:
+      213: 2043258306939791760
+    second: character_jump_hairstyles_small_hair_red_6
+  - first:
+      213: -2477845355007571031
+    second: character_jump_hairstyles_small_hair_red_7
+  - first:
+      213: 8247070302441795618
+    second: character_jump_hairstyles_small_hair_red_8
+  - first:
+      213: 6797830595141397452
+    second: character_jump_hairstyles_small_hair_red_9
+  - first:
+      213: 6159982881166681373
+    second: character_jump_hairstyles_small_hair_red_10
+  - first:
+      213: -293452348128020039
+    second: character_jump_hairstyles_small_hair_red_11
+  - first:
+      213: 1300833784935297853
+    second: character_jump_hairstyles_small_hair_red_12
+  - first:
+      213: 8752782137444077285
+    second: character_jump_hairstyles_small_hair_red_13
+  - first:
+      213: -829764711169247942
+    second: character_jump_hairstyles_small_hair_red_14
+  - first:
+      213: 5216431519240730817
+    second: character_jump_hairstyles_small_hair_red_15
+  - first:
+      213: 2568934252647492749
+    second: character_jump_hairstyles_small_hair_red_16
+  - first:
+      213: 8034680379406533481
+    second: character_jump_hairstyles_small_hair_red_17
+  - first:
+      213: -1006314158765324576
+    second: character_jump_hairstyles_small_hair_red_18
+  - first:
+      213: -8170108252376103777
+    second: character_jump_hairstyles_small_hair_red_19
+  - first:
+      213: -227544323287153536
+    second: character_jump_hairstyles_small_hair_red_20
+  - first:
+      213: -2023065650087399939
+    second: character_jump_hairstyles_small_hair_red_21
+  - first:
+      213: -7663893871390329522
+    second: character_jump_hairstyles_small_hair_red_22
+  - first:
+      213: 1136500361264858169
+    second: character_jump_hairstyles_small_hair_red_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 224
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db31e45e376f1d0800000000000000
+      internalID: -3317336646817170176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 227
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef501da4f20212050800000000000000
+      internalID: 5773931584756450814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 225
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911014d46885c590800000000000000
+      internalID: -7654562025010359914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f1bb60ee09de2d0800000000000000
+      internalID: -3247780404274716887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 220
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c566016e0517d80800000000000000
+      internalID: -8254727692945564639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187a393b02cb1970800000000000000
+      internalID: 8726782056421029906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0992381ca9c1b5c10800000000000000
+      internalID: 2043258306939791760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 163
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab0c6e17ccec9dd0800000000000000
+      internalID: -2477845355007571031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 161
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22077b6ceba737270800000000000000
+      internalID: 8247070302441795618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6faae8eeb65e50800000000000000
+      internalID: 6797830595141397452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 156
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d156d6e1bc7ac7550800000000000000
+      internalID: 6159982881166681373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b93357e4a27debf0800000000000000
+      internalID: -293452348128020039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3335ee6f6d7d0210800000000000000
+      internalID: 1300833784935297853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 99
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee0db2daf0287970800000000000000
+      internalID: 8752782137444077285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 97
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a353a9734651c74f0800000000000000
+      internalID: -829764711169247942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8be7334dc746840800000000000000
+      internalID: 5216431519240730817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c236c8710b6a320800000000000000
+      internalID: 2568934252647492749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963c35a4c3be08f60800000000000000
+      internalID: 8034680379406533481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c852ba9ad802f0800000000000000
+      internalID: -1006314158765324576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 34
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9482a0e4d1fd9e80800000000000000
+      internalID: -8170108252376103777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08400dfb4a997dcf0800000000000000
+      internalID: -227544323287153536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdee398280ace3e0800000000000000
+      internalID: -2023065650087399939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e457c77012164a590800000000000000
+      internalID: -7663893871390329522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_small_hair_red_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9348b40ae09a5cf00800000000000000
+      internalID: 1136500361264858169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_hairstyles_small_hair_red_0: -3317336646817170176
+      character_jump_hairstyles_small_hair_red_1: 5773931584756450814
+      character_jump_hairstyles_small_hair_red_10: 6159982881166681373
+      character_jump_hairstyles_small_hair_red_11: -293452348128020039
+      character_jump_hairstyles_small_hair_red_12: 1300833784935297853
+      character_jump_hairstyles_small_hair_red_13: 8752782137444077285
+      character_jump_hairstyles_small_hair_red_14: -829764711169247942
+      character_jump_hairstyles_small_hair_red_15: 5216431519240730817
+      character_jump_hairstyles_small_hair_red_16: 2568934252647492749
+      character_jump_hairstyles_small_hair_red_17: 8034680379406533481
+      character_jump_hairstyles_small_hair_red_18: -1006314158765324576
+      character_jump_hairstyles_small_hair_red_19: -8170108252376103777
+      character_jump_hairstyles_small_hair_red_2: -7654562025010359914
+      character_jump_hairstyles_small_hair_red_20: -227544323287153536
+      character_jump_hairstyles_small_hair_red_21: -2023065650087399939
+      character_jump_hairstyles_small_hair_red_22: -7663893871390329522
+      character_jump_hairstyles_small_hair_red_23: 1136500361264858169
+      character_jump_hairstyles_small_hair_red_3: -3247780404274716887
+      character_jump_hairstyles_small_hair_red_4: -8254727692945564639
+      character_jump_hairstyles_small_hair_red_5: 8726782056421029906
+      character_jump_hairstyles_small_hair_red_6: 2043258306939791760
+      character_jump_hairstyles_small_hair_red_7: -2477845355007571031
+      character_jump_hairstyles_small_hair_red_8: 8247070302441795618
+      character_jump_hairstyles_small_hair_red_9: 6797830595141397452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

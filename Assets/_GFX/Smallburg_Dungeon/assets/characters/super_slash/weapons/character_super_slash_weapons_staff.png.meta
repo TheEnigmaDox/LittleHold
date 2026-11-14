@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8813574665cbf5b48a59852974e1c185
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3694637280319077292
+    second: character_super_slash_weapons_staff_0
+  - first:
+      213: 3174625278665198936
+    second: character_super_slash_weapons_staff_1
+  - first:
+      213: -5259444451364345659
+    second: character_super_slash_weapons_staff_2
+  - first:
+      213: 6287800774407538310
+    second: character_super_slash_weapons_staff_3
+  - first:
+      213: 2387539657836138624
+    second: character_super_slash_weapons_staff_4
+  - first:
+      213: 4032138744522476935
+    second: character_super_slash_weapons_staff_5
+  - first:
+      213: 3564555767846474284
+    second: character_super_slash_weapons_staff_6
+  - first:
+      213: -4202685480874565410
+    second: character_super_slash_weapons_staff_7
+  - first:
+      213: -8305478959894606488
+    second: character_super_slash_weapons_staff_8
+  - first:
+      213: -7098205988726832492
+    second: character_super_slash_weapons_staff_9
+  - first:
+      213: -7414018179722363877
+    second: character_super_slash_weapons_staff_10
+  - first:
+      213: -2036689373266267984
+    second: character_super_slash_weapons_staff_11
+  - first:
+      213: 2868365110771226021
+    second: character_super_slash_weapons_staff_12
+  - first:
+      213: -7577479359540147948
+    second: character_super_slash_weapons_staff_13
+  - first:
+      213: 6124840014665166074
+    second: character_super_slash_weapons_staff_14
+  - first:
+      213: 4138948843144639741
+    second: character_super_slash_weapons_staff_15
+  - first:
+      213: 5465698432386301858
+    second: character_super_slash_weapons_staff_16
+  - first:
+      213: 8017806258667079328
+    second: character_super_slash_weapons_staff_17
+  - first:
+      213: -6669236223290326823
+    second: character_super_slash_weapons_staff_18
+  - first:
+      213: -6175435134929130418
+    second: character_super_slash_weapons_staff_19
+  - first:
+      213: 8832474092954278373
+    second: character_super_slash_weapons_staff_20
+  - first:
+      213: 6554173525052505569
+    second: character_super_slash_weapons_staff_21
+  - first:
+      213: -2806653989531976287
+    second: character_super_slash_weapons_staff_22
+  - first:
+      213: 6385596215632242537
+    second: character_super_slash_weapons_staff_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 222
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab755b080df54330800000000000000
+      internalID: 3694637280319077292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 221
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d80ddfed88e0c20800000000000000
+      internalID: 3174625278665198936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c867802323b207b0800000000000000
+      internalID: -5259444451364345659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686ccf87d71c24750800000000000000
+      internalID: 6287800774407538310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801b784bae322120800000000000000
+      internalID: 2387539657836138624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d0a5033d805f730800000000000000
+      internalID: 4032138744522476935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 158
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c221f84c598d77130800000000000000
+      internalID: 3564555767846474284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 157
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a7c962df0da5c0800000000000000
+      internalID: -4202685480874565410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 142
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d400ae3e20dbc80800000000000000
+      internalID: -8305478959894606488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 142
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492036bd24b1e7d90800000000000000
+      internalID: -7098205988726832492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 142
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c3c572fbd1c1990800000000000000
+      internalID: -7414018179722363877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 142
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b6ac4ec93cb3e0800000000000000
+      internalID: -2036689373266267984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 98
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a594a9feda7ec720800000000000000
+      internalID: 2868365110771226021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 92
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41941c17ba267d690800000000000000
+      internalID: -7577479359540147948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc2734ea8dcff450800000000000000
+      internalID: 6124840014665166074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 88
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df476233b00807930800000000000000
+      internalID: 4138948843144639741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 88
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7bc704cf0adb40800000000000000
+      internalID: 5465698432386301858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 88
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a641c5ef48f44f60800000000000000
+      internalID: 8017806258667079328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 16
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0cc937dfc1273a0800000000000000
+      internalID: -6669236223290326823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c2511b6727c4aa0800000000000000
+      internalID: -6175435134929130418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 26
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9516e1460439a70800000000000000
+      internalID: 8832474092954278373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 26
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed3605781a15fa50800000000000000
+      internalID: 6554173525052505569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 26
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad738a1113cc09d0800000000000000
+      internalID: -2806653989531976287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_staff_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 26
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a6dffce13e9850800000000000000
+      internalID: 6385596215632242537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_weapons_staff_0: 3694637280319077292
+      character_super_slash_weapons_staff_1: 3174625278665198936
+      character_super_slash_weapons_staff_10: -7414018179722363877
+      character_super_slash_weapons_staff_11: -2036689373266267984
+      character_super_slash_weapons_staff_12: 2868365110771226021
+      character_super_slash_weapons_staff_13: -7577479359540147948
+      character_super_slash_weapons_staff_14: 6124840014665166074
+      character_super_slash_weapons_staff_15: 4138948843144639741
+      character_super_slash_weapons_staff_16: 5465698432386301858
+      character_super_slash_weapons_staff_17: 8017806258667079328
+      character_super_slash_weapons_staff_18: -6669236223290326823
+      character_super_slash_weapons_staff_19: -6175435134929130418
+      character_super_slash_weapons_staff_2: -5259444451364345659
+      character_super_slash_weapons_staff_20: 8832474092954278373
+      character_super_slash_weapons_staff_21: 6554173525052505569
+      character_super_slash_weapons_staff_22: -2806653989531976287
+      character_super_slash_weapons_staff_23: 6385596215632242537
+      character_super_slash_weapons_staff_3: 6287800774407538310
+      character_super_slash_weapons_staff_4: 2387539657836138624
+      character_super_slash_weapons_staff_5: 4032138744522476935
+      character_super_slash_weapons_staff_6: 3564555767846474284
+      character_super_slash_weapons_staff_7: -4202685480874565410
+      character_super_slash_weapons_staff_8: -8305478959894606488
+      character_super_slash_weapons_staff_9: -7098205988726832492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

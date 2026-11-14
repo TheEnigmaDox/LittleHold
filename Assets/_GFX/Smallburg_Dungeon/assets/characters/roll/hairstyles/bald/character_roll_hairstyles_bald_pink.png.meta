@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 251a4cc125fb6634a804666f78eb6414
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5491406401319619153
+    second: character_roll_hairstyles_bald_pink_0
+  - first:
+      213: -8514913591859967796
+    second: character_roll_hairstyles_bald_pink_1
+  - first:
+      213: -4678173978567537796
+    second: character_roll_hairstyles_bald_pink_2
+  - first:
+      213: -8550042412330076644
+    second: character_roll_hairstyles_bald_pink_3
+  - first:
+      213: -3455406761187466980
+    second: character_roll_hairstyles_bald_pink_4
+  - first:
+      213: 3826278786167254485
+    second: character_roll_hairstyles_bald_pink_5
+  - first:
+      213: -7171893211744489966
+    second: character_roll_hairstyles_bald_pink_6
+  - first:
+      213: -4892774486508043714
+    second: character_roll_hairstyles_bald_pink_7
+  - first:
+      213: -9057398819030491215
+    second: character_roll_hairstyles_bald_pink_8
+  - first:
+      213: 314138618154307794
+    second: character_roll_hairstyles_bald_pink_9
+  - first:
+      213: 8117680841803303501
+    second: character_roll_hairstyles_bald_pink_10
+  - first:
+      213: -1619307999472421616
+    second: character_roll_hairstyles_bald_pink_11
+  - first:
+      213: 3787926460774037512
+    second: character_roll_hairstyles_bald_pink_12
+  - first:
+      213: 3497678588775706200
+    second: character_roll_hairstyles_bald_pink_13
+  - first:
+      213: -3283441190249809892
+    second: character_roll_hairstyles_bald_pink_14
+  - first:
+      213: 1005576762765292382
+    second: character_roll_hairstyles_bald_pink_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a46fbf605653c40800000000000000
+      internalID: 5491406401319619153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc88a00c333f4d980800000000000000
+      internalID: -8514913591859967796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 220
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b81027d89c31fb0800000000000000
+      internalID: -4678173978567537796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 215
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16ba8ed9b5285980800000000000000
+      internalID: -8550042412330076644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 221
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1120f4bbddeb00d0800000000000000
+      internalID: -3455406761187466980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddac15984ca91530800000000000000
+      internalID: 3826278786167254485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e2fea4f11587c90800000000000000
+      internalID: -7171893211744489966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32089d078f591cb0800000000000000
+      internalID: -4892774486508043714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 156
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf15a223c7ad4280800000000000000
+      internalID: -9057398819030491215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 151
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0d159a86b0c5400800000000000000
+      internalID: 314138618154307794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 157
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a0eaf57bbc7a070800000000000000
+      internalID: 8117680841803303501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157f7534ff0789e0800000000000000
+      internalID: -1619307999472421616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8083db9fb0b619430800000000000000
+      internalID: 3787926460774037512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 25
+        width: 78
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e277e15204a8030800000000000000
+      internalID: 3497678588775706200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18364642afde62d0800000000000000
+      internalID: -3283441190249809892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_bald_pink_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53330becb684fd00800000000000000
+      internalID: 1005576762765292382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_bald_pink_0: 5491406401319619153
+      character_roll_hairstyles_bald_pink_1: -8514913591859967796
+      character_roll_hairstyles_bald_pink_10: 8117680841803303501
+      character_roll_hairstyles_bald_pink_11: -1619307999472421616
+      character_roll_hairstyles_bald_pink_12: 3787926460774037512
+      character_roll_hairstyles_bald_pink_13: 3497678588775706200
+      character_roll_hairstyles_bald_pink_14: -3283441190249809892
+      character_roll_hairstyles_bald_pink_15: 1005576762765292382
+      character_roll_hairstyles_bald_pink_2: -4678173978567537796
+      character_roll_hairstyles_bald_pink_3: -8550042412330076644
+      character_roll_hairstyles_bald_pink_4: -3455406761187466980
+      character_roll_hairstyles_bald_pink_5: 3826278786167254485
+      character_roll_hairstyles_bald_pink_6: -7171893211744489966
+      character_roll_hairstyles_bald_pink_7: -4892774486508043714
+      character_roll_hairstyles_bald_pink_8: -9057398819030491215
+      character_roll_hairstyles_bald_pink_9: 314138618154307794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

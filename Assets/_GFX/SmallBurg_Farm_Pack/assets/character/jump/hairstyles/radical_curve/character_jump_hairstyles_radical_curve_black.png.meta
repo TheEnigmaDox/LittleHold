@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b54e59836a5404d4789aacc2b82f841d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4522365847941938399
+    second: character_jump_hairstyles_radical_curve_black_0
+  - first:
+      213: -8826414720916286122
+    second: character_jump_hairstyles_radical_curve_black_1
+  - first:
+      213: 5842943113676684021
+    second: character_jump_hairstyles_radical_curve_black_2
+  - first:
+      213: 8808872281373388098
+    second: character_jump_hairstyles_radical_curve_black_3
+  - first:
+      213: 9202854348819185155
+    second: character_jump_hairstyles_radical_curve_black_4
+  - first:
+      213: 3865329118729134710
+    second: character_jump_hairstyles_radical_curve_black_5
+  - first:
+      213: -28707030429126670
+    second: character_jump_hairstyles_radical_curve_black_6
+  - first:
+      213: 9120776776186162050
+    second: character_jump_hairstyles_radical_curve_black_7
+  - first:
+      213: 1771943002332499791
+    second: character_jump_hairstyles_radical_curve_black_8
+  - first:
+      213: -8998136739526273987
+    second: character_jump_hairstyles_radical_curve_black_9
+  - first:
+      213: 2343548393360123245
+    second: character_jump_hairstyles_radical_curve_black_10
+  - first:
+      213: -4231185530225376091
+    second: character_jump_hairstyles_radical_curve_black_11
+  - first:
+      213: -5307906392219120580
+    second: character_jump_hairstyles_radical_curve_black_12
+  - first:
+      213: -2057497216163745521
+    second: character_jump_hairstyles_radical_curve_black_13
+  - first:
+      213: -5450890565289839468
+    second: character_jump_hairstyles_radical_curve_black_14
+  - first:
+      213: 1003746806144359164
+    second: character_jump_hairstyles_radical_curve_black_15
+  - first:
+      213: -763515945015539837
+    second: character_jump_hairstyles_radical_curve_black_16
+  - first:
+      213: 7233950847136031882
+    second: character_jump_hairstyles_radical_curve_black_17
+  - first:
+      213: 6717334977672711765
+    second: character_jump_hairstyles_radical_curve_black_18
+  - first:
+      213: -8718301612484569921
+    second: character_jump_hairstyles_radical_curve_black_19
+  - first:
+      213: -768562374194329362
+    second: character_jump_hairstyles_radical_curve_black_20
+  - first:
+      213: 5301024556195020662
+    second: character_jump_hairstyles_radical_curve_black_21
+  - first:
+      213: 6874595024266224519
+    second: character_jump_hairstyles_radical_curve_black_22
+  - first:
+      213: -5804728216339175722
+    second: character_jump_hairstyles_radical_curve_black_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1230019c8345d31c0800000000000000
+      internalID: -4522365847941938399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 227
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655918f5396428580800000000000000
+      internalID: -8826414720916286122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 224
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa738dfdcd461150800000000000000
+      internalID: 5842943113676684021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 222
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dab032ba66f3a70800000000000000
+      internalID: 8808872281373388098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 219
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eb60d754b17bf70800000000000000
+      internalID: 9202854348819185155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e2d5aa5864a530800000000000000
+      internalID: 3865329118729134710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff27b0ab130a9ff0800000000000000
+      internalID: -28707030429126670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 163
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b653c6722839e70800000000000000
+      internalID: 9120776776186162050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 160
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f8440c5c4379810800000000000000
+      internalID: 1771943002332499791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 158
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3415204f42302380800000000000000
+      internalID: -8998136739526273987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 155
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65ea2cd8d4f58020800000000000000
+      internalID: 2343548393360123245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 157
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4c4249d2fc745c0800000000000000
+      internalID: -4231185530225376091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c01ce32478656b0800000000000000
+      internalID: -5307906392219120580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 99
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f017438de2d4273e0800000000000000
+      internalID: -2057497216163745521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 96
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494fe5239eb8a54b0800000000000000
+      internalID: -5450890565289839468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfadaa0f6660eed00800000000000000
+      internalID: 1003746806144359164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38780051b427765f0800000000000000
+      internalID: -763515945015539837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84ed26e7f7246460800000000000000
+      internalID: 7233950847136031882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0d7d7294c83d50800000000000000
+      internalID: 6717334977672711765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4542fffde520780800000000000000
+      internalID: -8718301612484569921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee88a6ab7948555f0800000000000000
+      internalID: -768562374194329362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f70a17fb5019940800000000000000
+      internalID: 5301024556195020662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7836e0c50c7776f50800000000000000
+      internalID: 6874595024266224519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_radical_curve_black_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6aa672176717fa0800000000000000
+      internalID: -5804728216339175722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_hairstyles_radical_curve_black_0: -4522365847941938399
+      character_jump_hairstyles_radical_curve_black_1: -8826414720916286122
+      character_jump_hairstyles_radical_curve_black_10: 2343548393360123245
+      character_jump_hairstyles_radical_curve_black_11: -4231185530225376091
+      character_jump_hairstyles_radical_curve_black_12: -5307906392219120580
+      character_jump_hairstyles_radical_curve_black_13: -2057497216163745521
+      character_jump_hairstyles_radical_curve_black_14: -5450890565289839468
+      character_jump_hairstyles_radical_curve_black_15: 1003746806144359164
+      character_jump_hairstyles_radical_curve_black_16: -763515945015539837
+      character_jump_hairstyles_radical_curve_black_17: 7233950847136031882
+      character_jump_hairstyles_radical_curve_black_18: 6717334977672711765
+      character_jump_hairstyles_radical_curve_black_19: -8718301612484569921
+      character_jump_hairstyles_radical_curve_black_2: 5842943113676684021
+      character_jump_hairstyles_radical_curve_black_20: -768562374194329362
+      character_jump_hairstyles_radical_curve_black_21: 5301024556195020662
+      character_jump_hairstyles_radical_curve_black_22: 6874595024266224519
+      character_jump_hairstyles_radical_curve_black_23: -5804728216339175722
+      character_jump_hairstyles_radical_curve_black_3: 8808872281373388098
+      character_jump_hairstyles_radical_curve_black_4: 9202854348819185155
+      character_jump_hairstyles_radical_curve_black_5: 3865329118729134710
+      character_jump_hairstyles_radical_curve_black_6: -28707030429126670
+      character_jump_hairstyles_radical_curve_black_7: 9120776776186162050
+      character_jump_hairstyles_radical_curve_black_8: 1771943002332499791
+      character_jump_hairstyles_radical_curve_black_9: -8998136739526273987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

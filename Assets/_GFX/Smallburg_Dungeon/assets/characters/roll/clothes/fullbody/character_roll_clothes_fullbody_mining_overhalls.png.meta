@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 364580051e691994c8698f5cb3f620b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5950356708180473572
+    second: character_roll_clothes_fullbody_mining_overhalls_0
+  - first:
+      213: -3990408056268987291
+    second: character_roll_clothes_fullbody_mining_overhalls_1
+  - first:
+      213: -6864980234050473511
+    second: character_roll_clothes_fullbody_mining_overhalls_2
+  - first:
+      213: -8936689207821630305
+    second: character_roll_clothes_fullbody_mining_overhalls_3
+  - first:
+      213: 1013689305548850989
+    second: character_roll_clothes_fullbody_mining_overhalls_4
+  - first:
+      213: 3516770507158536153
+    second: character_roll_clothes_fullbody_mining_overhalls_5
+  - first:
+      213: -1011134582573815313
+    second: character_roll_clothes_fullbody_mining_overhalls_6
+  - first:
+      213: -4918177265918117168
+    second: character_roll_clothes_fullbody_mining_overhalls_7
+  - first:
+      213: 7829899392553425066
+    second: character_roll_clothes_fullbody_mining_overhalls_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 91
+        width: 264
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c194a0aa9161c6da0800000000000000
+      internalID: -5950356708180473572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564ea31d3093f98c0800000000000000
+      internalID: -3990408056268987291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1f75f69d0bab0a0800000000000000
+      internalID: -6864980234050473511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 88
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9489bb93808af380800000000000000
+      internalID: -8936689207821630305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 217
+        width: 71
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270ad97d09511e00800000000000000
+      internalID: 1013689305548850989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df31c3c4241ec030800000000000000
+      internalID: 3516770507158536153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe92391547ab7f1f0800000000000000
+      internalID: -1011134582573815313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 138
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da7c8295df1fbbb0800000000000000
+      internalID: -4918177265918117168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_mining_overhalls_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 73
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89130530469ac60800000000000000
+      internalID: 7829899392553425066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_clothes_fullbody_mining_overhalls_0: -5950356708180473572
+      character_roll_clothes_fullbody_mining_overhalls_1: -3990408056268987291
+      character_roll_clothes_fullbody_mining_overhalls_2: -6864980234050473511
+      character_roll_clothes_fullbody_mining_overhalls_3: -8936689207821630305
+      character_roll_clothes_fullbody_mining_overhalls_4: 1013689305548850989
+      character_roll_clothes_fullbody_mining_overhalls_5: 3516770507158536153
+      character_roll_clothes_fullbody_mining_overhalls_6: -1011134582573815313
+      character_roll_clothes_fullbody_mining_overhalls_7: -4918177265918117168
+      character_roll_clothes_fullbody_mining_overhalls_8: 7829899392553425066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

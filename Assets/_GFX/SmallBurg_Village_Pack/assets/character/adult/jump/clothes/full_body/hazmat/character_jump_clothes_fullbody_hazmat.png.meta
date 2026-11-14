@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 4781e992d03f56d46bca6c2dd8c7d4e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -566480213857486964
+    second: character_jump_clothes_fullbody_hazmat_0
+  - first:
+      213: -3410051890487988781
+    second: character_jump_clothes_fullbody_hazmat_1
+  - first:
+      213: 8108887771682449865
+    second: character_jump_clothes_fullbody_hazmat_2
+  - first:
+      213: 5900825326876174679
+    second: character_jump_clothes_fullbody_hazmat_3
+  - first:
+      213: 6184821592412489570
+    second: character_jump_clothes_fullbody_hazmat_4
+  - first:
+      213: 7762310901434987035
+    second: character_jump_clothes_fullbody_hazmat_5
+  - first:
+      213: 8844743132684388930
+    second: character_jump_clothes_fullbody_hazmat_6
+  - first:
+      213: 4891180760596400295
+    second: character_jump_clothes_fullbody_hazmat_7
+  - first:
+      213: -8857151647129575499
+    second: character_jump_clothes_fullbody_hazmat_8
+  - first:
+      213: 5280849720178084890
+    second: character_jump_clothes_fullbody_hazmat_9
+  - first:
+      213: -7804708408967841252
+    second: character_jump_clothes_fullbody_hazmat_10
+  - first:
+      213: -7216010195980985805
+    second: character_jump_clothes_fullbody_hazmat_11
+  - first:
+      213: -218358245751734821
+    second: character_jump_clothes_fullbody_hazmat_12
+  - first:
+      213: -8580462198774001752
+    second: character_jump_clothes_fullbody_hazmat_13
+  - first:
+      213: -2540701470702927438
+    second: character_jump_clothes_fullbody_hazmat_14
+  - first:
+      213: -1941022747101109045
+    second: character_jump_clothes_fullbody_hazmat_15
+  - first:
+      213: 2459668747768735227
+    second: character_jump_clothes_fullbody_hazmat_16
+  - first:
+      213: -569337719569648023
+    second: character_jump_clothes_fullbody_hazmat_17
+  - first:
+      213: -8463836566694803876
+    second: character_jump_clothes_fullbody_hazmat_18
+  - first:
+      213: -1317983923542130349
+    second: character_jump_clothes_fullbody_hazmat_19
+  - first:
+      213: 5246534835665877029
+    second: character_jump_clothes_fullbody_hazmat_20
+  - first:
+      213: 2785714424158951461
+    second: character_jump_clothes_fullbody_hazmat_21
+  - first:
+      213: -4757867506502550098
+    second: character_jump_clothes_fullbody_hazmat_22
+  - first:
+      213: 2761953005419156845
+    second: character_jump_clothes_fullbody_hazmat_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 218
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87bcb03f357328f0800000000000000
+      internalID: -566480213857486964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 221
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd60d17fdf0da0d0800000000000000
+      internalID: -3410051890487988781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 219
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c924a2377e888070800000000000000
+      internalID: 8108887771682449865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 217
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7592512fe51f3e150800000000000000
+      internalID: 5900825326876174679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 216
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26789ee3876e4d550800000000000000
+      internalID: 6184821592412489570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 216
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12bc2c63a449bb60800000000000000
+      internalID: 7762310901434987035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 154
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a8a398407deba70800000000000000
+      internalID: 8844743132684388930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c297bcf6f0e340800000000000000
+      internalID: 4891180760596400295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf531f0183151580800000000000000
+      internalID: -8857151647129575499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 153
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c8f6367d8594940800000000000000
+      internalID: 5280849720178084890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ab7fb9d0b10b390800000000000000
+      internalID: -7804708408967841252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ad4f475f49bdb90800000000000000
+      internalID: -7216010195980985805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb038155c38fcf0800000000000000
+      internalID: -218358245751734821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af886967131ce880800000000000000
+      internalID: -8580462198774001752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1807e397d9dbcd0800000000000000
+      internalID: -2540701470702927438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4e512781a1015e0800000000000000
+      internalID: -1941022747101109045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 88
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5a2e7b1bf722220800000000000000
+      internalID: 2459668747768735227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 88
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966f1db4c5e4918f0800000000000000
+      internalID: -569337719569648023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56c1356c796a8a80800000000000000
+      internalID: -8463836566694803876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3518891ca9495bde0800000000000000
+      internalID: -1317983923542130349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 27
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528b39db2af6fc840800000000000000
+      internalID: 5246534835665877029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 25
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5281da96288d8a620800000000000000
+      internalID: 2785714424158951461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 24
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadba8a06b8a8fdb0800000000000000
+      internalID: -4757867506502550098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_clothes_fullbody_hazmat_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 24
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65d45eff9d645620800000000000000
+      internalID: 2761953005419156845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_clothes_fullbody_hazmat_0: -566480213857486964
+      character_jump_clothes_fullbody_hazmat_1: -3410051890487988781
+      character_jump_clothes_fullbody_hazmat_10: -7804708408967841252
+      character_jump_clothes_fullbody_hazmat_11: -7216010195980985805
+      character_jump_clothes_fullbody_hazmat_12: -218358245751734821
+      character_jump_clothes_fullbody_hazmat_13: -8580462198774001752
+      character_jump_clothes_fullbody_hazmat_14: -2540701470702927438
+      character_jump_clothes_fullbody_hazmat_15: -1941022747101109045
+      character_jump_clothes_fullbody_hazmat_16: 2459668747768735227
+      character_jump_clothes_fullbody_hazmat_17: -569337719569648023
+      character_jump_clothes_fullbody_hazmat_18: -8463836566694803876
+      character_jump_clothes_fullbody_hazmat_19: -1317983923542130349
+      character_jump_clothes_fullbody_hazmat_2: 8108887771682449865
+      character_jump_clothes_fullbody_hazmat_20: 5246534835665877029
+      character_jump_clothes_fullbody_hazmat_21: 2785714424158951461
+      character_jump_clothes_fullbody_hazmat_22: -4757867506502550098
+      character_jump_clothes_fullbody_hazmat_23: 2761953005419156845
+      character_jump_clothes_fullbody_hazmat_3: 5900825326876174679
+      character_jump_clothes_fullbody_hazmat_4: 6184821592412489570
+      character_jump_clothes_fullbody_hazmat_5: 7762310901434987035
+      character_jump_clothes_fullbody_hazmat_6: 8844743132684388930
+      character_jump_clothes_fullbody_hazmat_7: 4891180760596400295
+      character_jump_clothes_fullbody_hazmat_8: -8857151647129575499
+      character_jump_clothes_fullbody_hazmat_9: 5280849720178084890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

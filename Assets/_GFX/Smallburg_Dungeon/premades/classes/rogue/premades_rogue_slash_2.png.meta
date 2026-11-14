@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 1ce0765926a4aea429fca4ab9f09584b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 878914239695513293
+    second: premades_rogue_slash_2_0
+  - first:
+      213: -509716741347028199
+    second: premades_rogue_slash_2_1
+  - first:
+      213: -7651562708521262947
+    second: premades_rogue_slash_2_2
+  - first:
+      213: -3059825457280139126
+    second: premades_rogue_slash_2_3
+  - first:
+      213: 4153418782286771336
+    second: premades_rogue_slash_2_4
+  - first:
+      213: -4335130702828998092
+    second: premades_rogue_slash_2_5
+  - first:
+      213: -7206679419654064210
+    second: premades_rogue_slash_2_6
+  - first:
+      213: -2431062072266714851
+    second: premades_rogue_slash_2_7
+  - first:
+      213: -45940373691968607
+    second: premades_rogue_slash_2_8
+  - first:
+      213: -8453607173656744942
+    second: premades_rogue_slash_2_9
+  - first:
+      213: -5180639887064602293
+    second: premades_rogue_slash_2_10
+  - first:
+      213: -2959520913806949845
+    second: premades_rogue_slash_2_11
+  - first:
+      213: 3473161759238206436
+    second: premades_rogue_slash_2_12
+  - first:
+      213: -3722452335275544370
+    second: premades_rogue_slash_2_13
+  - first:
+      213: 3194175234679141285
+    second: premades_rogue_slash_2_14
+  - first:
+      213: 2267000320897178188
+    second: premades_rogue_slash_2_15
+  - first:
+      213: -4901791257054246140
+    second: premades_rogue_slash_2_16
+  - first:
+      213: 1062013959113748954
+    second: premades_rogue_slash_2_17
+  - first:
+      213: -7832374683438307096
+    second: premades_rogue_slash_2_18
+  - first:
+      213: 5644305024720348429
+    second: premades_rogue_slash_2_19
+  - first:
+      213: -8756863150757112161
+    second: premades_rogue_slash_2_20
+  - first:
+      213: 8080613034483714808
+    second: premades_rogue_slash_2_21
+  - first:
+      213: 7957638614180876054
+    second: premades_rogue_slash_2_22
+  - first:
+      213: 4617235728496194198
+    second: premades_rogue_slash_2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 212
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6651528d7823c00800000000000000
+      internalID: 878914239695513293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d0f7035f1de8f0800000000000000
+      internalID: -509716741347028199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 211
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e6fd914030d590800000000000000
+      internalID: -7651562708521262947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 211
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ce1055f05985d0800000000000000
+      internalID: -3059825457280139126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88473a17068e3a930800000000000000
+      internalID: 4153418782286771336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432fcf2289586d3c0800000000000000
+      internalID: -4335130702828998092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7b66d104bbcfb90800000000000000
+      internalID: -7206679419654064210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d111e93fce1234ed0800000000000000
+      internalID: -2431062072266714851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 147
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3dd393979cc5ff0800000000000000
+      internalID: -45940373691968607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cee7f8011ceaa80800000000000000
+      internalID: -8453607173656744942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 149
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b496b4e887baa18b0800000000000000
+      internalID: -5180639887064602293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 149
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22823bb86bade6d0800000000000000
+      internalID: -2959520913806949845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 85
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e33ddae736233030800000000000000
+      internalID: 3473161759238206436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f39ec251375cc0800000000000000
+      internalID: -3722452335275544370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a37665d37df35c20800000000000000
+      internalID: 3194175234679141285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ad5c0e7c0067f10800000000000000
+      internalID: 2267000320897178188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 84
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b8a2092d659fbb0800000000000000
+      internalID: -4901791257054246140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 85
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13b7ba1180dbe00800000000000000
+      internalID: 1062013959113748954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8a5ed19b0dd4390800000000000000
+      internalID: -7832374683438307096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a862e389945e40800000000000000
+      internalID: 5644305024720348429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f961a683c5f597680800000000000000
+      internalID: -8756863150757112161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa0bcfedba142070800000000000000
+      internalID: 8080613034483714808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 21
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fce2188263f6e60800000000000000
+      internalID: 7957638614180876054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_slash_2_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 21
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692f1419e67b31040800000000000000
+      internalID: 4617235728496194198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_rogue_slash_2_0: 878914239695513293
+      premades_rogue_slash_2_1: -509716741347028199
+      premades_rogue_slash_2_10: -5180639887064602293
+      premades_rogue_slash_2_11: -2959520913806949845
+      premades_rogue_slash_2_12: 3473161759238206436
+      premades_rogue_slash_2_13: -3722452335275544370
+      premades_rogue_slash_2_14: 3194175234679141285
+      premades_rogue_slash_2_15: 2267000320897178188
+      premades_rogue_slash_2_16: -4901791257054246140
+      premades_rogue_slash_2_17: 1062013959113748954
+      premades_rogue_slash_2_18: -7832374683438307096
+      premades_rogue_slash_2_19: 5644305024720348429
+      premades_rogue_slash_2_2: -7651562708521262947
+      premades_rogue_slash_2_20: -8756863150757112161
+      premades_rogue_slash_2_21: 8080613034483714808
+      premades_rogue_slash_2_22: 7957638614180876054
+      premades_rogue_slash_2_23: 4617235728496194198
+      premades_rogue_slash_2_3: -3059825457280139126
+      premades_rogue_slash_2_4: 4153418782286771336
+      premades_rogue_slash_2_5: -4335130702828998092
+      premades_rogue_slash_2_6: -7206679419654064210
+      premades_rogue_slash_2_7: -2431062072266714851
+      premades_rogue_slash_2_8: -45940373691968607
+      premades_rogue_slash_2_9: -8453607173656744942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

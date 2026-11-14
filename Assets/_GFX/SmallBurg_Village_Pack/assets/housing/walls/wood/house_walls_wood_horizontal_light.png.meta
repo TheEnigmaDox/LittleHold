@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: a2299e9a851a81644b01fa2c86684b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6885562114910858720
+    second: house_walls_wood_horizontal_light_0
+  - first:
+      213: 3739910705558274959
+    second: house_walls_wood_horizontal_light_1
+  - first:
+      213: 5967254221468990718
+    second: house_walls_wood_horizontal_light_2
+  - first:
+      213: 1875973791198239832
+    second: house_walls_wood_horizontal_light_3
+  - first:
+      213: 6089770127932677504
+    second: house_walls_wood_horizontal_light_4
+  - first:
+      213: -3622534264029284743
+    second: house_walls_wood_horizontal_light_5
+  - first:
+      213: -3117544224033164309
+    second: house_walls_wood_horizontal_light_6
+  - first:
+      213: 974461130971050403
+    second: house_walls_wood_horizontal_light_7
+  - first:
+      213: -3616175152396165743
+    second: house_walls_wood_horizontal_light_8
+  - first:
+      213: 697497088040990234
+    second: house_walls_wood_horizontal_light_9
+  - first:
+      213: -2656305389284428611
+    second: house_walls_wood_horizontal_light_10
+  - first:
+      213: 7871053545709851650
+    second: house_walls_wood_horizontal_light_11
+  - first:
+      213: 443001993405875016
+    second: house_walls_wood_horizontal_light_12
+  - first:
+      213: -817233210775764970
+    second: house_walls_wood_horizontal_light_13
+  - first:
+      213: -3074698728956409105
+    second: house_walls_wood_horizontal_light_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022d9dddcb19170a0800000000000000
+      internalID: -6885562114910858720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 219
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f834b78c8f4d6e330800000000000000
+      internalID: 3739910705558274959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 299
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcfb1b3912ffc250800000000000000
+      internalID: 5967254221468990718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 219
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c5058493cc80a10800000000000000
+      internalID: 1875973791198239832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 139
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d56379aa5338450800000000000000
+      internalID: 6089770127932677504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 91
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9767ad5a74c2abdc0800000000000000
+      internalID: -3622534264029284743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 91
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3bee2bb024cb4d0800000000000000
+      internalID: -3117544224033164309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a174f65c3bf58d00800000000000000
+      internalID: 974461130971050403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 86
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d15d3bbd3c0ddc0800000000000000
+      internalID: -3616175152396165743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 60
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a167d84f7e10ea900800000000000000
+      internalID: 697497088040990234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4feb87258e22bd0800000000000000
+      internalID: -2656305389284428611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2045d184f799b3d60800000000000000
+      internalID: 7871053545709851650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8434fb347fbd52600800000000000000
+      internalID: 443001993405875016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6100f0589ba98a4f0800000000000000
+      internalID: -817233210775764970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_walls_wood_horizontal_light_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 59
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea4535ebc97455d0800000000000000
+      internalID: -3074698728956409105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house_walls_wood_horizontal_light_0: -6885562114910858720
+      house_walls_wood_horizontal_light_1: 3739910705558274959
+      house_walls_wood_horizontal_light_10: -2656305389284428611
+      house_walls_wood_horizontal_light_11: 7871053545709851650
+      house_walls_wood_horizontal_light_12: 443001993405875016
+      house_walls_wood_horizontal_light_13: -817233210775764970
+      house_walls_wood_horizontal_light_14: -3074698728956409105
+      house_walls_wood_horizontal_light_2: 5967254221468990718
+      house_walls_wood_horizontal_light_3: 1875973791198239832
+      house_walls_wood_horizontal_light_4: 6089770127932677504
+      house_walls_wood_horizontal_light_5: -3622534264029284743
+      house_walls_wood_horizontal_light_6: -3117544224033164309
+      house_walls_wood_horizontal_light_7: 974461130971050403
+      house_walls_wood_horizontal_light_8: -3616175152396165743
+      house_walls_wood_horizontal_light_9: 697497088040990234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

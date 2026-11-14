@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: e3cefab444da2c44a914d9e2e858349f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8611506511022479148
+    second: premades_mage_death_blast_0
+  - first:
+      213: 909895249404261701
+    second: premades_mage_death_blast_1
+  - first:
+      213: -7434930993621556510
+    second: premades_mage_death_blast_2
+  - first:
+      213: 7956917914523109155
+    second: premades_mage_death_blast_3
+  - first:
+      213: -5869186719370736033
+    second: premades_mage_death_blast_4
+  - first:
+      213: 2164814980069373155
+    second: premades_mage_death_blast_5
+  - first:
+      213: 4166044171104781934
+    second: premades_mage_death_blast_6
+  - first:
+      213: -2963351570244166197
+    second: premades_mage_death_blast_7
+  - first:
+      213: 8597748880481474262
+    second: premades_mage_death_blast_8
+  - first:
+      213: -2296968314223543654
+    second: premades_mage_death_blast_9
+  - first:
+      213: -6681231766129236061
+    second: premades_mage_death_blast_10
+  - first:
+      213: -8255845776666456393
+    second: premades_mage_death_blast_11
+  - first:
+      213: -8865440573705791979
+    second: premades_mage_death_blast_12
+  - first:
+      213: 1097894284486347097
+    second: premades_mage_death_blast_13
+  - first:
+      213: -5715443198710949454
+    second: premades_mage_death_blast_14
+  - first:
+      213: 549839929013068652
+    second: premades_mage_death_blast_15
+  - first:
+      213: 5241361236455171532
+    second: premades_mage_death_blast_16
+  - first:
+      213: 732901613373569146
+    second: premades_mage_death_blast_17
+  - first:
+      213: 2529969642468936297
+    second: premades_mage_death_blast_18
+  - first:
+      213: -8394881268016075510
+    second: premades_mage_death_blast_19
+  - first:
+      213: 2222931571955738245
+    second: premades_mage_death_blast_20
+  - first:
+      213: -1987313654405488683
+    second: premades_mage_death_blast_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_mage_death_blast_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27557acb87328770800000000000000
+      internalID: 8611506511022479148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5457e8398e890ac00800000000000000
+      internalID: 909895249404261701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e225ab37a1d1d890800000000000000
+      internalID: -7434930993621556510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327871a8fa6ac6e60800000000000000
+      internalID: 7956917914523109155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e877766c57c8ea0800000000000000
+      internalID: -5869186719370736033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ba7331c7fa0e10800000000000000
+      internalID: 2164814980069373155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e668949d913c0d930800000000000000
+      internalID: 4166044171104781934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 23
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd1007827f00e6d0800000000000000
+      internalID: -2963351570244166197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 87
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d65c11dd07515770800000000000000
+      internalID: 8597748880481474262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ab062fc778f10e0800000000000000
+      internalID: -2296968314223543654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7afcd7b1f7743a0800000000000000
+      internalID: -6681231766129236061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be0369e1085d6d80800000000000000
+      internalID: -8255845776666456393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5165ee2f4c0a7f480800000000000000
+      internalID: -8865440573705791979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598dbbe8018c3f00800000000000000
+      internalID: 1097894284486347097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 85
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b959e641baaea0b0800000000000000
+      internalID: -5715443198710949454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 21
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c636624908c61a700800000000000000
+      internalID: 549839929013068652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 96
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5a96e464e0db840800000000000000
+      internalID: 5241361236455171532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 16
+        width: 153
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a783170622acb2a00800000000000000
+      internalID: 732901613373569146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a02e74cf14c1320800000000000000
+      internalID: 2529969642468936297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 32
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2258f6f36f7b80800000000000000
+      internalID: -8394881268016075510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862c62bc7079de10800000000000000
+      internalID: 2222931571955738245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_death_blast_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df90e3b2c4ab64e0800000000000000
+      internalID: -1987313654405488683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_mage_death_blast_0: 8611506511022479148
+      premades_mage_death_blast_1: 909895249404261701
+      premades_mage_death_blast_10: -6681231766129236061
+      premades_mage_death_blast_11: -8255845776666456393
+      premades_mage_death_blast_12: -8865440573705791979
+      premades_mage_death_blast_13: 1097894284486347097
+      premades_mage_death_blast_14: -5715443198710949454
+      premades_mage_death_blast_15: 549839929013068652
+      premades_mage_death_blast_16: 5241361236455171532
+      premades_mage_death_blast_17: 732901613373569146
+      premades_mage_death_blast_18: 2529969642468936297
+      premades_mage_death_blast_19: -8394881268016075510
+      premades_mage_death_blast_2: -7434930993621556510
+      premades_mage_death_blast_20: 2222931571955738245
+      premades_mage_death_blast_21: -1987313654405488683
+      premades_mage_death_blast_3: 7956917914523109155
+      premades_mage_death_blast_4: -5869186719370736033
+      premades_mage_death_blast_5: 2164814980069373155
+      premades_mage_death_blast_6: 4166044171104781934
+      premades_mage_death_blast_7: -2963351570244166197
+      premades_mage_death_blast_8: 8597748880481474262
+      premades_mage_death_blast_9: -2296968314223543654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

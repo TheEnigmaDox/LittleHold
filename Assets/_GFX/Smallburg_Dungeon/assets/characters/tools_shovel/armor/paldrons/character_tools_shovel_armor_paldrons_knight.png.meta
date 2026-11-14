@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: fcdb42fe45210c2438ff5896f82efaa1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5765440534964653025
+    second: character_tools_shovel_armor_paldrons_knight_0
+  - first:
+      213: 263482576345351011
+    second: character_tools_shovel_armor_paldrons_knight_1
+  - first:
+      213: -7542985415871210826
+    second: character_tools_shovel_armor_paldrons_knight_2
+  - first:
+      213: -7077600263826491404
+    second: character_tools_shovel_armor_paldrons_knight_3
+  - first:
+      213: 2806683901174740104
+    second: character_tools_shovel_armor_paldrons_knight_4
+  - first:
+      213: 3515043702822317679
+    second: character_tools_shovel_armor_paldrons_knight_5
+  - first:
+      213: -66666609237176891
+    second: character_tools_shovel_armor_paldrons_knight_6
+  - first:
+      213: -5830624558427707655
+    second: character_tools_shovel_armor_paldrons_knight_7
+  - first:
+      213: 2268397733839796092
+    second: character_tools_shovel_armor_paldrons_knight_8
+  - first:
+      213: 8418185717590163276
+    second: character_tools_shovel_armor_paldrons_knight_9
+  - first:
+      213: 1234736409087747748
+    second: character_tools_shovel_armor_paldrons_knight_10
+  - first:
+      213: 8710825967204396744
+    second: character_tools_shovel_armor_paldrons_knight_11
+  - first:
+      213: -4786427846767308016
+    second: character_tools_shovel_armor_paldrons_knight_12
+  - first:
+      213: 2614217886751934508
+    second: character_tools_shovel_armor_paldrons_knight_13
+  - first:
+      213: 5856009148824701342
+    second: character_tools_shovel_armor_paldrons_knight_14
+  - first:
+      213: -3863817336934843006
+    second: character_tools_shovel_armor_paldrons_knight_15
+  - first:
+      213: -7250583902861661391
+    second: character_tools_shovel_armor_paldrons_knight_16
+  - first:
+      213: 3008515774947906336
+    second: character_tools_shovel_armor_paldrons_knight_17
+  - first:
+      213: -6188860756032803232
+    second: character_tools_shovel_armor_paldrons_knight_18
+  - first:
+      213: 8265867495752103491
+    second: character_tools_shovel_armor_paldrons_knight_19
+  - first:
+      213: 66523325633489303
+    second: character_tools_shovel_armor_paldrons_knight_20
+  - first:
+      213: -3541262587122160166
+    second: character_tools_shovel_armor_paldrons_knight_21
+  - first:
+      213: 1401183175689099673
+    second: character_tools_shovel_armor_paldrons_knight_22
+  - first:
+      213: -1703968034509128756
+    second: character_tools_shovel_armor_paldrons_knight_23
+  - first:
+      213: -5936740780750219810
+    second: character_tools_shovel_armor_paldrons_knight_24
+  - first:
+      213: 7702300970304235467
+    second: character_tools_shovel_armor_paldrons_knight_25
+  - first:
+      213: -5486087209322319731
+    second: character_tools_shovel_armor_paldrons_knight_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 221
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebc434be95f20050800000000000000
+      internalID: 5765440534964653025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c197d10418a300800000000000000
+      internalID: 263482576345351011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba5b0d8abee15790800000000000000
+      internalID: -7542985415871210826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7396c0f0057cd90800000000000000
+      internalID: -7077600263826491404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884f35e332853f620800000000000000
+      internalID: 2806683901174740104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ea2bccf91f7c030800000000000000
+      internalID: 3515043702822317679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 218
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdc9067217231ff0800000000000000
+      internalID: -66666609237176891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 218
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f66f382bd5751fa0800000000000000
+      internalID: -5830624558427707655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7772de68b7fa7f10800000000000000
+      internalID: 2268397733839796092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 157
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f7a360f4763d470800000000000000
+      internalID: 8418185717590163276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 154
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6aaeed83aa22110800000000000000
+      internalID: 1234736409087747748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 154
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce6773b01213e870800000000000000
+      internalID: 8710825967204396744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 156
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0139562ab31339db0800000000000000
+      internalID: -4786427846767308016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2842593151974420800000000000000
+      internalID: 2614217886751934508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 154
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99422d5b49b44150800000000000000
+      internalID: 5856009148824701342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 154
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db00b7a96f06ac0800000000000000
+      internalID: -3863817336934843006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13be3c70b50c06b90800000000000000
+      internalID: -7250583902861661391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023dde2582560c920800000000000000
+      internalID: 3008515774947906336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e2f40beefbc1aa0800000000000000
+      internalID: -6188860756032803232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34670c461b246b270800000000000000
+      internalID: 8265867495752103491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79969a9bc965ce000800000000000000
+      internalID: 66523325633489303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adde33e7078eadec0800000000000000
+      internalID: -3541262587122160166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d33caca0027310800000000000000
+      internalID: 1401183175689099673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb7672c91a4a58e0800000000000000
+      internalID: -1703968034509128756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5decfc6b57c9da0800000000000000
+      internalID: -5936740780750219810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc761288ce114ea60800000000000000
+      internalID: 7702300970304235467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_paldrons_knight_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d807789efb08dd3b0800000000000000
+      internalID: -5486087209322319731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_armor_paldrons_knight_0: 5765440534964653025
+      character_tools_shovel_armor_paldrons_knight_1: 263482576345351011
+      character_tools_shovel_armor_paldrons_knight_10: 1234736409087747748
+      character_tools_shovel_armor_paldrons_knight_11: 8710825967204396744
+      character_tools_shovel_armor_paldrons_knight_12: -4786427846767308016
+      character_tools_shovel_armor_paldrons_knight_13: 2614217886751934508
+      character_tools_shovel_armor_paldrons_knight_14: 5856009148824701342
+      character_tools_shovel_armor_paldrons_knight_15: -3863817336934843006
+      character_tools_shovel_armor_paldrons_knight_16: -7250583902861661391
+      character_tools_shovel_armor_paldrons_knight_17: 3008515774947906336
+      character_tools_shovel_armor_paldrons_knight_18: -6188860756032803232
+      character_tools_shovel_armor_paldrons_knight_19: 8265867495752103491
+      character_tools_shovel_armor_paldrons_knight_2: -7542985415871210826
+      character_tools_shovel_armor_paldrons_knight_20: 66523325633489303
+      character_tools_shovel_armor_paldrons_knight_21: -3541262587122160166
+      character_tools_shovel_armor_paldrons_knight_22: 1401183175689099673
+      character_tools_shovel_armor_paldrons_knight_23: -1703968034509128756
+      character_tools_shovel_armor_paldrons_knight_24: -5936740780750219810
+      character_tools_shovel_armor_paldrons_knight_25: 7702300970304235467
+      character_tools_shovel_armor_paldrons_knight_26: -5486087209322319731
+      character_tools_shovel_armor_paldrons_knight_3: -7077600263826491404
+      character_tools_shovel_armor_paldrons_knight_4: 2806683901174740104
+      character_tools_shovel_armor_paldrons_knight_5: 3515043702822317679
+      character_tools_shovel_armor_paldrons_knight_6: -66666609237176891
+      character_tools_shovel_armor_paldrons_knight_7: -5830624558427707655
+      character_tools_shovel_armor_paldrons_knight_8: 2268397733839796092
+      character_tools_shovel_armor_paldrons_knight_9: 8418185717590163276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

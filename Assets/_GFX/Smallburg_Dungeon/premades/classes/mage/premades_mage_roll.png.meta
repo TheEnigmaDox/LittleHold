@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 9e7680dce22a605468aea432b15ee6d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7388489928166085201
+    second: premades_mage_roll_0
+  - first:
+      213: -7125147748846007402
+    second: premades_mage_roll_1
+  - first:
+      213: -7157928912104692405
+    second: premades_mage_roll_2
+  - first:
+      213: -1079383511047323382
+    second: premades_mage_roll_3
+  - first:
+      213: 8053851717765163518
+    second: premades_mage_roll_4
+  - first:
+      213: 15668298856712034
+    second: premades_mage_roll_5
+  - first:
+      213: 1286508759894457947
+    second: premades_mage_roll_6
+  - first:
+      213: 7677485404734860135
+    second: premades_mage_roll_7
+  - first:
+      213: -3397644890262562207
+    second: premades_mage_roll_8
+  - first:
+      213: 6752775421357853285
+    second: premades_mage_roll_9
+  - first:
+      213: 5376129494260508930
+    second: premades_mage_roll_10
+  - first:
+      213: -2567808968352175356
+    second: premades_mage_roll_11
+  - first:
+      213: 3820273528076173511
+    second: premades_mage_roll_12
+  - first:
+      213: -693628953762645845
+    second: premades_mage_roll_13
+  - first:
+      213: -8890565430425375778
+    second: premades_mage_roll_14
+  - first:
+      213: -2865662236370846826
+    second: premades_mage_roll_15
+  - first:
+      213: 3257441334595427564
+    second: premades_mage_roll_16
+  - first:
+      213: 589242400862277270
+    second: premades_mage_roll_17
+  - first:
+      213: 2118240075984222131
+    second: premades_mage_roll_18
+  - first:
+      213: 3656442107023262111
+    second: premades_mage_roll_19
+  - first:
+      213: 3561376195253676085
+    second: premades_mage_roll_20
+  - first:
+      213: -1906757082756648575
+    second: premades_mage_roll_21
+  - first:
+      213: 1255288639244794947
+    second: premades_mage_roll_22
+  - first:
+      213: 5051169296596814225
+    second: premades_mage_roll_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_mage_roll_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadeb156e8fc67990800000000000000
+      internalID: -7388489928166085201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0cd18fd36e1d90800000000000000
+      internalID: -7125147748846007402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 213
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45608a249de9ac90800000000000000
+      internalID: -7157928912104692405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 213
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a014c9f5a624501f0800000000000000
+      internalID: -1079383511047323382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ef07577705cf60800000000000000
+      internalID: 8053851717765163518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 213
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c69b1c3aa73000800000000000000
+      internalID: 15668298856712034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5effe1a6e89ad110800000000000000
+      internalID: 1286508759894457947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 149
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ba77d6c48eb8a60800000000000000
+      internalID: 7677485404734860135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a9afa49f329d0d0800000000000000
+      internalID: -3397644890262562207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a060ec77da6bd50800000000000000
+      internalID: 6752775421357853285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 149
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e5e38a49db9a40800000000000000
+      internalID: 5376129494260508930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 149
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b6e4e195f4d5cd0800000000000000
+      internalID: -2567808968352175356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 85
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c00fc97886540530800000000000000
+      internalID: 3820273528076173511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba83d0d342cbf56f0800000000000000
+      internalID: -693628953762645845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edba02368dd5e9480800000000000000
+      internalID: -8890565430425375778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3dd2016f1b38d0800000000000000
+      internalID: -2865662236370846826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 85
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec1c3992a1c43d20800000000000000
+      internalID: 3257441334595427564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e8ef577d86d2800800000000000000
+      internalID: 589242400862277270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7390e4020856d10800000000000000
+      internalID: 2118240075984222131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9107e249ba4eb230800000000000000
+      internalID: 3656442107023262111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538a0a5d7cc8c6130800000000000000
+      internalID: 3561376195253676085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18174512986d985e0800000000000000
+      internalID: -1906757082756648575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf4c8dd5eab6110800000000000000
+      internalID: 1255288639244794947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_roll_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199430886bb591640800000000000000
+      internalID: 5051169296596814225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_mage_roll_0: -7388489928166085201
+      premades_mage_roll_1: -7125147748846007402
+      premades_mage_roll_10: 5376129494260508930
+      premades_mage_roll_11: -2567808968352175356
+      premades_mage_roll_12: 3820273528076173511
+      premades_mage_roll_13: -693628953762645845
+      premades_mage_roll_14: -8890565430425375778
+      premades_mage_roll_15: -2865662236370846826
+      premades_mage_roll_16: 3257441334595427564
+      premades_mage_roll_17: 589242400862277270
+      premades_mage_roll_18: 2118240075984222131
+      premades_mage_roll_19: 3656442107023262111
+      premades_mage_roll_2: -7157928912104692405
+      premades_mage_roll_20: 3561376195253676085
+      premades_mage_roll_21: -1906757082756648575
+      premades_mage_roll_22: 1255288639244794947
+      premades_mage_roll_23: 5051169296596814225
+      premades_mage_roll_3: -1079383511047323382
+      premades_mage_roll_4: 8053851717765163518
+      premades_mage_roll_5: 15668298856712034
+      premades_mage_roll_6: 1286508759894457947
+      premades_mage_roll_7: 7677485404734860135
+      premades_mage_roll_8: -3397644890262562207
+      premades_mage_roll_9: 6752775421357853285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

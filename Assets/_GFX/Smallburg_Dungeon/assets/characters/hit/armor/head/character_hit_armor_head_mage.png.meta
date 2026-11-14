@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: a5f1a5e9c31513944b445806f4955240
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9076228025462094327
+    second: character_hit_armor_head_mage_0
+  - first:
+      213: -767326233249478460
+    second: character_hit_armor_head_mage_1
+  - first:
+      213: 3469221372589726944
+    second: character_hit_armor_head_mage_2
+  - first:
+      213: -6975242866992373910
+    second: character_hit_armor_head_mage_3
+  - first:
+      213: 2453394345078641750
+    second: character_hit_armor_head_mage_4
+  - first:
+      213: -1714966350010248229
+    second: character_hit_armor_head_mage_5
+  - first:
+      213: 510154857930611350
+    second: character_hit_armor_head_mage_6
+  - first:
+      213: -1780766639500484259
+    second: character_hit_armor_head_mage_7
+  - first:
+      213: -5149648965363604316
+    second: character_hit_armor_head_mage_8
+  - first:
+      213: -6549183354402729504
+    second: character_hit_armor_head_mage_9
+  - first:
+      213: 105220101538283204
+    second: character_hit_armor_head_mage_10
+  - first:
+      213: 8465735928184661592
+    second: character_hit_armor_head_mage_11
+  - first:
+      213: 2634041913934128690
+    second: character_hit_armor_head_mage_12
+  - first:
+      213: -4273281682172868880
+    second: character_hit_armor_head_mage_13
+  - first:
+      213: 3080638875312797919
+    second: character_hit_armor_head_mage_14
+  - first:
+      213: -36274236481166994
+    second: character_hit_armor_head_mage_15
+  - first:
+      213: -8399805977124775751
+    second: character_hit_armor_head_mage_16
+  - first:
+      213: 2290895169753299656
+    second: character_hit_armor_head_mage_17
+  - first:
+      213: 7973356178756652703
+    second: character_hit_armor_head_mage_18
+  - first:
+      213: 11570423843721678
+    second: character_hit_armor_head_mage_19
+  - first:
+      213: -1518684899024632774
+    second: character_hit_armor_head_mage_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 865
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9fc1e1d4d35fd70800000000000000
+      internalID: 9076228025462094327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 865
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c883583bd8e955f0800000000000000
+      internalID: -767326233249478460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 801
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec57682576252030800000000000000
+      internalID: 3469221372589726944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 802
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f97d2a195f23f90800000000000000
+      internalID: -6975242866992373910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 738
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6545d5088253c0220800000000000000
+      internalID: 2453394345078641750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 738
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd314e1e0373338e0800000000000000
+      internalID: -1714966350010248229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 674
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ad46fe32f641700800000000000000
+      internalID: 510154857930611350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 673
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5125b02d227947e0800000000000000
+      internalID: -1780766639500484259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 609
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a46b8dcc85c888b0800000000000000
+      internalID: -5149648965363604316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 609
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e19cef2070ac15a0800000000000000
+      internalID: -6549183354402729504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 546
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce7b67ff11d57100800000000000000
+      internalID: 105220101538283204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 546
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85665b929f55c7570800000000000000
+      internalID: 8465735928184661592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 482
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236a88b3a2ffd8420800000000000000
+      internalID: 2634041913934128690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 482
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f607ec63f042b4c0800000000000000
+      internalID: -4273281682172868880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 417
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd837443cb0a0ca20800000000000000
+      internalID: 3080638875312797919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 418
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61aa0c26c02f7ff0800000000000000
+      internalID: -36274236481166994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 353
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85647c7f4ed6b80800000000000000
+      internalID: -8399805977124775751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 354
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cabdcae405eacf10800000000000000
+      internalID: 2290895169753299656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 290
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ec47e233d07ae60800000000000000
+      internalID: 7973356178756652703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 290
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec11b1b3d3b192000800000000000000
+      internalID: 11570423843721678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_hit_armor_head_mage_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 75
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3403e3712c8ceae0800000000000000
+      internalID: -1518684899024632774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_hit_armor_head_mage_0: 9076228025462094327
+      character_hit_armor_head_mage_1: -767326233249478460
+      character_hit_armor_head_mage_10: 105220101538283204
+      character_hit_armor_head_mage_11: 8465735928184661592
+      character_hit_armor_head_mage_12: 2634041913934128690
+      character_hit_armor_head_mage_13: -4273281682172868880
+      character_hit_armor_head_mage_14: 3080638875312797919
+      character_hit_armor_head_mage_15: -36274236481166994
+      character_hit_armor_head_mage_16: -8399805977124775751
+      character_hit_armor_head_mage_17: 2290895169753299656
+      character_hit_armor_head_mage_18: 7973356178756652703
+      character_hit_armor_head_mage_19: 11570423843721678
+      character_hit_armor_head_mage_2: 3469221372589726944
+      character_hit_armor_head_mage_20: -1518684899024632774
+      character_hit_armor_head_mage_3: -6975242866992373910
+      character_hit_armor_head_mage_4: 2453394345078641750
+      character_hit_armor_head_mage_5: -1714966350010248229
+      character_hit_armor_head_mage_6: 510154857930611350
+      character_hit_armor_head_mage_7: -1780766639500484259
+      character_hit_armor_head_mage_8: -5149648965363604316
+      character_hit_armor_head_mage_9: -6549183354402729504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

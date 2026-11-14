@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0061ee46f82509d4c856b5f88efe54c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -965893514112387690
+    second: character_tools_fork_body_green_0
+  - first:
+      213: -7230818595002872381
+    second: character_tools_fork_body_green_1
+  - first:
+      213: -357997196981269572
+    second: character_tools_fork_body_green_2
+  - first:
+      213: -1519455634146322854
+    second: character_tools_fork_body_green_3
+  - first:
+      213: 1992943311395223665
+    second: character_tools_fork_body_green_4
+  - first:
+      213: 2367466158456604497
+    second: character_tools_fork_body_green_5
+  - first:
+      213: 3385081395361532149
+    second: character_tools_fork_body_green_6
+  - first:
+      213: 4230537207970845199
+    second: character_tools_fork_body_green_7
+  - first:
+      213: 8617627310854592445
+    second: character_tools_fork_body_green_8
+  - first:
+      213: 680751835466142466
+    second: character_tools_fork_body_green_9
+  - first:
+      213: -8272719082486542924
+    second: character_tools_fork_body_green_10
+  - first:
+      213: 4942138276210498721
+    second: character_tools_fork_body_green_11
+  - first:
+      213: 6527005625177433661
+    second: character_tools_fork_body_green_12
+  - first:
+      213: -5843234676838971185
+    second: character_tools_fork_body_green_13
+  - first:
+      213: -3376206721762008754
+    second: character_tools_fork_body_green_14
+  - first:
+      213: -4502069042350124
+    second: character_tools_fork_body_green_15
+  - first:
+      213: -6118489430068480819
+    second: character_tools_fork_body_green_16
+  - first:
+      213: -2938031681624390897
+    second: character_tools_fork_body_green_17
+  - first:
+      213: -7488127273593854816
+    second: character_tools_fork_body_green_18
+  - first:
+      213: -8018234778717785184
+    second: character_tools_fork_body_green_19
+  - first:
+      213: 5028836518754074220
+    second: character_tools_fork_body_green_20
+  - first:
+      213: -6379737183129893392
+    second: character_tools_fork_body_green_21
+  - first:
+      213: 5173878775176977644
+    second: character_tools_fork_body_green_22
+  - first:
+      213: 3401523664311687971
+    second: character_tools_fork_body_green_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6953a7867f47892f0800000000000000
+      internalID: -965893514112387690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 211
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd80916cc8f6ab90800000000000000
+      internalID: -7230818595002872381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 212
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb88533273280bf0800000000000000
+      internalID: -357997196981269572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a561eb2b62fc9eae0800000000000000
+      internalID: -1519455634146322854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 212
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178f335f16b58ab10800000000000000
+      internalID: 1992943311395223665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15780908dedead020800000000000000
+      internalID: 2367466158456604497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 149
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8ce4a18993afe20800000000000000
+      internalID: 3385081395361532149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 147
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02dc222d23e5ba30800000000000000
+      internalID: 4230537207970845199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 148
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7513e8166f79770800000000000000
+      internalID: 8617627310854592445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 149
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20397250034827900800000000000000
+      internalID: 680751835466142466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 148
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4bc143d5613d80800000000000000
+      internalID: -8272719082486542924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 149
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac5360e390069440800000000000000
+      internalID: 4942138276210498721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d366da7d805949a50800000000000000
+      internalID: 6527005625177433661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8c4cb2509a8eea0800000000000000
+      internalID: -5843234676838971185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 82
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e61ddfdd4521d0800000000000000
+      internalID: -3376206721762008754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 85
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7f9fd546100fff0800000000000000
+      internalID: -4502069042350124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 86
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc439cec742c61ba0800000000000000
+      internalID: -6118489430068480819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 86
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f034fed70c30a37d0800000000000000
+      internalID: -2938031681624390897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a426802be3d41890800000000000000
+      internalID: -7488127273593854816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3f7d083f189b090800000000000000
+      internalID: -8018234778717785184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e39dd7b240ac540800000000000000
+      internalID: 5028836518754074220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 21
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5013f45de9677a0800000000000000
+      internalID: -6379737183129893392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 21
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec5b59655f4dc740800000000000000
+      internalID: 5173878775176977644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_body_green_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 21
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b126a20c3a43f20800000000000000
+      internalID: 3401523664311687971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fork_body_green_0: -965893514112387690
+      character_tools_fork_body_green_1: -7230818595002872381
+      character_tools_fork_body_green_10: -8272719082486542924
+      character_tools_fork_body_green_11: 4942138276210498721
+      character_tools_fork_body_green_12: 6527005625177433661
+      character_tools_fork_body_green_13: -5843234676838971185
+      character_tools_fork_body_green_14: -3376206721762008754
+      character_tools_fork_body_green_15: -4502069042350124
+      character_tools_fork_body_green_16: -6118489430068480819
+      character_tools_fork_body_green_17: -2938031681624390897
+      character_tools_fork_body_green_18: -7488127273593854816
+      character_tools_fork_body_green_19: -8018234778717785184
+      character_tools_fork_body_green_2: -357997196981269572
+      character_tools_fork_body_green_20: 5028836518754074220
+      character_tools_fork_body_green_21: -6379737183129893392
+      character_tools_fork_body_green_22: 5173878775176977644
+      character_tools_fork_body_green_23: 3401523664311687971
+      character_tools_fork_body_green_3: -1519455634146322854
+      character_tools_fork_body_green_4: 1992943311395223665
+      character_tools_fork_body_green_5: 2367466158456604497
+      character_tools_fork_body_green_6: 3385081395361532149
+      character_tools_fork_body_green_7: 4230537207970845199
+      character_tools_fork_body_green_8: 8617627310854592445
+      character_tools_fork_body_green_9: 680751835466142466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

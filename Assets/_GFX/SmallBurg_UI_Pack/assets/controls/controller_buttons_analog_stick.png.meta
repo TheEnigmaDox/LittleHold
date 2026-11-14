@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 7d972307554a9ff42ac1cf882df188b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6684236357869465388
+    second: controller_buttons_analog_stick_0
+  - first:
+      213: -3704964439003470609
+    second: controller_buttons_analog_stick_1
+  - first:
+      213: 3884011744489491104
+    second: controller_buttons_analog_stick_2
+  - first:
+      213: 1225115727993824683
+    second: controller_buttons_analog_stick_3
+  - first:
+      213: -6876479905367355976
+    second: controller_buttons_analog_stick_4
+  - first:
+      213: -3319690341584706165
+    second: controller_buttons_analog_stick_5
+  - first:
+      213: -8122055748347817692
+    second: controller_buttons_analog_stick_6
+  - first:
+      213: -5452948740376465648
+    second: controller_buttons_analog_stick_7
+  - first:
+      213: 4369502209384606973
+    second: controller_buttons_analog_stick_8
+  - first:
+      213: 7384424032477878701
+    second: controller_buttons_analog_stick_9
+  - first:
+      213: 3296605534404383580
+    second: controller_buttons_analog_stick_10
+  - first:
+      213: 7306178071762547070
+    second: controller_buttons_analog_stick_11
+  - first:
+      213: 7668061835182020721
+    second: controller_buttons_analog_stick_12
+  - first:
+      213: 5318795305556518711
+    second: controller_buttons_analog_stick_13
+  - first:
+      213: 2756079483861951251
+    second: controller_buttons_analog_stick_14
+  - first:
+      213: -4638170649032030026
+    second: controller_buttons_analog_stick_15
+  - first:
+      213: 7737847243204151643
+    second: controller_buttons_analog_stick_16
+  - first:
+      213: 7922241162929988690
+    second: controller_buttons_analog_stick_17
+  - first:
+      213: -8676449983160810804
+    second: controller_buttons_analog_stick_18
+  - first:
+      213: 1037063863511471606
+    second: controller_buttons_analog_stick_19
+  - first:
+      213: 4625080726739429101
+    second: controller_buttons_analog_stick_20
+  - first:
+      213: 1060652078999538802
+    second: controller_buttons_analog_stick_21
+  - first:
+      213: -2153315293516769432
+    second: controller_buttons_analog_stick_22
+  - first:
+      213: -3029113938525120831
+    second: controller_buttons_analog_stick_23
+  - first:
+      213: -7366170418968585463
+    second: controller_buttons_analog_stick_24
+  - first:
+      213: -8345742539735217812
+    second: controller_buttons_analog_stick_25
+  - first:
+      213: -2653610186832303792
+    second: controller_buttons_analog_stick_26
+  - first:
+      213: 1873631377490281080
+    second: controller_buttons_analog_stick_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6f898d8d23cc50800000000000000
+      internalID: 6684236357869465388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe46eb3f872559cc0800000000000000
+      internalID: -3704964439003470609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aacdbd6a18c6e530800000000000000
+      internalID: 3884011744489491104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e0df734c700110800000000000000
+      internalID: 1225115727993824683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 126
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd877f85f5d190a0800000000000000
+      internalID: -6876479905367355976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 130
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b856c8909371ee1d0800000000000000
+      internalID: -3319690341584706165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4211fc15459a84f80800000000000000
+      internalID: -8122055748347817692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6277f20c3354b0800000000000000
+      internalID: -5452948740376465648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc67abdb1793ac30800000000000000
+      internalID: 4369502209384606973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da993be788eba7660800000000000000
+      internalID: 7384424032477878701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5392c27445efbd20800000000000000
+      internalID: 3296605534404383580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b7291f32c46560800000000000000
+      internalID: 7306178071762547070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17811c9ac9d6a6a60800000000000000
+      internalID: 7668061835182020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73726b4762820d940800000000000000
+      internalID: 5318795305556518711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313655030bf8f3620800000000000000
+      internalID: 2756079483861951251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88dc86e58e1afb0800000000000000
+      internalID: -4638170649032030026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594b61221b526b60800000000000000
+      internalID: 7737847243204151643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546b652d5471fd60800000000000000
+      internalID: 7922241162929988690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2814ac5be079780800000000000000
+      internalID: -8676449983160810804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 130
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5def9d614646e00800000000000000
+      internalID: 1037063863511471606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de62fce8a669f2040800000000000000
+      internalID: 4625080726739429101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c0c0f327138be00800000000000000
+      internalID: 1060652078999538802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86754883623ed12e0800000000000000
+      internalID: -2153315293516769432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6960efbec66f5d0800000000000000
+      internalID: -3029113938525120831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b1366180b16c990800000000000000
+      internalID: -7366170418968585463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c694734b067fd2c80800000000000000
+      internalID: -8345742539735217812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059a081389b7c2bd0800000000000000
+      internalID: -2653610186832303792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controller_buttons_analog_stick_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87285579fc9700a10800000000000000
+      internalID: 1873631377490281080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      controller_buttons_analog_stick_0: 6684236357869465388
+      controller_buttons_analog_stick_1: -3704964439003470609
+      controller_buttons_analog_stick_10: 3296605534404383580
+      controller_buttons_analog_stick_11: 7306178071762547070
+      controller_buttons_analog_stick_12: 7668061835182020721
+      controller_buttons_analog_stick_13: 5318795305556518711
+      controller_buttons_analog_stick_14: 2756079483861951251
+      controller_buttons_analog_stick_15: -4638170649032030026
+      controller_buttons_analog_stick_16: 7737847243204151643
+      controller_buttons_analog_stick_17: 7922241162929988690
+      controller_buttons_analog_stick_18: -8676449983160810804
+      controller_buttons_analog_stick_19: 1037063863511471606
+      controller_buttons_analog_stick_2: 3884011744489491104
+      controller_buttons_analog_stick_20: 4625080726739429101
+      controller_buttons_analog_stick_21: 1060652078999538802
+      controller_buttons_analog_stick_22: -2153315293516769432
+      controller_buttons_analog_stick_23: -3029113938525120831
+      controller_buttons_analog_stick_24: -7366170418968585463
+      controller_buttons_analog_stick_25: -8345742539735217812
+      controller_buttons_analog_stick_26: -2653610186832303792
+      controller_buttons_analog_stick_27: 1873631377490281080
+      controller_buttons_analog_stick_3: 1225115727993824683
+      controller_buttons_analog_stick_4: -6876479905367355976
+      controller_buttons_analog_stick_5: -3319690341584706165
+      controller_buttons_analog_stick_6: -8122055748347817692
+      controller_buttons_analog_stick_7: -5452948740376465648
+      controller_buttons_analog_stick_8: 4369502209384606973
+      controller_buttons_analog_stick_9: 7384424032477878701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

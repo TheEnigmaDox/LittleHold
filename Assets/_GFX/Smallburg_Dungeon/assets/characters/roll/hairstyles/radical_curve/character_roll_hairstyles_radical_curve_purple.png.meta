@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b0c788e80a3cd024482a5d7b12f70c96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6473054466930478034
+    second: character_roll_hairstyles_radical_curve_purple_0
+  - first:
+      213: -6131798586387968503
+    second: character_roll_hairstyles_radical_curve_purple_1
+  - first:
+      213: 9010966204113682743
+    second: character_roll_hairstyles_radical_curve_purple_2
+  - first:
+      213: -5912849113041989394
+    second: character_roll_hairstyles_radical_curve_purple_3
+  - first:
+      213: 6734503733679959759
+    second: character_roll_hairstyles_radical_curve_purple_4
+  - first:
+      213: 7495461736251681888
+    second: character_roll_hairstyles_radical_curve_purple_5
+  - first:
+      213: -7955214069704227332
+    second: character_roll_hairstyles_radical_curve_purple_6
+  - first:
+      213: -2719116071550187564
+    second: character_roll_hairstyles_radical_curve_purple_7
+  - first:
+      213: 6499541126541464019
+    second: character_roll_hairstyles_radical_curve_purple_8
+  - first:
+      213: 1761168489639617877
+    second: character_roll_hairstyles_radical_curve_purple_9
+  - first:
+      213: 6629851489437417887
+    second: character_roll_hairstyles_radical_curve_purple_10
+  - first:
+      213: -2729098738009708694
+    second: character_roll_hairstyles_radical_curve_purple_11
+  - first:
+      213: -1374438783597829549
+    second: character_roll_hairstyles_radical_curve_purple_12
+  - first:
+      213: -7635901536189769069
+    second: character_roll_hairstyles_radical_curve_purple_13
+  - first:
+      213: 1630577902932853989
+    second: character_roll_hairstyles_radical_curve_purple_14
+  - first:
+      213: 4149457856180934952
+    second: character_roll_hairstyles_radical_curve_purple_15
+  - first:
+      213: 6756188610304190023
+    second: character_roll_hairstyles_radical_curve_purple_16
+  - first:
+      213: 8041426302048106459
+    second: character_roll_hairstyles_radical_curve_purple_17
+  - first:
+      213: 5317290340260476017
+    second: character_roll_hairstyles_radical_curve_purple_18
+  - first:
+      213: 6979896974480900089
+    second: character_roll_hairstyles_radical_curve_purple_19
+  - first:
+      213: 6332450653981166157
+    second: character_roll_hairstyles_radical_curve_purple_20
+  - first:
+      213: -598438036013064440
+    second: character_roll_hairstyles_radical_curve_purple_21
+  - first:
+      213: 4219951534159879538
+    second: character_roll_hairstyles_radical_curve_purple_22
+  - first:
+      213: 7404000058402336081
+    second: character_roll_hairstyles_radical_curve_purple_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 222
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8521fdb8e4d950800000000000000
+      internalID: 6473054466930478034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 216
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e4a106ca977eaa0800000000000000
+      internalID: -6131798586387968503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 215
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7310f3f35026d0d70800000000000000
+      internalID: 9010966204113682743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 215
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee016ae2f0751fda0800000000000000
+      internalID: -5912849113041989394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 219
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce29800773c57d50800000000000000
+      internalID: 6734503733679959759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c60d88cba350860800000000000000
+      internalID: 7495461736251681888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 158
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5071fb3f6699190800000000000000
+      internalID: -7955214069704227332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 152
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d70234e652c34ad0800000000000000
+      internalID: -2719116071550187564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1db82f732033a50800000000000000
+      internalID: 6499541126541464019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a496096de07810800000000000000
+      internalID: 1761168489639617877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 155
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91038d9dc6f10c50800000000000000
+      internalID: 6629851489437417887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 157
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67e6fb382b402ad0800000000000000
+      internalID: -2729098738009708694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a12a55330dece0800000000000000
+      internalID: -1374438783597829549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a9c837204d70690800000000000000
+      internalID: -7635901536189769069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 87
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e40aeaa6f9f0a610800000000000000
+      internalID: 1630577902932853989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295e187fe5d59930800000000000000
+      internalID: 4149457856180934952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 91
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746a8b8cebdc2cd50800000000000000
+      internalID: 6756188610304190023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77f0dcd92e89f60800000000000000
+      internalID: 8041426302048106459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17477da646fcac940800000000000000
+      internalID: 5317290340260476017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fff1c431539dd060800000000000000
+      internalID: 6979896974480900089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4acc3ca15261e750800000000000000
+      internalID: 6332450653981166157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 26
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fdb53e6cbe1b7f0800000000000000
+      internalID: -598438036013064440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 27
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dd6f2ef87409a30800000000000000
+      internalID: 4219951534159879538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_radical_curve_purple_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 28
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dea0633da40c660800000000000000
+      internalID: 7404000058402336081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_radical_curve_purple_0: 6473054466930478034
+      character_roll_hairstyles_radical_curve_purple_1: -6131798586387968503
+      character_roll_hairstyles_radical_curve_purple_10: 6629851489437417887
+      character_roll_hairstyles_radical_curve_purple_11: -2729098738009708694
+      character_roll_hairstyles_radical_curve_purple_12: -1374438783597829549
+      character_roll_hairstyles_radical_curve_purple_13: -7635901536189769069
+      character_roll_hairstyles_radical_curve_purple_14: 1630577902932853989
+      character_roll_hairstyles_radical_curve_purple_15: 4149457856180934952
+      character_roll_hairstyles_radical_curve_purple_16: 6756188610304190023
+      character_roll_hairstyles_radical_curve_purple_17: 8041426302048106459
+      character_roll_hairstyles_radical_curve_purple_18: 5317290340260476017
+      character_roll_hairstyles_radical_curve_purple_19: 6979896974480900089
+      character_roll_hairstyles_radical_curve_purple_2: 9010966204113682743
+      character_roll_hairstyles_radical_curve_purple_20: 6332450653981166157
+      character_roll_hairstyles_radical_curve_purple_21: -598438036013064440
+      character_roll_hairstyles_radical_curve_purple_22: 4219951534159879538
+      character_roll_hairstyles_radical_curve_purple_23: 7404000058402336081
+      character_roll_hairstyles_radical_curve_purple_3: -5912849113041989394
+      character_roll_hairstyles_radical_curve_purple_4: 6734503733679959759
+      character_roll_hairstyles_radical_curve_purple_5: 7495461736251681888
+      character_roll_hairstyles_radical_curve_purple_6: -7955214069704227332
+      character_roll_hairstyles_radical_curve_purple_7: -2719116071550187564
+      character_roll_hairstyles_radical_curve_purple_8: 6499541126541464019
+      character_roll_hairstyles_radical_curve_purple_9: 1761168489639617877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

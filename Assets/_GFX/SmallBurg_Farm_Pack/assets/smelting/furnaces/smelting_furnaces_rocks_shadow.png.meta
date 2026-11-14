@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: cc60a044a6450154a8677a968d6da413
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5482734168443859408
+    second: smelting_furnaces_rocks_shadow_0
+  - first:
+      213: 7755624176634206685
+    second: smelting_furnaces_rocks_shadow_1
+  - first:
+      213: 1602946592598623603
+    second: smelting_furnaces_rocks_shadow_2
+  - first:
+      213: 4364282428864184376
+    second: smelting_furnaces_rocks_shadow_3
+  - first:
+      213: 7914092246229945603
+    second: smelting_furnaces_rocks_shadow_4
+  - first:
+      213: 4933429898305548410
+    second: smelting_furnaces_rocks_shadow_5
+  - first:
+      213: -7252308333659300692
+    second: smelting_furnaces_rocks_shadow_6
+  - first:
+      213: -5401490277058007802
+    second: smelting_furnaces_rocks_shadow_7
+  - first:
+      213: 4979105732945622419
+    second: smelting_furnaces_rocks_shadow_8
+  - first:
+      213: -186188995563903364
+    second: smelting_furnaces_rocks_shadow_9
+  - first:
+      213: 4653504322548106212
+    second: smelting_furnaces_rocks_shadow_10
+  - first:
+      213: -4443175506196167268
+    second: smelting_furnaces_rocks_shadow_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d13efb6da5961c40800000000000000
+      internalID: 5482734168443859408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 114
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd996bbf81381ab60800000000000000
+      internalID: 7755624176634206685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 114
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37583c5ee6fce3610800000000000000
+      internalID: 1602946592598623603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 114
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830cdeffebb019c30800000000000000
+      internalID: 4364282428864184376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 114
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d8530a7f084dd60800000000000000
+      internalID: 7914092246229945603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 114
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a703bc4aa50177440800000000000000
+      internalID: 4933429898305548410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacd1a2beff9a5b90800000000000000
+      internalID: -7252308333659300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 18
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d2b3a163d0a05b0800000000000000
+      internalID: -5401490277058007802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 18
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395b55f9846591540800000000000000
+      internalID: 4979105732945622419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 18
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76a35258168a6df0800000000000000
+      internalID: -186188995563903364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 18
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3893aa681949040800000000000000
+      internalID: 4653504322548106212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smelting_furnaces_rocks_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9506760b6ba652c0800000000000000
+      internalID: -4443175506196167268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smelting_furnaces_rocks_shadow_0: 5482734168443859408
+      smelting_furnaces_rocks_shadow_1: 7755624176634206685
+      smelting_furnaces_rocks_shadow_10: 4653504322548106212
+      smelting_furnaces_rocks_shadow_11: -4443175506196167268
+      smelting_furnaces_rocks_shadow_2: 1602946592598623603
+      smelting_furnaces_rocks_shadow_3: 4364282428864184376
+      smelting_furnaces_rocks_shadow_4: 7914092246229945603
+      smelting_furnaces_rocks_shadow_5: 4933429898305548410
+      smelting_furnaces_rocks_shadow_6: -7252308333659300692
+      smelting_furnaces_rocks_shadow_7: -5401490277058007802
+      smelting_furnaces_rocks_shadow_8: 4979105732945622419
+      smelting_furnaces_rocks_shadow_9: -186188995563903364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

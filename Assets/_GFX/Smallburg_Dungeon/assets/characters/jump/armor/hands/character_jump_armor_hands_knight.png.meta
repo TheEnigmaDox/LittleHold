@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 678beaf64259e5943b320bb9d99874e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -640740841319625043
+    second: character_jump_armor_hands_knight_0
+  - first:
+      213: -4555747721418876635
+    second: character_jump_armor_hands_knight_1
+  - first:
+      213: 6160930435645104424
+    second: character_jump_armor_hands_knight_2
+  - first:
+      213: 1490398984480347332
+    second: character_jump_armor_hands_knight_3
+  - first:
+      213: 6915872444206795176
+    second: character_jump_armor_hands_knight_4
+  - first:
+      213: 2185088670864528447
+    second: character_jump_armor_hands_knight_5
+  - first:
+      213: -331681021905226718
+    second: character_jump_armor_hands_knight_6
+  - first:
+      213: 1638349194821383593
+    second: character_jump_armor_hands_knight_7
+  - first:
+      213: 2248844562880400447
+    second: character_jump_armor_hands_knight_8
+  - first:
+      213: -8934077974935285462
+    second: character_jump_armor_hands_knight_9
+  - first:
+      213: -1235663304888865306
+    second: character_jump_armor_hands_knight_10
+  - first:
+      213: -2722796615899162658
+    second: character_jump_armor_hands_knight_11
+  - first:
+      213: 4447830700388271012
+    second: character_jump_armor_hands_knight_12
+  - first:
+      213: -8040116607141011590
+    second: character_jump_armor_hands_knight_13
+  - first:
+      213: -4596368548515717773
+    second: character_jump_armor_hands_knight_14
+  - first:
+      213: -4333497196440276412
+    second: character_jump_armor_hands_knight_15
+  - first:
+      213: 6890172386874003698
+    second: character_jump_armor_hands_knight_16
+  - first:
+      213: -8018613039583488576
+    second: character_jump_armor_hands_knight_17
+  - first:
+      213: -5692419018113781918
+    second: character_jump_armor_hands_knight_18
+  - first:
+      213: 5128039661435354354
+    second: character_jump_armor_hands_knight_19
+  - first:
+      213: 713889541020899640
+    second: character_jump_armor_hands_knight_20
+  - first:
+      213: 1837069454352530261
+    second: character_jump_armor_hands_knight_21
+  - first:
+      213: 7317580979456852165
+    second: character_jump_armor_hands_knight_22
+  - first:
+      213: -490352147548652267
+    second: character_jump_armor_hands_knight_23
+  - first:
+      213: 5198967726781566916
+    second: character_jump_armor_hands_knight_24
+  - first:
+      213: -1080990144209948069
+    second: character_jump_armor_hands_knight_25
+  - first:
+      213: -4925809842551571064
+    second: character_jump_armor_hands_knight_26
+  - first:
+      213: 6884349862679379355
+    second: character_jump_armor_hands_knight_27
+  - first:
+      213: -3088022090245732682
+    second: character_jump_armor_hands_knight_28
+  - first:
+      213: 5251032423452890559
+    second: character_jump_armor_hands_knight_29
+  - first:
+      213: -1721192108775044632
+    second: character_jump_armor_hands_knight_30
+  - first:
+      213: 1237139310403836839
+    second: character_jump_armor_hands_knight_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae0f008991ab17f0800000000000000
+      internalID: -640740841319625043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295882b59bb6c0c0800000000000000
+      internalID: -4555747721418876635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e486d695008550800000000000000
+      internalID: 6160930435645104424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4dd8bdaf5fea410800000000000000
+      internalID: 1490398984480347332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9cbdc985d1aff50800000000000000
+      internalID: 6915872444206795176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f345c9da19ef25e10800000000000000
+      internalID: 2185088670864528447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b99e2ed1a56bf0800000000000000
+      internalID: -331681021905226718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5306f89e59cb610800000000000000
+      internalID: 1638349194821383593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 216
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c0e8d0730853f10800000000000000
+      internalID: 2248844562880400447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 217
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a215754aa67c30480800000000000000
+      internalID: -8934077974935285462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed2d1265ca0adee0800000000000000
+      internalID: -1235663304888865306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d1b167eea63ad0800000000000000
+      internalID: -2722796615899162658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a348b5d47ed9bd30800000000000000
+      internalID: 4447830700388271012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f14ae4b84cb6090800000000000000
+      internalID: -8040116607141011590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d51f0682b6630c0800000000000000
+      internalID: -4596368548515717773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442b60b72435cd3c0800000000000000
+      internalID: -4333497196440276412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f094d8b74fce9f50800000000000000
+      internalID: 6890172386874003698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c59f48cce928b090800000000000000
+      internalID: -8018613039583488576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f66a010177001b0800000000000000
+      internalID: -5692419018113781918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 153
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcf7fd07e47a2740800000000000000
+      internalID: 5128039661435354354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839da6551ce38e900800000000000000
+      internalID: 713889541020899640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b376e7fe49e7910800000000000000
+      internalID: 1837069454352530261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c04eaf61254d8560800000000000000
+      internalID: 7317580979456852165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d338ed15be139f0800000000000000
+      internalID: -490352147548652267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf09892a91762840800000000000000
+      internalID: 5198967726781566916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 28
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52faa0f03d8ff0f0800000000000000
+      internalID: -1080990144209948069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d3797db0204abb0800000000000000
+      internalID: -4925809842551571064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d738aa9bf1a8f50800000000000000
+      internalID: 6884349862679379355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 24
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6085c15442525d0800000000000000
+      internalID: -3088022090245732682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d7fffa2a6fd840800000000000000
+      internalID: 5251032423452890559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9024675e81d18e0800000000000000
+      internalID: -1721192108775044632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_hands_knight_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abda4ee5a33b2110800000000000000
+      internalID: 1237139310403836839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_armor_hands_knight_0: -640740841319625043
+      character_jump_armor_hands_knight_1: -4555747721418876635
+      character_jump_armor_hands_knight_10: -1235663304888865306
+      character_jump_armor_hands_knight_11: -2722796615899162658
+      character_jump_armor_hands_knight_12: 4447830700388271012
+      character_jump_armor_hands_knight_13: -8040116607141011590
+      character_jump_armor_hands_knight_14: -4596368548515717773
+      character_jump_armor_hands_knight_15: -4333497196440276412
+      character_jump_armor_hands_knight_16: 6890172386874003698
+      character_jump_armor_hands_knight_17: -8018613039583488576
+      character_jump_armor_hands_knight_18: -5692419018113781918
+      character_jump_armor_hands_knight_19: 5128039661435354354
+      character_jump_armor_hands_knight_2: 6160930435645104424
+      character_jump_armor_hands_knight_20: 713889541020899640
+      character_jump_armor_hands_knight_21: 1837069454352530261
+      character_jump_armor_hands_knight_22: 7317580979456852165
+      character_jump_armor_hands_knight_23: -490352147548652267
+      character_jump_armor_hands_knight_24: 5198967726781566916
+      character_jump_armor_hands_knight_25: -1080990144209948069
+      character_jump_armor_hands_knight_26: -4925809842551571064
+      character_jump_armor_hands_knight_27: 6884349862679379355
+      character_jump_armor_hands_knight_28: -3088022090245732682
+      character_jump_armor_hands_knight_29: 5251032423452890559
+      character_jump_armor_hands_knight_3: 1490398984480347332
+      character_jump_armor_hands_knight_30: -1721192108775044632
+      character_jump_armor_hands_knight_31: 1237139310403836839
+      character_jump_armor_hands_knight_4: 6915872444206795176
+      character_jump_armor_hands_knight_5: 2185088670864528447
+      character_jump_armor_hands_knight_6: -331681021905226718
+      character_jump_armor_hands_knight_7: 1638349194821383593
+      character_jump_armor_hands_knight_8: 2248844562880400447
+      character_jump_armor_hands_knight_9: -8934077974935285462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

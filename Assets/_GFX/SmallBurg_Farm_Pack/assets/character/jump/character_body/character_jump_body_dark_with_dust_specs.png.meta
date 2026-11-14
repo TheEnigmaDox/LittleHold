@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 8831d0b3b08d0694391d8435f9d31fa9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1689758540849074150
+    second: character_jump_body_dark_with_dust_specs_0
+  - first:
+      213: 5353515712570030143
+    second: character_jump_body_dark_with_dust_specs_1
+  - first:
+      213: -1135576624103715248
+    second: character_jump_body_dark_with_dust_specs_2
+  - first:
+      213: -303126666005507957
+    second: character_jump_body_dark_with_dust_specs_3
+  - first:
+      213: 426787889235563419
+    second: character_jump_body_dark_with_dust_specs_4
+  - first:
+      213: 5763515405103384887
+    second: character_jump_body_dark_with_dust_specs_5
+  - first:
+      213: -3522220118505634862
+    second: character_jump_body_dark_with_dust_specs_6
+  - first:
+      213: 5851868744961957773
+    second: character_jump_body_dark_with_dust_specs_7
+  - first:
+      213: -170630282921430683
+    second: character_jump_body_dark_with_dust_specs_8
+  - first:
+      213: 6816750395264384329
+    second: character_jump_body_dark_with_dust_specs_9
+  - first:
+      213: -5480319841860063804
+    second: character_jump_body_dark_with_dust_specs_10
+  - first:
+      213: 9046053323728199787
+    second: character_jump_body_dark_with_dust_specs_11
+  - first:
+      213: 394873097822076288
+    second: character_jump_body_dark_with_dust_specs_12
+  - first:
+      213: -6376209907692672633
+    second: character_jump_body_dark_with_dust_specs_13
+  - first:
+      213: -4865676095382385905
+    second: character_jump_body_dark_with_dust_specs_14
+  - first:
+      213: -3189323819325734907
+    second: character_jump_body_dark_with_dust_specs_15
+  - first:
+      213: 5236313080693438118
+    second: character_jump_body_dark_with_dust_specs_16
+  - first:
+      213: -3915881417352743083
+    second: character_jump_body_dark_with_dust_specs_17
+  - first:
+      213: 1675569552414759460
+    second: character_jump_body_dark_with_dust_specs_18
+  - first:
+      213: 6915223572916174681
+    second: character_jump_body_dark_with_dust_specs_19
+  - first:
+      213: 4107802909103390963
+    second: character_jump_body_dark_with_dust_specs_20
+  - first:
+      213: -3151465390441394523
+    second: character_jump_body_dark_with_dust_specs_21
+  - first:
+      213: -6112570715058355315
+    second: character_jump_body_dark_with_dust_specs_22
+  - first:
+      213: -4243533286368856830
+    second: character_jump_body_dark_with_dust_specs_23
+  - first:
+      213: 1943355477561178719
+    second: character_jump_body_dark_with_dust_specs_24
+  - first:
+      213: 5830185239025140205
+    second: character_jump_body_dark_with_dust_specs_25
+  - first:
+      213: -3638133401929401116
+    second: character_jump_body_dark_with_dust_specs_26
+  - first:
+      213: -2103098227738001347
+    second: character_jump_body_dark_with_dust_specs_27
+  - first:
+      213: 4381672693282822746
+    second: character_jump_body_dark_with_dust_specs_28
+  - first:
+      213: 1582137231852625576
+    second: character_jump_body_dark_with_dust_specs_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 213
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1032805f85cc88e0800000000000000
+      internalID: -1689758540849074150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 221
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38753b2d228b4a40800000000000000
+      internalID: 5353515712570030143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 219
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8f01b31f9d30f0800000000000000
+      internalID: -1135576624103715248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b801bce37e31bcbf0800000000000000
+      internalID: -303126666005507957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b931354f2514ce500800000000000000
+      internalID: 426787889235563419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739cdaa79be1cff40800000000000000
+      internalID: 5763515405103384887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3ccb7b67f8e1fc0800000000000000
+      internalID: -3522220118505634862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f1ba77e93063150800000000000000
+      internalID: 5851868744961957773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5613b8669acc1adf0800000000000000
+      internalID: -170630282921430683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dbc382e56f99e50800000000000000
+      internalID: 6816750395264384329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde76ac32ef1f3b0800000000000000
+      internalID: -5480319841860063804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60af04e1990a8d70800000000000000
+      internalID: 9046053323728199787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 149
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dfa078dfeda7500800000000000000
+      internalID: 394873097822076288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 149
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789e6ae1fd62387a0800000000000000
+      internalID: -6376209907692672633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8f96ee55a97cb0800000000000000
+      internalID: -4865676095382385905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500c56352ee3db3d0800000000000000
+      internalID: -3189323819325734907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 86
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6b673f00f1ba840800000000000000
+      internalID: 5236313080693438118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f220299ef7a9c0800000000000000
+      internalID: -3915881417352743083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a542061a1d04710800000000000000
+      internalID: 1675569552414759460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 85
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f731e733fc7ff50800000000000000
+      internalID: 6915223572916174681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 85
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08c645bf8d10930800000000000000
+      internalID: 4107802909103390963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae8dc0bceeb344d0800000000000000
+      internalID: -3151465390441394523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83cd780259cb2ba0800000000000000
+      internalID: -6112570715058355315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 22
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205307195f0fb15c0800000000000000
+      internalID: -4243533286368856830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5af750b28f28fa10800000000000000
+      internalID: 1943355477561178719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c1d2d59af8e050800000000000000
+      internalID: 5830185239025140205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecb38452f0c28dc0800000000000000
+      internalID: -3638133401929401116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d304ce7fd4b40d2e0800000000000000
+      internalID: -2103098227738001347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ad6257914decc30800000000000000
+      internalID: 4381672693282822746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_body_dark_with_dust_specs_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aede7a0e61e4f510800000000000000
+      internalID: 1582137231852625576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_body_dark_with_dust_specs_0: -1689758540849074150
+      character_jump_body_dark_with_dust_specs_1: 5353515712570030143
+      character_jump_body_dark_with_dust_specs_10: -5480319841860063804
+      character_jump_body_dark_with_dust_specs_11: 9046053323728199787
+      character_jump_body_dark_with_dust_specs_12: 394873097822076288
+      character_jump_body_dark_with_dust_specs_13: -6376209907692672633
+      character_jump_body_dark_with_dust_specs_14: -4865676095382385905
+      character_jump_body_dark_with_dust_specs_15: -3189323819325734907
+      character_jump_body_dark_with_dust_specs_16: 5236313080693438118
+      character_jump_body_dark_with_dust_specs_17: -3915881417352743083
+      character_jump_body_dark_with_dust_specs_18: 1675569552414759460
+      character_jump_body_dark_with_dust_specs_19: 6915223572916174681
+      character_jump_body_dark_with_dust_specs_2: -1135576624103715248
+      character_jump_body_dark_with_dust_specs_20: 4107802909103390963
+      character_jump_body_dark_with_dust_specs_21: -3151465390441394523
+      character_jump_body_dark_with_dust_specs_22: -6112570715058355315
+      character_jump_body_dark_with_dust_specs_23: -4243533286368856830
+      character_jump_body_dark_with_dust_specs_24: 1943355477561178719
+      character_jump_body_dark_with_dust_specs_25: 5830185239025140205
+      character_jump_body_dark_with_dust_specs_26: -3638133401929401116
+      character_jump_body_dark_with_dust_specs_27: -2103098227738001347
+      character_jump_body_dark_with_dust_specs_28: 4381672693282822746
+      character_jump_body_dark_with_dust_specs_29: 1582137231852625576
+      character_jump_body_dark_with_dust_specs_3: -303126666005507957
+      character_jump_body_dark_with_dust_specs_4: 426787889235563419
+      character_jump_body_dark_with_dust_specs_5: 5763515405103384887
+      character_jump_body_dark_with_dust_specs_6: -3522220118505634862
+      character_jump_body_dark_with_dust_specs_7: 5851868744961957773
+      character_jump_body_dark_with_dust_specs_8: -170630282921430683
+      character_jump_body_dark_with_dust_specs_9: 6816750395264384329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

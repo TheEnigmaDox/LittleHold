@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: e98db1c647f3ac342ae3356f24e8d948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8201497358052503487
+    second: character_roll_dark_skin_0
+  - first:
+      213: -3509961202105742059
+    second: character_roll_dark_skin_1
+  - first:
+      213: 3302241704182655972
+    second: character_roll_dark_skin_2
+  - first:
+      213: 9009208110876337141
+    second: character_roll_dark_skin_3
+  - first:
+      213: 8888266735981530620
+    second: character_roll_dark_skin_4
+  - first:
+      213: 8214118655792978842
+    second: character_roll_dark_skin_5
+  - first:
+      213: 4229021185007085525
+    second: character_roll_dark_skin_6
+  - first:
+      213: 6645613812682170384
+    second: character_roll_dark_skin_7
+  - first:
+      213: 8355630549769605985
+    second: character_roll_dark_skin_8
+  - first:
+      213: 3321266624270148088
+    second: character_roll_dark_skin_9
+  - first:
+      213: 3125538384740102436
+    second: character_roll_dark_skin_10
+  - first:
+      213: 9002291945706282604
+    second: character_roll_dark_skin_11
+  - first:
+      213: -247210007512468106
+    second: character_roll_dark_skin_12
+  - first:
+      213: -6812408560743378942
+    second: character_roll_dark_skin_13
+  - first:
+      213: 8101330566487989068
+    second: character_roll_dark_skin_14
+  - first:
+      213: 1547488954910692594
+    second: character_roll_dark_skin_15
+  - first:
+      213: 1685026891470743565
+    second: character_roll_dark_skin_16
+  - first:
+      213: 3061777603321259945
+    second: character_roll_dark_skin_17
+  - first:
+      213: -7376008492336091850
+    second: character_roll_dark_skin_18
+  - first:
+      213: -8273467263784526717
+    second: character_roll_dark_skin_19
+  - first:
+      213: -8715793990603228201
+    second: character_roll_dark_skin_20
+  - first:
+      213: 3472549176200035672
+    second: character_roll_dark_skin_21
+  - first:
+      213: 4954119144191261430
+    second: character_roll_dark_skin_22
+  - first:
+      213: -3701935682635161126
+    second: character_roll_dark_skin_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_dark_skin_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 213
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140d9f23b9d6e2e80800000000000000
+      internalID: -8201497358052503487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d851d12ec1a4fc0800000000000000
+      internalID: -3509961202105742059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 213
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba94c755be3dd20800000000000000
+      internalID: 3302241704182655972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f32a544b03270d70800000000000000
+      internalID: 9009208110876337141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd891b1187795b70800000000000000
+      internalID: 8888266735981530620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b137da5696ef170800000000000000
+      internalID: 8214118655792978842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7e2f78c5080ba30800000000000000
+      internalID: 4229021185007085525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 149
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a95b7d86f93c50800000000000000
+      internalID: 6645613812682170384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635b6907b925f370800000000000000
+      internalID: 8355630549769605985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1abffd562871e20800000000000000
+      internalID: 3321266624270148088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 149
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4213842e994206b20800000000000000
+      internalID: 3125538384740102436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ede2414d09eec70800000000000000
+      internalID: 9002291945706282604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6753c45decbb19cf0800000000000000
+      internalID: -247210007512468106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2009f08f1867571a0800000000000000
+      internalID: -6812408560743378942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bd78f3a35bd6070800000000000000
+      internalID: 8101330566487989068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4da4b6109c97510800000000000000
+      internalID: 1547488954910692594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d082817b70b626710800000000000000
+      internalID: 1685026891470743565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7e53b128e9d7a20800000000000000
+      internalID: 3061777603321259945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dea022b5723a990800000000000000
+      internalID: -7376008492336091850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cdc49bb5dbe2d80800000000000000
+      internalID: -8273467263784526717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db3c963b874b0780800000000000000
+      internalID: -8715793990603228201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d7a70d319f03030800000000000000
+      internalID: 3472549176200035672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa7b741d1190c440800000000000000
+      internalID: 4954119144191261430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_dark_skin_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1203f3c1510acc0800000000000000
+      internalID: -3701935682635161126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_dark_skin_0: -8201497358052503487
+      character_roll_dark_skin_1: -3509961202105742059
+      character_roll_dark_skin_10: 3125538384740102436
+      character_roll_dark_skin_11: 9002291945706282604
+      character_roll_dark_skin_12: -247210007512468106
+      character_roll_dark_skin_13: -6812408560743378942
+      character_roll_dark_skin_14: 8101330566487989068
+      character_roll_dark_skin_15: 1547488954910692594
+      character_roll_dark_skin_16: 1685026891470743565
+      character_roll_dark_skin_17: 3061777603321259945
+      character_roll_dark_skin_18: -7376008492336091850
+      character_roll_dark_skin_19: -8273467263784526717
+      character_roll_dark_skin_2: 3302241704182655972
+      character_roll_dark_skin_20: -8715793990603228201
+      character_roll_dark_skin_21: 3472549176200035672
+      character_roll_dark_skin_22: 4954119144191261430
+      character_roll_dark_skin_23: -3701935682635161126
+      character_roll_dark_skin_3: 9009208110876337141
+      character_roll_dark_skin_4: 8888266735981530620
+      character_roll_dark_skin_5: 8214118655792978842
+      character_roll_dark_skin_6: 4229021185007085525
+      character_roll_dark_skin_7: 6645613812682170384
+      character_roll_dark_skin_8: 8355630549769605985
+      character_roll_dark_skin_9: 3321266624270148088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 298d68f6d131f53448897963cf1d2536
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2014881657733436516
+    second: skullbat_attack_0
+  - first:
+      213: -1566956841254059474
+    second: skullbat_attack_1
+  - first:
+      213: 392270009923033152
+    second: skullbat_attack_2
+  - first:
+      213: 3505755751503136286
+    second: skullbat_attack_3
+  - first:
+      213: 1012892845833618071
+    second: skullbat_attack_4
+  - first:
+      213: 7888580860056639516
+    second: skullbat_attack_5
+  - first:
+      213: 8779864759407147339
+    second: skullbat_attack_6
+  - first:
+      213: -8480300100088852127
+    second: skullbat_attack_7
+  - first:
+      213: -4420791071361829144
+    second: skullbat_attack_8
+  - first:
+      213: 7202753211558182423
+    second: skullbat_attack_9
+  - first:
+      213: -3439442561741657412
+    second: skullbat_attack_10
+  - first:
+      213: -4079714317817445224
+    second: skullbat_attack_11
+  - first:
+      213: 6479455689334793371
+    second: skullbat_attack_12
+  - first:
+      213: -5174684175227295063
+    second: skullbat_attack_13
+  - first:
+      213: -1241498927243479841
+    second: skullbat_attack_14
+  - first:
+      213: 8412964580506571617
+    second: skullbat_attack_15
+  - first:
+      213: -3788729934542718101
+    second: skullbat_attack_16
+  - first:
+      213: -8694748923852588998
+    second: skullbat_attack_17
+  - first:
+      213: 703655600201350573
+    second: skullbat_attack_18
+  - first:
+      213: 7817660950701601693
+    second: skullbat_attack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skullbat_attack_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 225
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b295ebec3b904e0800000000000000
+      internalID: -2014881657733436516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220fa21e0d014ae0800000000000000
+      internalID: -1566956841254059474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 218
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0485085ee7f917500800000000000000
+      internalID: 392270009923033152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1680ad1842f6a030800000000000000
+      internalID: 3505755751503136286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 215
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792827f3da48e0e00800000000000000
+      internalID: 1012892845833618071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 161
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c181f992f7ed97d60800000000000000
+      internalID: 7888580860056639516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 160
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49fe602b7858d970800000000000000
+      internalID: 8779864759407147339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1619e715dfbef4a80800000000000000
+      internalID: -8480300100088852127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 152
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6724561f136a2c0800000000000000
+      internalID: -4420791071361829144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 151
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ebab352e155f360800000000000000
+      internalID: 7202753211558182423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba670a8635a440d0800000000000000
+      internalID: -3439442561741657412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 96
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948a657171f167c0800000000000000
+      internalID: -4079714317817445224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 91
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942facae96abe950800000000000000
+      internalID: 6479455689334793371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 88
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaedb6c824df28b0800000000000000
+      internalID: -5174684175227295063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 84
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4bf9cad4f45cee0800000000000000
+      internalID: -1241498927243479841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 33
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163990156bad0c470800000000000000
+      internalID: 8412964580506571617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b31b5b23abb6bc0800000000000000
+      internalID: -3788729934542718101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 31
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a387e86abeb065780800000000000000
+      internalID: -8694748923852588998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 29
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad373e4a03e3c900800000000000000
+      internalID: 703655600201350573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_attack_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 27
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f2050739ed7c60800000000000000
+      internalID: 7817660950701601693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skullbat_attack_0: -2014881657733436516
+      skullbat_attack_1: -1566956841254059474
+      skullbat_attack_10: -3439442561741657412
+      skullbat_attack_11: -4079714317817445224
+      skullbat_attack_12: 6479455689334793371
+      skullbat_attack_13: -5174684175227295063
+      skullbat_attack_14: -1241498927243479841
+      skullbat_attack_15: 8412964580506571617
+      skullbat_attack_16: -3788729934542718101
+      skullbat_attack_17: -8694748923852588998
+      skullbat_attack_18: 703655600201350573
+      skullbat_attack_19: 7817660950701601693
+      skullbat_attack_2: 392270009923033152
+      skullbat_attack_3: 3505755751503136286
+      skullbat_attack_4: 1012892845833618071
+      skullbat_attack_5: 7888580860056639516
+      skullbat_attack_6: 8779864759407147339
+      skullbat_attack_7: -8480300100088852127
+      skullbat_attack_8: -4420791071361829144
+      skullbat_attack_9: 7202753211558182423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

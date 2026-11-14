@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c103c0b93f1f69f4c93383528cd06ab7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8248444668851503726
+    second: slime_yellow_attack_0
+  - first:
+      213: -7040135088556426158
+    second: slime_yellow_attack_1
+  - first:
+      213: 1119618362655920762
+    second: slime_yellow_attack_2
+  - first:
+      213: -8279764900835894607
+    second: slime_yellow_attack_3
+  - first:
+      213: -4496372780794241633
+    second: slime_yellow_attack_4
+  - first:
+      213: -3747433550639736521
+    second: slime_yellow_attack_5
+  - first:
+      213: -4567337484540746052
+    second: slime_yellow_attack_6
+  - first:
+      213: -4063762776034712771
+    second: slime_yellow_attack_7
+  - first:
+      213: -7738224430171376557
+    second: slime_yellow_attack_8
+  - first:
+      213: 470073468898688401
+    second: slime_yellow_attack_9
+  - first:
+      213: -6087150178156494925
+    second: slime_yellow_attack_10
+  - first:
+      213: -6978663709105073628
+    second: slime_yellow_attack_11
+  - first:
+      213: -980752393627728683
+    second: slime_yellow_attack_12
+  - first:
+      213: 8395116355867766511
+    second: slime_yellow_attack_13
+  - first:
+      213: -2106450353794402203
+    second: slime_yellow_attack_14
+  - first:
+      213: -8256468523947057766
+    second: slime_yellow_attack_15
+  - first:
+      213: 943870972996888806
+    second: slime_yellow_attack_16
+  - first:
+      213: -2192646222836857502
+    second: slime_yellow_attack_17
+  - first:
+      213: 4268730328049493655
+    second: slime_yellow_attack_18
+  - first:
+      213: 5158523667716516644
+    second: slime_yellow_attack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slime_yellow_attack_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 220
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d34ab9643a78d80800000000000000
+      internalID: -8248444668851503726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 220
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cb4dbef6a6c4e90800000000000000
+      internalID: -7040135088556426158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 220
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a725c1608fea98f00800000000000000
+      internalID: 1119618362655920762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 220
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1badde5d0bd581d80800000000000000
+      internalID: -8279764900835894607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d160757cca991c0800000000000000
+      internalID: -4496372780794241633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 156
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739dcba5a017efbc0800000000000000
+      internalID: -3747433550639736521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 156
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb66f90b1ce8d90c0800000000000000
+      internalID: -4567337484540746052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33eef2394d9a97c0800000000000000
+      internalID: -4063762776034712771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 156
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354b26f21ed4c9490800000000000000
+      internalID: -7738224430171376557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 156
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dba045459068600800000000000000
+      internalID: 470073468898688401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb6800a29168ba0800000000000000
+      internalID: -6087150178156494925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d1e3c45ec62f90800000000000000
+      internalID: -6978663709105073628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 92
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4843de4eaa362f0800000000000000
+      internalID: -980752393627728683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 92
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee19fa8d1718470800000000000000
+      internalID: 8395116355867766511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568b61d409264c2e0800000000000000
+      internalID: -2106450353794402203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d11f24f912b6d80800000000000000
+      internalID: -8256468523947057766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 27
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8284b26ad491d00800000000000000
+      internalID: 943870972996888806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 28
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26505b1a0e72291e0800000000000000
+      internalID: -2192646222836857502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 28
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796a35ddd939d3b30800000000000000
+      internalID: 4268730328049493655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_yellow_attack_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b20bbd1f1c69740800000000000000
+      internalID: 5158523667716516644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slime_yellow_attack_0: -8248444668851503726
+      slime_yellow_attack_1: -7040135088556426158
+      slime_yellow_attack_10: -6087150178156494925
+      slime_yellow_attack_11: -6978663709105073628
+      slime_yellow_attack_12: -980752393627728683
+      slime_yellow_attack_13: 8395116355867766511
+      slime_yellow_attack_14: -2106450353794402203
+      slime_yellow_attack_15: -8256468523947057766
+      slime_yellow_attack_16: 943870972996888806
+      slime_yellow_attack_17: -2192646222836857502
+      slime_yellow_attack_18: 4268730328049493655
+      slime_yellow_attack_19: 5158523667716516644
+      slime_yellow_attack_2: 1119618362655920762
+      slime_yellow_attack_3: -8279764900835894607
+      slime_yellow_attack_4: -4496372780794241633
+      slime_yellow_attack_5: -3747433550639736521
+      slime_yellow_attack_6: -4567337484540746052
+      slime_yellow_attack_7: -4063762776034712771
+      slime_yellow_attack_8: -7738224430171376557
+      slime_yellow_attack_9: 470073468898688401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

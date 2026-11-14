@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 6013e6bb6d44cfa4da62f90ad7d88114
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7665428181445071677
+    second: traps_floor_spikes_blood_blue_holes_animation_0
+  - first:
+      213: -2590791651179534195
+    second: traps_floor_spikes_blood_blue_holes_animation_1
+  - first:
+      213: -3714483126026203258
+    second: traps_floor_spikes_blood_blue_holes_animation_2
+  - first:
+      213: 3570090291812577314
+    second: traps_floor_spikes_blood_blue_holes_animation_3
+  - first:
+      213: -5227667940949226910
+    second: traps_floor_spikes_blood_blue_holes_animation_4
+  - first:
+      213: 8138847788923723940
+    second: traps_floor_spikes_blood_blue_holes_animation_5
+  - first:
+      213: 7838543241784915365
+    second: traps_floor_spikes_blood_blue_holes_animation_6
+  - first:
+      213: 7524921356872141310
+    second: traps_floor_spikes_blood_blue_holes_animation_7
+  - first:
+      213: -798940544607882011
+    second: traps_floor_spikes_blood_blue_holes_animation_8
+  - first:
+      213: -2865776974646261337
+    second: traps_floor_spikes_blood_blue_holes_animation_9
+  - first:
+      213: -6696131723603527671
+    second: traps_floor_spikes_blood_blue_holes_animation_10
+  - first:
+      213: 512411341937370666
+    second: traps_floor_spikes_blood_blue_holes_animation_11
+  - first:
+      213: 3103391727025583209
+    second: traps_floor_spikes_blood_blue_holes_animation_12
+  - first:
+      213: 7727562589224285808
+    second: traps_floor_spikes_blood_blue_holes_animation_13
+  - first:
+      213: 1019299357494039443
+    second: traps_floor_spikes_blood_blue_holes_animation_14
+  - first:
+      213: 1188190099109565361
+    second: traps_floor_spikes_blood_blue_holes_animation_15
+  - first:
+      213: -3012166688376300675
+    second: traps_floor_spikes_blood_blue_holes_animation_16
+  - first:
+      213: -7951168415406416551
+    second: traps_floor_spikes_blood_blue_holes_animation_17
+  - first:
+      213: 3345461896036630847
+    second: traps_floor_spikes_blood_blue_holes_animation_18
+  - first:
+      213: 4522149207860783103
+    second: traps_floor_spikes_blood_blue_holes_animation_19
+  - first:
+      213: 8966985026596357160
+    second: traps_floor_spikes_blood_blue_holes_animation_20
+  - first:
+      213: -2646524402095729583
+    second: traps_floor_spikes_blood_blue_holes_animation_21
+  - first:
+      213: -2657415696012544821
+    second: traps_floor_spikes_blood_blue_holes_animation_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d335d4e5152116a60800000000000000
+      internalID: 7665428181445071677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88656848b8ab0cd0800000000000000
+      internalID: -2590791651179534195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f860de641837cc0800000000000000
+      internalID: -3714483126026203258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203f8b84328b8130800000000000000
+      internalID: 3570090291812577314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a060084b79377b0800000000000000
+      internalID: -5227667940949226910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0a5cb41fef2f070800000000000000
+      internalID: 8138847788923723940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f02b4c8918cc60800000000000000
+      internalID: 7838543241784915365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef94d17fa14ed6860800000000000000
+      internalID: 7524921356872141310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e47df1cec799e4f0800000000000000
+      internalID: -798940544607882011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a947bc6607ba38d0800000000000000
+      internalID: -2865776974646261337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908336dccaf8213a0800000000000000
+      internalID: -6696131723603527671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26ee0f86637c1700800000000000000
+      internalID: 512411341937370666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964fe305556711b20800000000000000
+      internalID: 3103391727025583209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076bf468b31dd3b60800000000000000
+      internalID: 7727562589224285808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393573b7d57452e00800000000000000
+      internalID: 1019299357494039443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3df0f899c4d7010800000000000000
+      internalID: 1188190099109565361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bd0172b52a236d0800000000000000
+      internalID: -3012166688376300675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d156a0476c7a190800000000000000
+      internalID: -7951168415406416551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f314ed29ed77d6e20800000000000000
+      internalID: 3345461896036630847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff72bd3ceb6e1ce30800000000000000
+      internalID: 4522149207860783103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824c5806f51217c70800000000000000
+      internalID: 8966985026596357160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545ea30418a54bd0800000000000000
+      internalID: -2646524402095729583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_blood_blue_holes_animation_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4ff9a0186fe1bd0800000000000000
+      internalID: -2657415696012544821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      traps_floor_spikes_blood_blue_holes_animation_0: 7665428181445071677
+      traps_floor_spikes_blood_blue_holes_animation_1: -2590791651179534195
+      traps_floor_spikes_blood_blue_holes_animation_10: -6696131723603527671
+      traps_floor_spikes_blood_blue_holes_animation_11: 512411341937370666
+      traps_floor_spikes_blood_blue_holes_animation_12: 3103391727025583209
+      traps_floor_spikes_blood_blue_holes_animation_13: 7727562589224285808
+      traps_floor_spikes_blood_blue_holes_animation_14: 1019299357494039443
+      traps_floor_spikes_blood_blue_holes_animation_15: 1188190099109565361
+      traps_floor_spikes_blood_blue_holes_animation_16: -3012166688376300675
+      traps_floor_spikes_blood_blue_holes_animation_17: -7951168415406416551
+      traps_floor_spikes_blood_blue_holes_animation_18: 3345461896036630847
+      traps_floor_spikes_blood_blue_holes_animation_19: 4522149207860783103
+      traps_floor_spikes_blood_blue_holes_animation_2: -3714483126026203258
+      traps_floor_spikes_blood_blue_holes_animation_20: 8966985026596357160
+      traps_floor_spikes_blood_blue_holes_animation_21: -2646524402095729583
+      traps_floor_spikes_blood_blue_holes_animation_22: -2657415696012544821
+      traps_floor_spikes_blood_blue_holes_animation_3: 3570090291812577314
+      traps_floor_spikes_blood_blue_holes_animation_4: -5227667940949226910
+      traps_floor_spikes_blood_blue_holes_animation_5: 8138847788923723940
+      traps_floor_spikes_blood_blue_holes_animation_6: 7838543241784915365
+      traps_floor_spikes_blood_blue_holes_animation_7: 7524921356872141310
+      traps_floor_spikes_blood_blue_holes_animation_8: -798940544607882011
+      traps_floor_spikes_blood_blue_holes_animation_9: -2865776974646261337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

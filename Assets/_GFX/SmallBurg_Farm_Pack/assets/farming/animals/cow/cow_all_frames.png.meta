@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 44e7a0b2e75db444097667e58cbbda0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6977257384081269501
+    second: cow_all_frames_0
+  - first:
+      213: 5604114800286681096
+    second: cow_all_frames_1
+  - first:
+      213: -6764813194011344289
+    second: cow_all_frames_2
+  - first:
+      213: -2993570810940546390
+    second: cow_all_frames_3
+  - first:
+      213: -111799663826654891
+    second: cow_all_frames_4
+  - first:
+      213: -8490036593426733025
+    second: cow_all_frames_5
+  - first:
+      213: -6829686612679138037
+    second: cow_all_frames_6
+  - first:
+      213: -6325989042440083557
+    second: cow_all_frames_7
+  - first:
+      213: 9200705649775070792
+    second: cow_all_frames_8
+  - first:
+      213: 1867085115491253626
+    second: cow_all_frames_9
+  - first:
+      213: 6329343759072706380
+    second: cow_all_frames_10
+  - first:
+      213: -3472267101975993694
+    second: cow_all_frames_11
+  - first:
+      213: 4011018513304907848
+    second: cow_all_frames_12
+  - first:
+      213: 3380850330645618687
+    second: cow_all_frames_13
+  - first:
+      213: 2783956948204358861
+    second: cow_all_frames_14
+  - first:
+      213: -2082611439057044574
+    second: cow_all_frames_15
+  - first:
+      213: -3988208245446190175
+    second: cow_all_frames_16
+  - first:
+      213: 1045854124538038683
+    second: cow_all_frames_17
+  - first:
+      213: -3613701855709896828
+    second: cow_all_frames_18
+  - first:
+      213: -3800985192470067206
+    second: cow_all_frames_19
+  - first:
+      213: 1701182974378729745
+    second: cow_all_frames_20
+  - first:
+      213: -1127771775032467698
+    second: cow_all_frames_21
+  - first:
+      213: -8495993164726635740
+    second: cow_all_frames_22
+  - first:
+      213: 3712390237465774682
+    second: cow_all_frames_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cow_all_frames_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2a2acaf9234d060800000000000000
+      internalID: 6977257384081269501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808c89f08b0d5cd40800000000000000
+      internalID: 5604114800286681096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 40
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f520417dd3e8e12a0800000000000000
+      internalID: -6764813194011344289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa229e34533b476d0800000000000000
+      internalID: -2993570810940546390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559aa9f4ccec27ef0800000000000000
+      internalID: -111799663826654891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 40
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f186bbe43b45d2a80800000000000000
+      internalID: -8490036593426733025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 40
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e40406341831a0800000000000000
+      internalID: -6829686612679138037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 40
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9768508b729538a0800000000000000
+      internalID: -6325989042440083557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ec5c18a097faf70800000000000000
+      internalID: 9200705649775070792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d7642350839e910800000000000000
+      internalID: 1867085115491253626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 8
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f3dd45d9856d750800000000000000
+      internalID: 6329343759072706380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 8
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22275b77700dfc0800000000000000
+      internalID: -3472267101975993694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840fd0926100aa730800000000000000
+      internalID: 4011018513304907848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd4e496713bee20800000000000000
+      internalID: 3380850330645618687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc83b7281a92a620800000000000000
+      internalID: 2783956948204358861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abf6d92ee31913e0800000000000000
+      internalID: -2082611439057044574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab55ef2bb907a8c0800000000000000
+      internalID: -3988208245446190175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9987fbf8ce938e00800000000000000
+      internalID: 1045854124538038683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fdd36fe4d89ddc0800000000000000
+      internalID: -3613701855709896828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74d4e1b10304bc0800000000000000
+      internalID: -3800985192470067206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 4
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11169c5e6e0db9710800000000000000
+      internalID: 1701182974378729745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f5a79bb895950f0800000000000000
+      internalID: -1127771775032467698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423725afa3b281a80800000000000000
+      internalID: -8495993164726635740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow_all_frames_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a86cb704f058330800000000000000
+      internalID: 3712390237465774682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cow_all_frames_0: 6977257384081269501
+      cow_all_frames_1: 5604114800286681096
+      cow_all_frames_10: 6329343759072706380
+      cow_all_frames_11: -3472267101975993694
+      cow_all_frames_12: 4011018513304907848
+      cow_all_frames_13: 3380850330645618687
+      cow_all_frames_14: 2783956948204358861
+      cow_all_frames_15: -2082611439057044574
+      cow_all_frames_16: -3988208245446190175
+      cow_all_frames_17: 1045854124538038683
+      cow_all_frames_18: -3613701855709896828
+      cow_all_frames_19: -3800985192470067206
+      cow_all_frames_2: -6764813194011344289
+      cow_all_frames_20: 1701182974378729745
+      cow_all_frames_21: -1127771775032467698
+      cow_all_frames_22: -8495993164726635740
+      cow_all_frames_23: 3712390237465774682
+      cow_all_frames_3: -2993570810940546390
+      cow_all_frames_4: -111799663826654891
+      cow_all_frames_5: -8490036593426733025
+      cow_all_frames_6: -6829686612679138037
+      cow_all_frames_7: -6325989042440083557
+      cow_all_frames_8: 9200705649775070792
+      cow_all_frames_9: 1867085115491253626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

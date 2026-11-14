@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 80a57187437dab14fb3f1d741a568bbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2060422142152575850
+    second: character_premade_10_jump_0
+  - first:
+      213: 4375607148441958674
+    second: character_premade_10_jump_1
+  - first:
+      213: 6380746332096550890
+    second: character_premade_10_jump_2
+  - first:
+      213: 7204042940335507003
+    second: character_premade_10_jump_3
+  - first:
+      213: -2254411437408183607
+    second: character_premade_10_jump_4
+  - first:
+      213: 1744343375992104610
+    second: character_premade_10_jump_5
+  - first:
+      213: -2063980454640495779
+    second: character_premade_10_jump_6
+  - first:
+      213: 196373714344550571
+    second: character_premade_10_jump_7
+  - first:
+      213: 5900431297568633688
+    second: character_premade_10_jump_8
+  - first:
+      213: -9111156704253246087
+    second: character_premade_10_jump_9
+  - first:
+      213: -267376617208802286
+    second: character_premade_10_jump_10
+  - first:
+      213: -3587309251575288792
+    second: character_premade_10_jump_11
+  - first:
+      213: 2924463099783287781
+    second: character_premade_10_jump_12
+  - first:
+      213: -5816878919968608668
+    second: character_premade_10_jump_13
+  - first:
+      213: -8709337936180066241
+    second: character_premade_10_jump_14
+  - first:
+      213: -2990188492994657408
+    second: character_premade_10_jump_15
+  - first:
+      213: -8072266955729081588
+    second: character_premade_10_jump_16
+  - first:
+      213: -8760179897461641220
+    second: character_premade_10_jump_17
+  - first:
+      213: -459321541384971305
+    second: character_premade_10_jump_18
+  - first:
+      213: 8072075983931861939
+    second: character_premade_10_jump_19
+  - first:
+      213: -5894843865003678295
+    second: character_premade_10_jump_20
+  - first:
+      213: -2260912777888687062
+    second: character_premade_10_jump_21
+  - first:
+      213: 3594093259667694558
+    second: character_premade_10_jump_22
+  - first:
+      213: 8608897150734919499
+    second: character_premade_10_jump_23
+  - first:
+      213: -6406882107638051711
+    second: character_premade_10_jump_24
+  - first:
+      213: 6764762266069383854
+    second: character_premade_10_jump_25
+  - first:
+      213: 8237875977265783398
+    second: character_premade_10_jump_26
+  - first:
+      213: -1004934538062352943
+    second: character_premade_10_jump_27
+  - first:
+      213: -978392964780223664
+    second: character_premade_10_jump_28
+  - first:
+      213: -7034180171996952732
+    second: character_premade_10_jump_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_premade_10_jump_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69475a17af8e763e0800000000000000
+      internalID: -2060422142152575850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 221
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219fa8fb48749bc30800000000000000
+      internalID: 4375607148441958674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 219
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7dd7e7bf6fc8850800000000000000
+      internalID: 6380746332096550890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 213
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36cb55b2e6e9f360800000000000000
+      internalID: 7204042940335507003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca15b7fdb8b6b0e0800000000000000
+      internalID: -2254411437408183607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 213
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a05cfe07253810800000000000000
+      internalID: 1744343375992104610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53ddc146b44b53e0800000000000000
+      internalID: -2063980454640495779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 214
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba02bbe4ad8a9b200800000000000000
+      internalID: 196373714344550571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853fc29d00b82e150800000000000000
+      internalID: 5900431297568633688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975011e104bae8180800000000000000
+      internalID: -9111156704253246087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214160e12661a4cf0800000000000000
+      internalID: -267376617208802286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ce168fd31573ec0800000000000000
+      internalID: -3587309251575288792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3125dd1b7c59820800000000000000
+      internalID: 2924463099783287781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 149
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e20d1017b464fa0800000000000000
+      internalID: -5816878919968608668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3847258a47322780800000000000000
+      internalID: -8709337936180066241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 150
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083c7978867b086d0800000000000000
+      internalID: -2990188492994657408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 86
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0be4a3f8fb89ff80800000000000000
+      internalID: -8072266955729081588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 93
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffe743fbc69d6680800000000000000
+      internalID: -8760179897461641220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db5010ed7920a9f0800000000000000
+      internalID: -459321541384971305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 85
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb6836f656c50070800000000000000
+      internalID: 8072075983931861939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 85
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5a01cacbe413ea0800000000000000
+      internalID: -5894843865003678295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 85
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c9dcdaecf9f90e0800000000000000
+      internalID: -2260912777888687062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed36e1007c8c0e130800000000000000
+      internalID: 3594093259667694558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 22
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b476d61c852f87770800000000000000
+      internalID: 8608897150734919499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 29
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c8d601bae2617a0800000000000000
+      internalID: -6406882107638051711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa3803907341ed50800000000000000
+      internalID: 6764762266069383854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662a6a02e80d25270800000000000000
+      internalID: 8237875977265783398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda54cac51cd02f0800000000000000
+      internalID: -1004934538062352943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 21
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053988348cc0c62f0800000000000000
+      internalID: -978392964780223664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_premade_10_jump_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467860af662916e90800000000000000
+      internalID: -7034180171996952732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_premade_10_jump_0: -2060422142152575850
+      character_premade_10_jump_1: 4375607148441958674
+      character_premade_10_jump_10: -267376617208802286
+      character_premade_10_jump_11: -3587309251575288792
+      character_premade_10_jump_12: 2924463099783287781
+      character_premade_10_jump_13: -5816878919968608668
+      character_premade_10_jump_14: -8709337936180066241
+      character_premade_10_jump_15: -2990188492994657408
+      character_premade_10_jump_16: -8072266955729081588
+      character_premade_10_jump_17: -8760179897461641220
+      character_premade_10_jump_18: -459321541384971305
+      character_premade_10_jump_19: 8072075983931861939
+      character_premade_10_jump_2: 6380746332096550890
+      character_premade_10_jump_20: -5894843865003678295
+      character_premade_10_jump_21: -2260912777888687062
+      character_premade_10_jump_22: 3594093259667694558
+      character_premade_10_jump_23: 8608897150734919499
+      character_premade_10_jump_24: -6406882107638051711
+      character_premade_10_jump_25: 6764762266069383854
+      character_premade_10_jump_26: 8237875977265783398
+      character_premade_10_jump_27: -1004934538062352943
+      character_premade_10_jump_28: -978392964780223664
+      character_premade_10_jump_29: -7034180171996952732
+      character_premade_10_jump_3: 7204042940335507003
+      character_premade_10_jump_4: -2254411437408183607
+      character_premade_10_jump_5: 1744343375992104610
+      character_premade_10_jump_6: -2063980454640495779
+      character_premade_10_jump_7: 196373714344550571
+      character_premade_10_jump_8: 5900431297568633688
+      character_premade_10_jump_9: -9111156704253246087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 838be2b7c3ed3384b89f927b621dcd31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7948374751920042593
+    second: premades_mage_slash_1_0
+  - first:
+      213: 7749908284138485325
+    second: premades_mage_slash_1_1
+  - first:
+      213: 1327529209535054422
+    second: premades_mage_slash_1_2
+  - first:
+      213: -2471422175670287690
+    second: premades_mage_slash_1_3
+  - first:
+      213: 7252117874773906953
+    second: premades_mage_slash_1_4
+  - first:
+      213: -9201531764788998890
+    second: premades_mage_slash_1_5
+  - first:
+      213: -7657783137551947070
+    second: premades_mage_slash_1_6
+  - first:
+      213: 2320978402083764304
+    second: premades_mage_slash_1_7
+  - first:
+      213: -3558380884368121949
+    second: premades_mage_slash_1_8
+  - first:
+      213: 2732389220761108432
+    second: premades_mage_slash_1_9
+  - first:
+      213: -5215709770276272821
+    second: premades_mage_slash_1_10
+  - first:
+      213: -6267256300416701266
+    second: premades_mage_slash_1_11
+  - first:
+      213: 3271884905724271522
+    second: premades_mage_slash_1_12
+  - first:
+      213: -4310477958511243963
+    second: premades_mage_slash_1_13
+  - first:
+      213: 5770356063861250341
+    second: premades_mage_slash_1_14
+  - first:
+      213: 340838432145438432
+    second: premades_mage_slash_1_15
+  - first:
+      213: 9163020277942760617
+    second: premades_mage_slash_1_16
+  - first:
+      213: -2501387788536077403
+    second: premades_mage_slash_1_17
+  - first:
+      213: -2540455700810236499
+    second: premades_mage_slash_1_18
+  - first:
+      213: -883401510276306319
+    second: premades_mage_slash_1_19
+  - first:
+      213: -6326855321841353027
+    second: premades_mage_slash_1_20
+  - first:
+      213: 2252994716828168861
+    second: premades_mage_slash_1_21
+  - first:
+      213: 334621470959813917
+    second: premades_mage_slash_1_22
+  - first:
+      213: 6519729455684455697
+    second: premades_mage_slash_1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_mage_slash_1_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 213
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4f128643b1b190800000000000000
+      internalID: -7948374751920042593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d467eed06843d8b60800000000000000
+      internalID: 7749908284138485325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ca4358c45c6210800000000000000
+      internalID: 1327529209535054422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 210
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2462910aeb3bdd0800000000000000
+      internalID: -2471422175670287690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 210
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906d823a8c2b4a460800000000000000
+      internalID: 7252117874773906953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 212
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d474a9c979d4080800000000000000
+      internalID: -9201531764788998890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca6d3f1fc61ab590800000000000000
+      internalID: -7657783137551947070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 146
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0587e834f85c53020800000000000000
+      internalID: 2320978402083764304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 146
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af92b350771e9ec0800000000000000
+      internalID: -3558380884368121949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 146
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df729bf4856be520800000000000000
+      internalID: 2732389220761108432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 146
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45062319931e97b0800000000000000
+      internalID: -5215709770276272821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 148
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac6551a99b3609a0800000000000000
+      internalID: -6267256300416701266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab58af8cf1186d20800000000000000
+      internalID: 3271884905724271522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 82
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d49c6722b1e24c0800000000000000
+      internalID: -4310477958511243963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 81
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52998f5744c641050800000000000000
+      internalID: 5770356063861250341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e674d98fb6eab400800000000000000
+      internalID: 340838432145438432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 81
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ba702566992f70800000000000000
+      internalID: 9163020277942760617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 84
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3aeca2f09494dd0800000000000000
+      internalID: -2501387788536077403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadf691000d7ebcd0800000000000000
+      internalID: -2540455700810236499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aefe1c1078db3f0800000000000000
+      internalID: -883401510276306319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 21
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe3b5c1b9e7238a0800000000000000
+      internalID: -6326855321841353027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92ff5112ce344f10800000000000000
+      internalID: 2252994716828168861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1547c67470d4a400800000000000000
+      internalID: 334621470959813917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_slash_1_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d09bd956bba7a50800000000000000
+      internalID: 6519729455684455697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_mage_slash_1_0: -7948374751920042593
+      premades_mage_slash_1_1: 7749908284138485325
+      premades_mage_slash_1_10: -5215709770276272821
+      premades_mage_slash_1_11: -6267256300416701266
+      premades_mage_slash_1_12: 3271884905724271522
+      premades_mage_slash_1_13: -4310477958511243963
+      premades_mage_slash_1_14: 5770356063861250341
+      premades_mage_slash_1_15: 340838432145438432
+      premades_mage_slash_1_16: 9163020277942760617
+      premades_mage_slash_1_17: -2501387788536077403
+      premades_mage_slash_1_18: -2540455700810236499
+      premades_mage_slash_1_19: -883401510276306319
+      premades_mage_slash_1_2: 1327529209535054422
+      premades_mage_slash_1_20: -6326855321841353027
+      premades_mage_slash_1_21: 2252994716828168861
+      premades_mage_slash_1_22: 334621470959813917
+      premades_mage_slash_1_23: 6519729455684455697
+      premades_mage_slash_1_3: -2471422175670287690
+      premades_mage_slash_1_4: 7252117874773906953
+      premades_mage_slash_1_5: -9201531764788998890
+      premades_mage_slash_1_6: -7657783137551947070
+      premades_mage_slash_1_7: 2320978402083764304
+      premades_mage_slash_1_8: -3558380884368121949
+      premades_mage_slash_1_9: 2732389220761108432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

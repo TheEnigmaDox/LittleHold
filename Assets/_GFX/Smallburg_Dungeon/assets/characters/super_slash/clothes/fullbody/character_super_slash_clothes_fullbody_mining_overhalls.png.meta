@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: ed8d60e9788f450409c0fdd59655cd29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2186486840270592486
+    second: character_super_slash_clothes_fullbody_mining_overhalls_0
+  - first:
+      213: -8772385236113921788
+    second: character_super_slash_clothes_fullbody_mining_overhalls_1
+  - first:
+      213: -3413887453124116174
+    second: character_super_slash_clothes_fullbody_mining_overhalls_2
+  - first:
+      213: -6875015624871364994
+    second: character_super_slash_clothes_fullbody_mining_overhalls_3
+  - first:
+      213: -6499320847363253192
+    second: character_super_slash_clothes_fullbody_mining_overhalls_4
+  - first:
+      213: 7192549587153536409
+    second: character_super_slash_clothes_fullbody_mining_overhalls_5
+  - first:
+      213: -2041726964284656815
+    second: character_super_slash_clothes_fullbody_mining_overhalls_6
+  - first:
+      213: -6283952884546224111
+    second: character_super_slash_clothes_fullbody_mining_overhalls_7
+  - first:
+      213: -4988705079518069518
+    second: character_super_slash_clothes_fullbody_mining_overhalls_8
+  - first:
+      213: 2158647189966345536
+    second: character_super_slash_clothes_fullbody_mining_overhalls_9
+  - first:
+      213: 8688607906100443378
+    second: character_super_slash_clothes_fullbody_mining_overhalls_10
+  - first:
+      213: 5676355777143378775
+    second: character_super_slash_clothes_fullbody_mining_overhalls_11
+  - first:
+      213: 2411614886737898902
+    second: character_super_slash_clothes_fullbody_mining_overhalls_12
+  - first:
+      213: -429790158134777467
+    second: character_super_slash_clothes_fullbody_mining_overhalls_13
+  - first:
+      213: -8783815893226264054
+    second: character_super_slash_clothes_fullbody_mining_overhalls_14
+  - first:
+      213: -4034792925628596563
+    second: character_super_slash_clothes_fullbody_mining_overhalls_15
+  - first:
+      213: 5524941403655722785
+    second: character_super_slash_clothes_fullbody_mining_overhalls_16
+  - first:
+      213: 8937255635291518664
+    second: character_super_slash_clothes_fullbody_mining_overhalls_17
+  - first:
+      213: -2986482315852058715
+    second: character_super_slash_clothes_fullbody_mining_overhalls_18
+  - first:
+      213: -1209024244942880353
+    second: character_super_slash_clothes_fullbody_mining_overhalls_19
+  - first:
+      213: 4914572496410801823
+    second: character_super_slash_clothes_fullbody_mining_overhalls_20
+  - first:
+      213: 6004901708726411869
+    second: character_super_slash_clothes_fullbody_mining_overhalls_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9156c5236f75e10800000000000000
+      internalID: 2186486840270592486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096c881b1a324680800000000000000
+      internalID: -8772385236113921788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231cf5de27f6f90d0800000000000000
+      internalID: -3413887453124116174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76384ee6b90790a0800000000000000
+      internalID: -6875015624871364994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5f9bcf16cdc5a0800000000000000
+      internalID: -6499320847363253192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9954ba3edb111d360800000000000000
+      internalID: 7192549587153536409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153f97db4245aa3e0800000000000000
+      internalID: -2041726964284656815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c453352aeac8a0800000000000000
+      internalID: -6283952884546224111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc7326592f84cab0800000000000000
+      internalID: -4988705079518069518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 154
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d659ae2e05fd10800000000000000
+      internalID: 2158647189966345536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f874cb3bd2249870800000000000000
+      internalID: 8688607906100443378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531e53318776ce40800000000000000
+      internalID: 5676355777143378775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 89
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d6e0356f6c77120800000000000000
+      internalID: 2411614886737898902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 89
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ea68d024190af0800000000000000
+      internalID: -429790158134777467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 25
+        width: 11
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a61d7dbfd991680800000000000000
+      internalID: -8783815893226264054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 69
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef5ad16398108c0800000000000000
+      internalID: -4034792925628596563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1275fb92fe88cac40800000000000000
+      internalID: 5524941403655722785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6b86016a2870c70800000000000000
+      internalID: 8937255635291518664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe6a32822ed86d0800000000000000
+      internalID: -2986482315852058715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 25
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91485bdadea83fe0800000000000000
+      internalID: -1209024244942880353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96787f95a1143440800000000000000
+      internalID: 4914572496410801823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_clothes_fullbody_mining_overhalls_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5226cbe942b55350800000000000000
+      internalID: 6004901708726411869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_clothes_fullbody_mining_overhalls_0: 2186486840270592486
+      character_super_slash_clothes_fullbody_mining_overhalls_1: -8772385236113921788
+      character_super_slash_clothes_fullbody_mining_overhalls_10: 8688607906100443378
+      character_super_slash_clothes_fullbody_mining_overhalls_11: 5676355777143378775
+      character_super_slash_clothes_fullbody_mining_overhalls_12: 2411614886737898902
+      character_super_slash_clothes_fullbody_mining_overhalls_13: -429790158134777467
+      character_super_slash_clothes_fullbody_mining_overhalls_14: -8783815893226264054
+      character_super_slash_clothes_fullbody_mining_overhalls_15: -4034792925628596563
+      character_super_slash_clothes_fullbody_mining_overhalls_16: 5524941403655722785
+      character_super_slash_clothes_fullbody_mining_overhalls_17: 8937255635291518664
+      character_super_slash_clothes_fullbody_mining_overhalls_18: -2986482315852058715
+      character_super_slash_clothes_fullbody_mining_overhalls_19: -1209024244942880353
+      character_super_slash_clothes_fullbody_mining_overhalls_2: -3413887453124116174
+      character_super_slash_clothes_fullbody_mining_overhalls_20: 4914572496410801823
+      character_super_slash_clothes_fullbody_mining_overhalls_21: 6004901708726411869
+      character_super_slash_clothes_fullbody_mining_overhalls_3: -6875015624871364994
+      character_super_slash_clothes_fullbody_mining_overhalls_4: -6499320847363253192
+      character_super_slash_clothes_fullbody_mining_overhalls_5: 7192549587153536409
+      character_super_slash_clothes_fullbody_mining_overhalls_6: -2041726964284656815
+      character_super_slash_clothes_fullbody_mining_overhalls_7: -6283952884546224111
+      character_super_slash_clothes_fullbody_mining_overhalls_8: -4988705079518069518
+      character_super_slash_clothes_fullbody_mining_overhalls_9: 2158647189966345536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

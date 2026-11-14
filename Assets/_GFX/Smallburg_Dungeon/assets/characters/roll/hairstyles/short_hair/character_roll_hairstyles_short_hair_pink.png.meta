@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 2b224484400319242808abfda3caad62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8296676842729138323
+    second: character_roll_hairstyles_short_hair_pink_0
+  - first:
+      213: 6912098745762978498
+    second: character_roll_hairstyles_short_hair_pink_1
+  - first:
+      213: 6173242813620800879
+    second: character_roll_hairstyles_short_hair_pink_2
+  - first:
+      213: -4858623869946904399
+    second: character_roll_hairstyles_short_hair_pink_3
+  - first:
+      213: -4938299543555135246
+    second: character_roll_hairstyles_short_hair_pink_4
+  - first:
+      213: -7872057795231498355
+    second: character_roll_hairstyles_short_hair_pink_5
+  - first:
+      213: -3309812953738049710
+    second: character_roll_hairstyles_short_hair_pink_6
+  - first:
+      213: -9201487031509200709
+    second: character_roll_hairstyles_short_hair_pink_7
+  - first:
+      213: 6642168745006657945
+    second: character_roll_hairstyles_short_hair_pink_8
+  - first:
+      213: -5251209638670556465
+    second: character_roll_hairstyles_short_hair_pink_9
+  - first:
+      213: 6984597112479706228
+    second: character_roll_hairstyles_short_hair_pink_10
+  - first:
+      213: 4765594351413511388
+    second: character_roll_hairstyles_short_hair_pink_11
+  - first:
+      213: 8525727721239696017
+    second: character_roll_hairstyles_short_hair_pink_12
+  - first:
+      213: -2347417197847515769
+    second: character_roll_hairstyles_short_hair_pink_13
+  - first:
+      213: -591673987921582777
+    second: character_roll_hairstyles_short_hair_pink_14
+  - first:
+      213: -3957604445550612455
+    second: character_roll_hairstyles_short_hair_pink_15
+  - first:
+      213: -2687132834927673884
+    second: character_roll_hairstyles_short_hair_pink_16
+  - first:
+      213: -4881265094808811970
+    second: character_roll_hairstyles_short_hair_pink_17
+  - first:
+      213: 6562161792683971449
+    second: character_roll_hairstyles_short_hair_pink_18
+  - first:
+      213: 3274640397587886675
+    second: character_roll_hairstyles_short_hair_pink_19
+  - first:
+      213: -5216310816927978850
+    second: character_roll_hairstyles_short_hair_pink_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398641b71a7b32370800000000000000
+      internalID: 8296676842729138323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 217
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca10a9ff25bcef50800000000000000
+      internalID: 6912098745762978498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 218
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dc91ab1a3cba550800000000000000
+      internalID: 6173242813620800879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c4961553b29cb0800000000000000
+      internalID: -4858623869946904399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 221
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f82ce7bab2a77bb0800000000000000
+      internalID: -4938299543555135246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fb1e7a425d0c290800000000000000
+      internalID: -7872057795231498355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257057b97ae2112d0800000000000000
+      internalID: -3309812953738049710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d781eb40cd4080800000000000000
+      internalID: -9201487031509200709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f2582849bd2c50800000000000000
+      internalID: 6642168745006657945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 152
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22fedd7a4ff17b0800000000000000
+      internalID: -5251209638670556465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 157
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c629c51164ee060800000000000000
+      internalID: 6984597112479706228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd44c9b30dac22240800000000000000
+      internalID: 4765594351413511388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925134f038715670800000000000000
+      internalID: 8525727721239696017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de7a6ee7c4c6fd0800000000000000
+      internalID: -2347417197847515769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 93
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745681f84a3f9c7f0800000000000000
+      internalID: -591673987921582777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f27d99b3c319c0800000000000000
+      internalID: -3957604445550612455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 89
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edf8d57ce265bad0800000000000000
+      internalID: -2687132834927673884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3648612243424cb0800000000000000
+      internalID: -4881265094808811970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9739193f16b711b50800000000000000
+      internalID: 6562161792683971449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352be51871cd17d20800000000000000
+      internalID: 3274640397587886675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_pink_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9aeafef2f0fb97b0800000000000000
+      internalID: -5216310816927978850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_short_hair_pink_0: 8296676842729138323
+      character_roll_hairstyles_short_hair_pink_1: 6912098745762978498
+      character_roll_hairstyles_short_hair_pink_10: 6984597112479706228
+      character_roll_hairstyles_short_hair_pink_11: 4765594351413511388
+      character_roll_hairstyles_short_hair_pink_12: 8525727721239696017
+      character_roll_hairstyles_short_hair_pink_13: -2347417197847515769
+      character_roll_hairstyles_short_hair_pink_14: -591673987921582777
+      character_roll_hairstyles_short_hair_pink_15: -3957604445550612455
+      character_roll_hairstyles_short_hair_pink_16: -2687132834927673884
+      character_roll_hairstyles_short_hair_pink_17: -4881265094808811970
+      character_roll_hairstyles_short_hair_pink_18: 6562161792683971449
+      character_roll_hairstyles_short_hair_pink_19: 3274640397587886675
+      character_roll_hairstyles_short_hair_pink_2: 6173242813620800879
+      character_roll_hairstyles_short_hair_pink_20: -5216310816927978850
+      character_roll_hairstyles_short_hair_pink_3: -4858623869946904399
+      character_roll_hairstyles_short_hair_pink_4: -4938299543555135246
+      character_roll_hairstyles_short_hair_pink_5: -7872057795231498355
+      character_roll_hairstyles_short_hair_pink_6: -3309812953738049710
+      character_roll_hairstyles_short_hair_pink_7: -9201487031509200709
+      character_roll_hairstyles_short_hair_pink_8: 6642168745006657945
+      character_roll_hairstyles_short_hair_pink_9: -5251209638670556465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 9095aee1c3d266d479209a409234f09d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7568769499409403824
+    second: character_push_armor_head_bronze_headband_0
+  - first:
+      213: -1130558280152665150
+    second: character_push_armor_head_bronze_headband_1
+  - first:
+      213: -1155673384129684284
+    second: character_push_armor_head_bronze_headband_2
+  - first:
+      213: 1510271365923860698
+    second: character_push_armor_head_bronze_headband_3
+  - first:
+      213: -6710199333906019863
+    second: character_push_armor_head_bronze_headband_4
+  - first:
+      213: 624442028714743431
+    second: character_push_armor_head_bronze_headband_5
+  - first:
+      213: -5888851211646406951
+    second: character_push_armor_head_bronze_headband_6
+  - first:
+      213: -1100221028351395989
+    second: character_push_armor_head_bronze_headband_7
+  - first:
+      213: -7704495791758334482
+    second: character_push_armor_head_bronze_headband_8
+  - first:
+      213: 6242823509045918787
+    second: character_push_armor_head_bronze_headband_9
+  - first:
+      213: -1351463695936625656
+    second: character_push_armor_head_bronze_headband_10
+  - first:
+      213: 3195650489006478083
+    second: character_push_armor_head_bronze_headband_11
+  - first:
+      213: -1047151068281688179
+    second: character_push_armor_head_bronze_headband_12
+  - first:
+      213: 5087649476243431293
+    second: character_push_armor_head_bronze_headband_13
+  - first:
+      213: -2065252171285308462
+    second: character_push_armor_head_bronze_headband_14
+  - first:
+      213: 1510322153044600029
+    second: character_push_armor_head_bronze_headband_15
+  - first:
+      213: 5750888466135152394
+    second: character_push_armor_head_bronze_headband_16
+  - first:
+      213: -6849950964096019029
+    second: character_push_armor_head_bronze_headband_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 224
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05034e8cd3456f690800000000000000
+      internalID: -7568769499409403824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 224
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3bf91fb337f40f0800000000000000
+      internalID: -1130558280152665150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc939e1e2936ffe0800000000000000
+      internalID: -1155673384129684284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 224
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0f5583ecf85f410800000000000000
+      internalID: 1510271365923860698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 224
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9087a024590e2a0800000000000000
+      internalID: -6710199333906019863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786dd5877b67aa800800000000000000
+      internalID: 624442028714743431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deefa20609964ea0800000000000000
+      internalID: -5888851211646406951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6733becdca3bb0f0800000000000000
+      internalID: -1100221028351395989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a0c6c5e1241590800000000000000
+      internalID: -7704495791758334482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cb324d7e6f2a650800000000000000
+      internalID: 6242823509045918787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8046cdccde2ae3de0800000000000000
+      internalID: -1351463695936625656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d88f303b395c20800000000000000
+      internalID: 3195650489006478083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 203
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f26e4c6a5c771f0800000000000000
+      internalID: -1047151068281688179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f113d3e36fa9640800000000000000
+      internalID: 5087649476243431293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5fe6a710c653e0800000000000000
+      internalID: -2065252171285308462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd460a40ffdb5f410800000000000000
+      internalID: 1510322153044600029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 32
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0770e627924fcf40800000000000000
+      internalID: 5750888466135152394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_head_bronze_headband_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 95
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5563804e510f0a0800000000000000
+      internalID: -6849950964096019029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_push_armor_head_bronze_headband_0: -7568769499409403824
+      character_push_armor_head_bronze_headband_1: -1130558280152665150
+      character_push_armor_head_bronze_headband_10: -1351463695936625656
+      character_push_armor_head_bronze_headband_11: 3195650489006478083
+      character_push_armor_head_bronze_headband_12: -1047151068281688179
+      character_push_armor_head_bronze_headband_13: 5087649476243431293
+      character_push_armor_head_bronze_headband_14: -2065252171285308462
+      character_push_armor_head_bronze_headband_15: 1510322153044600029
+      character_push_armor_head_bronze_headband_16: 5750888466135152394
+      character_push_armor_head_bronze_headband_17: -6849950964096019029
+      character_push_armor_head_bronze_headband_2: -1155673384129684284
+      character_push_armor_head_bronze_headband_3: 1510271365923860698
+      character_push_armor_head_bronze_headband_4: -6710199333906019863
+      character_push_armor_head_bronze_headband_5: 624442028714743431
+      character_push_armor_head_bronze_headband_6: -5888851211646406951
+      character_push_armor_head_bronze_headband_7: -1100221028351395989
+      character_push_armor_head_bronze_headband_8: -7704495791758334482
+      character_push_armor_head_bronze_headband_9: 6242823509045918787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

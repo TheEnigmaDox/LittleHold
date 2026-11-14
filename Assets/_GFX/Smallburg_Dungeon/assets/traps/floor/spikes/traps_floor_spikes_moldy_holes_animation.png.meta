@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 25fe002ee6280ce469b78753a8cd1f86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3250409891755567140
+    second: traps_floor_spikes_moldy_holes_animation_0
+  - first:
+      213: -2238489603004338067
+    second: traps_floor_spikes_moldy_holes_animation_1
+  - first:
+      213: -1022118857587761989
+    second: traps_floor_spikes_moldy_holes_animation_2
+  - first:
+      213: 6978973924525060904
+    second: traps_floor_spikes_moldy_holes_animation_3
+  - first:
+      213: -6394117919276551897
+    second: traps_floor_spikes_moldy_holes_animation_4
+  - first:
+      213: -5821839482828485556
+    second: traps_floor_spikes_moldy_holes_animation_5
+  - first:
+      213: 1316825718282128081
+    second: traps_floor_spikes_moldy_holes_animation_6
+  - first:
+      213: -2126552531610443182
+    second: traps_floor_spikes_moldy_holes_animation_7
+  - first:
+      213: -7519609353329336845
+    second: traps_floor_spikes_moldy_holes_animation_8
+  - first:
+      213: -4210341537783412526
+    second: traps_floor_spikes_moldy_holes_animation_9
+  - first:
+      213: 5509105993336091699
+    second: traps_floor_spikes_moldy_holes_animation_10
+  - first:
+      213: -700513110975307215
+    second: traps_floor_spikes_moldy_holes_animation_11
+  - first:
+      213: 7443860388659338797
+    second: traps_floor_spikes_moldy_holes_animation_12
+  - first:
+      213: -6739112294209456999
+    second: traps_floor_spikes_moldy_holes_animation_13
+  - first:
+      213: -1787809123674369150
+    second: traps_floor_spikes_moldy_holes_animation_14
+  - first:
+      213: 6726208162730220552
+    second: traps_floor_spikes_moldy_holes_animation_15
+  - first:
+      213: 2768727330821628539
+    second: traps_floor_spikes_moldy_holes_animation_16
+  - first:
+      213: -9141679775058572236
+    second: traps_floor_spikes_moldy_holes_animation_17
+  - first:
+      213: -3484804142571362667
+    second: traps_floor_spikes_moldy_holes_animation_18
+  - first:
+      213: 1982672200947550326
+    second: traps_floor_spikes_moldy_holes_animation_19
+  - first:
+      213: 3012294104957329406
+    second: traps_floor_spikes_moldy_holes_animation_20
+  - first:
+      213: 7626842977036933183
+    second: traps_floor_spikes_moldy_holes_animation_21
+  - first:
+      213: 2153267322915355427
+    second: traps_floor_spikes_moldy_holes_animation_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd75e73cc6934e2d0800000000000000
+      internalID: -3250409891755567140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60758be0994fe0e0800000000000000
+      internalID: -2238489603004338067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd04f7054b0d1f0800000000000000
+      internalID: -1022118857587761989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823b704eecb4ad060800000000000000
+      internalID: 6978973924525060904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721bf8141a78347a0800000000000000
+      internalID: -6394117919276551897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c0aa6f5dba43fa0800000000000000
+      internalID: -5821839482828485556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0e41930e464210800000000000000
+      internalID: 1316825718282128081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252e62d4db7fc72e0800000000000000
+      internalID: -2126552531610443182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd991d322bf4a790800000000000000
+      internalID: -7519609353329336845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d80951cdacd195c0800000000000000
+      internalID: -4210341537783412526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f5c266b6447c40800000000000000
+      internalID: 5509105993336091699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13220db79074746f0800000000000000
+      internalID: -700513110975307215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e14af8597ed4760800000000000000
+      internalID: 7443860388659338797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9947d22e21dd972a0800000000000000
+      internalID: -6739112294209456999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283df21031d6037e0800000000000000
+      internalID: -1787809123674369150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1ed0efaa485d50800000000000000
+      internalID: 6726208162730220552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72e98986de7c6620800000000000000
+      internalID: 2768727330821628539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cc245edaa322180800000000000000
+      internalID: -9141679775058572236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596693a781d73afc0800000000000000
+      internalID: -3484804142571362667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6784583bcddd38b10800000000000000
+      internalID: 1982672200947550326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff1cf45781ddc920800000000000000
+      internalID: 3012294104957329406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3818f3674df7d960800000000000000
+      internalID: 7626842977036933183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_moldy_holes_animation_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b73d0c831f1ed10800000000000000
+      internalID: 2153267322915355427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      traps_floor_spikes_moldy_holes_animation_0: -3250409891755567140
+      traps_floor_spikes_moldy_holes_animation_1: -2238489603004338067
+      traps_floor_spikes_moldy_holes_animation_10: 5509105993336091699
+      traps_floor_spikes_moldy_holes_animation_11: -700513110975307215
+      traps_floor_spikes_moldy_holes_animation_12: 7443860388659338797
+      traps_floor_spikes_moldy_holes_animation_13: -6739112294209456999
+      traps_floor_spikes_moldy_holes_animation_14: -1787809123674369150
+      traps_floor_spikes_moldy_holes_animation_15: 6726208162730220552
+      traps_floor_spikes_moldy_holes_animation_16: 2768727330821628539
+      traps_floor_spikes_moldy_holes_animation_17: -9141679775058572236
+      traps_floor_spikes_moldy_holes_animation_18: -3484804142571362667
+      traps_floor_spikes_moldy_holes_animation_19: 1982672200947550326
+      traps_floor_spikes_moldy_holes_animation_2: -1022118857587761989
+      traps_floor_spikes_moldy_holes_animation_20: 3012294104957329406
+      traps_floor_spikes_moldy_holes_animation_21: 7626842977036933183
+      traps_floor_spikes_moldy_holes_animation_22: 2153267322915355427
+      traps_floor_spikes_moldy_holes_animation_3: 6978973924525060904
+      traps_floor_spikes_moldy_holes_animation_4: -6394117919276551897
+      traps_floor_spikes_moldy_holes_animation_5: -5821839482828485556
+      traps_floor_spikes_moldy_holes_animation_6: 1316825718282128081
+      traps_floor_spikes_moldy_holes_animation_7: -2126552531610443182
+      traps_floor_spikes_moldy_holes_animation_8: -7519609353329336845
+      traps_floor_spikes_moldy_holes_animation_9: -4210341537783412526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

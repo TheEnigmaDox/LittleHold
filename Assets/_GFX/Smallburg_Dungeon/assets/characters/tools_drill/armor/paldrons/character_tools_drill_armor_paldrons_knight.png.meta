@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: ebf22d59069b21a49b56c6f4b6870c5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4104672871084415594
+    second: character_tools_drill_armor_paldrons_knight_0
+  - first:
+      213: -6861679771588640352
+    second: character_tools_drill_armor_paldrons_knight_1
+  - first:
+      213: 5671924606339066720
+    second: character_tools_drill_armor_paldrons_knight_2
+  - first:
+      213: 3296396866628452112
+    second: character_tools_drill_armor_paldrons_knight_3
+  - first:
+      213: 6902319754736622154
+    second: character_tools_drill_armor_paldrons_knight_4
+  - first:
+      213: 1947671846588720549
+    second: character_tools_drill_armor_paldrons_knight_5
+  - first:
+      213: -2802906031686801754
+    second: character_tools_drill_armor_paldrons_knight_6
+  - first:
+      213: -4330988947305636133
+    second: character_tools_drill_armor_paldrons_knight_7
+  - first:
+      213: 5389981780901874122
+    second: character_tools_drill_armor_paldrons_knight_8
+  - first:
+      213: 5164092166095042159
+    second: character_tools_drill_armor_paldrons_knight_9
+  - first:
+      213: -177840287414281512
+    second: character_tools_drill_armor_paldrons_knight_10
+  - first:
+      213: 4248218802890657276
+    second: character_tools_drill_armor_paldrons_knight_11
+  - first:
+      213: 3162942091846180726
+    second: character_tools_drill_armor_paldrons_knight_12
+  - first:
+      213: -395309309137385067
+    second: character_tools_drill_armor_paldrons_knight_13
+  - first:
+      213: -3299349575180243329
+    second: character_tools_drill_armor_paldrons_knight_14
+  - first:
+      213: -2845436107625266808
+    second: character_tools_drill_armor_paldrons_knight_15
+  - first:
+      213: 6966958754104594181
+    second: character_tools_drill_armor_paldrons_knight_16
+  - first:
+      213: 4542372645022470802
+    second: character_tools_drill_armor_paldrons_knight_17
+  - first:
+      213: -5202999306367226788
+    second: character_tools_drill_armor_paldrons_knight_18
+  - first:
+      213: -1326154975210740911
+    second: character_tools_drill_armor_paldrons_knight_19
+  - first:
+      213: -506872621768837975
+    second: character_tools_drill_armor_paldrons_knight_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 219
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a5b209a3ab6f830800000000000000
+      internalID: 4104672871084415594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 222
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1c9fb3a9a66c0a0800000000000000
+      internalID: -6861679771588640352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b23a9d069b6be40800000000000000
+      internalID: 5671924606339066720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 221
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f79123c772fbd20800000000000000
+      internalID: 3296396866628452112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 219
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4adc333f37f9cf50800000000000000
+      internalID: 6902319754736622154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 222
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a523faa935870b10800000000000000
+      internalID: 1947671846588720549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 158
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6228a80d31a19d0800000000000000
+      internalID: -2802906031686801754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde54bdbf7c35e3c0800000000000000
+      internalID: -4330988947305636133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 157
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9cb745fdf0dca40800000000000000
+      internalID: 5389981780901874122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f87be67a8aa740800000000000000
+      internalID: 5164092166095042159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 158
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da1be9633f288df0800000000000000
+      internalID: -177840287414281512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 155
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdce624e74b4fa30800000000000000
+      internalID: 4248218802890657276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f5f95131705eb20800000000000000
+      internalID: 3162942091846180726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599067c1744938af0800000000000000
+      internalID: -395309309137385067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eab85ca0b5632d0800000000000000
+      internalID: -3299349575180243329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8810de59feaf288d0800000000000000
+      internalID: -2845436107625266808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc337031c9fa060800000000000000
+      internalID: 6966958754104594181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2921408aadfb90f30800000000000000
+      internalID: 4542372645022470802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca06192bb3bc7b0800000000000000
+      internalID: -5202999306367226788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536279831d889de0800000000000000
+      internalID: -1326154975210740911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_drill_armor_paldrons_knight_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4f819390a37f8f0800000000000000
+      internalID: -506872621768837975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_drill_armor_paldrons_knight_0: 4104672871084415594
+      character_tools_drill_armor_paldrons_knight_1: -6861679771588640352
+      character_tools_drill_armor_paldrons_knight_10: -177840287414281512
+      character_tools_drill_armor_paldrons_knight_11: 4248218802890657276
+      character_tools_drill_armor_paldrons_knight_12: 3162942091846180726
+      character_tools_drill_armor_paldrons_knight_13: -395309309137385067
+      character_tools_drill_armor_paldrons_knight_14: -3299349575180243329
+      character_tools_drill_armor_paldrons_knight_15: -2845436107625266808
+      character_tools_drill_armor_paldrons_knight_16: 6966958754104594181
+      character_tools_drill_armor_paldrons_knight_17: 4542372645022470802
+      character_tools_drill_armor_paldrons_knight_18: -5202999306367226788
+      character_tools_drill_armor_paldrons_knight_19: -1326154975210740911
+      character_tools_drill_armor_paldrons_knight_2: 5671924606339066720
+      character_tools_drill_armor_paldrons_knight_20: -506872621768837975
+      character_tools_drill_armor_paldrons_knight_3: 3296396866628452112
+      character_tools_drill_armor_paldrons_knight_4: 6902319754736622154
+      character_tools_drill_armor_paldrons_knight_5: 1947671846588720549
+      character_tools_drill_armor_paldrons_knight_6: -2802906031686801754
+      character_tools_drill_armor_paldrons_knight_7: -4330988947305636133
+      character_tools_drill_armor_paldrons_knight_8: 5389981780901874122
+      character_tools_drill_armor_paldrons_knight_9: 5164092166095042159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

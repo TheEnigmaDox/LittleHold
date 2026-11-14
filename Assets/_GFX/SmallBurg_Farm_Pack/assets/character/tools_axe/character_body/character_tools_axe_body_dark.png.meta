@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 1c8974104e710e24dbdd8a95d93c1728
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6491372680970240088
+    second: character_tools_axe_body_dark_0
+  - first:
+      213: -7129587276328860274
+    second: character_tools_axe_body_dark_1
+  - first:
+      213: 502576589904673488
+    second: character_tools_axe_body_dark_2
+  - first:
+      213: 4059107842564960160
+    second: character_tools_axe_body_dark_3
+  - first:
+      213: 6711479122606335534
+    second: character_tools_axe_body_dark_4
+  - first:
+      213: -7415088761097983135
+    second: character_tools_axe_body_dark_5
+  - first:
+      213: -7296423849297013821
+    second: character_tools_axe_body_dark_6
+  - first:
+      213: 3772420815566132738
+    second: character_tools_axe_body_dark_7
+  - first:
+      213: -8038871998601240637
+    second: character_tools_axe_body_dark_8
+  - first:
+      213: 1949217777185759352
+    second: character_tools_axe_body_dark_9
+  - first:
+      213: 6416735808685206503
+    second: character_tools_axe_body_dark_10
+  - first:
+      213: -2197766518817305851
+    second: character_tools_axe_body_dark_11
+  - first:
+      213: -4272700552519043758
+    second: character_tools_axe_body_dark_12
+  - first:
+      213: -7076772739401926003
+    second: character_tools_axe_body_dark_13
+  - first:
+      213: -5351766805545266490
+    second: character_tools_axe_body_dark_14
+  - first:
+      213: -2215014631817415429
+    second: character_tools_axe_body_dark_15
+  - first:
+      213: -735252211613825404
+    second: character_tools_axe_body_dark_16
+  - first:
+      213: 2828105070320042253
+    second: character_tools_axe_body_dark_17
+  - first:
+      213: 838783051621042792
+    second: character_tools_axe_body_dark_18
+  - first:
+      213: 347623984639454320
+    second: character_tools_axe_body_dark_19
+  - first:
+      213: 4247102633591341026
+    second: character_tools_axe_body_dark_20
+  - first:
+      213: 3720386408050885070
+    second: character_tools_axe_body_dark_21
+  - first:
+      213: -6422854192315761620
+    second: character_tools_axe_body_dark_22
+  - first:
+      213: -6324029562066273372
+    second: character_tools_axe_body_dark_23
+  - first:
+      213: 5652066763790694675
+    second: character_tools_axe_body_dark_24
+  - first:
+      213: -2133310180964503812
+    second: character_tools_axe_body_dark_25
+  - first:
+      213: -4397997500556020980
+    second: character_tools_axe_body_dark_26
+  - first:
+      213: 4587302633479884684
+    second: character_tools_axe_body_dark_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 213
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85008e18f0df51a50800000000000000
+      internalID: 6491372680970240088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 213
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e850647752e9e0d90800000000000000
+      internalID: -7129587276328860274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 213
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daf1b9eeb289f600800000000000000
+      internalID: 502576589904673488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 213
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af2615a319d45830800000000000000
+      internalID: 4059107842564960160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26a66cf3b6f32d50800000000000000
+      internalID: 6711479122606335534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 213
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b63c00f00581990800000000000000
+      internalID: -7415088761097983135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 213
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c396fbca25edba90800000000000000
+      internalID: -7296423849297013821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206db1f9eb45a5430800000000000000
+      internalID: 3772420815566132738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 149
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfd9805280307090800000000000000
+      internalID: -8038871998601240637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 149
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870a80fad330d0b10800000000000000
+      internalID: 1949217777185759352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebe53e7833dc0950800000000000000
+      internalID: 6416735808685206503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 149
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc5a2def6ff71e0800000000000000
+      internalID: -2197766518817305851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 149
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255bc773c7154b4c0800000000000000
+      internalID: -4272700552519043758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 149
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab7c710b04acd90800000000000000
+      internalID: -7076772739401926003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c25fbaf174bab5b0800000000000000
+      internalID: -5351766805545266490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4fa329defa241e0800000000000000
+      internalID: -2215014631817415429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 86
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4860072520cdbc5f0800000000000000
+      internalID: -735252211613825404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 83
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0148e7d3927f3720800000000000000
+      internalID: 2828105070320042253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 83
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a8d7bcdb4f3ab00800000000000000
+      internalID: 838783051621042792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c27d71c2203d400800000000000000
+      internalID: 347623984639454320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 83
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef76d7d75db0fa30800000000000000
+      internalID: 4247102633591341026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec180170ab771a330800000000000000
+      internalID: 3720386408050885070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 20
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cf3ee44207dd6a0800000000000000
+      internalID: -6422854192315761620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 20
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab78f39e988c38a0800000000000000
+      internalID: -6324029562066273372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319398696cc207e40800000000000000
+      internalID: 5652066763790694675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfee2e371b5f462e0800000000000000
+      internalID: -2133310180964503812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c037d48239c27f2c0800000000000000
+      internalID: -4397997500556020980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_axe_body_dark_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f48c9c07f59af30800000000000000
+      internalID: 4587302633479884684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_axe_body_dark_0: 6491372680970240088
+      character_tools_axe_body_dark_1: -7129587276328860274
+      character_tools_axe_body_dark_10: 6416735808685206503
+      character_tools_axe_body_dark_11: -2197766518817305851
+      character_tools_axe_body_dark_12: -4272700552519043758
+      character_tools_axe_body_dark_13: -7076772739401926003
+      character_tools_axe_body_dark_14: -5351766805545266490
+      character_tools_axe_body_dark_15: -2215014631817415429
+      character_tools_axe_body_dark_16: -735252211613825404
+      character_tools_axe_body_dark_17: 2828105070320042253
+      character_tools_axe_body_dark_18: 838783051621042792
+      character_tools_axe_body_dark_19: 347623984639454320
+      character_tools_axe_body_dark_2: 502576589904673488
+      character_tools_axe_body_dark_20: 4247102633591341026
+      character_tools_axe_body_dark_21: 3720386408050885070
+      character_tools_axe_body_dark_22: -6422854192315761620
+      character_tools_axe_body_dark_23: -6324029562066273372
+      character_tools_axe_body_dark_24: 5652066763790694675
+      character_tools_axe_body_dark_25: -2133310180964503812
+      character_tools_axe_body_dark_26: -4397997500556020980
+      character_tools_axe_body_dark_27: 4587302633479884684
+      character_tools_axe_body_dark_3: 4059107842564960160
+      character_tools_axe_body_dark_4: 6711479122606335534
+      character_tools_axe_body_dark_5: -7415088761097983135
+      character_tools_axe_body_dark_6: -7296423849297013821
+      character_tools_axe_body_dark_7: 3772420815566132738
+      character_tools_axe_body_dark_8: -8038871998601240637
+      character_tools_axe_body_dark_9: 1949217777185759352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

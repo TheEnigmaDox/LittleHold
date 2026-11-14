@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 10288641d52469549aef25f04f0c7019
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2271263514910044112
+    second: wall_yellow_wood_0
+  - first:
+      213: 6557029459040867883
+    second: wall_yellow_wood_1
+  - first:
+      213: -3571388497140565901
+    second: wall_yellow_wood_2
+  - first:
+      213: -1053441703382260223
+    second: wall_yellow_wood_3
+  - first:
+      213: -8989187247144348326
+    second: wall_yellow_wood_4
+  - first:
+      213: -5827195131108053424
+    second: wall_yellow_wood_5
+  - first:
+      213: 854982029919685070
+    second: wall_yellow_wood_6
+  - first:
+      213: 3170458560953117489
+    second: wall_yellow_wood_7
+  - first:
+      213: -50080539926150998
+    second: wall_yellow_wood_8
+  - first:
+      213: -3854322198006897045
+    second: wall_yellow_wood_9
+  - first:
+      213: -9199999768439745471
+    second: wall_yellow_wood_10
+  - first:
+      213: 3796795832900641321
+    second: wall_yellow_wood_11
+  - first:
+      213: 8907215188379744079
+    second: wall_yellow_wood_12
+  - first:
+      213: 7227703920554235696
+    second: wall_yellow_wood_13
+  - first:
+      213: 8356300473326366953
+    second: wall_yellow_wood_14
+  - first:
+      213: -4831772519452218074
+    second: wall_yellow_wood_15
+  - first:
+      213: -1654147142248311057
+    second: wall_yellow_wood_16
+  - first:
+      213: 8263701642865247549
+    second: wall_yellow_wood_17
+  - first:
+      213: -299567771363589315
+    second: wall_yellow_wood_18
+  - first:
+      213: -4259174985063047785
+    second: wall_yellow_wood_19
+  - first:
+      213: -5528389668546939635
+    second: wall_yellow_wood_20
+  - first:
+      213: 8493369114738271560
+    second: wall_yellow_wood_21
+  - first:
+      213: -8757363688490374437
+    second: wall_yellow_wood_22
+  - first:
+      213: -1534751393282851608
+    second: wall_yellow_wood_23
+  - first:
+      213: 3717806138457838805
+    second: wall_yellow_wood_24
+  - first:
+      213: -6754151147265403247
+    second: wall_yellow_wood_25
+  - first:
+      213: 4846848226045001508
+    second: wall_yellow_wood_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wall_yellow_wood_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305b7aedd9da70e0800000000000000
+      internalID: -2271263514910044112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 143
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2617e76d8f3ffa50800000000000000
+      internalID: 6557029459040867883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37835097511ef6ec0800000000000000
+      internalID: -3571388497140565901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10661562a5c6161f0800000000000000
+      internalID: -1053441703382260223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a555d7253ddff3380800000000000000
+      internalID: -8989187247144348326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e2b6de6e4a12fa0800000000000000
+      internalID: -5827195131108053424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 111
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec984b650a18ddb00800000000000000
+      internalID: 854982029919685070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 66
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13be4bc634bbffb20800000000000000
+      internalID: 3170458560953117489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 66
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ca87a3041e4ff0800000000000000
+      internalID: -50080539926150998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6665e9c162b28ac0800000000000000
+      internalID: -3854322198006897045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144197c44f8035080800000000000000
+      internalID: -9199999768439745471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e9b891bde0b430800000000000000
+      internalID: 3796795832900641321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b6597509cc9b70800000000000000
+      internalID: 8907215188379744079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 34
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0375556fb66fd4460800000000000000
+      internalID: 7227703920554235696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 34
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0fb05c10b87f370800000000000000
+      internalID: 8356300473326366953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d6e8e4e7812fcb0800000000000000
+      internalID: -4831772519452218074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6df0c20f94b09e0800000000000000
+      internalID: -1654147142248311057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 63
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358bc87cd09ea270800000000000000
+      internalID: 8263701642865247549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 63
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c7b9f2b8b7dbf0800000000000000
+      internalID: -299567771363589315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 50
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d561bcaee54e4c0800000000000000
+      internalID: -4259174985063047785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 50
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f15a13e63743b0800000000000000
+      internalID: -5528389668546939635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 18
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845af36c5328ed570800000000000000
+      internalID: 8493369114738271560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 18
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda60a2bf18977680800000000000000
+      internalID: -8757363688490374437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecf6d04db773bae0800000000000000
+      internalID: -1534751393282851608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4db823cfc489330800000000000000
+      internalID: 3717806138457838805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196d2fb015f6442a0800000000000000
+      internalID: -6754151147265403247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_yellow_wood_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff4a928c6734340800000000000000
+      internalID: 4846848226045001508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wall_yellow_wood_0: -2271263514910044112
+      wall_yellow_wood_1: 6557029459040867883
+      wall_yellow_wood_10: -9199999768439745471
+      wall_yellow_wood_11: 3796795832900641321
+      wall_yellow_wood_12: 8907215188379744079
+      wall_yellow_wood_13: 7227703920554235696
+      wall_yellow_wood_14: 8356300473326366953
+      wall_yellow_wood_15: -4831772519452218074
+      wall_yellow_wood_16: -1654147142248311057
+      wall_yellow_wood_17: 8263701642865247549
+      wall_yellow_wood_18: -299567771363589315
+      wall_yellow_wood_19: -4259174985063047785
+      wall_yellow_wood_2: -3571388497140565901
+      wall_yellow_wood_20: -5528389668546939635
+      wall_yellow_wood_21: 8493369114738271560
+      wall_yellow_wood_22: -8757363688490374437
+      wall_yellow_wood_23: -1534751393282851608
+      wall_yellow_wood_24: 3717806138457838805
+      wall_yellow_wood_25: -6754151147265403247
+      wall_yellow_wood_26: 4846848226045001508
+      wall_yellow_wood_3: -1053441703382260223
+      wall_yellow_wood_4: -8989187247144348326
+      wall_yellow_wood_5: -5827195131108053424
+      wall_yellow_wood_6: 854982029919685070
+      wall_yellow_wood_7: 3170458560953117489
+      wall_yellow_wood_8: -50080539926150998
+      wall_yellow_wood_9: -3854322198006897045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

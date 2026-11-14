@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 14e3a3b8ebc81e14ab88e29ed097659c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2741608914807517770
+    second: character_slash_2_orc_green_skin_0
+  - first:
+      213: 2273579647550669840
+    second: character_slash_2_orc_green_skin_1
+  - first:
+      213: 2573579912921954441
+    second: character_slash_2_orc_green_skin_2
+  - first:
+      213: 4938756536286412431
+    second: character_slash_2_orc_green_skin_3
+  - first:
+      213: 8976195160853057901
+    second: character_slash_2_orc_green_skin_4
+  - first:
+      213: 8293733645640203042
+    second: character_slash_2_orc_green_skin_5
+  - first:
+      213: -1435794286674153364
+    second: character_slash_2_orc_green_skin_6
+  - first:
+      213: -353680891856206647
+    second: character_slash_2_orc_green_skin_7
+  - first:
+      213: -4161448131603606898
+    second: character_slash_2_orc_green_skin_8
+  - first:
+      213: -4163831794071051341
+    second: character_slash_2_orc_green_skin_9
+  - first:
+      213: 8534401738602490873
+    second: character_slash_2_orc_green_skin_10
+  - first:
+      213: 1980835525999409214
+    second: character_slash_2_orc_green_skin_11
+  - first:
+      213: -2828661594445909704
+    second: character_slash_2_orc_green_skin_12
+  - first:
+      213: 4011794452856106622
+    second: character_slash_2_orc_green_skin_13
+  - first:
+      213: -5079390152089070301
+    second: character_slash_2_orc_green_skin_14
+  - first:
+      213: 8694313714620626100
+    second: character_slash_2_orc_green_skin_15
+  - first:
+      213: 4261373892043081274
+    second: character_slash_2_orc_green_skin_16
+  - first:
+      213: -6383779620107502276
+    second: character_slash_2_orc_green_skin_17
+  - first:
+      213: -7768804771320200964
+    second: character_slash_2_orc_green_skin_18
+  - first:
+      213: -8542459024404583025
+    second: character_slash_2_orc_green_skin_19
+  - first:
+      213: -7206827060985734779
+    second: character_slash_2_orc_green_skin_20
+  - first:
+      213: 7241657394754585314
+    second: character_slash_2_orc_green_skin_21
+  - first:
+      213: 2423318648044319337
+    second: character_slash_2_orc_green_skin_22
+  - first:
+      213: 1396876693819260588
+    second: character_slash_2_orc_green_skin_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 212
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd8ad7b739d3f9d0800000000000000
+      internalID: -2741608914807517770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c0dcb4a06d8f10800000000000000
+      internalID: 2273579647550669840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 211
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883bce9b4137b320800000000000000
+      internalID: 2573579912921954441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 211
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e7d7137ecf98440800000000000000
+      internalID: 4938756536286412431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611a3dd0f9d19c70800000000000000
+      internalID: 8976195160853057901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf6120fc2491370800000000000000
+      internalID: 8293733645640203042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60704414b8031ce0800000000000000
+      internalID: -1435794286674153364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4411d4a19771bf0800000000000000
+      internalID: -353680891856206647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 147
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82dd8cf8f09f36c0800000000000000
+      internalID: -4161448131603606898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 147
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3eae15b091736c0800000000000000
+      internalID: -4163831794071051341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 149
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba0eff929407670800000000000000
+      internalID: 8534401738602490873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 149
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e383bad7a675d7b10800000000000000
+      internalID: 1980835525999409214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 85
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831f24944439eb8d0800000000000000
+      internalID: -2828661594445909704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eee5aacc1cca730800000000000000
+      internalID: 4011794452856106622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3251d1581916289b0800000000000000
+      internalID: -5079390152089070301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f4cd424868a870800000000000000
+      internalID: 8694313714620626100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 84
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a360a522af0732b30800000000000000
+      internalID: 4261373892043081274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d3d1b12424867a0800000000000000
+      internalID: -6383779620107502276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0891ca839af2490800000000000000
+      internalID: -7768804771320200964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de806f6c6137980800000000000000
+      internalID: -8542459024404583025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d540b8f43cfb90800000000000000
+      internalID: -7206827060985734779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28d6758098f7460800000000000000
+      internalID: 7241657394754585314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 21
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962f24a987b51a120800000000000000
+      internalID: 2423318648044319337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_orc_green_skin_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 21
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae7e1ab3f3b26310800000000000000
+      internalID: 1396876693819260588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_2_orc_green_skin_0: -2741608914807517770
+      character_slash_2_orc_green_skin_1: 2273579647550669840
+      character_slash_2_orc_green_skin_10: 8534401738602490873
+      character_slash_2_orc_green_skin_11: 1980835525999409214
+      character_slash_2_orc_green_skin_12: -2828661594445909704
+      character_slash_2_orc_green_skin_13: 4011794452856106622
+      character_slash_2_orc_green_skin_14: -5079390152089070301
+      character_slash_2_orc_green_skin_15: 8694313714620626100
+      character_slash_2_orc_green_skin_16: 4261373892043081274
+      character_slash_2_orc_green_skin_17: -6383779620107502276
+      character_slash_2_orc_green_skin_18: -7768804771320200964
+      character_slash_2_orc_green_skin_19: -8542459024404583025
+      character_slash_2_orc_green_skin_2: 2573579912921954441
+      character_slash_2_orc_green_skin_20: -7206827060985734779
+      character_slash_2_orc_green_skin_21: 7241657394754585314
+      character_slash_2_orc_green_skin_22: 2423318648044319337
+      character_slash_2_orc_green_skin_23: 1396876693819260588
+      character_slash_2_orc_green_skin_3: 4938756536286412431
+      character_slash_2_orc_green_skin_4: 8976195160853057901
+      character_slash_2_orc_green_skin_5: 8293733645640203042
+      character_slash_2_orc_green_skin_6: -1435794286674153364
+      character_slash_2_orc_green_skin_7: -353680891856206647
+      character_slash_2_orc_green_skin_8: -4161448131603606898
+      character_slash_2_orc_green_skin_9: -4163831794071051341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

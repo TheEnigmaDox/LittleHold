@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c471b5e8ed43c1944b472a71f1c261ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7524825059000789967
+    second: character_tools_fishing_rod_hairstyles_bald_white_0
+  - first:
+      213: -6706557878696329999
+    second: character_tools_fishing_rod_hairstyles_bald_white_1
+  - first:
+      213: -4539004705362756342
+    second: character_tools_fishing_rod_hairstyles_bald_white_2
+  - first:
+      213: 5045647579465796818
+    second: character_tools_fishing_rod_hairstyles_bald_white_3
+  - first:
+      213: 7457680403993216341
+    second: character_tools_fishing_rod_hairstyles_bald_white_4
+  - first:
+      213: -7950632930848392444
+    second: character_tools_fishing_rod_hairstyles_bald_white_5
+  - first:
+      213: -308729325346336839
+    second: character_tools_fishing_rod_hairstyles_bald_white_6
+  - first:
+      213: 3777411998665689575
+    second: character_tools_fishing_rod_hairstyles_bald_white_7
+  - first:
+      213: 5547998490436785267
+    second: character_tools_fishing_rod_hairstyles_bald_white_8
+  - first:
+      213: 5405555445518623761
+    second: character_tools_fishing_rod_hairstyles_bald_white_9
+  - first:
+      213: -2371979980630802203
+    second: character_tools_fishing_rod_hairstyles_bald_white_10
+  - first:
+      213: 3318183998983827113
+    second: character_tools_fishing_rod_hairstyles_bald_white_11
+  - first:
+      213: 6104087566736317157
+    second: character_tools_fishing_rod_hairstyles_bald_white_12
+  - first:
+      213: 4414076877250374689
+    second: character_tools_fishing_rod_hairstyles_bald_white_13
+  - first:
+      213: -479473085374580691
+    second: character_tools_fishing_rod_hairstyles_bald_white_14
+  - first:
+      213: 1859412345150516746
+    second: character_tools_fishing_rod_hairstyles_bald_white_15
+  - first:
+      213: -5727337028331479716
+    second: character_tools_fishing_rod_hairstyles_bald_white_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb23bed58c8d6860800000000000000
+      internalID: 7524825059000789967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223
+        width: 78
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc35b664258de2a0800000000000000
+      internalID: -6706557878696329999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0db607e4473201c0800000000000000
+      internalID: -4539004705362756342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc4ed39dbdb50640800000000000000
+      internalID: 5045647579465796818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554860a0d00f7760800000000000000
+      internalID: 7457680403993216341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b3241497da9a190800000000000000
+      internalID: -7950632930848392444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 94
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4cf6705c27bbf0800000000000000
+      internalID: -308729325346336839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e944cef2301c6430800000000000000
+      internalID: 3777411998665689575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37453e48b337efc40800000000000000
+      internalID: 5547998490436785267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e0dfa904640b40800000000000000
+      internalID: 5405555445518623761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c92066c8051fd0800000000000000
+      internalID: -2371979980630802203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aee0de34ce8c0e20800000000000000
+      internalID: 3318183998983827113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea52351d4316b450800000000000000
+      internalID: 6104087566736317157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c26c77883f14d30800000000000000
+      internalID: 4414076877250374689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 142
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2833eae4c19859f0800000000000000
+      internalID: -479473085374580691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2ca32da5fdc910800000000000000
+      internalID: 1859412345150516746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_hairstyles_bald_white_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d5c5541596480b0800000000000000
+      internalID: -5727337028331479716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fishing_rod_hairstyles_bald_white_0: 7524825059000789967
+      character_tools_fishing_rod_hairstyles_bald_white_1: -6706557878696329999
+      character_tools_fishing_rod_hairstyles_bald_white_10: -2371979980630802203
+      character_tools_fishing_rod_hairstyles_bald_white_11: 3318183998983827113
+      character_tools_fishing_rod_hairstyles_bald_white_12: 6104087566736317157
+      character_tools_fishing_rod_hairstyles_bald_white_13: 4414076877250374689
+      character_tools_fishing_rod_hairstyles_bald_white_14: -479473085374580691
+      character_tools_fishing_rod_hairstyles_bald_white_15: 1859412345150516746
+      character_tools_fishing_rod_hairstyles_bald_white_16: -5727337028331479716
+      character_tools_fishing_rod_hairstyles_bald_white_2: -4539004705362756342
+      character_tools_fishing_rod_hairstyles_bald_white_3: 5045647579465796818
+      character_tools_fishing_rod_hairstyles_bald_white_4: 7457680403993216341
+      character_tools_fishing_rod_hairstyles_bald_white_5: -7950632930848392444
+      character_tools_fishing_rod_hairstyles_bald_white_6: -308729325346336839
+      character_tools_fishing_rod_hairstyles_bald_white_7: 3777411998665689575
+      character_tools_fishing_rod_hairstyles_bald_white_8: 5547998490436785267
+      character_tools_fishing_rod_hairstyles_bald_white_9: 5405555445518623761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

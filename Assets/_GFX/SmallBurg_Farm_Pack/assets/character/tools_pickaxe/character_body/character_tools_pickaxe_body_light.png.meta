@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 4a1525eeee2c6fa45b4702321c1d99a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5203541892648582892
+    second: character_tools_pickaxe_body_light_0
+  - first:
+      213: -4479943650021687705
+    second: character_tools_pickaxe_body_light_1
+  - first:
+      213: -456794710725583312
+    second: character_tools_pickaxe_body_light_2
+  - first:
+      213: 8803201215785493273
+    second: character_tools_pickaxe_body_light_3
+  - first:
+      213: 7501367004044180215
+    second: character_tools_pickaxe_body_light_4
+  - first:
+      213: -8134533355190580192
+    second: character_tools_pickaxe_body_light_5
+  - first:
+      213: 4086499067180262154
+    second: character_tools_pickaxe_body_light_6
+  - first:
+      213: 4042164068299695365
+    second: character_tools_pickaxe_body_light_7
+  - first:
+      213: -1139944645468320719
+    second: character_tools_pickaxe_body_light_8
+  - first:
+      213: -8799593712676492245
+    second: character_tools_pickaxe_body_light_9
+  - first:
+      213: -6512946710851399697
+    second: character_tools_pickaxe_body_light_10
+  - first:
+      213: 2991397944848737522
+    second: character_tools_pickaxe_body_light_11
+  - first:
+      213: -2088490076520816898
+    second: character_tools_pickaxe_body_light_12
+  - first:
+      213: -4801496289450404684
+    second: character_tools_pickaxe_body_light_13
+  - first:
+      213: -955649471673305913
+    second: character_tools_pickaxe_body_light_14
+  - first:
+      213: 2523806581334648619
+    second: character_tools_pickaxe_body_light_15
+  - first:
+      213: 7735776517175826124
+    second: character_tools_pickaxe_body_light_16
+  - first:
+      213: 6298207781463828556
+    second: character_tools_pickaxe_body_light_17
+  - first:
+      213: 5245550002595595307
+    second: character_tools_pickaxe_body_light_18
+  - first:
+      213: -7216613754424433540
+    second: character_tools_pickaxe_body_light_19
+  - first:
+      213: -3613139827562369049
+    second: character_tools_pickaxe_body_light_20
+  - first:
+      213: 3419100686368800910
+    second: character_tools_pickaxe_body_light_21
+  - first:
+      213: 3879430064692580652
+    second: character_tools_pickaxe_body_light_22
+  - first:
+      213: 5129846257721086557
+    second: character_tools_pickaxe_body_light_23
+  - first:
+      213: -6010353798719479733
+    second: character_tools_pickaxe_body_light_24
+  - first:
+      213: 2459433637618131492
+    second: character_tools_pickaxe_body_light_25
+  - first:
+      213: -2774569529773160482
+    second: character_tools_pickaxe_body_light_26
+  - first:
+      213: -4956378227317831111
+    second: character_tools_pickaxe_body_light_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 213
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41141dad73e49c7b0800000000000000
+      internalID: -5203541892648582892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 213
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb0be6cfa04d1c0800000000000000
+      internalID: -4479943650021687705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 213
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e9ceb71a329a9f0800000000000000
+      internalID: -456794710725583312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 213
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9136e294dd04b2a70800000000000000
+      internalID: 8803201215785493273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab3e5db853a1860800000000000000
+      internalID: 7501367004044180215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c8c4613055c1f80800000000000000
+      internalID: -8134533355190580192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 213
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03ae3a104926b830800000000000000
+      internalID: 4086499067180262154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 149
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505e9d6cdc6a81830800000000000000
+      internalID: 4042164068299695365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 149
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c8047726a1e20f0800000000000000
+      internalID: -1139944645468320719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 149
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c282cf32091e580800000000000000
+      internalID: -8799593712676492245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 149
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef47aa397d5d95a0800000000000000
+      internalID: -6512946710851399697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 149
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ea8ce494938920800000000000000
+      internalID: 2991397944848737522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 149
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5c0837513403e0800000000000000
+      internalID: -2088490076520816898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 149
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4d3fc6098ad5db0800000000000000
+      internalID: -4801496289450404684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c47f176ed9dcb2f0800000000000000
+      internalID: -955649471673305913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 86
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ae3ac6bc560320800000000000000
+      internalID: 2523806581334648619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 86
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6d218a1cffa5b60800000000000000
+      internalID: 7735776517175826124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 77
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48a0cf9b9ab76750800000000000000
+      internalID: 6298207781463828556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 77
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24824c6fefebc840800000000000000
+      internalID: 5245550002595595307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 80
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74655e860079db90800000000000000
+      internalID: -7216613754424433540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 83
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef2456587c8bddc0800000000000000
+      internalID: -3613139827562369049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e808e4685f5137f20800000000000000
+      internalID: 3419100686368800910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 20
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21d8f8f61186d530800000000000000
+      internalID: 3879430064692580652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 20
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5215d70effd03740800000000000000
+      internalID: 5129846257721086557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40e7e4701fe69ca0800000000000000
+      internalID: -6010353798719479733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 18
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42220eedcd9a12220800000000000000
+      internalID: 2459433637618131492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 19
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed78f3586bfbe79d0800000000000000
+      internalID: -2774569529773160482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_body_light_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a8d342348673bb0800000000000000
+      internalID: -4956378227317831111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_pickaxe_body_light_0: -5203541892648582892
+      character_tools_pickaxe_body_light_1: -4479943650021687705
+      character_tools_pickaxe_body_light_10: -6512946710851399697
+      character_tools_pickaxe_body_light_11: 2991397944848737522
+      character_tools_pickaxe_body_light_12: -2088490076520816898
+      character_tools_pickaxe_body_light_13: -4801496289450404684
+      character_tools_pickaxe_body_light_14: -955649471673305913
+      character_tools_pickaxe_body_light_15: 2523806581334648619
+      character_tools_pickaxe_body_light_16: 7735776517175826124
+      character_tools_pickaxe_body_light_17: 6298207781463828556
+      character_tools_pickaxe_body_light_18: 5245550002595595307
+      character_tools_pickaxe_body_light_19: -7216613754424433540
+      character_tools_pickaxe_body_light_2: -456794710725583312
+      character_tools_pickaxe_body_light_20: -3613139827562369049
+      character_tools_pickaxe_body_light_21: 3419100686368800910
+      character_tools_pickaxe_body_light_22: 3879430064692580652
+      character_tools_pickaxe_body_light_23: 5129846257721086557
+      character_tools_pickaxe_body_light_24: -6010353798719479733
+      character_tools_pickaxe_body_light_25: 2459433637618131492
+      character_tools_pickaxe_body_light_26: -2774569529773160482
+      character_tools_pickaxe_body_light_27: -4956378227317831111
+      character_tools_pickaxe_body_light_3: 8803201215785493273
+      character_tools_pickaxe_body_light_4: 7501367004044180215
+      character_tools_pickaxe_body_light_5: -8134533355190580192
+      character_tools_pickaxe_body_light_6: 4086499067180262154
+      character_tools_pickaxe_body_light_7: 4042164068299695365
+      character_tools_pickaxe_body_light_8: -1139944645468320719
+      character_tools_pickaxe_body_light_9: -8799593712676492245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

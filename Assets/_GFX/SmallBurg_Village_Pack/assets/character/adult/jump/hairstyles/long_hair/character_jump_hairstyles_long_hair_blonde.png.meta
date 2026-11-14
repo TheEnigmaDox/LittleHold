@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 6238ee1bd9bfa8346b7391f04d511e58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3706919531591385582
+    second: character_jump_hairstyles_long_hair_blonde_0
+  - first:
+      213: 9017123754744857010
+    second: character_jump_hairstyles_long_hair_blonde_1
+  - first:
+      213: -507303094524397681
+    second: character_jump_hairstyles_long_hair_blonde_2
+  - first:
+      213: -6577056337647059178
+    second: character_jump_hairstyles_long_hair_blonde_3
+  - first:
+      213: 2306084162729749132
+    second: character_jump_hairstyles_long_hair_blonde_4
+  - first:
+      213: -3367872201224170967
+    second: character_jump_hairstyles_long_hair_blonde_5
+  - first:
+      213: 8185519177579577486
+    second: character_jump_hairstyles_long_hair_blonde_6
+  - first:
+      213: 6479250976620622252
+    second: character_jump_hairstyles_long_hair_blonde_7
+  - first:
+      213: -9026304446820916994
+    second: character_jump_hairstyles_long_hair_blonde_8
+  - first:
+      213: -6056294653414237352
+    second: character_jump_hairstyles_long_hair_blonde_9
+  - first:
+      213: 2223963617308948112
+    second: character_jump_hairstyles_long_hair_blonde_10
+  - first:
+      213: -1812530734104668611
+    second: character_jump_hairstyles_long_hair_blonde_11
+  - first:
+      213: -9173234963929965296
+    second: character_jump_hairstyles_long_hair_blonde_12
+  - first:
+      213: -2078881871857021667
+    second: character_jump_hairstyles_long_hair_blonde_13
+  - first:
+      213: -4343857723876326137
+    second: character_jump_hairstyles_long_hair_blonde_14
+  - first:
+      213: -379878707695932101
+    second: character_jump_hairstyles_long_hair_blonde_15
+  - first:
+      213: 1604398476508264751
+    second: character_jump_hairstyles_long_hair_blonde_16
+  - first:
+      213: -5615726234091272131
+    second: character_jump_hairstyles_long_hair_blonde_17
+  - first:
+      213: 1083885898690875653
+    second: character_jump_hairstyles_long_hair_blonde_18
+  - first:
+      213: -197494235956584570
+    second: character_jump_hairstyles_long_hair_blonde_19
+  - first:
+      213: -9187092213344989759
+    second: character_jump_hairstyles_long_hair_blonde_20
+  - first:
+      213: -180940958015676991
+    second: character_jump_hairstyles_long_hair_blonde_21
+  - first:
+      213: 1384685509443992820
+    second: character_jump_hairstyles_long_hair_blonde_22
+  - first:
+      213: -2267627914219003280
+    second: character_jump_hairstyles_long_hair_blonde_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eb98c73506e8cc0800000000000000
+      internalID: -3706919531591385582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 227
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1cd49b742432d70800000000000000
+      internalID: 9017123754744857010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 225
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87ba69f582b5f8f0800000000000000
+      internalID: -507303094524397681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 223
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fb0de8b1a99b4a0800000000000000
+      internalID: -6577056337647059178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a29ade35bd00020800000000000000
+      internalID: 2306084162729749132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 221
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922de15a31ae241d0800000000000000
+      internalID: -3367872201224170967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8047c1c25ec89170800000000000000
+      internalID: 8185519177579577486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 163
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca133184f6ceae950800000000000000
+      internalID: 6479250976620622252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 161
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0e5b4ddef1cb280800000000000000
+      internalID: -9026304446820916994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b9520b918b3fba0800000000000000
+      internalID: -6056294653414237352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 156
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b71b702b1dde10800000000000000
+      internalID: 2223963617308948112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36963986e898d6e0800000000000000
+      internalID: -1812530734104668611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dd2c5f66f12b080800000000000000
+      internalID: -9173234963929965296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 98
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d86f1b3f35623e0800000000000000
+      internalID: -2078881871857021667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c3853a6487b3c0800000000000000
+      internalID: -4343857723876326137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 95
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dac0af3566abaf0800000000000000
+      internalID: -379878707695932101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 91
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f376f9e7f34610800000000000000
+      internalID: 1604398476508264751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c5255ebee012b0800000000000000
+      internalID: -5615726234091272131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50156807b7cba0f00800000000000000
+      internalID: 1083885898690875653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fde9ce90c524df0800000000000000
+      internalID: -197494235956584570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd80d8ae44e08080800000000000000
+      internalID: -9187092213344989759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd1828482b2d7df0800000000000000
+      internalID: -180940958015676991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 25
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc3a0c6224673310800000000000000
+      internalID: 1384685509443992820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_long_hair_blonde_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072673a2d64c780e0800000000000000
+      internalID: -2267627914219003280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_hairstyles_long_hair_blonde_0: -3706919531591385582
+      character_jump_hairstyles_long_hair_blonde_1: 9017123754744857010
+      character_jump_hairstyles_long_hair_blonde_10: 2223963617308948112
+      character_jump_hairstyles_long_hair_blonde_11: -1812530734104668611
+      character_jump_hairstyles_long_hair_blonde_12: -9173234963929965296
+      character_jump_hairstyles_long_hair_blonde_13: -2078881871857021667
+      character_jump_hairstyles_long_hair_blonde_14: -4343857723876326137
+      character_jump_hairstyles_long_hair_blonde_15: -379878707695932101
+      character_jump_hairstyles_long_hair_blonde_16: 1604398476508264751
+      character_jump_hairstyles_long_hair_blonde_17: -5615726234091272131
+      character_jump_hairstyles_long_hair_blonde_18: 1083885898690875653
+      character_jump_hairstyles_long_hair_blonde_19: -197494235956584570
+      character_jump_hairstyles_long_hair_blonde_2: -507303094524397681
+      character_jump_hairstyles_long_hair_blonde_20: -9187092213344989759
+      character_jump_hairstyles_long_hair_blonde_21: -180940958015676991
+      character_jump_hairstyles_long_hair_blonde_22: 1384685509443992820
+      character_jump_hairstyles_long_hair_blonde_23: -2267627914219003280
+      character_jump_hairstyles_long_hair_blonde_3: -6577056337647059178
+      character_jump_hairstyles_long_hair_blonde_4: 2306084162729749132
+      character_jump_hairstyles_long_hair_blonde_5: -3367872201224170967
+      character_jump_hairstyles_long_hair_blonde_6: 8185519177579577486
+      character_jump_hairstyles_long_hair_blonde_7: 6479250976620622252
+      character_jump_hairstyles_long_hair_blonde_8: -9026304446820916994
+      character_jump_hairstyles_long_hair_blonde_9: -6056294653414237352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

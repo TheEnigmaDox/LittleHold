@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 3e9e5d392a9062b45a57098af769c97c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6934926023077769538
+    second: slime_green_attack_special_0
+  - first:
+      213: 7649916459450356638
+    second: slime_green_attack_special_1
+  - first:
+      213: -3851126046208190998
+    second: slime_green_attack_special_2
+  - first:
+      213: -718789068617272317
+    second: slime_green_attack_special_3
+  - first:
+      213: 6625730303857833376
+    second: slime_green_attack_special_4
+  - first:
+      213: -2204161046834926212
+    second: slime_green_attack_special_5
+  - first:
+      213: 1030330831183291355
+    second: slime_green_attack_special_6
+  - first:
+      213: -3247605266127108273
+    second: slime_green_attack_special_7
+  - first:
+      213: 7482317163269008500
+    second: slime_green_attack_special_8
+  - first:
+      213: 8308954392350329666
+    second: slime_green_attack_special_9
+  - first:
+      213: -4455435807226850855
+    second: slime_green_attack_special_10
+  - first:
+      213: -751888402570446742
+    second: slime_green_attack_special_11
+  - first:
+      213: -456877964083581919
+    second: slime_green_attack_special_12
+  - first:
+      213: -3297285660811865710
+    second: slime_green_attack_special_13
+  - first:
+      213: -5393615868989037135
+    second: slime_green_attack_special_14
+  - first:
+      213: 6582384199487773252
+    second: slime_green_attack_special_15
+  - first:
+      213: 3078155679227290622
+    second: slime_green_attack_special_16
+  - first:
+      213: -5886880141893266831
+    second: slime_green_attack_special_17
+  - first:
+      213: 6830945757946203336
+    second: slime_green_attack_special_18
+  - first:
+      213: -2640003014998776492
+    second: slime_green_attack_special_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slime_green_attack_special_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 220
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe46da568132cf90800000000000000
+      internalID: -6934926023077769538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 220
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93d3f62d76f92a60800000000000000
+      internalID: 7649916459450356638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 220
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5918ed34d0e8ac0800000000000000
+      internalID: -3851126046208190998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 220
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30432a086295606f0800000000000000
+      internalID: -718789068617272317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 220
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5bcf25b9253fb50800000000000000
+      internalID: 6625730303857833376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 156
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7da6afb43f3961e0800000000000000
+      internalID: -2204161046834926212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 156
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd320d99e687c4e00800000000000000
+      internalID: 1030330831183291355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 156
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f474ecd87303ee2d0800000000000000
+      internalID: -3247605266127108273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 156
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c257521d786d760800000000000000
+      internalID: 7482317163269008500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 156
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b86f24ff55f4370800000000000000
+      internalID: 8308954392350329666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d110be3dbc1b22c0800000000000000
+      internalID: -4455435807226850855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a687d064b71c095f0800000000000000
+      internalID: -751888402570446742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c281d89e7d8a9f0800000000000000
+      internalID: -456877964083581919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291d1584920bd32d0800000000000000
+      internalID: -3297285660811865710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5aff991f60625b0800000000000000
+      internalID: -5393615868989037135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44adc91fd83595b50800000000000000
+      internalID: 6582384199487773252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3a1bf084ec7ba20800000000000000
+      internalID: 3078155679227290622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 28
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172962373b99d4ea0800000000000000
+      internalID: -5886880141893266831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc485699f46cce50800000000000000
+      internalID: 6830945757946203336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime_green_attack_special_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455a905ce33dc5bd0800000000000000
+      internalID: -2640003014998776492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      slime_green_attack_special_0: -6934926023077769538
+      slime_green_attack_special_1: 7649916459450356638
+      slime_green_attack_special_10: -4455435807226850855
+      slime_green_attack_special_11: -751888402570446742
+      slime_green_attack_special_12: -456877964083581919
+      slime_green_attack_special_13: -3297285660811865710
+      slime_green_attack_special_14: -5393615868989037135
+      slime_green_attack_special_15: 6582384199487773252
+      slime_green_attack_special_16: 3078155679227290622
+      slime_green_attack_special_17: -5886880141893266831
+      slime_green_attack_special_18: 6830945757946203336
+      slime_green_attack_special_19: -2640003014998776492
+      slime_green_attack_special_2: -3851126046208190998
+      slime_green_attack_special_3: -718789068617272317
+      slime_green_attack_special_4: 6625730303857833376
+      slime_green_attack_special_5: -2204161046834926212
+      slime_green_attack_special_6: 1030330831183291355
+      slime_green_attack_special_7: -3247605266127108273
+      slime_green_attack_special_8: 7482317163269008500
+      slime_green_attack_special_9: 8308954392350329666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

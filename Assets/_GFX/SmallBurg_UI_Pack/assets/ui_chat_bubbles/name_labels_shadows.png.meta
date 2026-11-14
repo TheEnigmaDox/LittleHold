@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 68a4e47694164c841aee83068f276a5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5006482235205759473
+    second: name_labels_shadows_0
+  - first:
+      213: -8450454306962569713
+    second: name_labels_shadows_1
+  - first:
+      213: -144911460855755325
+    second: name_labels_shadows_2
+  - first:
+      213: -3047778218579473831
+    second: name_labels_shadows_3
+  - first:
+      213: 6219087994859955553
+    second: name_labels_shadows_4
+  - first:
+      213: -6361012812911015064
+    second: name_labels_shadows_5
+  - first:
+      213: -2718499384433160113
+    second: name_labels_shadows_6
+  - first:
+      213: 6611579915538690686
+    second: name_labels_shadows_7
+  - first:
+      213: 4493845931581802972
+    second: name_labels_shadows_8
+  - first:
+      213: 5911160721206526178
+    second: name_labels_shadows_9
+  - first:
+      213: -2006455010080186119
+    second: name_labels_shadows_10
+  - first:
+      213: -7095265010926683826
+    second: name_labels_shadows_11
+  - first:
+      213: -724155386982668706
+    second: name_labels_shadows_12
+  - first:
+      213: 277034250270891467
+    second: name_labels_shadows_13
+  - first:
+      213: 3285824559295872767
+    second: name_labels_shadows_14
+  - first:
+      213: -4488178418936332357
+    second: name_labels_shadows_15
+  - first:
+      213: -8974683576541340235
+    second: name_labels_shadows_16
+  - first:
+      213: -1888105147597039980
+    second: name_labels_shadows_17
+  - first:
+      213: 469614539962151953
+    second: name_labels_shadows_18
+  - first:
+      213: -8561267613626396779
+    second: name_labels_shadows_19
+  - first:
+      213: 4595077632452612674
+    second: name_labels_shadows_20
+  - first:
+      213: 3658336830184841844
+    second: name_labels_shadows_21
+  - first:
+      213: 503259616006756188
+    second: name_labels_shadows_22
+  - first:
+      213: -3553177566009097510
+    second: name_labels_shadows_23
+  - first:
+      213: 5819360350929282348
+    second: name_labels_shadows_24
+  - first:
+      213: 8250830986182968486
+    second: name_labels_shadows_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: name_labels_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f13eb341199a7540800000000000000
+      internalID: 5006482235205759473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 273
+        width: 107
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0683da8494f9ba80800000000000000
+      internalID: -8450454306962569713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 273
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd4fcb4bcb2dfdf0800000000000000
+      internalID: -144911460855755325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 241
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac567abdd14b5d0800000000000000
+      internalID: -3047778218579473831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 209
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652688c493ae4650800000000000000
+      internalID: 6219087994859955553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 177
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b0bba7c8429b7a0800000000000000
+      internalID: -6361012812911015064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 241
+        width: 97
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405ebc8633f54ad0800000000000000
+      internalID: -2718499384433160113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 209
+        width: 97
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e727acd47ec01cb50800000000000000
+      internalID: 6611579915538690686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 177
+        width: 97
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9844bb0195d5e30800000000000000
+      internalID: 4493845931581802972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 178
+        width: 152
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c1c57b59a80250800000000000000
+      internalID: 5911160721206526178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f02e5a8cc3a724e0800000000000000
+      internalID: -2006455010080186119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f47c901e888d90800000000000000
+      internalID: -7095265010926683826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 177
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5666b4238843f5f0800000000000000
+      internalID: -724155386982668706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 142
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd530ece2938d300800000000000000
+      internalID: 277034250270891467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 110
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeb5131708999d20800000000000000
+      internalID: 3285824559295872767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfb9b2e189c6b1c0800000000000000
+      internalID: -4488178418936332357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd98b846d4837380800000000000000
+      internalID: -8974683576541340235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 78
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49654e23f5a1cc5e0800000000000000
+      internalID: -1888105147597039980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 78
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1147dcb9fe7648600800000000000000
+      internalID: 469614539962151953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 78
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f0eb60774403980800000000000000
+      internalID: -8561267613626396779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 46
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2425eadc2cef4cf30800000000000000
+      internalID: 4595077632452612674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 46
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47265efd6f505c230800000000000000
+      internalID: 3658336830184841844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 46
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57d1e154ffebf600800000000000000
+      internalID: 503259616006756188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2042a44d390bec0800000000000000
+      internalID: -3553177566009097510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e129286582c050800000000000000
+      internalID: 5819360350929282348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: name_labels_shadows_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 80
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4c8313117d08270800000000000000
+      internalID: 8250830986182968486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      name_labels_shadows_0: 5006482235205759473
+      name_labels_shadows_1: -8450454306962569713
+      name_labels_shadows_10: -2006455010080186119
+      name_labels_shadows_11: -7095265010926683826
+      name_labels_shadows_12: -724155386982668706
+      name_labels_shadows_13: 277034250270891467
+      name_labels_shadows_14: 3285824559295872767
+      name_labels_shadows_15: -4488178418936332357
+      name_labels_shadows_16: -8974683576541340235
+      name_labels_shadows_17: -1888105147597039980
+      name_labels_shadows_18: 469614539962151953
+      name_labels_shadows_19: -8561267613626396779
+      name_labels_shadows_2: -144911460855755325
+      name_labels_shadows_20: 4595077632452612674
+      name_labels_shadows_21: 3658336830184841844
+      name_labels_shadows_22: 503259616006756188
+      name_labels_shadows_23: -3553177566009097510
+      name_labels_shadows_24: 5819360350929282348
+      name_labels_shadows_25: 8250830986182968486
+      name_labels_shadows_3: -3047778218579473831
+      name_labels_shadows_4: 6219087994859955553
+      name_labels_shadows_5: -6361012812911015064
+      name_labels_shadows_6: -2718499384433160113
+      name_labels_shadows_7: 6611579915538690686
+      name_labels_shadows_8: 4493845931581802972
+      name_labels_shadows_9: 5911160721206526178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

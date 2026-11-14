@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 4f44588c05dfab7469bb7737be9e02c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7434393812672125552
+    second: character_slash_1_armor_head_rogue_0
+  - first:
+      213: 8308251204945533169
+    second: character_slash_1_armor_head_rogue_1
+  - first:
+      213: 2657552216242265059
+    second: character_slash_1_armor_head_rogue_2
+  - first:
+      213: 5213202512151035932
+    second: character_slash_1_armor_head_rogue_3
+  - first:
+      213: -5124183881738289376
+    second: character_slash_1_armor_head_rogue_4
+  - first:
+      213: 803135476384919353
+    second: character_slash_1_armor_head_rogue_5
+  - first:
+      213: 4344064046822611135
+    second: character_slash_1_armor_head_rogue_6
+  - first:
+      213: 8499298189173476438
+    second: character_slash_1_armor_head_rogue_7
+  - first:
+      213: -6188019912665585875
+    second: character_slash_1_armor_head_rogue_8
+  - first:
+      213: -8747545707617453522
+    second: character_slash_1_armor_head_rogue_9
+  - first:
+      213: -4624363926583679008
+    second: character_slash_1_armor_head_rogue_10
+  - first:
+      213: -2926724118886768720
+    second: character_slash_1_armor_head_rogue_11
+  - first:
+      213: -6131101807769268854
+    second: character_slash_1_armor_head_rogue_12
+  - first:
+      213: 935811931425936022
+    second: character_slash_1_armor_head_rogue_13
+  - first:
+      213: 190570844794823690
+    second: character_slash_1_armor_head_rogue_14
+  - first:
+      213: -7508959902145866745
+    second: character_slash_1_armor_head_rogue_15
+  - first:
+      213: -6923150236662247022
+    second: character_slash_1_armor_head_rogue_16
+  - first:
+      213: 6993846171040537972
+    second: character_slash_1_armor_head_rogue_17
+  - first:
+      213: 2059821338057806123
+    second: character_slash_1_armor_head_rogue_18
+  - first:
+      213: 6456181347400011945
+    second: character_slash_1_armor_head_rogue_19
+  - first:
+      213: -935449272966050611
+    second: character_slash_1_armor_head_rogue_20
+  - first:
+      213: -3721068702968490233
+    second: character_slash_1_armor_head_rogue_21
+  - first:
+      213: 5385456385055625160
+    second: character_slash_1_armor_head_rogue_22
+  - first:
+      213: -1566488934883543649
+    second: character_slash_1_armor_head_rogue_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a1fa498c54c2760800000000000000
+      internalID: 7434393812672125552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f85d7fa376dc4370800000000000000
+      internalID: 8308251204945533169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb1c2d09a581e420800000000000000
+      internalID: 2657552216242265059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10cfe66014095840800000000000000
+      internalID: 5213202512151035932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff43d98ed33e8b0800000000000000
+      internalID: -5124183881738289376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fef68e57f452b00800000000000000
+      internalID: 803135476384919353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb858681c37394c30800000000000000
+      internalID: 4344064046822611135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c4ecdfba293f570800000000000000
+      internalID: 8499298189173476438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27268accacbf1aa0800000000000000
+      internalID: -6188019912665585875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af7f086897a9680800000000000000
+      internalID: -8747545707617453522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e769db7285f2dfb0800000000000000
+      internalID: -4624363926583679008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf9f2a9bef2267d0800000000000000
+      internalID: -2926724118886768720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d482ac363f9eaa0800000000000000
+      internalID: -6131101807769268854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69217355efbacfc00800000000000000
+      internalID: 935811931425936022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04aa847c2b05a200800000000000000
+      internalID: 190570844794823690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70491ffc0c0dac790800000000000000
+      internalID: -7508959902145866745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291d5194a870cef90800000000000000
+      internalID: -6923150236662247022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dd89e99022f0160800000000000000
+      internalID: 6993846171040537972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2194b3f794f59c10800000000000000
+      internalID: 2059821338057806123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0d749aab6f89950800000000000000
+      internalID: 6456181347400011945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc067ba7dd9403f0800000000000000
+      internalID: -935449272966050611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7075dbecabb1c5cc0800000000000000
+      internalID: -3721068702968490233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf89908c0cfcba40800000000000000
+      internalID: 5385456385055625160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_armor_head_rogue_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95bfa30d96b24ae0800000000000000
+      internalID: -1566488934883543649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_1_armor_head_rogue_0: 7434393812672125552
+      character_slash_1_armor_head_rogue_1: 8308251204945533169
+      character_slash_1_armor_head_rogue_10: -4624363926583679008
+      character_slash_1_armor_head_rogue_11: -2926724118886768720
+      character_slash_1_armor_head_rogue_12: -6131101807769268854
+      character_slash_1_armor_head_rogue_13: 935811931425936022
+      character_slash_1_armor_head_rogue_14: 190570844794823690
+      character_slash_1_armor_head_rogue_15: -7508959902145866745
+      character_slash_1_armor_head_rogue_16: -6923150236662247022
+      character_slash_1_armor_head_rogue_17: 6993846171040537972
+      character_slash_1_armor_head_rogue_18: 2059821338057806123
+      character_slash_1_armor_head_rogue_19: 6456181347400011945
+      character_slash_1_armor_head_rogue_2: 2657552216242265059
+      character_slash_1_armor_head_rogue_20: -935449272966050611
+      character_slash_1_armor_head_rogue_21: -3721068702968490233
+      character_slash_1_armor_head_rogue_22: 5385456385055625160
+      character_slash_1_armor_head_rogue_23: -1566488934883543649
+      character_slash_1_armor_head_rogue_3: 5213202512151035932
+      character_slash_1_armor_head_rogue_4: -5124183881738289376
+      character_slash_1_armor_head_rogue_5: 803135476384919353
+      character_slash_1_armor_head_rogue_6: 4344064046822611135
+      character_slash_1_armor_head_rogue_7: 8499298189173476438
+      character_slash_1_armor_head_rogue_8: -6188019912665585875
+      character_slash_1_armor_head_rogue_9: -8747545707617453522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

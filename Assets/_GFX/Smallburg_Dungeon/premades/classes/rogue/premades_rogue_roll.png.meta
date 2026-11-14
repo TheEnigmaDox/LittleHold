@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0efa61d2db92acb4bb78e95c076a21fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5537006627367227610
+    second: premades_rogue_roll_0
+  - first:
+      213: -5242446275877693746
+    second: premades_rogue_roll_1
+  - first:
+      213: 830036589350021475
+    second: premades_rogue_roll_2
+  - first:
+      213: 7082658217429111684
+    second: premades_rogue_roll_3
+  - first:
+      213: -5872598670732138137
+    second: premades_rogue_roll_4
+  - first:
+      213: -4350576989242270679
+    second: premades_rogue_roll_5
+  - first:
+      213: 1232585402189856935
+    second: premades_rogue_roll_6
+  - first:
+      213: 9185009243555740351
+    second: premades_rogue_roll_7
+  - first:
+      213: -7559259021383152469
+    second: premades_rogue_roll_8
+  - first:
+      213: -3859620763242976900
+    second: premades_rogue_roll_9
+  - first:
+      213: 5427282495688908634
+    second: premades_rogue_roll_10
+  - first:
+      213: -5375555076517921354
+    second: premades_rogue_roll_11
+  - first:
+      213: -936034695776235539
+    second: premades_rogue_roll_12
+  - first:
+      213: -6665140430715574127
+    second: premades_rogue_roll_13
+  - first:
+      213: -7375091811460075286
+    second: premades_rogue_roll_14
+  - first:
+      213: -4927850889176436956
+    second: premades_rogue_roll_15
+  - first:
+      213: 999560919893241885
+    second: premades_rogue_roll_16
+  - first:
+      213: -8756040224885248044
+    second: premades_rogue_roll_17
+  - first:
+      213: 6665505913400709214
+    second: premades_rogue_roll_18
+  - first:
+      213: -6425663209501766871
+    second: premades_rogue_roll_19
+  - first:
+      213: 926078876539257346
+    second: premades_rogue_roll_20
+  - first:
+      213: 7741624223106381693
+    second: premades_rogue_roll_21
+  - first:
+      213: -440632893960102654
+    second: premades_rogue_roll_22
+  - first:
+      213: -5847720243921831362
+    second: premades_rogue_roll_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_rogue_roll_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 213
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62feac80fc99823b0800000000000000
+      internalID: -5537006627367227610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69d3443e61f37b0800000000000000
+      internalID: -5242446275877693746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 213
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369e8ca51e1e48b00800000000000000
+      internalID: 830036589350021475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4831d5b8f18aa4260800000000000000
+      internalID: 7082658217429111684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76964929f96508ea0800000000000000
+      internalID: -5872598670732138137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd9345745af93c0800000000000000
+      internalID: -4350576989242270679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0cbdc84e50b1110800000000000000
+      internalID: 1232585402189856935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 149
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab1d42e35b77f70800000000000000
+      internalID: 9185009243555740351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 149
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac4a4188fd181790800000000000000
+      internalID: -7559259021383152469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792e2f6d5fdf6ac0800000000000000
+      internalID: -3859620763242976900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 149
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f9b33cca4915b40800000000000000
+      internalID: 5427282495688908634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf99983213665b0800000000000000
+      internalID: -5375555076517921354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def01dc47698203f0800000000000000
+      internalID: -936034695776235539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198aa19771aa083a0800000000000000
+      internalID: -6665140430715574127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0b708821966a990800000000000000
+      internalID: -7375091811460075286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fab84a9b1cc9bb0800000000000000
+      internalID: -4927850889176436956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1079995c572fdd00800000000000000
+      internalID: 999560919893241885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfeea49ecb4c7680800000000000000
+      internalID: -8756040224885248044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d3881052a08c50800000000000000
+      internalID: 6665505913400709214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bc9570b5573d6a0800000000000000
+      internalID: -6425663209501766871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028d16e4d71adc00800000000000000
+      internalID: 926078876539257346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77b0dac636cf6b60800000000000000
+      internalID: 7741624223106381693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dd72fa7be82e9f0800000000000000
+      internalID: -440632893960102654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_roll_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3abd23bb69b8dea0800000000000000
+      internalID: -5847720243921831362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_rogue_roll_0: -5537006627367227610
+      premades_rogue_roll_1: -5242446275877693746
+      premades_rogue_roll_10: 5427282495688908634
+      premades_rogue_roll_11: -5375555076517921354
+      premades_rogue_roll_12: -936034695776235539
+      premades_rogue_roll_13: -6665140430715574127
+      premades_rogue_roll_14: -7375091811460075286
+      premades_rogue_roll_15: -4927850889176436956
+      premades_rogue_roll_16: 999560919893241885
+      premades_rogue_roll_17: -8756040224885248044
+      premades_rogue_roll_18: 6665505913400709214
+      premades_rogue_roll_19: -6425663209501766871
+      premades_rogue_roll_2: 830036589350021475
+      premades_rogue_roll_20: 926078876539257346
+      premades_rogue_roll_21: 7741624223106381693
+      premades_rogue_roll_22: -440632893960102654
+      premades_rogue_roll_23: -5847720243921831362
+      premades_rogue_roll_3: 7082658217429111684
+      premades_rogue_roll_4: -5872598670732138137
+      premades_rogue_roll_5: -4350576989242270679
+      premades_rogue_roll_6: 1232585402189856935
+      premades_rogue_roll_7: 9185009243555740351
+      premades_rogue_roll_8: -7559259021383152469
+      premades_rogue_roll_9: -3859620763242976900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

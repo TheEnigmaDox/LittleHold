@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c72816b194fa8da4fb4fe2a4b8ffbd52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1299562527951964270
+    second: calf_all_frames_0
+  - first:
+      213: 1677502652660417219
+    second: calf_all_frames_1
+  - first:
+      213: 3883454623291826000
+    second: calf_all_frames_2
+  - first:
+      213: 5283001639195081868
+    second: calf_all_frames_3
+  - first:
+      213: 644064714376245862
+    second: calf_all_frames_4
+  - first:
+      213: -9156286448183773150
+    second: calf_all_frames_5
+  - first:
+      213: 7804405193634156423
+    second: calf_all_frames_6
+  - first:
+      213: -5026018877574555497
+    second: calf_all_frames_7
+  - first:
+      213: -9110525661349442235
+    second: calf_all_frames_8
+  - first:
+      213: -8466280271215546502
+    second: calf_all_frames_9
+  - first:
+      213: 5204722468824739501
+    second: calf_all_frames_10
+  - first:
+      213: 3399139057845516565
+    second: calf_all_frames_11
+  - first:
+      213: 496271748750078988
+    second: calf_all_frames_12
+  - first:
+      213: -924783690420701187
+    second: calf_all_frames_13
+  - first:
+      213: 5512503811047227577
+    second: calf_all_frames_14
+  - first:
+      213: 3465847813255251157
+    second: calf_all_frames_15
+  - first:
+      213: 4799340154904685371
+    second: calf_all_frames_16
+  - first:
+      213: -4826550436755156348
+    second: calf_all_frames_17
+  - first:
+      213: 248825371513799550
+    second: calf_all_frames_18
+  - first:
+      213: -9001608003547348429
+    second: calf_all_frames_19
+  - first:
+      213: -3314850072428184562
+    second: calf_all_frames_20
+  - first:
+      213: 1504234856795859670
+    second: calf_all_frames_21
+  - first:
+      213: -1309780509584022894
+    second: calf_all_frames_22
+  - first:
+      213: 7734564057142135972
+    second: calf_all_frames_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calf_all_frames_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e684cf9db39f80210800000000000000
+      internalID: 1299562527951964270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 40
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2899956cfa74710800000000000000
+      internalID: 1677502652660417219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f58aa876dc4e530800000000000000
+      internalID: 3883454623291826000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 40
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7704100ef05940800000000000000
+      internalID: 5283001639195081868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66272c0027d20f800800000000000000
+      internalID: 644064714376245862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 40
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228784accf55ee080800000000000000
+      internalID: -9156286448183773150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 40
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f07c19c21de4c60800000000000000
+      internalID: 7804405193634156423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 40
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d2c7b57eff3ab0800000000000000
+      internalID: -5026018877574555497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8f2e3e29e09180800000000000000
+      internalID: -9110525661349442235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fac4913fab18a80800000000000000
+      internalID: -8466280271215546502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeeac47283ea3840800000000000000
+      internalID: 5204722468824739501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b905b6fa2c2f20800000000000000
+      internalID: 3399139057845516565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c047f40b68c13e600800000000000000
+      internalID: 496271748750078988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7366e12228a23f0800000000000000
+      internalID: -924783690420701187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b005787209508c40800000000000000
+      internalID: 5512503811047227577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c4aa293a291030800000000000000
+      internalID: 3465847813255251157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 8
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bac51617eaa9240800000000000000
+      internalID: 4799340154904685371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 9
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482d3be23f5a40db0800000000000000
+      internalID: -4826550436755156348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 8
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e734f286b51047300800000000000000
+      internalID: 248825371513799550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 9
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324f3d963dd31380800000000000000
+      internalID: -9001608003547348429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 8
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7d350c694ff1d0800000000000000
+      internalID: -3314850072428184562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 7
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dae31ae1ad10e410800000000000000
+      internalID: 1504234856795859670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a388e099b2dde0800000000000000
+      internalID: -1309780509584022894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calf_all_frames_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac067ec701b65b60800000000000000
+      internalID: 7734564057142135972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      calf_all_frames_0: 1299562527951964270
+      calf_all_frames_1: 1677502652660417219
+      calf_all_frames_10: 5204722468824739501
+      calf_all_frames_11: 3399139057845516565
+      calf_all_frames_12: 496271748750078988
+      calf_all_frames_13: -924783690420701187
+      calf_all_frames_14: 5512503811047227577
+      calf_all_frames_15: 3465847813255251157
+      calf_all_frames_16: 4799340154904685371
+      calf_all_frames_17: -4826550436755156348
+      calf_all_frames_18: 248825371513799550
+      calf_all_frames_19: -9001608003547348429
+      calf_all_frames_2: 3883454623291826000
+      calf_all_frames_20: -3314850072428184562
+      calf_all_frames_21: 1504234856795859670
+      calf_all_frames_22: -1309780509584022894
+      calf_all_frames_23: 7734564057142135972
+      calf_all_frames_3: 5283001639195081868
+      calf_all_frames_4: 644064714376245862
+      calf_all_frames_5: -9156286448183773150
+      calf_all_frames_6: 7804405193634156423
+      calf_all_frames_7: -5026018877574555497
+      calf_all_frames_8: -9110525661349442235
+      calf_all_frames_9: -8466280271215546502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

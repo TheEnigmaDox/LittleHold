@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 153e0c4c9daeeea42908a81ac1e10d44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7090241448840106089
+    second: character_super_slash_armor_head_knight_0
+  - first:
+      213: 406642814803573064
+    second: character_super_slash_armor_head_knight_1
+  - first:
+      213: -3522191406000416395
+    second: character_super_slash_armor_head_knight_2
+  - first:
+      213: 7913255334252424197
+    second: character_super_slash_armor_head_knight_3
+  - first:
+      213: 8179085007611341759
+    second: character_super_slash_armor_head_knight_4
+  - first:
+      213: -7248833031710979491
+    second: character_super_slash_armor_head_knight_5
+  - first:
+      213: -7630200230093052644
+    second: character_super_slash_armor_head_knight_6
+  - first:
+      213: 5269102419222030418
+    second: character_super_slash_armor_head_knight_7
+  - first:
+      213: -1628542158430158113
+    second: character_super_slash_armor_head_knight_8
+  - first:
+      213: -7137298906219169835
+    second: character_super_slash_armor_head_knight_9
+  - first:
+      213: 1141218288721772883
+    second: character_super_slash_armor_head_knight_10
+  - first:
+      213: 4337549221985359663
+    second: character_super_slash_armor_head_knight_11
+  - first:
+      213: 6382038290680309242
+    second: character_super_slash_armor_head_knight_12
+  - first:
+      213: -1389907218734127012
+    second: character_super_slash_armor_head_knight_13
+  - first:
+      213: -6790514232491278679
+    second: character_super_slash_armor_head_knight_14
+  - first:
+      213: -2272012526715857939
+    second: character_super_slash_armor_head_knight_15
+  - first:
+      213: 3636216109114693082
+    second: character_super_slash_armor_head_knight_16
+  - first:
+      213: -2445271084554049807
+    second: character_super_slash_armor_head_knight_17
+  - first:
+      213: 7181227776183229016
+    second: character_super_slash_armor_head_knight_18
+  - first:
+      213: 8791828397178694746
+    second: character_super_slash_armor_head_knight_19
+  - first:
+      213: -6454393309029190353
+    second: character_super_slash_armor_head_knight_20
+  - first:
+      213: 7450538736271675534
+    second: character_super_slash_armor_head_knight_21
+  - first:
+      213: 3124500787365730330
+    second: character_super_slash_armor_head_knight_22
+  - first:
+      213: -6798842808148432566
+    second: character_super_slash_armor_head_knight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609dd13809956260800000000000000
+      internalID: 7090241448840106089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849f4de4c7fa4a500800000000000000
+      internalID: 406642814803573064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579596ed399ae1fc0800000000000000
+      internalID: -3522191406000416395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ca41fdcc781dd60800000000000000
+      internalID: 7913255334252424197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba562da72f18170800000000000000
+      internalID: 8179085007611341759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5acfbc73c8f66b90800000000000000
+      internalID: -7248833031710979491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15233831551c1690800000000000000
+      internalID: -7630200230093052644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25861eebbbc9f1940800000000000000
+      internalID: 5269102419222030418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2c50909814669e0800000000000000
+      internalID: -1628542158430158113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b507b57833fc90800000000000000
+      internalID: -7137298906219169835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351c076bcfb66df00800000000000000
+      internalID: 1141218288721772883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27953c3902123c30800000000000000
+      internalID: 4337549221985359663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e0fa030e819850800000000000000
+      internalID: 6382038290680309242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e994afbe06bce0800000000000000
+      internalID: -1389907218734127012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae7f12884f33c1a0800000000000000
+      internalID: -6790514232491278679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31dd305a03870e0800000000000000
+      internalID: -2272012526715857939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad59556294f667230800000000000000
+      internalID: 3636216109114693082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f62f9977e6a01ed0800000000000000
+      internalID: -2445271084554049807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ad19a5d98d8a360800000000000000
+      internalID: 7181227776183229016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c270c9859d20a70800000000000000
+      internalID: 8791828397178694746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2538a67b736d66a0800000000000000
+      internalID: -6454393309029190353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d2c88181a56760800000000000000
+      internalID: 7450538736271675534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18dc5b69e47c5b20800000000000000
+      internalID: 3124500787365730330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_knight_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49e790ec78a5a1a0800000000000000
+      internalID: -6798842808148432566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_armor_head_knight_0: 7090241448840106089
+      character_super_slash_armor_head_knight_1: 406642814803573064
+      character_super_slash_armor_head_knight_10: 1141218288721772883
+      character_super_slash_armor_head_knight_11: 4337549221985359663
+      character_super_slash_armor_head_knight_12: 6382038290680309242
+      character_super_slash_armor_head_knight_13: -1389907218734127012
+      character_super_slash_armor_head_knight_14: -6790514232491278679
+      character_super_slash_armor_head_knight_15: -2272012526715857939
+      character_super_slash_armor_head_knight_16: 3636216109114693082
+      character_super_slash_armor_head_knight_17: -2445271084554049807
+      character_super_slash_armor_head_knight_18: 7181227776183229016
+      character_super_slash_armor_head_knight_19: 8791828397178694746
+      character_super_slash_armor_head_knight_2: -3522191406000416395
+      character_super_slash_armor_head_knight_20: -6454393309029190353
+      character_super_slash_armor_head_knight_21: 7450538736271675534
+      character_super_slash_armor_head_knight_22: 3124500787365730330
+      character_super_slash_armor_head_knight_23: -6798842808148432566
+      character_super_slash_armor_head_knight_3: 7913255334252424197
+      character_super_slash_armor_head_knight_4: 8179085007611341759
+      character_super_slash_armor_head_knight_5: -7248833031710979491
+      character_super_slash_armor_head_knight_6: -7630200230093052644
+      character_super_slash_armor_head_knight_7: 5269102419222030418
+      character_super_slash_armor_head_knight_8: -1628542158430158113
+      character_super_slash_armor_head_knight_9: -7137298906219169835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

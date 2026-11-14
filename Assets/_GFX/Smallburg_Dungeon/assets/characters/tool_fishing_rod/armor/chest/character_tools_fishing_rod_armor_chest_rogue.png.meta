@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 4891effde5da8b147b4905a9f766062c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4735155719461087502
+    second: character_tools_fishing_rod_armor_chest_rogue_0
+  - first:
+      213: -4485956995862288116
+    second: character_tools_fishing_rod_armor_chest_rogue_1
+  - first:
+      213: -5708008297019079964
+    second: character_tools_fishing_rod_armor_chest_rogue_2
+  - first:
+      213: 7652414995339238205
+    second: character_tools_fishing_rod_armor_chest_rogue_3
+  - first:
+      213: 4324571081566489872
+    second: character_tools_fishing_rod_armor_chest_rogue_4
+  - first:
+      213: 9157239772953978582
+    second: character_tools_fishing_rod_armor_chest_rogue_5
+  - first:
+      213: -485419844702199830
+    second: character_tools_fishing_rod_armor_chest_rogue_6
+  - first:
+      213: 5641067260917108340
+    second: character_tools_fishing_rod_armor_chest_rogue_7
+  - first:
+      213: -1362814208538709712
+    second: character_tools_fishing_rod_armor_chest_rogue_8
+  - first:
+      213: -4262796014535657624
+    second: character_tools_fishing_rod_armor_chest_rogue_9
+  - first:
+      213: -5136558884592734413
+    second: character_tools_fishing_rod_armor_chest_rogue_10
+  - first:
+      213: -1825884623834431454
+    second: character_tools_fishing_rod_armor_chest_rogue_11
+  - first:
+      213: -2624980469568360947
+    second: character_tools_fishing_rod_armor_chest_rogue_12
+  - first:
+      213: 7338427899668490277
+    second: character_tools_fishing_rod_armor_chest_rogue_13
+  - first:
+      213: -993600169231808148
+    second: character_tools_fishing_rod_armor_chest_rogue_14
+  - first:
+      213: -1971669067912889874
+    second: character_tools_fishing_rod_armor_chest_rogue_15
+  - first:
+      213: 858026680042992294
+    second: character_tools_fishing_rod_armor_chest_rogue_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 218
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6dc5906f8594eb0800000000000000
+      internalID: -4735155719461087502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0923ff31edaeb1c0800000000000000
+      internalID: -4485956995862288116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2023932b419c0b0800000000000000
+      internalID: -5708008297019079964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b511fd4e6d23a60800000000000000
+      internalID: 7652414995339238205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 218
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d82b27c76f30c30800000000000000
+      internalID: 4324571081566489872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 218
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6200e6e0d051f70800000000000000
+      internalID: 9157239772953978582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 154
+        width: 74
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef999d19317349f0800000000000000
+      internalID: -485419844702199830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 90
+        width: 10
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ecc0149c8194e40800000000000000
+      internalID: 5641067260917108340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f135a2bf461de0800000000000000
+      internalID: -1362814208538709712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867b6ab2c9187d4c0800000000000000
+      internalID: -4262796014535657624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 154
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f29fbb8e647b8b0800000000000000
+      internalID: -5136558884592734413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 154
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220408bcb9729a6e0800000000000000
+      internalID: -1825884623834431454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e2a01bb22329bd0800000000000000
+      internalID: -2624980469568360947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 202
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5286e894b4557d560800000000000000
+      internalID: 7338427899668490277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 75
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c698b2019e50632f0800000000000000
+      internalID: -993600169231808148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93d68dd6933a4e0800000000000000
+      internalID: -1971669067912889874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_rogue_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a235cf28b258eb00800000000000000
+      internalID: 858026680042992294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fishing_rod_armor_chest_rogue_0: -4735155719461087502
+      character_tools_fishing_rod_armor_chest_rogue_1: -4485956995862288116
+      character_tools_fishing_rod_armor_chest_rogue_10: -5136558884592734413
+      character_tools_fishing_rod_armor_chest_rogue_11: -1825884623834431454
+      character_tools_fishing_rod_armor_chest_rogue_12: -2624980469568360947
+      character_tools_fishing_rod_armor_chest_rogue_13: 7338427899668490277
+      character_tools_fishing_rod_armor_chest_rogue_14: -993600169231808148
+      character_tools_fishing_rod_armor_chest_rogue_15: -1971669067912889874
+      character_tools_fishing_rod_armor_chest_rogue_16: 858026680042992294
+      character_tools_fishing_rod_armor_chest_rogue_2: -5708008297019079964
+      character_tools_fishing_rod_armor_chest_rogue_3: 7652414995339238205
+      character_tools_fishing_rod_armor_chest_rogue_4: 4324571081566489872
+      character_tools_fishing_rod_armor_chest_rogue_5: 9157239772953978582
+      character_tools_fishing_rod_armor_chest_rogue_6: -485419844702199830
+      character_tools_fishing_rod_armor_chest_rogue_7: 5641067260917108340
+      character_tools_fishing_rod_armor_chest_rogue_8: -1362814208538709712
+      character_tools_fishing_rod_armor_chest_rogue_9: -4262796014535657624
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

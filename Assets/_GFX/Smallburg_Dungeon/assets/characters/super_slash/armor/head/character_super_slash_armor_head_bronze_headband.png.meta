@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 60cacacaecc91894380f7b1f70e40d27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7232656831281356680
+    second: character_super_slash_armor_head_bronze_headband_0
+  - first:
+      213: -5347778575160727995
+    second: character_super_slash_armor_head_bronze_headband_1
+  - first:
+      213: 7681808113450887285
+    second: character_super_slash_armor_head_bronze_headband_2
+  - first:
+      213: -6385384251211200323
+    second: character_super_slash_armor_head_bronze_headband_3
+  - first:
+      213: 6385083545600584606
+    second: character_super_slash_armor_head_bronze_headband_4
+  - first:
+      213: -1712871454463080715
+    second: character_super_slash_armor_head_bronze_headband_5
+  - first:
+      213: 2804125610225568783
+    second: character_super_slash_armor_head_bronze_headband_6
+  - first:
+      213: 7183371178579240341
+    second: character_super_slash_armor_head_bronze_headband_7
+  - first:
+      213: 4592419022969720366
+    second: character_super_slash_armor_head_bronze_headband_8
+  - first:
+      213: 3500132198245973120
+    second: character_super_slash_armor_head_bronze_headband_9
+  - first:
+      213: 9073139627630271239
+    second: character_super_slash_armor_head_bronze_headband_10
+  - first:
+      213: 3982596771612298208
+    second: character_super_slash_armor_head_bronze_headband_11
+  - first:
+      213: -807811824411821723
+    second: character_super_slash_armor_head_bronze_headband_12
+  - first:
+      213: 7430060273882563382
+    second: character_super_slash_armor_head_bronze_headband_13
+  - first:
+      213: 970953655046840734
+    second: character_super_slash_armor_head_bronze_headband_14
+  - first:
+      213: 4016968761672761477
+    second: character_super_slash_armor_head_bronze_headband_15
+  - first:
+      213: 4593696290135750485
+    second: character_super_slash_armor_head_bronze_headband_16
+  - first:
+      213: -6182635726534274252
+    second: character_super_slash_armor_head_bronze_headband_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fd3da511f8f5460800000000000000
+      internalID: 7232656831281356680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546a91a38bfd8c5b0800000000000000
+      internalID: -5347778575160727995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57824fa77c34b9a60800000000000000
+      internalID: 7681808113450887285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8ce20dade8267a0800000000000000
+      internalID: -6385384251211200323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be6b4b7af5c9850800000000000000
+      internalID: 6385083545600584606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f642d2cc78aa38e0800000000000000
+      internalID: -1712871454463080715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0217b2614ae620800000000000000
+      internalID: 2804125610225568783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595aefc170670b360800000000000000
+      internalID: 7183371178579240341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4bdb05cc8bbf30800000000000000
+      internalID: 4592419022969720366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cbb5790b7f29030800000000000000
+      internalID: 3500132198245973120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1c667b644aed70800000000000000
+      internalID: 9073139627630271239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb819fb9a6054730800000000000000
+      internalID: 3982596771612298208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569b298fc631ac4f0800000000000000
+      internalID: -807811824411821723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 33
+        width: 137
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6330384f370ec1760800000000000000
+      internalID: 7430060273882563382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e912f667435897d00800000000000000
+      internalID: 970953655046840734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 33
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58088515ec32fb730800000000000000
+      internalID: 4016968761672761477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557329bff6610cf30800000000000000
+      internalID: 4593696290135750485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_head_bronze_headband_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4331940509dd23aa0800000000000000
+      internalID: -6182635726534274252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_armor_head_bronze_headband_0: 7232656831281356680
+      character_super_slash_armor_head_bronze_headband_1: -5347778575160727995
+      character_super_slash_armor_head_bronze_headband_10: 9073139627630271239
+      character_super_slash_armor_head_bronze_headband_11: 3982596771612298208
+      character_super_slash_armor_head_bronze_headband_12: -807811824411821723
+      character_super_slash_armor_head_bronze_headband_13: 7430060273882563382
+      character_super_slash_armor_head_bronze_headband_14: 970953655046840734
+      character_super_slash_armor_head_bronze_headband_15: 4016968761672761477
+      character_super_slash_armor_head_bronze_headband_16: 4593696290135750485
+      character_super_slash_armor_head_bronze_headband_17: -6182635726534274252
+      character_super_slash_armor_head_bronze_headband_2: 7681808113450887285
+      character_super_slash_armor_head_bronze_headband_3: -6385384251211200323
+      character_super_slash_armor_head_bronze_headband_4: 6385083545600584606
+      character_super_slash_armor_head_bronze_headband_5: -1712871454463080715
+      character_super_slash_armor_head_bronze_headband_6: 2804125610225568783
+      character_super_slash_armor_head_bronze_headband_7: 7183371178579240341
+      character_super_slash_armor_head_bronze_headband_8: 4592419022969720366
+      character_super_slash_armor_head_bronze_headband_9: 3500132198245973120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: cf947f19a42a6ae4591e28acb7d0f3fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4908446432883485308
+    second: traps_floor_spikes_red_holes_animation_0
+  - first:
+      213: 2579237301041599442
+    second: traps_floor_spikes_red_holes_animation_1
+  - first:
+      213: -9188236651161382782
+    second: traps_floor_spikes_red_holes_animation_2
+  - first:
+      213: 9219499358094446774
+    second: traps_floor_spikes_red_holes_animation_3
+  - first:
+      213: 111439223494932246
+    second: traps_floor_spikes_red_holes_animation_4
+  - first:
+      213: 8736607027695347588
+    second: traps_floor_spikes_red_holes_animation_5
+  - first:
+      213: 8342033588332160353
+    second: traps_floor_spikes_red_holes_animation_6
+  - first:
+      213: -1299622570864467768
+    second: traps_floor_spikes_red_holes_animation_7
+  - first:
+      213: 2139037045951426577
+    second: traps_floor_spikes_red_holes_animation_8
+  - first:
+      213: 6864258812995339553
+    second: traps_floor_spikes_red_holes_animation_9
+  - first:
+      213: -8026653016387610163
+    second: traps_floor_spikes_red_holes_animation_10
+  - first:
+      213: 8475299823264303151
+    second: traps_floor_spikes_red_holes_animation_11
+  - first:
+      213: -139613454448404756
+    second: traps_floor_spikes_red_holes_animation_12
+  - first:
+      213: -4734007771347158010
+    second: traps_floor_spikes_red_holes_animation_13
+  - first:
+      213: 7491466138982499939
+    second: traps_floor_spikes_red_holes_animation_14
+  - first:
+      213: 6561928140865800399
+    second: traps_floor_spikes_red_holes_animation_15
+  - first:
+      213: 569351529451007807
+    second: traps_floor_spikes_red_holes_animation_16
+  - first:
+      213: 150467531625279786
+    second: traps_floor_spikes_red_holes_animation_17
+  - first:
+      213: 6495541324567293249
+    second: traps_floor_spikes_red_holes_animation_18
+  - first:
+      213: 7518313173790145446
+    second: traps_floor_spikes_red_holes_animation_19
+  - first:
+      213: -8399365387481505266
+    second: traps_floor_spikes_red_holes_animation_20
+  - first:
+      213: 8923042975707562896
+    second: traps_floor_spikes_red_holes_animation_21
+  - first:
+      213: -3993806818916816309
+    second: traps_floor_spikes_red_holes_animation_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48552f0b9f1b1ebb0800000000000000
+      internalID: -4908446432883485308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d39500f8aa4bc320800000000000000
+      internalID: 2579237301041599442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2801d477273dc7080800000000000000
+      internalID: -9188236651161382782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05926b1dd32ff70800000000000000
+      internalID: 9219499358094446774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617f5722269eb8100800000000000000
+      internalID: 111439223494932246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48766fb9dc9ae3970800000000000000
+      internalID: 8736607027695347588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1656ae0c95bd4c370800000000000000
+      internalID: 8342033588332160353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02b815820d6fde0800000000000000
+      internalID: -1299622570864467768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110f5553cd26fad10800000000000000
+      internalID: 2139037045951426577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1258ee2a50fb24f50800000000000000
+      internalID: 6864258812995339553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc916eecb999b9090800000000000000
+      internalID: -8026653016387610163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28899209405e9570800000000000000
+      internalID: 8475299823264303151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6dcb98d4eff0ef0800000000000000
+      internalID: -139613454448404756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf9e8830d6d4eb0800000000000000
+      internalID: -4734007771347158010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3664bec03c807f760800000000000000
+      internalID: 7491466138982499939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc802f5a0e6a01b50800000000000000
+      internalID: 6561928140865800399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fa041133eb6e700800000000000000
+      internalID: 569351529451007807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2131cc3c61961200800000000000000
+      internalID: 150467531625279786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d24ba7b6cc42a50800000000000000
+      internalID: 6495541324567293249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abb6e17ff9665860800000000000000
+      internalID: 7518313173790145446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02247c8ea57f6b80800000000000000
+      internalID: -8399365387481505266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09308926f4405db70800000000000000
+      internalID: 8923042975707562896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_red_holes_animation_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a2ee8bbd52398c0800000000000000
+      internalID: -3993806818916816309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      traps_floor_spikes_red_holes_animation_0: -4908446432883485308
+      traps_floor_spikes_red_holes_animation_1: 2579237301041599442
+      traps_floor_spikes_red_holes_animation_10: -8026653016387610163
+      traps_floor_spikes_red_holes_animation_11: 8475299823264303151
+      traps_floor_spikes_red_holes_animation_12: -139613454448404756
+      traps_floor_spikes_red_holes_animation_13: -4734007771347158010
+      traps_floor_spikes_red_holes_animation_14: 7491466138982499939
+      traps_floor_spikes_red_holes_animation_15: 6561928140865800399
+      traps_floor_spikes_red_holes_animation_16: 569351529451007807
+      traps_floor_spikes_red_holes_animation_17: 150467531625279786
+      traps_floor_spikes_red_holes_animation_18: 6495541324567293249
+      traps_floor_spikes_red_holes_animation_19: 7518313173790145446
+      traps_floor_spikes_red_holes_animation_2: -9188236651161382782
+      traps_floor_spikes_red_holes_animation_20: -8399365387481505266
+      traps_floor_spikes_red_holes_animation_21: 8923042975707562896
+      traps_floor_spikes_red_holes_animation_22: -3993806818916816309
+      traps_floor_spikes_red_holes_animation_3: 9219499358094446774
+      traps_floor_spikes_red_holes_animation_4: 111439223494932246
+      traps_floor_spikes_red_holes_animation_5: 8736607027695347588
+      traps_floor_spikes_red_holes_animation_6: 8342033588332160353
+      traps_floor_spikes_red_holes_animation_7: -1299622570864467768
+      traps_floor_spikes_red_holes_animation_8: 2139037045951426577
+      traps_floor_spikes_red_holes_animation_9: 6864258812995339553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

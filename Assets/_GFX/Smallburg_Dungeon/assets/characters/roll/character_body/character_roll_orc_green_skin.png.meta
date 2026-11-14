@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b9f777295d8ade646bb2bd0ef69b6ca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4200610321993830386
+    second: character_roll_orc_green_skin_0
+  - first:
+      213: -429754464707005717
+    second: character_roll_orc_green_skin_1
+  - first:
+      213: 6828641173268682669
+    second: character_roll_orc_green_skin_2
+  - first:
+      213: 2795584101809691939
+    second: character_roll_orc_green_skin_3
+  - first:
+      213: -505476560043195524
+    second: character_roll_orc_green_skin_4
+  - first:
+      213: 4621695489187956070
+    second: character_roll_orc_green_skin_5
+  - first:
+      213: -7024341104071463997
+    second: character_roll_orc_green_skin_6
+  - first:
+      213: -8483604125833233666
+    second: character_roll_orc_green_skin_7
+  - first:
+      213: -141481552599430578
+    second: character_roll_orc_green_skin_8
+  - first:
+      213: 6695348388803563535
+    second: character_roll_orc_green_skin_9
+  - first:
+      213: -1884523077846970686
+    second: character_roll_orc_green_skin_10
+  - first:
+      213: -4284438243226314474
+    second: character_roll_orc_green_skin_11
+  - first:
+      213: -9033513818407648872
+    second: character_roll_orc_green_skin_12
+  - first:
+      213: 3578520565519583754
+    second: character_roll_orc_green_skin_13
+  - first:
+      213: 8902554155296991275
+    second: character_roll_orc_green_skin_14
+  - first:
+      213: -279717792557290057
+    second: character_roll_orc_green_skin_15
+  - first:
+      213: -7523954077527245597
+    second: character_roll_orc_green_skin_16
+  - first:
+      213: 8959940437346056690
+    second: character_roll_orc_green_skin_17
+  - first:
+      213: -6525458109000467404
+    second: character_roll_orc_green_skin_18
+  - first:
+      213: -3548867650616380967
+    second: character_roll_orc_green_skin_19
+  - first:
+      213: 6971362477570376950
+    second: character_roll_orc_green_skin_20
+  - first:
+      213: 1491935243681636129
+    second: character_roll_orc_green_skin_21
+  - first:
+      213: 6099989822853725913
+    second: character_roll_orc_green_skin_22
+  - first:
+      213: -8587410636109185103
+    second: character_roll_orc_green_skin_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 213
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff084205d09b4a30800000000000000
+      internalID: 4200610321993830386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2308e5794390af0800000000000000
+      internalID: -429754464707005717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 213
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da75947a7f434ce50800000000000000
+      internalID: 6828641173268682669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9810dde8ebc620800000000000000
+      internalID: 2795584101809691939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73c65c2fbf2cf8f0800000000000000
+      internalID: -505476560043195524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 213
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665c2158f8f832040800000000000000
+      internalID: 4621695489187956070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb25ae7bf6848e90800000000000000
+      internalID: -7024341104071463997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 149
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efafba0eefe244a80800000000000000
+      internalID: -8483604125833233666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a4a0b074b590ef0800000000000000
+      internalID: -141481552599430578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00de1ad2e7aaec50800000000000000
+      internalID: 6695348388803563535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 149
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec7edce34d8d5e0800000000000000
+      internalID: -1884523077846970686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61995622e1e9a84c0800000000000000
+      internalID: -4284438243226314474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891ca343b0382a280800000000000000
+      internalID: -9033513818407648872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a89399e7579a130800000000000000
+      internalID: 3578520565519583754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a72426d93c8b70800000000000000
+      internalID: 8902554155296991275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd2441562e3e1cf0800000000000000
+      internalID: -279717792557290057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecf2ae41ab859790800000000000000
+      internalID: -7523954077527245597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f97ba02b5a185c70800000000000000
+      internalID: 8959940437346056690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cb5585c6ae075a0800000000000000
+      internalID: -6525458109000467404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1b22aaca3efbec0800000000000000
+      internalID: -3548867650616380967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c11ccc314fb060800000000000000
+      internalID: 6971362477570376950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9783133b64b410800000000000000
+      internalID: 1491935243681636129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 21
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb1bcbc6487a450800000000000000
+      internalID: 6099989822853725913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_orc_green_skin_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bffc46468363d880800000000000000
+      internalID: -8587410636109185103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_orc_green_skin_0: 4200610321993830386
+      character_roll_orc_green_skin_1: -429754464707005717
+      character_roll_orc_green_skin_10: -1884523077846970686
+      character_roll_orc_green_skin_11: -4284438243226314474
+      character_roll_orc_green_skin_12: -9033513818407648872
+      character_roll_orc_green_skin_13: 3578520565519583754
+      character_roll_orc_green_skin_14: 8902554155296991275
+      character_roll_orc_green_skin_15: -279717792557290057
+      character_roll_orc_green_skin_16: -7523954077527245597
+      character_roll_orc_green_skin_17: 8959940437346056690
+      character_roll_orc_green_skin_18: -6525458109000467404
+      character_roll_orc_green_skin_19: -3548867650616380967
+      character_roll_orc_green_skin_2: 6828641173268682669
+      character_roll_orc_green_skin_20: 6971362477570376950
+      character_roll_orc_green_skin_21: 1491935243681636129
+      character_roll_orc_green_skin_22: 6099989822853725913
+      character_roll_orc_green_skin_23: -8587410636109185103
+      character_roll_orc_green_skin_3: 2795584101809691939
+      character_roll_orc_green_skin_4: -505476560043195524
+      character_roll_orc_green_skin_5: 4621695489187956070
+      character_roll_orc_green_skin_6: -7024341104071463997
+      character_roll_orc_green_skin_7: -8483604125833233666
+      character_roll_orc_green_skin_8: -141481552599430578
+      character_roll_orc_green_skin_9: 6695348388803563535
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 190c1b53e267cad48bf155ae2ca655bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -48601116459576859
+    second: character_push_armor_chest_blue_robe_0
+  - first:
+      213: 8777970795227968040
+    second: character_push_armor_chest_blue_robe_1
+  - first:
+      213: 5048146805059136407
+    second: character_push_armor_chest_blue_robe_2
+  - first:
+      213: -701075759441543641
+    second: character_push_armor_chest_blue_robe_3
+  - first:
+      213: -6263525440889091285
+    second: character_push_armor_chest_blue_robe_4
+  - first:
+      213: 5044551040837693651
+    second: character_push_armor_chest_blue_robe_5
+  - first:
+      213: 3341492730404352347
+    second: character_push_armor_chest_blue_robe_6
+  - first:
+      213: -3126118672964468794
+    second: character_push_armor_chest_blue_robe_7
+  - first:
+      213: 735088460589623764
+    second: character_push_armor_chest_blue_robe_8
+  - first:
+      213: -5188784795944480969
+    second: character_push_armor_chest_blue_robe_9
+  - first:
+      213: 92309106489407149
+    second: character_push_armor_chest_blue_robe_10
+  - first:
+      213: 6688964969023043819
+    second: character_push_armor_chest_blue_robe_11
+  - first:
+      213: 2028213946825654362
+    second: character_push_armor_chest_blue_robe_12
+  - first:
+      213: 8430770689714379420
+    second: character_push_armor_chest_blue_robe_13
+  - first:
+      213: -2400631696886675292
+    second: character_push_armor_chest_blue_robe_14
+  - first:
+      213: 2661306827099738211
+    second: character_push_armor_chest_blue_robe_15
+  - first:
+      213: 3060669171730687680
+    second: character_push_armor_chest_blue_robe_16
+  - first:
+      213: 1358063792255040297
+    second: character_push_armor_chest_blue_robe_17
+  - first:
+      213: -8953155095846428455
+    second: character_push_armor_chest_blue_robe_18
+  - first:
+      213: 1697744536761026591
+    second: character_push_armor_chest_blue_robe_19
+  - first:
+      213: -7792103329795569813
+    second: character_push_armor_chest_blue_robe_20
+  - first:
+      213: 5846639044721776543
+    second: character_push_armor_chest_blue_robe_21
+  - first:
+      213: 8333189297819218772
+    second: character_push_armor_chest_blue_robe_22
+  - first:
+      213: 1804827675600849642
+    second: character_push_armor_chest_blue_robe_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e15db5ca85535ff0800000000000000
+      internalID: -48601116459576859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 218
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822f05a3eed91d970800000000000000
+      internalID: 8777970795227968040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ba291e5ce9e0640800000000000000
+      internalID: 5048146805059136407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 217
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e79ddaf474546f0800000000000000
+      internalID: -701075759441543641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 218
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b0f2e0ccc7319a0800000000000000
+      internalID: -6263525440889091285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d03578c178d10640800000000000000
+      internalID: 5044551040837693651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b513d4f2fed5f5e20800000000000000
+      internalID: 3341492730404352347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfbc3c31abcd94d0800000000000000
+      internalID: -3126118672964468794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 153
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9eeeb6f0f833a00800000000000000
+      internalID: 735088460589623764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 153
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f08cd28bbbdf7b0800000000000000
+      internalID: -5188784795944480969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 154
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b5dda4a2f74100800000000000000
+      internalID: 92309106489407149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 153
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be876ad133af3dc50800000000000000
+      internalID: 6688964969023043819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504905b6d9a52c10800000000000000
+      internalID: 2028213946825654362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 89
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a533f264d100570800000000000000
+      internalID: 8430770689714379420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8c686d03e3faed0800000000000000
+      internalID: -2400631696886675292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3601a93857cdee420800000000000000
+      internalID: 2661306827099738211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 89
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c62ff3456ea97a20800000000000000
+      internalID: 3060669171730687680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b7eafd2dfc8d210800000000000000
+      internalID: 1358063792255040297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0681d40e000c380800000000000000
+      internalID: -8953155095846428455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18400149a99f8710800000000000000
+      internalID: 1697744536761026591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 26
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67856e4e43ecd390800000000000000
+      internalID: -7792103329795569813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97129efb3f632150800000000000000
+      internalID: 5846639044721776543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 26
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453f996e38f65a370800000000000000
+      internalID: 8333189297819218772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_push_armor_chest_blue_robe_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 26
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea8bf465390c0910800000000000000
+      internalID: 1804827675600849642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_push_armor_chest_blue_robe_0: -48601116459576859
+      character_push_armor_chest_blue_robe_1: 8777970795227968040
+      character_push_armor_chest_blue_robe_10: 92309106489407149
+      character_push_armor_chest_blue_robe_11: 6688964969023043819
+      character_push_armor_chest_blue_robe_12: 2028213946825654362
+      character_push_armor_chest_blue_robe_13: 8430770689714379420
+      character_push_armor_chest_blue_robe_14: -2400631696886675292
+      character_push_armor_chest_blue_robe_15: 2661306827099738211
+      character_push_armor_chest_blue_robe_16: 3060669171730687680
+      character_push_armor_chest_blue_robe_17: 1358063792255040297
+      character_push_armor_chest_blue_robe_18: -8953155095846428455
+      character_push_armor_chest_blue_robe_19: 1697744536761026591
+      character_push_armor_chest_blue_robe_2: 5048146805059136407
+      character_push_armor_chest_blue_robe_20: -7792103329795569813
+      character_push_armor_chest_blue_robe_21: 5846639044721776543
+      character_push_armor_chest_blue_robe_22: 8333189297819218772
+      character_push_armor_chest_blue_robe_23: 1804827675600849642
+      character_push_armor_chest_blue_robe_3: -701075759441543641
+      character_push_armor_chest_blue_robe_4: -6263525440889091285
+      character_push_armor_chest_blue_robe_5: 5044551040837693651
+      character_push_armor_chest_blue_robe_6: 3341492730404352347
+      character_push_armor_chest_blue_robe_7: -3126118672964468794
+      character_push_armor_chest_blue_robe_8: 735088460589623764
+      character_push_armor_chest_blue_robe_9: -5188784795944480969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

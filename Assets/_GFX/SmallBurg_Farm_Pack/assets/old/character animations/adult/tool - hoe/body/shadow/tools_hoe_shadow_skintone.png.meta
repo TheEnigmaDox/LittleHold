@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 04ee345382a559149af2cfa57988b2f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5597195505216180932
+    second: tools_hoe_shadow_skintone_0
+  - first:
+      213: 3208628394493080159
+    second: tools_hoe_shadow_skintone_1
+  - first:
+      213: -8866822268457610580
+    second: tools_hoe_shadow_skintone_2
+  - first:
+      213: -6928917974011696546
+    second: tools_hoe_shadow_skintone_3
+  - first:
+      213: 4877704189321186572
+    second: tools_hoe_shadow_skintone_4
+  - first:
+      213: 199277735369369927
+    second: tools_hoe_shadow_skintone_5
+  - first:
+      213: 1198455949796196089
+    second: tools_hoe_shadow_skintone_6
+  - first:
+      213: -7305325927872659151
+    second: tools_hoe_shadow_skintone_7
+  - first:
+      213: -6306423082485478790
+    second: tools_hoe_shadow_skintone_8
+  - first:
+      213: 785666732930442967
+    second: tools_hoe_shadow_skintone_9
+  - first:
+      213: 572561844420821163
+    second: tools_hoe_shadow_skintone_10
+  - first:
+      213: -8703417867385542889
+    second: tools_hoe_shadow_skintone_11
+  - first:
+      213: 630395011541646501
+    second: tools_hoe_shadow_skintone_12
+  - first:
+      213: 2770803998038931764
+    second: tools_hoe_shadow_skintone_13
+  - first:
+      213: -3602886826374881942
+    second: tools_hoe_shadow_skintone_14
+  - first:
+      213: 1816143157878751578
+    second: tools_hoe_shadow_skintone_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 212
+        width: 212
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2d2d228ab3dad40800000000000000
+      internalID: 5597195505216180932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 212
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52fdf55686578c20800000000000000
+      internalID: 3208628394493080159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 212
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca29f021028b2f480800000000000000
+      internalID: -8866822268457610580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 212
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aa63940d987df90800000000000000
+      internalID: -6928917974011696546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 148
+        width: 203
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8ce3fd1611b340800000000000000
+      internalID: 4877704189321186572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e5546b0af3c200800000000000000
+      internalID: 199277735369369927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3e8e2655c1a010800000000000000
+      internalID: 1198455949796196089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13103bc16c44e9a90800000000000000
+      internalID: -7305325927872659151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 22
+        width: 206
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a012d8e951b78a0800000000000000
+      internalID: -6306423082485478790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d629202bbf37ea00800000000000000
+      internalID: 785666732930442967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba045a4c6f522f700800000000000000
+      internalID: 572561844420821163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 83
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71762b2ff8f373780800000000000000
+      internalID: -8703417867385542889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac3e1b4cec9fb800800000000000000
+      internalID: 630395011541646501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439b75d4e8fd37620800000000000000
+      internalID: 2770803998038931764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 21
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9df33589fffdc0800000000000000
+      internalID: -3602886826374881942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_hoe_shadow_skintone_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 21
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a518e9a649c343910800000000000000
+      internalID: 1816143157878751578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tools_hoe_shadow_skintone_0: 5597195505216180932
+      tools_hoe_shadow_skintone_1: 3208628394493080159
+      tools_hoe_shadow_skintone_10: 572561844420821163
+      tools_hoe_shadow_skintone_11: -8703417867385542889
+      tools_hoe_shadow_skintone_12: 630395011541646501
+      tools_hoe_shadow_skintone_13: 2770803998038931764
+      tools_hoe_shadow_skintone_14: -3602886826374881942
+      tools_hoe_shadow_skintone_15: 1816143157878751578
+      tools_hoe_shadow_skintone_2: -8866822268457610580
+      tools_hoe_shadow_skintone_3: -6928917974011696546
+      tools_hoe_shadow_skintone_4: 4877704189321186572
+      tools_hoe_shadow_skintone_5: 199277735369369927
+      tools_hoe_shadow_skintone_6: 1198455949796196089
+      tools_hoe_shadow_skintone_7: -7305325927872659151
+      tools_hoe_shadow_skintone_8: -6306423082485478790
+      tools_hoe_shadow_skintone_9: 785666732930442967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

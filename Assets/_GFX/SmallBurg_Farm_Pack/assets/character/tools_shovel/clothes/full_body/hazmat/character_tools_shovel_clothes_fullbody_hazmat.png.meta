@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 4ffeded6f46f65f4a9f87d79f335f781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3459675721600812171
+    second: character_tools_shovel_clothes_fullbody_hazmat_0
+  - first:
+      213: 8285229803143702200
+    second: character_tools_shovel_clothes_fullbody_hazmat_1
+  - first:
+      213: -422296437771943770
+    second: character_tools_shovel_clothes_fullbody_hazmat_2
+  - first:
+      213: -8960880853568220202
+    second: character_tools_shovel_clothes_fullbody_hazmat_3
+  - first:
+      213: 7409964946424915893
+    second: character_tools_shovel_clothes_fullbody_hazmat_4
+  - first:
+      213: 7484205610506383558
+    second: character_tools_shovel_clothes_fullbody_hazmat_5
+  - first:
+      213: 3570803764976746979
+    second: character_tools_shovel_clothes_fullbody_hazmat_6
+  - first:
+      213: -3012964773129491723
+    second: character_tools_shovel_clothes_fullbody_hazmat_7
+  - first:
+      213: 3041938458639066495
+    second: character_tools_shovel_clothes_fullbody_hazmat_8
+  - first:
+      213: -3251501063203802423
+    second: character_tools_shovel_clothes_fullbody_hazmat_9
+  - first:
+      213: 2414027387709110524
+    second: character_tools_shovel_clothes_fullbody_hazmat_10
+  - first:
+      213: 6628281478675066250
+    second: character_tools_shovel_clothes_fullbody_hazmat_11
+  - first:
+      213: 6990009272970932705
+    second: character_tools_shovel_clothes_fullbody_hazmat_12
+  - first:
+      213: -3251445478466364777
+    second: character_tools_shovel_clothes_fullbody_hazmat_13
+  - first:
+      213: 387112716630950595
+    second: character_tools_shovel_clothes_fullbody_hazmat_14
+  - first:
+      213: 2027440852678226170
+    second: character_tools_shovel_clothes_fullbody_hazmat_15
+  - first:
+      213: 6028327384339399527
+    second: character_tools_shovel_clothes_fullbody_hazmat_16
+  - first:
+      213: 3328975443386218284
+    second: character_tools_shovel_clothes_fullbody_hazmat_17
+  - first:
+      213: 1607869592322017862
+    second: character_tools_shovel_clothes_fullbody_hazmat_18
+  - first:
+      213: -6727079301037324363
+    second: character_tools_shovel_clothes_fullbody_hazmat_19
+  - first:
+      213: -8289063565869163924
+    second: character_tools_shovel_clothes_fullbody_hazmat_20
+  - first:
+      213: -8557058577951212101
+    second: character_tools_shovel_clothes_fullbody_hazmat_21
+  - first:
+      213: -8360261774792062483
+    second: character_tools_shovel_clothes_fullbody_hazmat_22
+  - first:
+      213: -8064190779664278551
+    second: character_tools_shovel_clothes_fullbody_hazmat_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 216
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bb0f7e243ccffc0800000000000000
+      internalID: -3459675721600812171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 216
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b62cd2eb9c0bf270800000000000000
+      internalID: 8285229803143702200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 216
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0c0b490a3b32af0800000000000000
+      internalID: -422296437771943770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d39778275e84a380800000000000000
+      internalID: -8960880853568220202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 216
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7e0cdebdb75d660800000000000000
+      internalID: 7409964946424915893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 216
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0f738895d3dd760800000000000000
+      internalID: 7484205610506383558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 152
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e10116fa1b0e8130800000000000000
+      internalID: 3570803764976746979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 152
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae9d0908ccf26d0800000000000000
+      internalID: -3012964773129491723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 152
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75e7c749e2273a20800000000000000
+      internalID: 3041938458639066495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2beec920950e2d0800000000000000
+      internalID: -3251501063203802423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8377a7e19508120800000000000000
+      internalID: 2414027387709110524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d6abff2e26cfb50800000000000000
+      internalID: 6628281478675066250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 88
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17e1c2660810160800000000000000
+      internalID: 6990009272970932705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a5671709b80e2d0800000000000000
+      internalID: -3251445478466364777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c203daf6fc4f5500800000000000000
+      internalID: 387112716630950595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 88
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03003b6bae22c10800000000000000
+      internalID: 2027440852678226170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 88
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7634f4d01dbe8a350800000000000000
+      internalID: 6028327384339399527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 88
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27b8013785e23e20800000000000000
+      internalID: 3328975443386218284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a818710ec405610800000000000000
+      internalID: 1607869592322017862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 24
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b789cd640d94a2a0800000000000000
+      internalID: -6727079301037324363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 24
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5cbbaa9457fc80800000000000000
+      internalID: -8289063565869163924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 24
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd32038f883f3980800000000000000
+      internalID: -8557058577951212101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de90e3cd5326afb80800000000000000
+      internalID: -8360261774792062483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_clothes_fullbody_hazmat_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5129363d361090800000000000000
+      internalID: -8064190779664278551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_clothes_fullbody_hazmat_0: -3459675721600812171
+      character_tools_shovel_clothes_fullbody_hazmat_1: 8285229803143702200
+      character_tools_shovel_clothes_fullbody_hazmat_10: 2414027387709110524
+      character_tools_shovel_clothes_fullbody_hazmat_11: 6628281478675066250
+      character_tools_shovel_clothes_fullbody_hazmat_12: 6990009272970932705
+      character_tools_shovel_clothes_fullbody_hazmat_13: -3251445478466364777
+      character_tools_shovel_clothes_fullbody_hazmat_14: 387112716630950595
+      character_tools_shovel_clothes_fullbody_hazmat_15: 2027440852678226170
+      character_tools_shovel_clothes_fullbody_hazmat_16: 6028327384339399527
+      character_tools_shovel_clothes_fullbody_hazmat_17: 3328975443386218284
+      character_tools_shovel_clothes_fullbody_hazmat_18: 1607869592322017862
+      character_tools_shovel_clothes_fullbody_hazmat_19: -6727079301037324363
+      character_tools_shovel_clothes_fullbody_hazmat_2: -422296437771943770
+      character_tools_shovel_clothes_fullbody_hazmat_20: -8289063565869163924
+      character_tools_shovel_clothes_fullbody_hazmat_21: -8557058577951212101
+      character_tools_shovel_clothes_fullbody_hazmat_22: -8360261774792062483
+      character_tools_shovel_clothes_fullbody_hazmat_23: -8064190779664278551
+      character_tools_shovel_clothes_fullbody_hazmat_3: -8960880853568220202
+      character_tools_shovel_clothes_fullbody_hazmat_4: 7409964946424915893
+      character_tools_shovel_clothes_fullbody_hazmat_5: 7484205610506383558
+      character_tools_shovel_clothes_fullbody_hazmat_6: 3570803764976746979
+      character_tools_shovel_clothes_fullbody_hazmat_7: -3012964773129491723
+      character_tools_shovel_clothes_fullbody_hazmat_8: 3041938458639066495
+      character_tools_shovel_clothes_fullbody_hazmat_9: -3251501063203802423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

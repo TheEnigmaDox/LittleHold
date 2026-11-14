@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 76de27d7db81fec49a6856b58fb458dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5087805020455439754
+    second: windows_decorations_0
+  - first:
+      213: -7955420189972332057
+    second: windows_decorations_1
+  - first:
+      213: 3554384997673745959
+    second: windows_decorations_2
+  - first:
+      213: 4625671549872458256
+    second: windows_decorations_3
+  - first:
+      213: -986319056331455579
+    second: windows_decorations_4
+  - first:
+      213: -7033811444707615593
+    second: windows_decorations_5
+  - first:
+      213: 6418498659305085269
+    second: windows_decorations_6
+  - first:
+      213: 3834947816084525558
+    second: windows_decorations_7
+  - first:
+      213: -7528341957573326660
+    second: windows_decorations_8
+  - first:
+      213: 5872132930813025418
+    second: windows_decorations_9
+  - first:
+      213: -7751439305924294614
+    second: windows_decorations_10
+  - first:
+      213: 875944251896750407
+    second: windows_decorations_11
+  - first:
+      213: -41355352496322248
+    second: windows_decorations_12
+  - first:
+      213: -2322283189698845184
+    second: windows_decorations_13
+  - first:
+      213: -8499441360396685507
+    second: windows_decorations_14
+  - first:
+      213: -6630737880473802163
+    second: windows_decorations_15
+  - first:
+      213: 8617127734984552839
+    second: windows_decorations_16
+  - first:
+      213: -6527910786262374473
+    second: windows_decorations_17
+  - first:
+      213: -2521979220462852689
+    second: windows_decorations_18
+  - first:
+      213: -2048774573264589854
+    second: windows_decorations_19
+  - first:
+      213: -8201041264850776236
+    second: windows_decorations_20
+  - first:
+      213: -4260436334109406855
+    second: windows_decorations_21
+  - first:
+      213: 7455089098689384560
+    second: windows_decorations_22
+  - first:
+      213: -6500210151092995551
+    second: windows_decorations_23
+  - first:
+      213: -9194496518164602534
+    second: windows_decorations_24
+  - first:
+      213: -6255949431051469091
+    second: windows_decorations_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: windows_decorations_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d02b2b5b38b9640800000000000000
+      internalID: 5087805020455439754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 87
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18ab1ac7ba89190800000000000000
+      internalID: -7955420189972332057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 90
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e325dc256b35130800000000000000
+      internalID: 3554384997673745959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 90
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a47c944cfa13040800000000000000
+      internalID: 4625671549872458256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 90
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a34a244b04ef42f0800000000000000
+      internalID: -986319056331455579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 90
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c102df1c1e26e90800000000000000
+      internalID: -7033811444707615593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 76
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55953332686131950800000000000000
+      internalID: 6418498659305085269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 78
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1d0e568b8783530800000000000000
+      internalID: 3834947816084525558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 79
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb84c2f50e4f58790800000000000000
+      internalID: -7528341957573326660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 79
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cdbf6e9c10e7150800000000000000
+      internalID: 5872132930813025418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 79
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28c168250b5d6490800000000000000
+      internalID: -7751439305924294614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 79
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741e959f7aaf72c00800000000000000
+      internalID: 875944251896750407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83945e8a6831d6ff0800000000000000
+      internalID: -41355352496322248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 55
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a3223eb795cfd0800000000000000
+      internalID: -2322283189698845184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 58
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fea4c5d1beb0a80800000000000000
+      internalID: -8499441360396685507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 58
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae1a36703eaf3a0800000000000000
+      internalID: -6630737880473802163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 58
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781bbebf400369770800000000000000
+      internalID: 8617127734984552839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 58
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7e36be9b33865a0800000000000000
+      internalID: -6527910786262374473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 44
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa52561d241200dd0800000000000000
+      internalID: -2521979220462852689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 46
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb26b7616a4193e0800000000000000
+      internalID: -2048774573264589854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fcf3cab6c003e80800000000000000
+      internalID: -8201041264850776236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 47
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979cd351ab3efd4c0800000000000000
+      internalID: -4260436334109406855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709448590cc57760800000000000000
+      internalID: 7455089098689384560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 47
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ab6b2ae4d9ac5a0800000000000000
+      internalID: -6500210151092995551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51ab3a9126966080800000000000000
+      internalID: -9194496518164602534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: windows_decorations_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddebe5d43276e29a0800000000000000
+      internalID: -6255949431051469091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      windows_decorations_0: 5087805020455439754
+      windows_decorations_1: -7955420189972332057
+      windows_decorations_10: -7751439305924294614
+      windows_decorations_11: 875944251896750407
+      windows_decorations_12: -41355352496322248
+      windows_decorations_13: -2322283189698845184
+      windows_decorations_14: -8499441360396685507
+      windows_decorations_15: -6630737880473802163
+      windows_decorations_16: 8617127734984552839
+      windows_decorations_17: -6527910786262374473
+      windows_decorations_18: -2521979220462852689
+      windows_decorations_19: -2048774573264589854
+      windows_decorations_2: 3554384997673745959
+      windows_decorations_20: -8201041264850776236
+      windows_decorations_21: -4260436334109406855
+      windows_decorations_22: 7455089098689384560
+      windows_decorations_23: -6500210151092995551
+      windows_decorations_24: -9194496518164602534
+      windows_decorations_25: -6255949431051469091
+      windows_decorations_3: 4625671549872458256
+      windows_decorations_4: -986319056331455579
+      windows_decorations_5: -7033811444707615593
+      windows_decorations_6: 6418498659305085269
+      windows_decorations_7: 3834947816084525558
+      windows_decorations_8: -7528341957573326660
+      windows_decorations_9: 5872132930813025418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

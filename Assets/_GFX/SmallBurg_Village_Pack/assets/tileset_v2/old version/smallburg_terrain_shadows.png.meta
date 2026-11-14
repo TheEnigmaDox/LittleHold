@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 2f8b4edeb06cb1f4e9e727c9cfdd1904
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4669640467948022732
+    second: smallburg_terrain_shadows_0
+  - first:
+      213: 6590184683731402674
+    second: smallburg_terrain_shadows_1
+  - first:
+      213: 9201841231196986409
+    second: smallburg_terrain_shadows_2
+  - first:
+      213: -7994595374228921608
+    second: smallburg_terrain_shadows_3
+  - first:
+      213: -4836927828005889178
+    second: smallburg_terrain_shadows_4
+  - first:
+      213: -3118994230666843047
+    second: smallburg_terrain_shadows_5
+  - first:
+      213: 389052431599865169
+    second: smallburg_terrain_shadows_6
+  - first:
+      213: 3116624682731808320
+    second: smallburg_terrain_shadows_7
+  - first:
+      213: 4401815853286613663
+    second: smallburg_terrain_shadows_8
+  - first:
+      213: -6410808946738026463
+    second: smallburg_terrain_shadows_9
+  - first:
+      213: 5194584102915489178
+    second: smallburg_terrain_shadows_10
+  - first:
+      213: 6987086505499529719
+    second: smallburg_terrain_shadows_11
+  - first:
+      213: 1394073772931956412
+    second: smallburg_terrain_shadows_12
+  - first:
+      213: 6499192367628100047
+    second: smallburg_terrain_shadows_13
+  - first:
+      213: 7238948480260165369
+    second: smallburg_terrain_shadows_14
+  - first:
+      213: 228183579806972612
+    second: smallburg_terrain_shadows_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 685
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccba4d8c345edc040800000000000000
+      internalID: 4669640467948022732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 621
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb706bd0a057b50800000000000000
+      internalID: 6590184683731402674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 685
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c1a09a8d183bf70800000000000000
+      internalID: 9201841231196986409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 653
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2aa144ddd7d0190800000000000000
+      internalID: -7994595374228921608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 509
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bd18f74c7cfdcb0800000000000000
+      internalID: -4836927828005889178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 445
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2c98b54b17b4d0800000000000000
+      internalID: -3118994230666843047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 509
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d03801021366500800000000000000
+      internalID: 389052431599865169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 477
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a178e2a9704b20800000000000000
+      internalID: 3116624682731808320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 333
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e4dd5234661d30800000000000000
+      internalID: 4401815853286613663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 269
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a8c69a3b3807a0800000000000000
+      internalID: -6410808946738026463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 333
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d3b2238bed61840800000000000000
+      internalID: 5194584102915489178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 301
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19937582e17f060800000000000000
+      internalID: 6987086505499529719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 157
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe3c4ad5beb85310800000000000000
+      internalID: 1394073772931956412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 93
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1276f2605c13a50800000000000000
+      internalID: 6499192367628100047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 157
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fec2490a49e57460800000000000000
+      internalID: 7238948480260165369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallburg_terrain_shadows_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 125
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab8f1c1cbaa2300800000000000000
+      internalID: 228183579806972612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smallburg_terrain_shadows_0: 4669640467948022732
+      smallburg_terrain_shadows_1: 6590184683731402674
+      smallburg_terrain_shadows_10: 5194584102915489178
+      smallburg_terrain_shadows_11: 6987086505499529719
+      smallburg_terrain_shadows_12: 1394073772931956412
+      smallburg_terrain_shadows_13: 6499192367628100047
+      smallburg_terrain_shadows_14: 7238948480260165369
+      smallburg_terrain_shadows_15: 228183579806972612
+      smallburg_terrain_shadows_2: 9201841231196986409
+      smallburg_terrain_shadows_3: -7994595374228921608
+      smallburg_terrain_shadows_4: -4836927828005889178
+      smallburg_terrain_shadows_5: -3118994230666843047
+      smallburg_terrain_shadows_6: 389052431599865169
+      smallburg_terrain_shadows_7: 3116624682731808320
+      smallburg_terrain_shadows_8: 4401815853286613663
+      smallburg_terrain_shadows_9: -6410808946738026463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

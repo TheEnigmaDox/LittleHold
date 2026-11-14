@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 3b453c550f5d17a47b5ba61338074e90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 707666340570223834
+    second: character_walk_armor_chest_blue_robe_0
+  - first:
+      213: 3044750962949810608
+    second: character_walk_armor_chest_blue_robe_1
+  - first:
+      213: 6850963124517704146
+    second: character_walk_armor_chest_blue_robe_2
+  - first:
+      213: -6206278868696946019
+    second: character_walk_armor_chest_blue_robe_3
+  - first:
+      213: -1910000916594839757
+    second: character_walk_armor_chest_blue_robe_4
+  - first:
+      213: -2714843170271847466
+    second: character_walk_armor_chest_blue_robe_5
+  - first:
+      213: 9174608175674539241
+    second: character_walk_armor_chest_blue_robe_6
+  - first:
+      213: 1253619926504313777
+    second: character_walk_armor_chest_blue_robe_7
+  - first:
+      213: 5755752158058523318
+    second: character_walk_armor_chest_blue_robe_8
+  - first:
+      213: -904031648843224393
+    second: character_walk_armor_chest_blue_robe_9
+  - first:
+      213: 5315728703107024736
+    second: character_walk_armor_chest_blue_robe_10
+  - first:
+      213: 5688059662303760242
+    second: character_walk_armor_chest_blue_robe_11
+  - first:
+      213: -5732637699175095445
+    second: character_walk_armor_chest_blue_robe_12
+  - first:
+      213: -9182640364994515732
+    second: character_walk_armor_chest_blue_robe_13
+  - first:
+      213: 1056351856582540652
+    second: character_walk_armor_chest_blue_robe_14
+  - first:
+      213: 710381695217741183
+    second: character_walk_armor_chest_blue_robe_15
+  - first:
+      213: -758559621321835566
+    second: character_walk_armor_chest_blue_robe_16
+  - first:
+      213: -5895425820797347809
+    second: character_walk_armor_chest_blue_robe_17
+  - first:
+      213: 6338954603689698405
+    second: character_walk_armor_chest_blue_robe_18
+  - first:
+      213: -195956420220847787
+    second: character_walk_armor_chest_blue_robe_19
+  - first:
+      213: 7579483416168909926
+    second: character_walk_armor_chest_blue_robe_20
+  - first:
+      213: -6567335976645717900
+    second: character_walk_armor_chest_blue_robe_21
+  - first:
+      213: -1591415375268962541
+    second: character_walk_armor_chest_blue_robe_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4503199c222d900800000000000000
+      internalID: 707666340570223834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 216
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9e6287ed0214a20800000000000000
+      internalID: 3044750962949810608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19d2ee9a2831f50800000000000000
+      internalID: 6850963124517704146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a2e4e404eded9a0800000000000000
+      internalID: -6206278868696946019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 216
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fa1b539405e75e0800000000000000
+      internalID: -1910000916594839757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 217
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db1d0f3580f25ad0800000000000000
+      internalID: -2714843170271847466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecb970d681c25f70800000000000000
+      internalID: 9174608175674539241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 152
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b314a26ea0c56110800000000000000
+      internalID: 1253619926504313777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba244ca71a80ef40800000000000000
+      internalID: 5755752158058523318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 153
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba2df0510c3473f0800000000000000
+      internalID: -904031648843224393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067ca0f671345c940800000000000000
+      internalID: 5315728703107024736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 153
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f08d0502c00fe40800000000000000
+      internalID: 5688059662303760242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63e7aaa2649170b0800000000000000
+      internalID: -5732637699175095445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca6506d35b09080800000000000000
+      internalID: -9182640364994515732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d3d61ba6ae8ae00800000000000000
+      internalID: 1056351856582540652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da4665368cbd900800000000000000
+      internalID: 710381695217741183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 88
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db382e1b0e0975f0800000000000000
+      internalID: -758559621321835566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1855b7837d3f2ea0800000000000000
+      internalID: -5895425820797347809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 26
+        width: 79
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564604870ad78f750800000000000000
+      internalID: 6338954603689698405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 26
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559774d8ca2d74df0800000000000000
+      internalID: -195956420220847787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c46b9520cbf2960800000000000000
+      internalID: 7579483416168909926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 25
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470936779b22cd4a0800000000000000
+      internalID: -6567335976645717900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_chest_blue_robe_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 26
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f9ffad5282ae9e0800000000000000
+      internalID: -1591415375268962541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_armor_chest_blue_robe_0: 707666340570223834
+      character_walk_armor_chest_blue_robe_1: 3044750962949810608
+      character_walk_armor_chest_blue_robe_10: 5315728703107024736
+      character_walk_armor_chest_blue_robe_11: 5688059662303760242
+      character_walk_armor_chest_blue_robe_12: -5732637699175095445
+      character_walk_armor_chest_blue_robe_13: -9182640364994515732
+      character_walk_armor_chest_blue_robe_14: 1056351856582540652
+      character_walk_armor_chest_blue_robe_15: 710381695217741183
+      character_walk_armor_chest_blue_robe_16: -758559621321835566
+      character_walk_armor_chest_blue_robe_17: -5895425820797347809
+      character_walk_armor_chest_blue_robe_18: 6338954603689698405
+      character_walk_armor_chest_blue_robe_19: -195956420220847787
+      character_walk_armor_chest_blue_robe_2: 6850963124517704146
+      character_walk_armor_chest_blue_robe_20: 7579483416168909926
+      character_walk_armor_chest_blue_robe_21: -6567335976645717900
+      character_walk_armor_chest_blue_robe_22: -1591415375268962541
+      character_walk_armor_chest_blue_robe_3: -6206278868696946019
+      character_walk_armor_chest_blue_robe_4: -1910000916594839757
+      character_walk_armor_chest_blue_robe_5: -2714843170271847466
+      character_walk_armor_chest_blue_robe_6: 9174608175674539241
+      character_walk_armor_chest_blue_robe_7: 1253619926504313777
+      character_walk_armor_chest_blue_robe_8: 5755752158058523318
+      character_walk_armor_chest_blue_robe_9: -904031648843224393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

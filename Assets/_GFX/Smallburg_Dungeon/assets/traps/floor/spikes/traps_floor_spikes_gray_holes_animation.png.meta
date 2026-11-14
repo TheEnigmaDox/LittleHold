@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: ddd353a5de040d14380ca403185eb127
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 777697146131974975
+    second: traps_floor_spikes_gray_holes_animation_0
+  - first:
+      213: -2801374371755966965
+    second: traps_floor_spikes_gray_holes_animation_1
+  - first:
+      213: 7090541797160876519
+    second: traps_floor_spikes_gray_holes_animation_2
+  - first:
+      213: 2235300668171393968
+    second: traps_floor_spikes_gray_holes_animation_3
+  - first:
+      213: 4528352507524828982
+    second: traps_floor_spikes_gray_holes_animation_4
+  - first:
+      213: -2667440836116250358
+    second: traps_floor_spikes_gray_holes_animation_5
+  - first:
+      213: -8167084732578136476
+    second: traps_floor_spikes_gray_holes_animation_6
+  - first:
+      213: 2287004786264138361
+    second: traps_floor_spikes_gray_holes_animation_7
+  - first:
+      213: 8634237289204675760
+    second: traps_floor_spikes_gray_holes_animation_8
+  - first:
+      213: -1898584651658049797
+    second: traps_floor_spikes_gray_holes_animation_9
+  - first:
+      213: 6018056870813276381
+    second: traps_floor_spikes_gray_holes_animation_10
+  - first:
+      213: -7725138964653829755
+    second: traps_floor_spikes_gray_holes_animation_11
+  - first:
+      213: 5421645975878462838
+    second: traps_floor_spikes_gray_holes_animation_12
+  - first:
+      213: 8761703223569098153
+    second: traps_floor_spikes_gray_holes_animation_13
+  - first:
+      213: 8481850226829314444
+    second: traps_floor_spikes_gray_holes_animation_14
+  - first:
+      213: 367581651575035375
+    second: traps_floor_spikes_gray_holes_animation_15
+  - first:
+      213: 2825233260115377992
+    second: traps_floor_spikes_gray_holes_animation_16
+  - first:
+      213: 6890464174421730484
+    second: traps_floor_spikes_gray_holes_animation_17
+  - first:
+      213: 5212394383563317695
+    second: traps_floor_spikes_gray_holes_animation_18
+  - first:
+      213: -8968826002284071830
+    second: traps_floor_spikes_gray_holes_animation_19
+  - first:
+      213: 2002745044713635228
+    second: traps_floor_spikes_gray_holes_animation_20
+  - first:
+      213: 4521827539692843891
+    second: traps_floor_spikes_gray_holes_animation_21
+  - first:
+      213: -796062636664000138
+    second: traps_floor_spikes_gray_holes_animation_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b080a1f6feaca00800000000000000
+      internalID: 777697146131974975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e3a98e9d48f19d0800000000000000
+      internalID: -2801374371755966965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e975dc723aa66260800000000000000
+      internalID: 7090541797160876519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb9c845d12650f10800000000000000
+      internalID: 2235300668171393968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f44c40d90f7de30800000000000000
+      internalID: 4528352507524828982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a018be731b85bfad0800000000000000
+      internalID: -2667440836116250358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef920f4bfa8ae80800000000000000
+      internalID: -8167084732578136476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97264ec6cb21dbf10800000000000000
+      internalID: 2287004786264138361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f9718119f2d770800000000000000
+      internalID: 8634237289204675760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6c9e5815fd6a5e0800000000000000
+      internalID: -1898584651658049797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89ce6c6de648350800000000000000
+      internalID: 6018056870813276381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581974b8a0bcac490800000000000000
+      internalID: -7725138964653829755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d692a3a4e8d3b40800000000000000
+      internalID: 5421645975878462838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a52b3c09a2d79970800000000000000
+      internalID: 8761703223569098153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894a30b7d595b570800000000000000
+      internalID: 8481850226829314444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5d4188099e91500800000000000000
+      internalID: 367581651575035375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fbbcc6eae353720800000000000000
+      internalID: 2825233260115377992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b466fdc8a8df9f50800000000000000
+      internalID: 6890464174421730484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1688d4315265840800000000000000
+      internalID: 5212394383563317695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6432911544588380800000000000000
+      internalID: -8968826002284071830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d74d5d10e2bcb10800000000000000
+      internalID: 2002745044713635228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37378fe8032c0ce30800000000000000
+      internalID: 4521827539692843891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traps_floor_spikes_gray_holes_animation_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717eaaef31d3f4f0800000000000000
+      internalID: -796062636664000138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      traps_floor_spikes_gray_holes_animation_0: 777697146131974975
+      traps_floor_spikes_gray_holes_animation_1: -2801374371755966965
+      traps_floor_spikes_gray_holes_animation_10: 6018056870813276381
+      traps_floor_spikes_gray_holes_animation_11: -7725138964653829755
+      traps_floor_spikes_gray_holes_animation_12: 5421645975878462838
+      traps_floor_spikes_gray_holes_animation_13: 8761703223569098153
+      traps_floor_spikes_gray_holes_animation_14: 8481850226829314444
+      traps_floor_spikes_gray_holes_animation_15: 367581651575035375
+      traps_floor_spikes_gray_holes_animation_16: 2825233260115377992
+      traps_floor_spikes_gray_holes_animation_17: 6890464174421730484
+      traps_floor_spikes_gray_holes_animation_18: 5212394383563317695
+      traps_floor_spikes_gray_holes_animation_19: -8968826002284071830
+      traps_floor_spikes_gray_holes_animation_2: 7090541797160876519
+      traps_floor_spikes_gray_holes_animation_20: 2002745044713635228
+      traps_floor_spikes_gray_holes_animation_21: 4521827539692843891
+      traps_floor_spikes_gray_holes_animation_22: -796062636664000138
+      traps_floor_spikes_gray_holes_animation_3: 2235300668171393968
+      traps_floor_spikes_gray_holes_animation_4: 4528352507524828982
+      traps_floor_spikes_gray_holes_animation_5: -2667440836116250358
+      traps_floor_spikes_gray_holes_animation_6: -8167084732578136476
+      traps_floor_spikes_gray_holes_animation_7: 2287004786264138361
+      traps_floor_spikes_gray_holes_animation_8: 8634237289204675760
+      traps_floor_spikes_gray_holes_animation_9: -1898584651658049797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

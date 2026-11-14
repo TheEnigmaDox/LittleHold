@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: d534be9cd2b2b6b46bb549f51e12684c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 136527170744657768
+    second: character_deathblast_armor_head_knight_0
+  - first:
+      213: -5520664277648007251
+    second: character_deathblast_armor_head_knight_1
+  - first:
+      213: 1262994478402785394
+    second: character_deathblast_armor_head_knight_2
+  - first:
+      213: -1775218508773713424
+    second: character_deathblast_armor_head_knight_3
+  - first:
+      213: 6499581454694832884
+    second: character_deathblast_armor_head_knight_4
+  - first:
+      213: 2152801962634873499
+    second: character_deathblast_armor_head_knight_5
+  - first:
+      213: 2351362158077140201
+    second: character_deathblast_armor_head_knight_6
+  - first:
+      213: 2117783728849095877
+    second: character_deathblast_armor_head_knight_7
+  - first:
+      213: 3499043544716466602
+    second: character_deathblast_armor_head_knight_8
+  - first:
+      213: -5844244768477461170
+    second: character_deathblast_armor_head_knight_9
+  - first:
+      213: -363277886211918654
+    second: character_deathblast_armor_head_knight_10
+  - first:
+      213: -8701373275276797154
+    second: character_deathblast_armor_head_knight_11
+  - first:
+      213: -2379300517312436317
+    second: character_deathblast_armor_head_knight_12
+  - first:
+      213: 3113393955905101969
+    second: character_deathblast_armor_head_knight_13
+  - first:
+      213: 1515083154750865988
+    second: character_deathblast_armor_head_knight_14
+  - first:
+      213: 3432110545357133293
+    second: character_deathblast_armor_head_knight_15
+  - first:
+      213: 165599639685357747
+    second: character_deathblast_armor_head_knight_16
+  - first:
+      213: 2291564361540262941
+    second: character_deathblast_armor_head_knight_17
+  - first:
+      213: -7303273874635170845
+    second: character_deathblast_armor_head_knight_18
+  - first:
+      213: -1909061084142900240
+    second: character_deathblast_armor_head_knight_19
+  - first:
+      213: -2019000558556339942
+    second: character_deathblast_armor_head_knight_20
+  - first:
+      213: 2065032522614811671
+    second: character_deathblast_armor_head_knight_21
+  - first:
+      213: 428883773765712213
+    second: character_deathblast_armor_head_knight_22
+  - first:
+      213: 3790749692670008416
+    second: character_deathblast_armor_head_knight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ac6a0dba05e100800000000000000
+      internalID: 136527170744657768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf1a96d619a263b0800000000000000
+      internalID: -5520664277648007251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705a7659ce078110800000000000000
+      internalID: 1262994478402785394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f918d9fb282d57e0800000000000000
+      internalID: -1775218508773713424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa5dc395e6233a50800000000000000
+      internalID: 6499581454694832884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a8d9e9af940ed10800000000000000
+      internalID: 2152801962634873499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecdb7abc67b1a020800000000000000
+      internalID: 2351362158077140201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0725b411e36d10800000000000000
+      internalID: 2117783728849095877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9d270b0991f8030800000000000000
+      internalID: 3499043544716466602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454772e85215eea0800000000000000
+      internalID: -5844244768477461170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4759defa065faf0800000000000000
+      internalID: -363277886211918654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b9c05ab138e3780800000000000000
+      internalID: -8701373275276797154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a760bb19c60bfed0800000000000000
+      internalID: -2379300517312436317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906293be4ff43b20800000000000000
+      internalID: 3113393955905101969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4428a1c1a18a60510800000000000000
+      internalID: 1515083154750865988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de552ed5b5e41af20800000000000000
+      internalID: 3432110545357133293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0e062bef35c4200800000000000000
+      internalID: 165599639685357747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c5d8545a54dcf10800000000000000
+      internalID: 2291564361540262941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebdafcfa1f85aa90800000000000000
+      internalID: -7303273874635170845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbe3210f07a185e0800000000000000
+      internalID: -1909061084142900240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a112fe960b11bf3e0800000000000000
+      internalID: -2019000558556339942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ca518632878ac10800000000000000
+      internalID: 2065032522614811671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559fb391583b3f500800000000000000
+      internalID: 428883773765712213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_head_knight_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5400e2c27b9430800000000000000
+      internalID: 3790749692670008416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_deathblast_armor_head_knight_0: 136527170744657768
+      character_deathblast_armor_head_knight_1: -5520664277648007251
+      character_deathblast_armor_head_knight_10: -363277886211918654
+      character_deathblast_armor_head_knight_11: -8701373275276797154
+      character_deathblast_armor_head_knight_12: -2379300517312436317
+      character_deathblast_armor_head_knight_13: 3113393955905101969
+      character_deathblast_armor_head_knight_14: 1515083154750865988
+      character_deathblast_armor_head_knight_15: 3432110545357133293
+      character_deathblast_armor_head_knight_16: 165599639685357747
+      character_deathblast_armor_head_knight_17: 2291564361540262941
+      character_deathblast_armor_head_knight_18: -7303273874635170845
+      character_deathblast_armor_head_knight_19: -1909061084142900240
+      character_deathblast_armor_head_knight_2: 1262994478402785394
+      character_deathblast_armor_head_knight_20: -2019000558556339942
+      character_deathblast_armor_head_knight_21: 2065032522614811671
+      character_deathblast_armor_head_knight_22: 428883773765712213
+      character_deathblast_armor_head_knight_23: 3790749692670008416
+      character_deathblast_armor_head_knight_3: -1775218508773713424
+      character_deathblast_armor_head_knight_4: 6499581454694832884
+      character_deathblast_armor_head_knight_5: 2152801962634873499
+      character_deathblast_armor_head_knight_6: 2351362158077140201
+      character_deathblast_armor_head_knight_7: 2117783728849095877
+      character_deathblast_armor_head_knight_8: 3499043544716466602
+      character_deathblast_armor_head_knight_9: -5844244768477461170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

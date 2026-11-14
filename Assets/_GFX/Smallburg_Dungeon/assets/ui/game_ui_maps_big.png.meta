@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 6c91079de047176419b326f0b152eef5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2890656634864186442
+    second: game_ui_maps_big_0
+  - first:
+      213: -6813568113018569561
+    second: game_ui_maps_big_1
+  - first:
+      213: -7754167394859796714
+    second: game_ui_maps_big_2
+  - first:
+      213: 3797688487613296938
+    second: game_ui_maps_big_3
+  - first:
+      213: 282010108025648653
+    second: game_ui_maps_big_4
+  - first:
+      213: -1468449706829738452
+    second: game_ui_maps_big_5
+  - first:
+      213: -5932681216800256517
+    second: game_ui_maps_big_6
+  - first:
+      213: -2176282928666589346
+    second: game_ui_maps_big_7
+  - first:
+      213: 5606499125395792631
+    second: game_ui_maps_big_8
+  - first:
+      213: 5132557051402698389
+    second: game_ui_maps_big_9
+  - first:
+      213: 3100829444645931584
+    second: game_ui_maps_big_10
+  - first:
+      213: 2670055361031797253
+    second: game_ui_maps_big_11
+  - first:
+      213: -9091200421410952635
+    second: game_ui_maps_big_12
+  - first:
+      213: 5679665079800227454
+    second: game_ui_maps_big_13
+  - first:
+      213: 6746756610653459471
+    second: game_ui_maps_big_14
+  - first:
+      213: -3060486375444072787
+    second: game_ui_maps_big_15
+  - first:
+      213: 6556013968047481695
+    second: game_ui_maps_big_16
+  - first:
+      213: 411766818801287542
+    second: game_ui_maps_big_17
+  - first:
+      213: -3764734343191969526
+    second: game_ui_maps_big_18
+  - first:
+      213: 5593136429458033270
+    second: game_ui_maps_big_19
+  - first:
+      213: -705543363451004786
+    second: game_ui_maps_big_20
+  - first:
+      213: -1222141706757747167
+    second: game_ui_maps_big_21
+  - first:
+      213: 3941929754501817413
+    second: game_ui_maps_big_22
+  - first:
+      213: -8367761534906347921
+    second: game_ui_maps_big_23
+  - first:
+      213: 6785612139131986562
+    second: game_ui_maps_big_24
+  - first:
+      213: 6985292923556063069
+    second: game_ui_maps_big_25
+  - first:
+      213: 805467539653593589
+    second: game_ui_maps_big_26
+  - first:
+      213: -3393467291863807828
+    second: game_ui_maps_big_27
+  - first:
+      213: -1610242249581543036
+    second: game_ui_maps_big_28
+  - first:
+      213: 2072654834700587310
+    second: game_ui_maps_big_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game_ui_maps_big_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 71
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44b4b0e4ecad1820800000000000000
+      internalID: 2890656634864186442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac799aa6e75171a0800000000000000
+      internalID: -6813568113018569561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 63
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617377476d9a36490800000000000000
+      internalID: -7754167394859796714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21f7c7fe8914b430800000000000000
+      internalID: 3797688487613296938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0630f7f2b6e9e300800000000000000
+      internalID: 282010108025648653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e03e595c40f9be0800000000000000
+      internalID: -1468449706829738452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd0df2bdd1eaada0800000000000000
+      internalID: -5932681216800256517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c412f43a4cc1e0800000000000000
+      internalID: -2176282928666589346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f221c200494ecd40800000000000000
+      internalID: 5606499125395792631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eb84ed1718a3740800000000000000
+      internalID: 5132557051402698389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 51
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a413573fb580b20800000000000000
+      internalID: 3100829444645931584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a7dec4431fd0520800000000000000
+      internalID: 2670055361031797253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a2beb426195d180800000000000000
+      internalID: -9091200421410952635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76eea44c4932de40800000000000000
+      internalID: 5679665079800227454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04940c346b41ad50800000000000000
+      internalID: 6746756610653459471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6bbbf4bd7f685d0800000000000000
+      internalID: -3060486375444072787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5328fbf7f3abfa50800000000000000
+      internalID: 6556013968047481695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67181f47db3e6b500800000000000000
+      internalID: 411766818801287542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a014450bf0af0cbc0800000000000000
+      internalID: -3764734343191969526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a842ae2ffce9d40800000000000000
+      internalID: 5593136429458033270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e885edf8c086536f0800000000000000
+      internalID: -705543363451004786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec387c7941a0fe0800000000000000
+      internalID: -1222141706757747167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544af9af93c84b630800000000000000
+      internalID: 3941929754501817413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ecab2e73dbfdb80800000000000000
+      internalID: -8367761534906347921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2826a80f9465b2e50800000000000000
+      internalID: 6785612139131986562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57eb9087eeb0f060800000000000000
+      internalID: 6985292923556063069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 10
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f90923b5789d2b00800000000000000
+      internalID: 805467539653593589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 10
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca80d873a7bf7e0d0800000000000000
+      internalID: -3393467291863807828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481cd57943547a9e0800000000000000
+      internalID: -1610242249581543036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ui_maps_big_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21135c379c83cc10800000000000000
+      internalID: 2072654834700587310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game_ui_maps_big_0: 2890656634864186442
+      game_ui_maps_big_1: -6813568113018569561
+      game_ui_maps_big_10: 3100829444645931584
+      game_ui_maps_big_11: 2670055361031797253
+      game_ui_maps_big_12: -9091200421410952635
+      game_ui_maps_big_13: 5679665079800227454
+      game_ui_maps_big_14: 6746756610653459471
+      game_ui_maps_big_15: -3060486375444072787
+      game_ui_maps_big_16: 6556013968047481695
+      game_ui_maps_big_17: 411766818801287542
+      game_ui_maps_big_18: -3764734343191969526
+      game_ui_maps_big_19: 5593136429458033270
+      game_ui_maps_big_2: -7754167394859796714
+      game_ui_maps_big_20: -705543363451004786
+      game_ui_maps_big_21: -1222141706757747167
+      game_ui_maps_big_22: 3941929754501817413
+      game_ui_maps_big_23: -8367761534906347921
+      game_ui_maps_big_24: 6785612139131986562
+      game_ui_maps_big_25: 6985292923556063069
+      game_ui_maps_big_26: 805467539653593589
+      game_ui_maps_big_27: -3393467291863807828
+      game_ui_maps_big_28: -1610242249581543036
+      game_ui_maps_big_29: 2072654834700587310
+      game_ui_maps_big_3: 3797688487613296938
+      game_ui_maps_big_4: 282010108025648653
+      game_ui_maps_big_5: -1468449706829738452
+      game_ui_maps_big_6: -5932681216800256517
+      game_ui_maps_big_7: -2176282928666589346
+      game_ui_maps_big_8: 5606499125395792631
+      game_ui_maps_big_9: 5132557051402698389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

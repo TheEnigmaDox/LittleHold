@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: da9df7399a136894dbd3ed05c46bdebe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2505784652403377221
+    second: character_walk_armor_head_knight_0
+  - first:
+      213: 6858745989527099786
+    second: character_walk_armor_head_knight_1
+  - first:
+      213: -4734481667536012798
+    second: character_walk_armor_head_knight_2
+  - first:
+      213: 8050565794123644310
+    second: character_walk_armor_head_knight_3
+  - first:
+      213: -9215361726467824772
+    second: character_walk_armor_head_knight_4
+  - first:
+      213: 1170297003835261011
+    second: character_walk_armor_head_knight_5
+  - first:
+      213: 471394265963369034
+    second: character_walk_armor_head_knight_6
+  - first:
+      213: 6725028944322897420
+    second: character_walk_armor_head_knight_7
+  - first:
+      213: 1973647222166690818
+    second: character_walk_armor_head_knight_8
+  - first:
+      213: 9210923225340759789
+    second: character_walk_armor_head_knight_9
+  - first:
+      213: 7618819945977002951
+    second: character_walk_armor_head_knight_10
+  - first:
+      213: 3300696412007710529
+    second: character_walk_armor_head_knight_11
+  - first:
+      213: -2431910692742287676
+    second: character_walk_armor_head_knight_12
+  - first:
+      213: -518724833329710508
+    second: character_walk_armor_head_knight_13
+  - first:
+      213: 3033665738548413961
+    second: character_walk_armor_head_knight_14
+  - first:
+      213: 439924399530749883
+    second: character_walk_armor_head_knight_15
+  - first:
+      213: 1588545446995338362
+    second: character_walk_armor_head_knight_16
+  - first:
+      213: 1800780021496768616
+    second: character_walk_armor_head_knight_17
+  - first:
+      213: -2801440990712990938
+    second: character_walk_armor_head_knight_18
+  - first:
+      213: -1434272254131012053
+    second: character_walk_armor_head_knight_19
+  - first:
+      213: 7666316721832039971
+    second: character_walk_armor_head_knight_20
+  - first:
+      213: 4469201131312498090
+    second: character_walk_armor_head_knight_21
+  - first:
+      213: 2010008948929219485
+    second: character_walk_armor_head_knight_22
+  - first:
+      213: -601359058703491334
+    second: character_walk_armor_head_knight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbfed5822aa93dd0800000000000000
+      internalID: -2505784652403377221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 221
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89d56663292f2f50800000000000000
+      internalID: 6858745989527099786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abaeaf10ebb4eb0800000000000000
+      internalID: -4734481667536012798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d76af9fea59bf60800000000000000
+      internalID: 8050565794123644310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 221
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73a729b5557c1080800000000000000
+      internalID: -9215361726467824772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500e4baceabd3010800000000000000
+      internalID: 1170297003835261011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4217eb569aba8600800000000000000
+      internalID: 471394265963369034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c062692b13a145d50800000000000000
+      internalID: 6725028944322897420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9e2511bdc36b10800000000000000
+      internalID: 1973647222166690818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec4d33fd5c3df70800000000000000
+      internalID: 9210923225340759789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 157
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbbe97ef5c7bb960800000000000000
+      internalID: 7618819945977002951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f302d16ed6ecd20800000000000000
+      internalID: 3300696412007710529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2f991c1e104ed0800000000000000
+      internalID: -2431910692742287676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a753d238e1dc8f0800000000000000
+      internalID: -518724833329710508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90683798aeeb91a20800000000000000
+      internalID: 3033665738548413961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfae0a19ecea1600800000000000000
+      internalID: 439924399530749883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74a8b5eaa5ab0610800000000000000
+      internalID: 1588545446995338362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686feb73e7adf810800000000000000
+      internalID: 1800780021496768616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6237559f2484f19d0800000000000000
+      internalID: -2801440990712990938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e7255ebf0781ce0800000000000000
+      internalID: -1434272254131012053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3269f6cc07a346a60800000000000000
+      internalID: 7666316721832039971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5c7a500cac50e30800000000000000
+      internalID: 4469201131312498090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b48445d7cf4eb10800000000000000
+      internalID: 2010008948929219485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_knight_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed38b4f1b87a7f0800000000000000
+      internalID: -601359058703491334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_armor_head_knight_0: -2505784652403377221
+      character_walk_armor_head_knight_1: 6858745989527099786
+      character_walk_armor_head_knight_10: 7618819945977002951
+      character_walk_armor_head_knight_11: 3300696412007710529
+      character_walk_armor_head_knight_12: -2431910692742287676
+      character_walk_armor_head_knight_13: -518724833329710508
+      character_walk_armor_head_knight_14: 3033665738548413961
+      character_walk_armor_head_knight_15: 439924399530749883
+      character_walk_armor_head_knight_16: 1588545446995338362
+      character_walk_armor_head_knight_17: 1800780021496768616
+      character_walk_armor_head_knight_18: -2801440990712990938
+      character_walk_armor_head_knight_19: -1434272254131012053
+      character_walk_armor_head_knight_2: -4734481667536012798
+      character_walk_armor_head_knight_20: 7666316721832039971
+      character_walk_armor_head_knight_21: 4469201131312498090
+      character_walk_armor_head_knight_22: 2010008948929219485
+      character_walk_armor_head_knight_23: -601359058703491334
+      character_walk_armor_head_knight_3: 8050565794123644310
+      character_walk_armor_head_knight_4: -9215361726467824772
+      character_walk_armor_head_knight_5: 1170297003835261011
+      character_walk_armor_head_knight_6: 471394265963369034
+      character_walk_armor_head_knight_7: 6725028944322897420
+      character_walk_armor_head_knight_8: 1973647222166690818
+      character_walk_armor_head_knight_9: 9210923225340759789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

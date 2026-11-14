@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: ae324d61434ad174196e5b5f4a72b4f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4476557445535525218
+    second: character_jump_hairstyles_spikey_black_0
+  - first:
+      213: -8018506847394960232
+    second: character_jump_hairstyles_spikey_black_1
+  - first:
+      213: -1777659164560413402
+    second: character_jump_hairstyles_spikey_black_2
+  - first:
+      213: 2515252713955298615
+    second: character_jump_hairstyles_spikey_black_3
+  - first:
+      213: 8292526103213001948
+    second: character_jump_hairstyles_spikey_black_4
+  - first:
+      213: 9056824480311557823
+    second: character_jump_hairstyles_spikey_black_5
+  - first:
+      213: -183594311479501257
+    second: character_jump_hairstyles_spikey_black_6
+  - first:
+      213: -8904496233111767692
+    second: character_jump_hairstyles_spikey_black_7
+  - first:
+      213: 238686297436559215
+    second: character_jump_hairstyles_spikey_black_8
+  - first:
+      213: -3251127255881708781
+    second: character_jump_hairstyles_spikey_black_9
+  - first:
+      213: 6419325704321638389
+    second: character_jump_hairstyles_spikey_black_10
+  - first:
+      213: 4245425121802602061
+    second: character_jump_hairstyles_spikey_black_11
+  - first:
+      213: -2016222949144467748
+    second: character_jump_hairstyles_spikey_black_12
+  - first:
+      213: 100692220703199950
+    second: character_jump_hairstyles_spikey_black_13
+  - first:
+      213: -9182750567324127199
+    second: character_jump_hairstyles_spikey_black_14
+  - first:
+      213: -735254103284124191
+    second: character_jump_hairstyles_spikey_black_15
+  - first:
+      213: 8596870694551243276
+    second: character_jump_hairstyles_spikey_black_16
+  - first:
+      213: 5583050258221190244
+    second: character_jump_hairstyles_spikey_black_17
+  - first:
+      213: -7052535069869493191
+    second: character_jump_hairstyles_spikey_black_18
+  - first:
+      213: 6707893585234806998
+    second: character_jump_hairstyles_spikey_black_19
+  - first:
+      213: -5159798652089284612
+    second: character_jump_hairstyles_spikey_black_20
+  - first:
+      213: -1900653958345215610
+    second: character_jump_hairstyles_spikey_black_21
+  - first:
+      213: 6920050854463557647
+    second: character_jump_hairstyles_spikey_black_22
+  - first:
+      213: 7488083722374065141
+    second: character_jump_hairstyles_spikey_black_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 225
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96993a98b210e1c0800000000000000
+      internalID: -4476557445535525218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 228
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6cf3918a88b090800000000000000
+      internalID: -8018506847394960232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 226
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da8a4886c7457e0800000000000000
+      internalID: -1777659164560413402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 224
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d84a75409f7e220800000000000000
+      internalID: 2515252713955298615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 221
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc4aa02e88f41370800000000000000
+      internalID: 8292526103213001948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe380631ed40bd70800000000000000
+      internalID: 9056824480311557823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5b7942fdb37df0800000000000000
+      internalID: -183594311479501257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 164
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b191aadfdc6480800000000000000
+      internalID: -8904496233111767692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 162
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6795734cebff4300800000000000000
+      internalID: 238686297436559215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 160
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b84996cfca1e2d0800000000000000
+      internalID: -3251127255881708781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 157
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff10af87b6061950800000000000000
+      internalID: 6419325704321638389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d464091b7a7caea30800000000000000
+      internalID: 4245425121802602061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e04009efe404e0800000000000000
+      internalID: -2016222949144467748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2d8ae8a0bb56100800000000000000
+      internalID: 100692220703199950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 97
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120f0a5e201509080800000000000000
+      internalID: -9182750567324127199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f912e94adbc5f0800000000000000
+      internalID: -735254103284124191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a41b839583e4770800000000000000
+      internalID: 8596870694551243276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c4d6c21aafa7d40800000000000000
+      internalID: 5583050258221190244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934b17a48bc502e90800000000000000
+      internalID: -7052535069869493191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 34
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ca030da9371d50800000000000000
+      internalID: 6707893585234806998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 32
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7cda5b676b468b0800000000000000
+      internalID: -5159798652089284612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b4e38b458f95e0800000000000000
+      internalID: -1900653958345215610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 26
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0050ff8695f80060800000000000000
+      internalID: 6920050854463557647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_spikey_black_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbad70d8740be760800000000000000
+      internalID: 7488083722374065141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_hairstyles_spikey_black_0: -4476557445535525218
+      character_jump_hairstyles_spikey_black_1: -8018506847394960232
+      character_jump_hairstyles_spikey_black_10: 6419325704321638389
+      character_jump_hairstyles_spikey_black_11: 4245425121802602061
+      character_jump_hairstyles_spikey_black_12: -2016222949144467748
+      character_jump_hairstyles_spikey_black_13: 100692220703199950
+      character_jump_hairstyles_spikey_black_14: -9182750567324127199
+      character_jump_hairstyles_spikey_black_15: -735254103284124191
+      character_jump_hairstyles_spikey_black_16: 8596870694551243276
+      character_jump_hairstyles_spikey_black_17: 5583050258221190244
+      character_jump_hairstyles_spikey_black_18: -7052535069869493191
+      character_jump_hairstyles_spikey_black_19: 6707893585234806998
+      character_jump_hairstyles_spikey_black_2: -1777659164560413402
+      character_jump_hairstyles_spikey_black_20: -5159798652089284612
+      character_jump_hairstyles_spikey_black_21: -1900653958345215610
+      character_jump_hairstyles_spikey_black_22: 6920050854463557647
+      character_jump_hairstyles_spikey_black_23: 7488083722374065141
+      character_jump_hairstyles_spikey_black_3: 2515252713955298615
+      character_jump_hairstyles_spikey_black_4: 8292526103213001948
+      character_jump_hairstyles_spikey_black_5: 9056824480311557823
+      character_jump_hairstyles_spikey_black_6: -183594311479501257
+      character_jump_hairstyles_spikey_black_7: -8904496233111767692
+      character_jump_hairstyles_spikey_black_8: 238686297436559215
+      character_jump_hairstyles_spikey_black_9: -3251127255881708781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

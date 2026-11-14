@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 84ad60b7730a477418b5644ae6f31468
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6991356791703669558
+    second: character_jump_armor_chest_knight_0
+  - first:
+      213: -690804987874972520
+    second: character_jump_armor_chest_knight_1
+  - first:
+      213: -2892325425513586457
+    second: character_jump_armor_chest_knight_2
+  - first:
+      213: 4077857905500679125
+    second: character_jump_armor_chest_knight_3
+  - first:
+      213: -7635542851654569690
+    second: character_jump_armor_chest_knight_4
+  - first:
+      213: 7997927181925626472
+    second: character_jump_armor_chest_knight_5
+  - first:
+      213: 7525695295835062979
+    second: character_jump_armor_chest_knight_6
+  - first:
+      213: 4537784415991329225
+    second: character_jump_armor_chest_knight_7
+  - first:
+      213: 7571788414543632317
+    second: character_jump_armor_chest_knight_8
+  - first:
+      213: 400209078875996687
+    second: character_jump_armor_chest_knight_9
+  - first:
+      213: -5917774981374687420
+    second: character_jump_armor_chest_knight_10
+  - first:
+      213: 7860174389187776945
+    second: character_jump_armor_chest_knight_11
+  - first:
+      213: 3839168412865810635
+    second: character_jump_armor_chest_knight_12
+  - first:
+      213: -5345623793874012398
+    second: character_jump_armor_chest_knight_13
+  - first:
+      213: -8113108948139985810
+    second: character_jump_armor_chest_knight_14
+  - first:
+      213: 2120699921648675179
+    second: character_jump_armor_chest_knight_15
+  - first:
+      213: -5677395526096713535
+    second: character_jump_armor_chest_knight_16
+  - first:
+      213: -1678435952861074360
+    second: character_jump_armor_chest_knight_17
+  - first:
+      213: -8362698945172539157
+    second: character_jump_armor_chest_knight_18
+  - first:
+      213: 4749606948335227165
+    second: character_jump_armor_chest_knight_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b0383d5f9460160800000000000000
+      internalID: 6991356791703669558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 223
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ce4a80684c966f0800000000000000
+      internalID: -690804987874972520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 221
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ae6589556cd7d0800000000000000
+      internalID: -2892325425513586457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 219
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe2edd826779830800000000000000
+      internalID: 4077857905500679125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 217
+        width: 72
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213bd33b3a190690800000000000000
+      internalID: -7635542851654569690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 156
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8623e1aa5685efe60800000000000000
+      internalID: 7997927181925626472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 159
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c31caff3a07860800000000000000
+      internalID: 7525695295835062979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 157
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1777652e279fe30800000000000000
+      internalID: 4537784415991329225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 155
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79a4b2275641960800000000000000
+      internalID: 7571788414543632317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 153
+        width: 73
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f024a4e6904dd8500800000000000000
+      internalID: 400209078875996687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 92
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c7761207dfdda0800000000000000
+      internalID: -5917774981374687420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 95
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1192446f2f41d60800000000000000
+      internalID: 7860174389187776945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 93
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc054c9a457774530800000000000000
+      internalID: 3839168412865810635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 91
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21773475b7780d5b0800000000000000
+      internalID: -5345623793874012398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 89
+        width: 72
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b2129562786f80800000000000000
+      internalID: -8113108948139985810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696111c75d3e6d10800000000000000
+      internalID: 2120699921648675179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c80d9169d6d531b0800000000000000
+      internalID: -5677395526096713535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 29
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca873c46ff4b8e0800000000000000
+      internalID: -1678435952861074360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f479ed99b1fb80800000000000000
+      internalID: -8362698945172539157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_knight_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 73
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d119f32ea5ef9e140800000000000000
+      internalID: 4749606948335227165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_armor_chest_knight_0: 6991356791703669558
+      character_jump_armor_chest_knight_1: -690804987874972520
+      character_jump_armor_chest_knight_10: -5917774981374687420
+      character_jump_armor_chest_knight_11: 7860174389187776945
+      character_jump_armor_chest_knight_12: 3839168412865810635
+      character_jump_armor_chest_knight_13: -5345623793874012398
+      character_jump_armor_chest_knight_14: -8113108948139985810
+      character_jump_armor_chest_knight_15: 2120699921648675179
+      character_jump_armor_chest_knight_16: -5677395526096713535
+      character_jump_armor_chest_knight_17: -1678435952861074360
+      character_jump_armor_chest_knight_18: -8362698945172539157
+      character_jump_armor_chest_knight_19: 4749606948335227165
+      character_jump_armor_chest_knight_2: -2892325425513586457
+      character_jump_armor_chest_knight_3: 4077857905500679125
+      character_jump_armor_chest_knight_4: -7635542851654569690
+      character_jump_armor_chest_knight_5: 7997927181925626472
+      character_jump_armor_chest_knight_6: 7525695295835062979
+      character_jump_armor_chest_knight_7: 4537784415991329225
+      character_jump_armor_chest_knight_8: 7571788414543632317
+      character_jump_armor_chest_knight_9: 400209078875996687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

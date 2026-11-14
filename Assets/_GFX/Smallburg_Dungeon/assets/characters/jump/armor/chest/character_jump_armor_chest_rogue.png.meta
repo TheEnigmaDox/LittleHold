@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: fc57716b4271fc2498db4fdd0efc3516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5210666330100766328
+    second: character_jump_armor_chest_rogue_0
+  - first:
+      213: -2118827564250843593
+    second: character_jump_armor_chest_rogue_1
+  - first:
+      213: -6174017310783092859
+    second: character_jump_armor_chest_rogue_2
+  - first:
+      213: 6026197743515335756
+    second: character_jump_armor_chest_rogue_3
+  - first:
+      213: -6314550497197140843
+    second: character_jump_armor_chest_rogue_4
+  - first:
+      213: -5453647601456916483
+    second: character_jump_armor_chest_rogue_5
+  - first:
+      213: 3862602764331831808
+    second: character_jump_armor_chest_rogue_6
+  - first:
+      213: -5940360198993016576
+    second: character_jump_armor_chest_rogue_7
+  - first:
+      213: 8041524577910168382
+    second: character_jump_armor_chest_rogue_8
+  - first:
+      213: 2731657062796905563
+    second: character_jump_armor_chest_rogue_9
+  - first:
+      213: 7967107856869613233
+    second: character_jump_armor_chest_rogue_10
+  - first:
+      213: -3905596101795417437
+    second: character_jump_armor_chest_rogue_11
+  - first:
+      213: 5566391031539544638
+    second: character_jump_armor_chest_rogue_12
+  - first:
+      213: -2160612793718255387
+    second: character_jump_armor_chest_rogue_13
+  - first:
+      213: -7983716329329052369
+    second: character_jump_armor_chest_rogue_14
+  - first:
+      213: -2992143291339475358
+    second: character_jump_armor_chest_rogue_15
+  - first:
+      213: 7673861934664527473
+    second: character_jump_armor_chest_rogue_16
+  - first:
+      213: -2368337808078706873
+    second: character_jump_armor_chest_rogue_17
+  - first:
+      213: -6344749554575993763
+    second: character_jump_armor_chest_rogue_18
+  - first:
+      213: -6590693848939640208
+    second: character_jump_armor_chest_rogue_19
+  - first:
+      213: 1984169594093393967
+    second: character_jump_armor_chest_rogue_20
+  - first:
+      213: 8075350550918464481
+    second: character_jump_armor_chest_rogue_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8769eb08b61005840800000000000000
+      internalID: 5210666330100766328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 223
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736b58c6e896892e0800000000000000
+      internalID: -2118827564250843593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 221
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58749a997fb715aa0800000000000000
+      internalID: -6174017310783092859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 219
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cfd786bea51a350800000000000000
+      internalID: 6026197743515335756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5945c4a57c53e58a0800000000000000
+      internalID: -6314550497197140843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 216
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7dff0b660c054b0800000000000000
+      internalID: -5453647601456916483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 156
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002d07ccfb8ba9530800000000000000
+      internalID: 3862602764331831808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 159
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00907255fd99f8da0800000000000000
+      internalID: -5940360198993016576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 157
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b98ee6ffb399f60800000000000000
+      internalID: 8041524577910168382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 155
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c423c20abc8e520800000000000000
+      internalID: 2731657062796905563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bedfef526ad09e60800000000000000
+      internalID: 7967107856869613233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a27554c9098cc9c0800000000000000
+      internalID: -3905596101795417437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 92
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b5d3b62bcf3d40800000000000000
+      internalID: 5566391031539544638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 95
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0524d8c16f302e0800000000000000
+      internalID: -2160612793718255387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253bda4c44243190800000000000000
+      internalID: -7983716329329052369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 91
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26674a29785c976d0800000000000000
+      internalID: -2992143291339475358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 89
+        width: 72
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e221f85c80f7a60800000000000000
+      internalID: 7673861934664527473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7476751cf49f12fd0800000000000000
+      internalID: -2368337808078706873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 31
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d541ea265ebe2f7a0800000000000000
+      internalID: -6344749554575993763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 29
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ac9960dd62984a0800000000000000
+      internalID: -6590693848939640208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 25
+        width: 74
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f285116bbbf298b10800000000000000
+      internalID: 1984169594093393967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_rogue_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e300408a88611070800000000000000
+      internalID: 8075350550918464481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_armor_chest_rogue_0: 5210666330100766328
+      character_jump_armor_chest_rogue_1: -2118827564250843593
+      character_jump_armor_chest_rogue_10: 7967107856869613233
+      character_jump_armor_chest_rogue_11: -3905596101795417437
+      character_jump_armor_chest_rogue_12: 5566391031539544638
+      character_jump_armor_chest_rogue_13: -2160612793718255387
+      character_jump_armor_chest_rogue_14: -7983716329329052369
+      character_jump_armor_chest_rogue_15: -2992143291339475358
+      character_jump_armor_chest_rogue_16: 7673861934664527473
+      character_jump_armor_chest_rogue_17: -2368337808078706873
+      character_jump_armor_chest_rogue_18: -6344749554575993763
+      character_jump_armor_chest_rogue_19: -6590693848939640208
+      character_jump_armor_chest_rogue_2: -6174017310783092859
+      character_jump_armor_chest_rogue_20: 1984169594093393967
+      character_jump_armor_chest_rogue_21: 8075350550918464481
+      character_jump_armor_chest_rogue_3: 6026197743515335756
+      character_jump_armor_chest_rogue_4: -6314550497197140843
+      character_jump_armor_chest_rogue_5: -5453647601456916483
+      character_jump_armor_chest_rogue_6: 3862602764331831808
+      character_jump_armor_chest_rogue_7: -5940360198993016576
+      character_jump_armor_chest_rogue_8: 8041524577910168382
+      character_jump_armor_chest_rogue_9: 2731657062796905563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

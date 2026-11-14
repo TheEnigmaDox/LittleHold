@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 00897482bfdc35249ae378c2ae846473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5206168801708851618
+    second: tileset_dungeon_prespective_doors_boss_rooms_0
+  - first:
+      213: 4793163954147417566
+    second: tileset_dungeon_prespective_doors_boss_rooms_1
+  - first:
+      213: -5050587084436267544
+    second: tileset_dungeon_prespective_doors_boss_rooms_2
+  - first:
+      213: 6049092284113612147
+    second: tileset_dungeon_prespective_doors_boss_rooms_3
+  - first:
+      213: 2608485115131233819
+    second: tileset_dungeon_prespective_doors_boss_rooms_4
+  - first:
+      213: 6797238365644061779
+    second: tileset_dungeon_prespective_doors_boss_rooms_5
+  - first:
+      213: 8254302257315947034
+    second: tileset_dungeon_prespective_doors_boss_rooms_6
+  - first:
+      213: -2305227744058432236
+    second: tileset_dungeon_prespective_doors_boss_rooms_7
+  - first:
+      213: -5243379549835493898
+    second: tileset_dungeon_prespective_doors_boss_rooms_8
+  - first:
+      213: 6071353941615794394
+    second: tileset_dungeon_prespective_doors_boss_rooms_9
+  - first:
+      213: -3682867954917953232
+    second: tileset_dungeon_prespective_doors_boss_rooms_10
+  - first:
+      213: -2297394867561418048
+    second: tileset_dungeon_prespective_doors_boss_rooms_11
+  - first:
+      213: 6027446762179669672
+    second: tileset_dungeon_prespective_doors_boss_rooms_12
+  - first:
+      213: 659897202092357562
+    second: tileset_dungeon_prespective_doors_boss_rooms_13
+  - first:
+      213: -1909191457322891104
+    second: tileset_dungeon_prespective_doors_boss_rooms_14
+  - first:
+      213: -6186992016278827795
+    second: tileset_dungeon_prespective_doors_boss_rooms_15
+  - first:
+      213: 2604071147922413843
+    second: tileset_dungeon_prespective_doors_boss_rooms_16
+  - first:
+      213: 1242008072748837669
+    second: tileset_dungeon_prespective_doors_boss_rooms_17
+  - first:
+      213: -4936035308278887222
+    second: tileset_dungeon_prespective_doors_boss_rooms_18
+  - first:
+      213: -2205856867568324681
+    second: tileset_dungeon_prespective_doors_boss_rooms_19
+  - first:
+      213: 5111083505866741992
+    second: tileset_dungeon_prespective_doors_boss_rooms_20
+  - first:
+      213: -5353190155254403620
+    second: tileset_dungeon_prespective_doors_boss_rooms_21
+  - first:
+      213: 2141660172364129990
+    second: tileset_dungeon_prespective_doors_boss_rooms_22
+  - first:
+      213: 5192751146990445489
+    second: tileset_dungeon_prespective_doors_boss_rooms_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 204
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3c6dee09ffb7b0800000000000000
+      internalID: -5206168801708851618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 224
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddd925983db48240800000000000000
+      internalID: 4793163954147417566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 204
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed100d4ec5b8e9b0800000000000000
+      internalID: -5050587084436267544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 226
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de5280261b2f350800000000000000
+      internalID: 6049092284113612147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b168a415463333420800000000000000
+      internalID: 2608485115131233819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 209
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cfeddb744a45e50800000000000000
+      internalID: 6797238365644061779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 188
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12a50c7b2c2d8270800000000000000
+      internalID: 8254302257315947034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a505949f2200e0800000000000000
+      internalID: -2305227744058432236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 124
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdf18d7416cb37b0800000000000000
+      internalID: -5243379549835493898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad85da31e38c14450800000000000000
+      internalID: 6071353941615794394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03132709b13d3ecc0800000000000000
+      internalID: -3682867954917953232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 146
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c232324a830e10e0800000000000000
+      internalID: -2297394867561418048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae2c4a35eac5a350800000000000000
+      internalID: 6027446762179669672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 129
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab73dfe420d682900800000000000000
+      internalID: 659897202092357562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a80f022c703185e0800000000000000
+      internalID: -1909191457322891104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 113
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc5819a83632aa0800000000000000
+      internalID: -6186992016278827795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31952cd79e4832420800000000000000
+      internalID: 2604071147922413843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 64
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bac5003cf7c3110800000000000000
+      internalID: 1242008072748837669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc40431a0eaf7bb0800000000000000
+      internalID: -4936035308278887222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfeb37bdd83361e0800000000000000
+      internalID: -2205856867568324681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89b807e573ee640800000000000000
+      internalID: 5111083505866741992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd61fc8ae5a5b5b0800000000000000
+      internalID: -5353190155254403620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 28
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ad5b6494b8bd10800000000000000
+      internalID: 2141660172364129990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_doors_boss_rooms_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b32e53e7ab501840800000000000000
+      internalID: 5192751146990445489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileset_dungeon_prespective_doors_boss_rooms_0: -5206168801708851618
+      tileset_dungeon_prespective_doors_boss_rooms_1: 4793163954147417566
+      tileset_dungeon_prespective_doors_boss_rooms_10: -3682867954917953232
+      tileset_dungeon_prespective_doors_boss_rooms_11: -2297394867561418048
+      tileset_dungeon_prespective_doors_boss_rooms_12: 6027446762179669672
+      tileset_dungeon_prespective_doors_boss_rooms_13: 659897202092357562
+      tileset_dungeon_prespective_doors_boss_rooms_14: -1909191457322891104
+      tileset_dungeon_prespective_doors_boss_rooms_15: -6186992016278827795
+      tileset_dungeon_prespective_doors_boss_rooms_16: 2604071147922413843
+      tileset_dungeon_prespective_doors_boss_rooms_17: 1242008072748837669
+      tileset_dungeon_prespective_doors_boss_rooms_18: -4936035308278887222
+      tileset_dungeon_prespective_doors_boss_rooms_19: -2205856867568324681
+      tileset_dungeon_prespective_doors_boss_rooms_2: -5050587084436267544
+      tileset_dungeon_prespective_doors_boss_rooms_20: 5111083505866741992
+      tileset_dungeon_prespective_doors_boss_rooms_21: -5353190155254403620
+      tileset_dungeon_prespective_doors_boss_rooms_22: 2141660172364129990
+      tileset_dungeon_prespective_doors_boss_rooms_23: 5192751146990445489
+      tileset_dungeon_prespective_doors_boss_rooms_3: 6049092284113612147
+      tileset_dungeon_prespective_doors_boss_rooms_4: 2608485115131233819
+      tileset_dungeon_prespective_doors_boss_rooms_5: 6797238365644061779
+      tileset_dungeon_prespective_doors_boss_rooms_6: 8254302257315947034
+      tileset_dungeon_prespective_doors_boss_rooms_7: -2305227744058432236
+      tileset_dungeon_prespective_doors_boss_rooms_8: -5243379549835493898
+      tileset_dungeon_prespective_doors_boss_rooms_9: 6071353941615794394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

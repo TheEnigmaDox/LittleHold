@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0d32712b7d387184095b5190048feff7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1910186416844739157
+    second: character_tools_shovel_armor_head_rogue_0
+  - first:
+      213: -7831487282061758063
+    second: character_tools_shovel_armor_head_rogue_1
+  - first:
+      213: -7844196814069764911
+    second: character_tools_shovel_armor_head_rogue_2
+  - first:
+      213: 6332585458163096595
+    second: character_tools_shovel_armor_head_rogue_3
+  - first:
+      213: 2177518010345773826
+    second: character_tools_shovel_armor_head_rogue_4
+  - first:
+      213: -8245917557122853213
+    second: character_tools_shovel_armor_head_rogue_5
+  - first:
+      213: -2297645119345554169
+    second: character_tools_shovel_armor_head_rogue_6
+  - first:
+      213: 6496808438570271017
+    second: character_tools_shovel_armor_head_rogue_7
+  - first:
+      213: -2455717438173498410
+    second: character_tools_shovel_armor_head_rogue_8
+  - first:
+      213: 41151264469269643
+    second: character_tools_shovel_armor_head_rogue_9
+  - first:
+      213: 6671398876908003743
+    second: character_tools_shovel_armor_head_rogue_10
+  - first:
+      213: -1751031745924015010
+    second: character_tools_shovel_armor_head_rogue_11
+  - first:
+      213: -8801308283995323650
+    second: character_tools_shovel_armor_head_rogue_12
+  - first:
+      213: -2366142290240759088
+    second: character_tools_shovel_armor_head_rogue_13
+  - first:
+      213: -1478163836621365666
+    second: character_tools_shovel_armor_head_rogue_14
+  - first:
+      213: -8232738812443400173
+    second: character_tools_shovel_armor_head_rogue_15
+  - first:
+      213: -2586161387477752021
+    second: character_tools_shovel_armor_head_rogue_16
+  - first:
+      213: -529983852454792565
+    second: character_tools_shovel_armor_head_rogue_17
+  - first:
+      213: -3043045574330782413
+    second: character_tools_shovel_armor_head_rogue_18
+  - first:
+      213: 559082437604640247
+    second: character_tools_shovel_armor_head_rogue_19
+  - first:
+      213: -1689382496537734560
+    second: character_tools_shovel_armor_head_rogue_20
+  - first:
+      213: -4389269401242059401
+    second: character_tools_shovel_armor_head_rogue_21
+  - first:
+      213: 4769862011351271698
+    second: character_tools_shovel_armor_head_rogue_22
+  - first:
+      213: -2298477265440330300
+    second: character_tools_shovel_armor_head_rogue_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad61311397ad75e0800000000000000
+      internalID: -1910186416844739157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19138b95fc7f05390800000000000000
+      internalID: -7831487282061758063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcee15de80d32390800000000000000
+      internalID: -7844196814069764911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c9d973cecd1e750800000000000000
+      internalID: 6332585458163096595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bdcaae719183e10800000000000000
+      internalID: 2177518010345773826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 222
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a61988abad909d80800000000000000
+      internalID: -8245917557122853213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d8f79ffef1d10e0800000000000000
+      internalID: -2297645119345554169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921cdb27adc492a50800000000000000
+      internalID: 6496808438570271017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3bfec300a8bedd0800000000000000
+      internalID: -2455717438173498410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cbfb46bd2329000800000000000000
+      internalID: 41151264469269643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91aa059ee1959c50800000000000000
+      internalID: 6671398876908003743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c54c987e513b7e0800000000000000
+      internalID: -1751031745924015010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef281cd3fb87bd580800000000000000
+      internalID: -8801308283995323650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da9b269f16c92fd0800000000000000
+      internalID: -2366142290240759088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eda5e72d18c7be0800000000000000
+      internalID: -1478163836621365666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3186db34baf6fbd80800000000000000
+      internalID: -8232738812443400173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ae8f8beb1c1cd0800000000000000
+      internalID: -2586161387477752021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b823db18e7e15a8f0800000000000000
+      internalID: -529983852454792565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d60b24c2ee4c5d0800000000000000
+      internalID: -3043045574330782413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5859dc38242c700800000000000000
+      internalID: 559082437604640247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0621b14f19b1e88e0800000000000000
+      internalID: -1689382496537734560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db9732cbe2613c0800000000000000
+      internalID: -4389269401242059401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219093e3a34f13240800000000000000
+      internalID: 4769862011351271698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_rogue_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd2e1dda1b2a10e0800000000000000
+      internalID: -2298477265440330300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_armor_head_rogue_0: -1910186416844739157
+      character_tools_shovel_armor_head_rogue_1: -7831487282061758063
+      character_tools_shovel_armor_head_rogue_10: 6671398876908003743
+      character_tools_shovel_armor_head_rogue_11: -1751031745924015010
+      character_tools_shovel_armor_head_rogue_12: -8801308283995323650
+      character_tools_shovel_armor_head_rogue_13: -2366142290240759088
+      character_tools_shovel_armor_head_rogue_14: -1478163836621365666
+      character_tools_shovel_armor_head_rogue_15: -8232738812443400173
+      character_tools_shovel_armor_head_rogue_16: -2586161387477752021
+      character_tools_shovel_armor_head_rogue_17: -529983852454792565
+      character_tools_shovel_armor_head_rogue_18: -3043045574330782413
+      character_tools_shovel_armor_head_rogue_19: 559082437604640247
+      character_tools_shovel_armor_head_rogue_2: -7844196814069764911
+      character_tools_shovel_armor_head_rogue_20: -1689382496537734560
+      character_tools_shovel_armor_head_rogue_21: -4389269401242059401
+      character_tools_shovel_armor_head_rogue_22: 4769862011351271698
+      character_tools_shovel_armor_head_rogue_23: -2298477265440330300
+      character_tools_shovel_armor_head_rogue_3: 6332585458163096595
+      character_tools_shovel_armor_head_rogue_4: 2177518010345773826
+      character_tools_shovel_armor_head_rogue_5: -8245917557122853213
+      character_tools_shovel_armor_head_rogue_6: -2297645119345554169
+      character_tools_shovel_armor_head_rogue_7: 6496808438570271017
+      character_tools_shovel_armor_head_rogue_8: -2455717438173498410
+      character_tools_shovel_armor_head_rogue_9: 41151264469269643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

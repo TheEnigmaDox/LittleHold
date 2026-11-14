@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 2f6b3b06b790a954b90a6f3ccec68bbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7923211802473032110
+    second: character_slash_1_hairstyles_bald_black_0
+  - first:
+      213: -368095180111224101
+    second: character_slash_1_hairstyles_bald_black_1
+  - first:
+      213: 7202693436179059429
+    second: character_slash_1_hairstyles_bald_black_2
+  - first:
+      213: 4139380389426049564
+    second: character_slash_1_hairstyles_bald_black_3
+  - first:
+      213: 1898788759260800259
+    second: character_slash_1_hairstyles_bald_black_4
+  - first:
+      213: -4725264860898361381
+    second: character_slash_1_hairstyles_bald_black_5
+  - first:
+      213: -4728399012915205841
+    second: character_slash_1_hairstyles_bald_black_6
+  - first:
+      213: -169144045492448368
+    second: character_slash_1_hairstyles_bald_black_7
+  - first:
+      213: -3277381997737839702
+    second: character_slash_1_hairstyles_bald_black_8
+  - first:
+      213: -3493709824936089794
+    second: character_slash_1_hairstyles_bald_black_9
+  - first:
+      213: -2591025774836081475
+    second: character_slash_1_hairstyles_bald_black_10
+  - first:
+      213: 5379850901225393224
+    second: character_slash_1_hairstyles_bald_black_11
+  - first:
+      213: -132594266885584908
+    second: character_slash_1_hairstyles_bald_black_12
+  - first:
+      213: 3219350932420058963
+    second: character_slash_1_hairstyles_bald_black_13
+  - first:
+      213: 3880400067284431183
+    second: character_slash_1_hairstyles_bald_black_14
+  - first:
+      213: 7846571455937743328
+    second: character_slash_1_hairstyles_bald_black_15
+  - first:
+      213: 4531835365629962955
+    second: character_slash_1_hairstyles_bald_black_16
+  - first:
+      213: 1701667863245979426
+    second: character_slash_1_hairstyles_bald_black_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea96696c727e4fd60800000000000000
+      internalID: 7923211802473032110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2efe9426344eaf0800000000000000
+      internalID: -368095180111224101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e29d79c48b15f360800000000000000
+      internalID: 7202693436179059429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1235f56888027930800000000000000
+      internalID: 4139380389426049564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305ae3bf05ad95a10800000000000000
+      internalID: 1898788759260800259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf748005ac7c6eb0800000000000000
+      internalID: -4725264860898361381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29a1ee562a516eb0800000000000000
+      internalID: -4728399012915205841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 334
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093dc84036417adf0800000000000000
+      internalID: -169144045492448368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa37397ff666482d0800000000000000
+      internalID: -3277381997737839702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e376468bc69d38fc0800000000000000
+      internalID: -3493709824936089794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc930f19c3da0cd0800000000000000
+      internalID: -2591025774836081475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cca1814e119aa40800000000000000
+      internalID: 5379850901225393224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7080f773ee82ef0800000000000000
+      internalID: -132594266885584908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f583ebd9e6dac20800000000000000
+      internalID: 3219350932420058963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f3ec4d43f9d530800000000000000
+      internalID: 3880400067284431183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e983ef8a2f94ec60800000000000000
+      internalID: 7846571455937743328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca2dec114054ee30800000000000000
+      internalID: 4531835365629962955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_1_hairstyles_bald_black_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f7972e7e98d9710800000000000000
+      internalID: 1701667863245979426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_1_hairstyles_bald_black_0: 7923211802473032110
+      character_slash_1_hairstyles_bald_black_1: -368095180111224101
+      character_slash_1_hairstyles_bald_black_10: -2591025774836081475
+      character_slash_1_hairstyles_bald_black_11: 5379850901225393224
+      character_slash_1_hairstyles_bald_black_12: -132594266885584908
+      character_slash_1_hairstyles_bald_black_13: 3219350932420058963
+      character_slash_1_hairstyles_bald_black_14: 3880400067284431183
+      character_slash_1_hairstyles_bald_black_15: 7846571455937743328
+      character_slash_1_hairstyles_bald_black_16: 4531835365629962955
+      character_slash_1_hairstyles_bald_black_17: 1701667863245979426
+      character_slash_1_hairstyles_bald_black_2: 7202693436179059429
+      character_slash_1_hairstyles_bald_black_3: 4139380389426049564
+      character_slash_1_hairstyles_bald_black_4: 1898788759260800259
+      character_slash_1_hairstyles_bald_black_5: -4725264860898361381
+      character_slash_1_hairstyles_bald_black_6: -4728399012915205841
+      character_slash_1_hairstyles_bald_black_7: -169144045492448368
+      character_slash_1_hairstyles_bald_black_8: -3277381997737839702
+      character_slash_1_hairstyles_bald_black_9: -3493709824936089794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

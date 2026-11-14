@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 64d95659e59cde647a3b8a0297a2606a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5131966559665085908
+    second: character_tools_pickaxe_armor_paldrons_knight_0
+  - first:
+      213: 1631020572605227693
+    second: character_tools_pickaxe_armor_paldrons_knight_1
+  - first:
+      213: 6516414072153935860
+    second: character_tools_pickaxe_armor_paldrons_knight_2
+  - first:
+      213: 5093393549038461933
+    second: character_tools_pickaxe_armor_paldrons_knight_3
+  - first:
+      213: 1812609894444538492
+    second: character_tools_pickaxe_armor_paldrons_knight_4
+  - first:
+      213: -3808705876562745043
+    second: character_tools_pickaxe_armor_paldrons_knight_5
+  - first:
+      213: 6427971112611213268
+    second: character_tools_pickaxe_armor_paldrons_knight_6
+  - first:
+      213: -4885437451090346555
+    second: character_tools_pickaxe_armor_paldrons_knight_7
+  - first:
+      213: 7885521134822019949
+    second: character_tools_pickaxe_armor_paldrons_knight_8
+  - first:
+      213: -5372736700947015722
+    second: character_tools_pickaxe_armor_paldrons_knight_9
+  - first:
+      213: -7850993478310052950
+    second: character_tools_pickaxe_armor_paldrons_knight_10
+  - first:
+      213: -7960329112844212571
+    second: character_tools_pickaxe_armor_paldrons_knight_11
+  - first:
+      213: 1750194647479351000
+    second: character_tools_pickaxe_armor_paldrons_knight_12
+  - first:
+      213: -8956872209524319908
+    second: character_tools_pickaxe_armor_paldrons_knight_13
+  - first:
+      213: -4715284960044157943
+    second: character_tools_pickaxe_armor_paldrons_knight_14
+  - first:
+      213: 5617373835051319882
+    second: character_tools_pickaxe_armor_paldrons_knight_15
+  - first:
+      213: 463771018948279379
+    second: character_tools_pickaxe_armor_paldrons_knight_16
+  - first:
+      213: 9042583953382054049
+    second: character_tools_pickaxe_armor_paldrons_knight_17
+  - first:
+      213: 6717418669003369752
+    second: character_tools_pickaxe_armor_paldrons_knight_18
+  - first:
+      213: 4141475182084362370
+    second: character_tools_pickaxe_armor_paldrons_knight_19
+  - first:
+      213: 2384994813361323156
+    second: character_tools_pickaxe_armor_paldrons_knight_20
+  - first:
+      213: -275573948428452059
+    second: character_tools_pickaxe_armor_paldrons_knight_21
+  - first:
+      213: 1545005038301135430
+    second: character_tools_pickaxe_armor_paldrons_knight_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22aaf3ba9797c8b0800000000000000
+      internalID: -5131966559665085908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 221
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da22d7bb19c82a610800000000000000
+      internalID: 1631020572605227693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 219
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff871cb214fe6a50800000000000000
+      internalID: 6516414072153935860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de324b7627e5fa640800000000000000
+      internalID: 5093393549038461933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a99ba681fa72910800000000000000
+      internalID: 1812609894444538492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29e8854f22c42bc0800000000000000
+      internalID: -3808705876562745043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfe9a98badb43950800000000000000
+      internalID: 6427971112611213268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdbe5bb580733cb0800000000000000
+      internalID: -4885437451090346555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d6ed51bffe6d60800000000000000
+      internalID: 7885521134822019949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 155
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7595cbf643075b0800000000000000
+      internalID: -5372736700947015722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabbb6f170bab0390800000000000000
+      internalID: -7850993478310052950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a668b5f8da378190800000000000000
+      internalID: -7960329112844212571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6fbca42c0f94810800000000000000
+      internalID: 1750194647479351000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591cb45e2cc2b380800000000000000
+      internalID: -8956872209524319908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90473ddbf41ff8eb0800000000000000
+      internalID: -4715284960044157943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 90
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42cec8adbbe4fd40800000000000000
+      internalID: 5617373835051319882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c7889d845af6600800000000000000
+      internalID: 463771018948279379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a81cf82236bd7d70800000000000000
+      internalID: 9042583953382054049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81de58560b0193d50800000000000000
+      internalID: 6717418669003369752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2801c325cb9797930800000000000000
+      internalID: 4141475182084362370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cfc818524391120800000000000000
+      internalID: 2384994813361323156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ff19634f6fc2cf0800000000000000
+      internalID: -275573948428452059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_paldrons_knight_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 88
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642c02485e5f07510800000000000000
+      internalID: 1545005038301135430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_pickaxe_armor_paldrons_knight_0: -5131966559665085908
+      character_tools_pickaxe_armor_paldrons_knight_1: 1631020572605227693
+      character_tools_pickaxe_armor_paldrons_knight_10: -7850993478310052950
+      character_tools_pickaxe_armor_paldrons_knight_11: -7960329112844212571
+      character_tools_pickaxe_armor_paldrons_knight_12: 1750194647479351000
+      character_tools_pickaxe_armor_paldrons_knight_13: -8956872209524319908
+      character_tools_pickaxe_armor_paldrons_knight_14: -4715284960044157943
+      character_tools_pickaxe_armor_paldrons_knight_15: 5617373835051319882
+      character_tools_pickaxe_armor_paldrons_knight_16: 463771018948279379
+      character_tools_pickaxe_armor_paldrons_knight_17: 9042583953382054049
+      character_tools_pickaxe_armor_paldrons_knight_18: 6717418669003369752
+      character_tools_pickaxe_armor_paldrons_knight_19: 4141475182084362370
+      character_tools_pickaxe_armor_paldrons_knight_2: 6516414072153935860
+      character_tools_pickaxe_armor_paldrons_knight_20: 2384994813361323156
+      character_tools_pickaxe_armor_paldrons_knight_21: -275573948428452059
+      character_tools_pickaxe_armor_paldrons_knight_22: 1545005038301135430
+      character_tools_pickaxe_armor_paldrons_knight_3: 5093393549038461933
+      character_tools_pickaxe_armor_paldrons_knight_4: 1812609894444538492
+      character_tools_pickaxe_armor_paldrons_knight_5: -3808705876562745043
+      character_tools_pickaxe_armor_paldrons_knight_6: 6427971112611213268
+      character_tools_pickaxe_armor_paldrons_knight_7: -4885437451090346555
+      character_tools_pickaxe_armor_paldrons_knight_8: 7885521134822019949
+      character_tools_pickaxe_armor_paldrons_knight_9: -5372736700947015722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

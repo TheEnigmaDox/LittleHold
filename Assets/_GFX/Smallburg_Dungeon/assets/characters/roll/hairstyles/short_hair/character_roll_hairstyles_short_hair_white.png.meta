@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 0e0d16adde682d7419e334ed998a289c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3536100357457863587
+    second: character_roll_hairstyles_short_hair_white_0
+  - first:
+      213: 938270231163150193
+    second: character_roll_hairstyles_short_hair_white_1
+  - first:
+      213: -4961590828017286588
+    second: character_roll_hairstyles_short_hair_white_2
+  - first:
+      213: 6578268816350201673
+    second: character_roll_hairstyles_short_hair_white_3
+  - first:
+      213: -7263378425846924185
+    second: character_roll_hairstyles_short_hair_white_4
+  - first:
+      213: 1492950804345970330
+    second: character_roll_hairstyles_short_hair_white_5
+  - first:
+      213: -3301311231991273879
+    second: character_roll_hairstyles_short_hair_white_6
+  - first:
+      213: -7792370463466671036
+    second: character_roll_hairstyles_short_hair_white_7
+  - first:
+      213: -3073487085498655355
+    second: character_roll_hairstyles_short_hair_white_8
+  - first:
+      213: -2717314988418206898
+    second: character_roll_hairstyles_short_hair_white_9
+  - first:
+      213: 7402618668343722742
+    second: character_roll_hairstyles_short_hair_white_10
+  - first:
+      213: 2575980108542346130
+    second: character_roll_hairstyles_short_hair_white_11
+  - first:
+      213: 7573399638830649449
+    second: character_roll_hairstyles_short_hair_white_12
+  - first:
+      213: 8991893995384853665
+    second: character_roll_hairstyles_short_hair_white_13
+  - first:
+      213: -9178938034777101004
+    second: character_roll_hairstyles_short_hair_white_14
+  - first:
+      213: -2900368496632243832
+    second: character_roll_hairstyles_short_hair_white_15
+  - first:
+      213: -6051048841862195853
+    second: character_roll_hairstyles_short_hair_white_16
+  - first:
+      213: 7806362266310385361
+    second: character_roll_hairstyles_short_hair_white_17
+  - first:
+      213: -5079157936459838470
+    second: character_roll_hairstyles_short_hair_white_18
+  - first:
+      213: -9069365393788630635
+    second: character_roll_hairstyles_short_hair_white_19
+  - first:
+      213: 6001959587880821072
+    second: character_roll_hairstyles_short_hair_white_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 224
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c979fb57f3deec0800000000000000
+      internalID: -3536100357457863587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 217
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f9dc7ddc7650d00800000000000000
+      internalID: 938270231163150193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 218
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4428137fd63e42bb0800000000000000
+      internalID: -4961590828017286588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474593a2a4ba4b50800000000000000
+      internalID: 6578268816350201673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 221
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c78220ecb433b90800000000000000
+      internalID: -7263378425846924185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9edc28b8d608b410800000000000000
+      internalID: 1492950804345970330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 160
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9662724fce26f22d0800000000000000
+      internalID: -3301311231991273879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444b2d66950fbd390800000000000000
+      internalID: -7792370463466671036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d1a1f97c7c855d0800000000000000
+      internalID: -3073487085498655355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 152
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43fc7c3a682a4ad0800000000000000
+      internalID: -2717314988418206898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 157
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f28d4645726bb660800000000000000
+      internalID: 7402618668343722742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2938326b248bfb320800000000000000
+      internalID: 2575980108542346130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960929e88de1a1960800000000000000
+      internalID: 7573399638830649449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4d1ec92ff99cc70800000000000000
+      internalID: 8991893995384853665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 93
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43de9cd4d7cdd9080800000000000000
+      internalID: -9178938034777101004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88950881832dfb7d0800000000000000
+      internalID: -2900368496632243832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 89
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375d34e532b560ca0800000000000000
+      internalID: -6051048841862195853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de917f0f15c55c60800000000000000
+      internalID: 7806362266310385361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb843f64c43389b0800000000000000
+      internalID: -5079157936459838470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990205d934232280800000000000000
+      internalID: -9069365393788630635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_hairstyles_short_hair_white_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e2e7027e3b4350800000000000000
+      internalID: 6001959587880821072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_hairstyles_short_hair_white_0: -3536100357457863587
+      character_roll_hairstyles_short_hair_white_1: 938270231163150193
+      character_roll_hairstyles_short_hair_white_10: 7402618668343722742
+      character_roll_hairstyles_short_hair_white_11: 2575980108542346130
+      character_roll_hairstyles_short_hair_white_12: 7573399638830649449
+      character_roll_hairstyles_short_hair_white_13: 8991893995384853665
+      character_roll_hairstyles_short_hair_white_14: -9178938034777101004
+      character_roll_hairstyles_short_hair_white_15: -2900368496632243832
+      character_roll_hairstyles_short_hair_white_16: -6051048841862195853
+      character_roll_hairstyles_short_hair_white_17: 7806362266310385361
+      character_roll_hairstyles_short_hair_white_18: -5079157936459838470
+      character_roll_hairstyles_short_hair_white_19: -9069365393788630635
+      character_roll_hairstyles_short_hair_white_2: -4961590828017286588
+      character_roll_hairstyles_short_hair_white_20: 6001959587880821072
+      character_roll_hairstyles_short_hair_white_3: 6578268816350201673
+      character_roll_hairstyles_short_hair_white_4: -7263378425846924185
+      character_roll_hairstyles_short_hair_white_5: 1492950804345970330
+      character_roll_hairstyles_short_hair_white_6: -3301311231991273879
+      character_roll_hairstyles_short_hair_white_7: -7792370463466671036
+      character_roll_hairstyles_short_hair_white_8: -3073487085498655355
+      character_roll_hairstyles_short_hair_white_9: -2717314988418206898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

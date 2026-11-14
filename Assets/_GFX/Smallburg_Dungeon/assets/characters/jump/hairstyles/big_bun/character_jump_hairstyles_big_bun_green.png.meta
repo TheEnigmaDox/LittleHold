@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b1ab0a4341402db43a86b3eb8d020107
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9002528637264965167
+    second: character_jump_hairstyles_big_bun_green_0
+  - first:
+      213: -5287571883546859741
+    second: character_jump_hairstyles_big_bun_green_1
+  - first:
+      213: 3545615110924515124
+    second: character_jump_hairstyles_big_bun_green_2
+  - first:
+      213: 952577460845887025
+    second: character_jump_hairstyles_big_bun_green_3
+  - first:
+      213: -324156368999179418
+    second: character_jump_hairstyles_big_bun_green_4
+  - first:
+      213: -5568800580133478589
+    second: character_jump_hairstyles_big_bun_green_5
+  - first:
+      213: -6491107087211457669
+    second: character_jump_hairstyles_big_bun_green_6
+  - first:
+      213: 4358791274806887165
+    second: character_jump_hairstyles_big_bun_green_7
+  - first:
+      213: 7040339328091888420
+    second: character_jump_hairstyles_big_bun_green_8
+  - first:
+      213: 4585629842570833056
+    second: character_jump_hairstyles_big_bun_green_9
+  - first:
+      213: 6328670668960296591
+    second: character_jump_hairstyles_big_bun_green_10
+  - first:
+      213: 5632857495678546655
+    second: character_jump_hairstyles_big_bun_green_11
+  - first:
+      213: 6512161443006117274
+    second: character_jump_hairstyles_big_bun_green_12
+  - first:
+      213: -7881210747935128173
+    second: character_jump_hairstyles_big_bun_green_13
+  - first:
+      213: 71891309508948417
+    second: character_jump_hairstyles_big_bun_green_14
+  - first:
+      213: -6096965291471720216
+    second: character_jump_hairstyles_big_bun_green_15
+  - first:
+      213: -812961861264550395
+    second: character_jump_hairstyles_big_bun_green_16
+  - first:
+      213: 3606020445785105283
+    second: character_jump_hairstyles_big_bun_green_17
+  - first:
+      213: 4913927242605789638
+    second: character_jump_hairstyles_big_bun_green_18
+  - first:
+      213: 5853301094946633933
+    second: character_jump_hairstyles_big_bun_green_19
+  - first:
+      213: -8485106597302644062
+    second: character_jump_hairstyles_big_bun_green_20
+  - first:
+      213: -6317026881151757888
+    second: character_jump_hairstyles_big_bun_green_21
+  - first:
+      213: -1795444201423666426
+    second: character_jump_hairstyles_big_bun_green_22
+  - first:
+      213: -1015043152452850799
+    second: character_jump_hairstyles_big_bun_green_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 223
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d15a8fd6e7901380800000000000000
+      internalID: -9002528637264965167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 226
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327a8dcf265ce96b0800000000000000
+      internalID: -5287571883546859741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437b9ec682e843130800000000000000
+      internalID: 3545615110924515124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 223
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e33c6572c383d00800000000000000
+      internalID: 952577460845887025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 219
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b9f16ff7d508bf0800000000000000
+      internalID: -324156368999179418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 221
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f972c8065a7b2b0800000000000000
+      internalID: -5568800580133478589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739dbbde74fae5a0800000000000000
+      internalID: -6491107087211457669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 162
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2cfe012998d7c30800000000000000
+      internalID: 4358791274806887165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 160
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b112d415f44b160800000000000000
+      internalID: 7040339328091888420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 159
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac6dddcb0e63af30800000000000000
+      internalID: 4585629842570833056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 155
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eefc35174f3d750800000000000000
+      internalID: 6328670668960296591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 157
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2f0545c0eeb2e40800000000000000
+      internalID: 5632857495678546655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95ff5a5458df5a50800000000000000
+      internalID: 6512161443006117274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 98
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950659c49050a290800000000000000
+      internalID: -7881210747935128173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 97
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1f7bdd3c86ff000800000000000000
+      internalID: 71891309508948417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 96
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e031f9de5a336ba0800000000000000
+      internalID: -6096965291471720216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506d2639e77c7b4f0800000000000000
+      internalID: -812961861264550395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 93
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38321db6d782b0230800000000000000
+      internalID: 3606020445785105283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c102a3cac6c13440800000000000000
+      internalID: 4913927242605789638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8f2bf655a1b3150800000000000000
+      internalID: 5853301094946633933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d37a7188de3a80800000000000000
+      internalID: -8485106597302644062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c11b5845896558a0800000000000000
+      internalID: -6317026881151757888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 27
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038b10f20d4517e0800000000000000
+      internalID: -1795444201423666426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_hairstyles_big_bun_green_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bea5a71a7d9e1f0800000000000000
+      internalID: -1015043152452850799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_hairstyles_big_bun_green_0: -9002528637264965167
+      character_jump_hairstyles_big_bun_green_1: -5287571883546859741
+      character_jump_hairstyles_big_bun_green_10: 6328670668960296591
+      character_jump_hairstyles_big_bun_green_11: 5632857495678546655
+      character_jump_hairstyles_big_bun_green_12: 6512161443006117274
+      character_jump_hairstyles_big_bun_green_13: -7881210747935128173
+      character_jump_hairstyles_big_bun_green_14: 71891309508948417
+      character_jump_hairstyles_big_bun_green_15: -6096965291471720216
+      character_jump_hairstyles_big_bun_green_16: -812961861264550395
+      character_jump_hairstyles_big_bun_green_17: 3606020445785105283
+      character_jump_hairstyles_big_bun_green_18: 4913927242605789638
+      character_jump_hairstyles_big_bun_green_19: 5853301094946633933
+      character_jump_hairstyles_big_bun_green_2: 3545615110924515124
+      character_jump_hairstyles_big_bun_green_20: -8485106597302644062
+      character_jump_hairstyles_big_bun_green_21: -6317026881151757888
+      character_jump_hairstyles_big_bun_green_22: -1795444201423666426
+      character_jump_hairstyles_big_bun_green_23: -1015043152452850799
+      character_jump_hairstyles_big_bun_green_3: 952577460845887025
+      character_jump_hairstyles_big_bun_green_4: -324156368999179418
+      character_jump_hairstyles_big_bun_green_5: -5568800580133478589
+      character_jump_hairstyles_big_bun_green_6: -6491107087211457669
+      character_jump_hairstyles_big_bun_green_7: 4358791274806887165
+      character_jump_hairstyles_big_bun_green_8: 7040339328091888420
+      character_jump_hairstyles_big_bun_green_9: 4585629842570833056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

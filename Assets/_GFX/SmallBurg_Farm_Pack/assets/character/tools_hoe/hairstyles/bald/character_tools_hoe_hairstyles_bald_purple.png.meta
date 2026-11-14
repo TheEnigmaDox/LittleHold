@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f035b7141a6771342b1fa3249544a7ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1170874301799311442
+    second: character_tools_hoe_hairstyles_bald_purple_0
+  - first:
+      213: 1332482979930126741
+    second: character_tools_hoe_hairstyles_bald_purple_1
+  - first:
+      213: -5307581838177554830
+    second: character_tools_hoe_hairstyles_bald_purple_2
+  - first:
+      213: 2432694693523747444
+    second: character_tools_hoe_hairstyles_bald_purple_3
+  - first:
+      213: -7822653189065169987
+    second: character_tools_hoe_hairstyles_bald_purple_4
+  - first:
+      213: -1095225866918294715
+    second: character_tools_hoe_hairstyles_bald_purple_5
+  - first:
+      213: 6060224578116916728
+    second: character_tools_hoe_hairstyles_bald_purple_6
+  - first:
+      213: -3772810450452067347
+    second: character_tools_hoe_hairstyles_bald_purple_7
+  - first:
+      213: -5613847115187221964
+    second: character_tools_hoe_hairstyles_bald_purple_8
+  - first:
+      213: 1348301072470050874
+    second: character_tools_hoe_hairstyles_bald_purple_9
+  - first:
+      213: 8626878062044188518
+    second: character_tools_hoe_hairstyles_bald_purple_10
+  - first:
+      213: -3372337200119837743
+    second: character_tools_hoe_hairstyles_bald_purple_11
+  - first:
+      213: -2306956735599370558
+    second: character_tools_hoe_hairstyles_bald_purple_12
+  - first:
+      213: -7456030330098943081
+    second: character_tools_hoe_hairstyles_bald_purple_13
+  - first:
+      213: -4600785201661533203
+    second: character_tools_hoe_hairstyles_bald_purple_14
+  - first:
+      213: 4777352375701865598
+    second: character_tools_hoe_hairstyles_bald_purple_15
+  - first:
+      213: 5617645444354216096
+    second: character_tools_hoe_hairstyles_bald_purple_16
+  - first:
+      213: 5331393058684662635
+    second: character_tools_hoe_hairstyles_bald_purple_17
+  - first:
+      213: -8296942039173550872
+    second: character_tools_hoe_hairstyles_bald_purple_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea75e9ca60830cfe0800000000000000
+      internalID: -1170874301799311442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5993dffd53eed7210800000000000000
+      internalID: 1332482979930126741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27eac1f507ea756b0800000000000000
+      internalID: -5307581838177554830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f57e4feaa2c120800000000000000
+      internalID: 2432694693523747444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a1b8ee5a507390800000000000000
+      internalID: -7822653189065169987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b048570e9fcc0f0800000000000000
+      internalID: -1095225866918294715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f510c5352e3a1450800000000000000
+      internalID: 6060224578116916728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb4cef62e844abc0800000000000000
+      internalID: -3772810450452067347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a0aebcacb9712b0800000000000000
+      internalID: -5613847115187221964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a380bda8ea026b210800000000000000
+      internalID: 1348301072470050874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f01c8e3e3d8b770800000000000000
+      internalID: 8626878062044188518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db85041f2d0331d0800000000000000
+      internalID: -3372337200119837743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce976e521b0cffd0800000000000000
+      internalID: -2306956735599370558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 333
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf9e32bebd68890800000000000000
+      internalID: -7456030330098943081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3271f2c3ab620c0800000000000000
+      internalID: -4600785201661533203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7404989ca09c4240800000000000000
+      internalID: 4777352375701865598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a013d0a4c2e5fd40800000000000000
+      internalID: 5617645444354216096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f1ec6db9ecf940800000000000000
+      internalID: 5331393058684662635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_hoe_hairstyles_bald_purple_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2e09ac275bdc80800000000000000
+      internalID: -8296942039173550872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_hoe_hairstyles_bald_purple_0: -1170874301799311442
+      character_tools_hoe_hairstyles_bald_purple_1: 1332482979930126741
+      character_tools_hoe_hairstyles_bald_purple_10: 8626878062044188518
+      character_tools_hoe_hairstyles_bald_purple_11: -3372337200119837743
+      character_tools_hoe_hairstyles_bald_purple_12: -2306956735599370558
+      character_tools_hoe_hairstyles_bald_purple_13: -7456030330098943081
+      character_tools_hoe_hairstyles_bald_purple_14: -4600785201661533203
+      character_tools_hoe_hairstyles_bald_purple_15: 4777352375701865598
+      character_tools_hoe_hairstyles_bald_purple_16: 5617645444354216096
+      character_tools_hoe_hairstyles_bald_purple_17: 5331393058684662635
+      character_tools_hoe_hairstyles_bald_purple_18: -8296942039173550872
+      character_tools_hoe_hairstyles_bald_purple_2: -5307581838177554830
+      character_tools_hoe_hairstyles_bald_purple_3: 2432694693523747444
+      character_tools_hoe_hairstyles_bald_purple_4: -7822653189065169987
+      character_tools_hoe_hairstyles_bald_purple_5: -1095225866918294715
+      character_tools_hoe_hairstyles_bald_purple_6: 6060224578116916728
+      character_tools_hoe_hairstyles_bald_purple_7: -3772810450452067347
+      character_tools_hoe_hairstyles_bald_purple_8: -5613847115187221964
+      character_tools_hoe_hairstyles_bald_purple_9: 1348301072470050874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: a09e529ff4cf4a447b37bdf97ed3677a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1407553258517877896
+    second: character_roll_clothes_fullbody_hazmat_0
+  - first:
+      213: 719331233252750131
+    second: character_roll_clothes_fullbody_hazmat_1
+  - first:
+      213: 4095285503255492912
+    second: character_roll_clothes_fullbody_hazmat_2
+  - first:
+      213: 4216236815026313768
+    second: character_roll_clothes_fullbody_hazmat_3
+  - first:
+      213: -9156532390012440669
+    second: character_roll_clothes_fullbody_hazmat_4
+  - first:
+      213: 1975911060124981080
+    second: character_roll_clothes_fullbody_hazmat_5
+  - first:
+      213: -352348861890865820
+    second: character_roll_clothes_fullbody_hazmat_6
+  - first:
+      213: 8840187429054793123
+    second: character_roll_clothes_fullbody_hazmat_7
+  - first:
+      213: 9211111127605916631
+    second: character_roll_clothes_fullbody_hazmat_8
+  - first:
+      213: 8523860332547153099
+    second: character_roll_clothes_fullbody_hazmat_9
+  - first:
+      213: 6407220718290011849
+    second: character_roll_clothes_fullbody_hazmat_10
+  - first:
+      213: -2277896873825021838
+    second: character_roll_clothes_fullbody_hazmat_11
+  - first:
+      213: 3773305849697053250
+    second: character_roll_clothes_fullbody_hazmat_12
+  - first:
+      213: -1961101276628415420
+    second: character_roll_clothes_fullbody_hazmat_13
+  - first:
+      213: 3475717402756597318
+    second: character_roll_clothes_fullbody_hazmat_14
+  - first:
+      213: 4939138255716810868
+    second: character_roll_clothes_fullbody_hazmat_15
+  - first:
+      213: 185585353385810397
+    second: character_roll_clothes_fullbody_hazmat_16
+  - first:
+      213: -1186908793780669834
+    second: character_roll_clothes_fullbody_hazmat_17
+  - first:
+      213: -3354406132675796718
+    second: character_roll_clothes_fullbody_hazmat_18
+  - first:
+      213: 5057099850195643066
+    second: character_roll_clothes_fullbody_hazmat_19
+  - first:
+      213: -631762477604984891
+    second: character_roll_clothes_fullbody_hazmat_20
+  - first:
+      213: -6429044076760062165
+    second: character_roll_clothes_fullbody_hazmat_21
+  - first:
+      213: -8092778395409235550
+    second: character_roll_clothes_fullbody_hazmat_22
+  - first:
+      213: -166069839996520427
+    second: character_roll_clothes_fullbody_hazmat_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 218
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b2997d4cd577ce0800000000000000
+      internalID: -1407553258517877896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 216
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333bfd902f39bf900800000000000000
+      internalID: 719331233252750131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039b95ba77065d830800000000000000
+      internalID: 4095285503255492912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a51907b05138a30800000000000000
+      internalID: 4216236815026313768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 216
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af23fefd467de080800000000000000
+      internalID: -9156532390012440669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 216
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857d38ee3a8db6b10800000000000000
+      internalID: 1975911060124981080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 154
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4655bf1b3943c1bf0800000000000000
+      internalID: -352348861890865820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 152
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a54fa021a7aeaa70800000000000000
+      internalID: 8840187429054793123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3399b94c074df70800000000000000
+      internalID: 9211111127605916631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 152
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc1484afc5da4670800000000000000
+      internalID: 8523860332547153099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6033fdb450be850800000000000000
+      internalID: 6407220718290011849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 152
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270dfa0bcd84360e0800000000000000
+      internalID: -2277896873825021838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 89
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aa810bda97d5430800000000000000
+      internalID: 3773305849697053250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 91
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c8ffd77c4c8c4e0800000000000000
+      internalID: -1961101276628415420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 89
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64643fa009a3c3030800000000000000
+      internalID: 3475717402756597318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 90
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700b8c23185b8440800000000000000
+      internalID: 4939138255716810868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 88
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9931845e4539200800000000000000
+      internalID: 185585353385810397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 88
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6727ae59db0478fe0800000000000000
+      internalID: -1186908793780669834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211a77d0561c271d0800000000000000
+      internalID: -3354406132675796718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 26
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa794258d6e2640800000000000000
+      internalID: 5057099850195643066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 25
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c72fe3bf578b37f0800000000000000
+      internalID: -631762477604984891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 26
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b272367897277c6a0800000000000000
+      internalID: -6429044076760062165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 24
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a14daf3deca0bf80800000000000000
+      internalID: -8092778395409235550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_roll_clothes_fullbody_hazmat_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 24
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f9134c5002bdf0800000000000000
+      internalID: -166069839996520427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_roll_clothes_fullbody_hazmat_0: -1407553258517877896
+      character_roll_clothes_fullbody_hazmat_1: 719331233252750131
+      character_roll_clothes_fullbody_hazmat_10: 6407220718290011849
+      character_roll_clothes_fullbody_hazmat_11: -2277896873825021838
+      character_roll_clothes_fullbody_hazmat_12: 3773305849697053250
+      character_roll_clothes_fullbody_hazmat_13: -1961101276628415420
+      character_roll_clothes_fullbody_hazmat_14: 3475717402756597318
+      character_roll_clothes_fullbody_hazmat_15: 4939138255716810868
+      character_roll_clothes_fullbody_hazmat_16: 185585353385810397
+      character_roll_clothes_fullbody_hazmat_17: -1186908793780669834
+      character_roll_clothes_fullbody_hazmat_18: -3354406132675796718
+      character_roll_clothes_fullbody_hazmat_19: 5057099850195643066
+      character_roll_clothes_fullbody_hazmat_2: 4095285503255492912
+      character_roll_clothes_fullbody_hazmat_20: -631762477604984891
+      character_roll_clothes_fullbody_hazmat_21: -6429044076760062165
+      character_roll_clothes_fullbody_hazmat_22: -8092778395409235550
+      character_roll_clothes_fullbody_hazmat_23: -166069839996520427
+      character_roll_clothes_fullbody_hazmat_3: 4216236815026313768
+      character_roll_clothes_fullbody_hazmat_4: -9156532390012440669
+      character_roll_clothes_fullbody_hazmat_5: 1975911060124981080
+      character_roll_clothes_fullbody_hazmat_6: -352348861890865820
+      character_roll_clothes_fullbody_hazmat_7: 8840187429054793123
+      character_roll_clothes_fullbody_hazmat_8: 9211111127605916631
+      character_roll_clothes_fullbody_hazmat_9: 8523860332547153099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

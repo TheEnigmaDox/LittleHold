@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 8b3025d77d3ff5c4faa7f623ab2374ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8775549769184361580
+    second: character_tools_fishing_rod_armor_chest_knight_0
+  - first:
+      213: 1684748140334911414
+    second: character_tools_fishing_rod_armor_chest_knight_1
+  - first:
+      213: 8571969836849859847
+    second: character_tools_fishing_rod_armor_chest_knight_2
+  - first:
+      213: -1544688074686197639
+    second: character_tools_fishing_rod_armor_chest_knight_3
+  - first:
+      213: -4661070076970515119
+    second: character_tools_fishing_rod_armor_chest_knight_4
+  - first:
+      213: 8604781999552597047
+    second: character_tools_fishing_rod_armor_chest_knight_5
+  - first:
+      213: 1447252764310672285
+    second: character_tools_fishing_rod_armor_chest_knight_6
+  - first:
+      213: 6403856296284794304
+    second: character_tools_fishing_rod_armor_chest_knight_7
+  - first:
+      213: -1426889948553794618
+    second: character_tools_fishing_rod_armor_chest_knight_8
+  - first:
+      213: 4223612490819050265
+    second: character_tools_fishing_rod_armor_chest_knight_9
+  - first:
+      213: 5986796982978499141
+    second: character_tools_fishing_rod_armor_chest_knight_10
+  - first:
+      213: -6738479693933693024
+    second: character_tools_fishing_rod_armor_chest_knight_11
+  - first:
+      213: 8734366286615727954
+    second: character_tools_fishing_rod_armor_chest_knight_12
+  - first:
+      213: -2858789110607462000
+    second: character_tools_fishing_rod_armor_chest_knight_13
+  - first:
+      213: -6238497574651140822
+    second: character_tools_fishing_rod_armor_chest_knight_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 218
+        width: 135
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cbefc250409c970800000000000000
+      internalID: 8775549769184361580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf89a8e18d616710800000000000000
+      internalID: 1684748140334911414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d8cce7621c5f670800000000000000
+      internalID: 8571969836849859847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9701c83516a209ae0800000000000000
+      internalID: -1544688074686197639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 218
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15548fcd57d805fb0800000000000000
+      internalID: -4661070076970515119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 138
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c020573a35a6770800000000000000
+      internalID: 8604781999552597047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9390f4a8bca51410800000000000000
+      internalID: 1447252764310672285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd24b45f511fd850800000000000000
+      internalID: 6403856296284794304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb20ead62ba23ce0800000000000000
+      internalID: -1426889948553794618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b1c28ce294d9a30800000000000000
+      internalID: 4223612490819050265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54250d8f220651350800000000000000
+      internalID: 5986796982978499141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 202
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a736ec9b6c1c72a0800000000000000
+      internalID: -6738479693933693024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fc0eb6cd3b63970800000000000000
+      internalID: 8734366286615727954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091cc7e437a8358d0800000000000000
+      internalID: -2858789110607462000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_chest_knight_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2568c242876c69a0800000000000000
+      internalID: -6238497574651140822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fishing_rod_armor_chest_knight_0: 8775549769184361580
+      character_tools_fishing_rod_armor_chest_knight_1: 1684748140334911414
+      character_tools_fishing_rod_armor_chest_knight_10: 5986796982978499141
+      character_tools_fishing_rod_armor_chest_knight_11: -6738479693933693024
+      character_tools_fishing_rod_armor_chest_knight_12: 8734366286615727954
+      character_tools_fishing_rod_armor_chest_knight_13: -2858789110607462000
+      character_tools_fishing_rod_armor_chest_knight_14: -6238497574651140822
+      character_tools_fishing_rod_armor_chest_knight_2: 8571969836849859847
+      character_tools_fishing_rod_armor_chest_knight_3: -1544688074686197639
+      character_tools_fishing_rod_armor_chest_knight_4: -4661070076970515119
+      character_tools_fishing_rod_armor_chest_knight_5: 8604781999552597047
+      character_tools_fishing_rod_armor_chest_knight_6: 1447252764310672285
+      character_tools_fishing_rod_armor_chest_knight_7: 6403856296284794304
+      character_tools_fishing_rod_armor_chest_knight_8: -1426889948553794618
+      character_tools_fishing_rod_armor_chest_knight_9: 4223612490819050265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

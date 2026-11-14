@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 3665d87f79a74aa488bf99dc44546b61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1001603204409155695
+    second: character_tools_pickaxe_hairstyles_bald_blue_0
+  - first:
+      213: 3392972248321498082
+    second: character_tools_pickaxe_hairstyles_bald_blue_1
+  - first:
+      213: -1086275292369553725
+    second: character_tools_pickaxe_hairstyles_bald_blue_2
+  - first:
+      213: -3859249418242129902
+    second: character_tools_pickaxe_hairstyles_bald_blue_3
+  - first:
+      213: 278303304059932891
+    second: character_tools_pickaxe_hairstyles_bald_blue_4
+  - first:
+      213: -5295280329569818935
+    second: character_tools_pickaxe_hairstyles_bald_blue_5
+  - first:
+      213: -2288946769728625827
+    second: character_tools_pickaxe_hairstyles_bald_blue_6
+  - first:
+      213: 8550673366799311437
+    second: character_tools_pickaxe_hairstyles_bald_blue_7
+  - first:
+      213: -4553783640351960606
+    second: character_tools_pickaxe_hairstyles_bald_blue_8
+  - first:
+      213: -5705098792287341997
+    second: character_tools_pickaxe_hairstyles_bald_blue_9
+  - first:
+      213: -4497094354900267806
+    second: character_tools_pickaxe_hairstyles_bald_blue_10
+  - first:
+      213: 773566952367532034
+    second: character_tools_pickaxe_hairstyles_bald_blue_11
+  - first:
+      213: -4077475144022505580
+    second: character_tools_pickaxe_hairstyles_bald_blue_12
+  - first:
+      213: 425443223624725290
+    second: character_tools_pickaxe_hairstyles_bald_blue_13
+  - first:
+      213: -758346119316395027
+    second: character_tools_pickaxe_hairstyles_bald_blue_14
+  - first:
+      213: -6859003542714014840
+    second: character_tools_pickaxe_hairstyles_bald_blue_15
+  - first:
+      213: -4315017829201145676
+    second: character_tools_pickaxe_hairstyles_bald_blue_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6063b4cec866ed00800000000000000
+      internalID: 1001603204409155695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223
+        width: 79
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb16f97842461f20800000000000000
+      internalID: 3392972248321498082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6770e7066cce0f0800000000000000
+      internalID: -1086275292369553725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108b0ee911317ac0800000000000000
+      internalID: -3859249418242129902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 224
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd05f4a616bbcd300800000000000000
+      internalID: 278303304059932891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a0e988926386b0800000000000000
+      internalID: -5295280329569818935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 159
+        width: 75
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d532c805a070c30e0800000000000000
+      internalID: -2288946769728625827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42677aaf181aa670800000000000000
+      internalID: 8550673366799311437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e116d4f7e5bdc0c0800000000000000
+      internalID: -4553783640351960606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f33510ea63d0b0800000000000000
+      internalID: -5705098792287341997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 30
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec41c6c28c1791c0800000000000000
+      internalID: -4497094354900267806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20829dd6b034cba00800000000000000
+      internalID: 773566952367532034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 30
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497cd0cb5f5e967c0800000000000000
+      internalID: -4077475144022505580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 261
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23bf389b5a77e500800000000000000
+      internalID: 425443223624725290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba95de830d975f0800000000000000
+      internalID: -758346119316395027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883a2635e9cefc0a0800000000000000
+      internalID: -6859003542714014840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_hairstyles_bald_blue_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b01df2752afd14c0800000000000000
+      internalID: -4315017829201145676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_pickaxe_hairstyles_bald_blue_0: 1001603204409155695
+      character_tools_pickaxe_hairstyles_bald_blue_1: 3392972248321498082
+      character_tools_pickaxe_hairstyles_bald_blue_10: -4497094354900267806
+      character_tools_pickaxe_hairstyles_bald_blue_11: 773566952367532034
+      character_tools_pickaxe_hairstyles_bald_blue_12: -4077475144022505580
+      character_tools_pickaxe_hairstyles_bald_blue_13: 425443223624725290
+      character_tools_pickaxe_hairstyles_bald_blue_14: -758346119316395027
+      character_tools_pickaxe_hairstyles_bald_blue_15: -6859003542714014840
+      character_tools_pickaxe_hairstyles_bald_blue_16: -4315017829201145676
+      character_tools_pickaxe_hairstyles_bald_blue_2: -1086275292369553725
+      character_tools_pickaxe_hairstyles_bald_blue_3: -3859249418242129902
+      character_tools_pickaxe_hairstyles_bald_blue_4: 278303304059932891
+      character_tools_pickaxe_hairstyles_bald_blue_5: -5295280329569818935
+      character_tools_pickaxe_hairstyles_bald_blue_6: -2288946769728625827
+      character_tools_pickaxe_hairstyles_bald_blue_7: 8550673366799311437
+      character_tools_pickaxe_hairstyles_bald_blue_8: -4553783640351960606
+      character_tools_pickaxe_hairstyles_bald_blue_9: -5705098792287341997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

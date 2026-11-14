@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: e9c8b03c70a970640bc78dd991b4c695
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1313278284759026279
+    second: character_tools_shovel_hairstyles_bald_brown_light_0
+  - first:
+      213: 6822729895446468812
+    second: character_tools_shovel_hairstyles_bald_brown_light_1
+  - first:
+      213: -2233398935304960262
+    second: character_tools_shovel_hairstyles_bald_brown_light_2
+  - first:
+      213: 3922901551796695198
+    second: character_tools_shovel_hairstyles_bald_brown_light_3
+  - first:
+      213: -8398156229041053815
+    second: character_tools_shovel_hairstyles_bald_brown_light_4
+  - first:
+      213: 3274241529746769946
+    second: character_tools_shovel_hairstyles_bald_brown_light_5
+  - first:
+      213: 5922318241925780809
+    second: character_tools_shovel_hairstyles_bald_brown_light_6
+  - first:
+      213: -3376217172191223312
+    second: character_tools_shovel_hairstyles_bald_brown_light_7
+  - first:
+      213: -8417907222031783032
+    second: character_tools_shovel_hairstyles_bald_brown_light_8
+  - first:
+      213: 2053485728467952807
+    second: character_tools_shovel_hairstyles_bald_brown_light_9
+  - first:
+      213: 2370164480725456626
+    second: character_tools_shovel_hairstyles_bald_brown_light_10
+  - first:
+      213: 6790118991052181008
+    second: character_tools_shovel_hairstyles_bald_brown_light_11
+  - first:
+      213: 2141103545934103025
+    second: character_tools_shovel_hairstyles_bald_brown_light_12
+  - first:
+      213: 1526337411952808476
+    second: character_tools_shovel_hairstyles_bald_brown_light_13
+  - first:
+      213: -8779268199932338614
+    second: character_tools_shovel_hairstyles_bald_brown_light_14
+  - first:
+      213: -9218902580382686588
+    second: character_tools_shovel_hairstyles_bald_brown_light_15
+  - first:
+      213: -2398292288956062634
+    second: character_tools_shovel_hairstyles_bald_brown_light_16
+  - first:
+      213: 2096991828078169633
+    second: character_tools_shovel_hairstyles_bald_brown_light_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76acb4654a3b93210800000000000000
+      internalID: 1313278284759026279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8568801b43fae50800000000000000
+      internalID: 6822729895446468812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6896b508f5101e0800000000000000
+      internalID: -2233398935304960262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90bbab4d22f07630800000000000000
+      internalID: 3922901551796695198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f16cfa761c37b80800000000000000
+      internalID: -8398156229041053815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a184369d251707d20800000000000000
+      internalID: 3274241529746769946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9455dc0301d403250800000000000000
+      internalID: 5922318241925780809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1e7feae544521d0800000000000000
+      internalID: -3376217172191223312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 158
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ba9964bf59d2b80800000000000000
+      internalID: -8417907222031783032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4aaa4e3627f7c10800000000000000
+      internalID: 2053485728467952807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f693ec990484e020800000000000000
+      internalID: 2370164480725456626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e8c4c2f395b3e50800000000000000
+      internalID: 6790118991052181008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f14bbab45ab6bd10800000000000000
+      internalID: 2141103545934103025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 269
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1216de0ac3ae2510800000000000000
+      internalID: 1526337411952808476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e56233616c92680800000000000000
+      internalID: -8779268199932338614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482ab5d62f0ef0080800000000000000
+      internalID: -9218902580382686588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6542731bedd87bed0800000000000000
+      internalID: -2398292288956062634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_hairstyles_bald_brown_light_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e0f7115f20a1d10800000000000000
+      internalID: 2096991828078169633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_hairstyles_bald_brown_light_0: 1313278284759026279
+      character_tools_shovel_hairstyles_bald_brown_light_1: 6822729895446468812
+      character_tools_shovel_hairstyles_bald_brown_light_10: 2370164480725456626
+      character_tools_shovel_hairstyles_bald_brown_light_11: 6790118991052181008
+      character_tools_shovel_hairstyles_bald_brown_light_12: 2141103545934103025
+      character_tools_shovel_hairstyles_bald_brown_light_13: 1526337411952808476
+      character_tools_shovel_hairstyles_bald_brown_light_14: -8779268199932338614
+      character_tools_shovel_hairstyles_bald_brown_light_15: -9218902580382686588
+      character_tools_shovel_hairstyles_bald_brown_light_16: -2398292288956062634
+      character_tools_shovel_hairstyles_bald_brown_light_17: 2096991828078169633
+      character_tools_shovel_hairstyles_bald_brown_light_2: -2233398935304960262
+      character_tools_shovel_hairstyles_bald_brown_light_3: 3922901551796695198
+      character_tools_shovel_hairstyles_bald_brown_light_4: -8398156229041053815
+      character_tools_shovel_hairstyles_bald_brown_light_5: 3274241529746769946
+      character_tools_shovel_hairstyles_bald_brown_light_6: 5922318241925780809
+      character_tools_shovel_hairstyles_bald_brown_light_7: -3376217172191223312
+      character_tools_shovel_hairstyles_bald_brown_light_8: -8417907222031783032
+      character_tools_shovel_hairstyles_bald_brown_light_9: 2053485728467952807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

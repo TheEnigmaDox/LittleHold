@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3d5fb3b77fa26a240ba97231e165e3c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2647503094300785941
+    second: character_tools_shovel_armor_head_knight_0
+  - first:
+      213: -5248618386535657288
+    second: character_tools_shovel_armor_head_knight_1
+  - first:
+      213: -8540768487061559424
+    second: character_tools_shovel_armor_head_knight_2
+  - first:
+      213: 5821792942433447867
+    second: character_tools_shovel_armor_head_knight_3
+  - first:
+      213: 4309541548201891556
+    second: character_tools_shovel_armor_head_knight_4
+  - first:
+      213: -8670093162725325172
+    second: character_tools_shovel_armor_head_knight_5
+  - first:
+      213: 6118957558466446313
+    second: character_tools_shovel_armor_head_knight_6
+  - first:
+      213: -2402093201744928363
+    second: character_tools_shovel_armor_head_knight_7
+  - first:
+      213: -8221650683281813395
+    second: character_tools_shovel_armor_head_knight_8
+  - first:
+      213: -4831682499068520337
+    second: character_tools_shovel_armor_head_knight_9
+  - first:
+      213: 2851149368615422974
+    second: character_tools_shovel_armor_head_knight_10
+  - first:
+      213: -8306710316628514637
+    second: character_tools_shovel_armor_head_knight_11
+  - first:
+      213: -6342723696196869159
+    second: character_tools_shovel_armor_head_knight_12
+  - first:
+      213: 3887991125353430665
+    second: character_tools_shovel_armor_head_knight_13
+  - first:
+      213: -8387061550052479656
+    second: character_tools_shovel_armor_head_knight_14
+  - first:
+      213: 7452299888896840510
+    second: character_tools_shovel_armor_head_knight_15
+  - first:
+      213: -9076256712192256637
+    second: character_tools_shovel_armor_head_knight_16
+  - first:
+      213: 502315847834501923
+    second: character_tools_shovel_armor_head_knight_17
+  - first:
+      213: -6195223184399067162
+    second: character_tools_shovel_armor_head_knight_18
+  - first:
+      213: 6810801824132964074
+    second: character_tools_shovel_armor_head_knight_19
+  - first:
+      213: -5836147190200002025
+    second: character_tools_shovel_armor_head_knight_20
+  - first:
+      213: 8938618867845748336
+    second: character_tools_shovel_armor_head_knight_21
+  - first:
+      213: 4077822792412340826
+    second: character_tools_shovel_armor_head_knight_22
+  - first:
+      213: 7398741592953793452
+    second: character_tools_shovel_armor_head_knight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbb858902ddb420800000000000000
+      internalID: 2647503094300785941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 221
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b055f4c2692927b0800000000000000
+      internalID: -5248618386535657288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 221
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08768dbdf48197980800000000000000
+      internalID: -8540768487061559424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2f9106d92bc050800000000000000
+      internalID: 5821792942433447867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65c5584319ecb30800000000000000
+      internalID: 4309541548201891556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86c6326434ada780800000000000000
+      internalID: -8670093162725325172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e38514da77eae450800000000000000
+      internalID: 6118957558466446313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 157
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591ec98b5fc0aaed0800000000000000
+      internalID: -2402093201744928363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60d3a38344d6ed80800000000000000
+      internalID: -8221650683281813395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689c8fcd5a62fcb0800000000000000
+      internalID: -4831682499068520337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc6e5ae31519720800000000000000
+      internalID: 2851149368615422974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e8455af2a8bc80800000000000000
+      internalID: -8306710316628514637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3abbb476e1af7a0800000000000000
+      internalID: -6342723696196869159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eff8c345be4f530800000000000000
+      internalID: 3887991125353430665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 93
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85de8cfe4fb2b9b80800000000000000
+      internalID: -8387061550052479656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e331165d343eb6760800000000000000
+      internalID: 7452299888896840510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385968bbb98aa0280800000000000000
+      internalID: -9076256712192256637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323893b2a9598f600800000000000000
+      internalID: 502315847834501923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e711a56655260aa0800000000000000
+      internalID: -6195223184399067162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee17038c24d48e50800000000000000
+      internalID: 6810801824132964074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a1c3f3d07d10fa0800000000000000
+      internalID: -5836147190200002025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076dc80608a5c0c70800000000000000
+      internalID: 8938618867845748336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52aab67936579830800000000000000
+      internalID: 4077822792412340826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_knight_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab2be0574c9da660800000000000000
+      internalID: 7398741592953793452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_armor_head_knight_0: 2647503094300785941
+      character_tools_shovel_armor_head_knight_1: -5248618386535657288
+      character_tools_shovel_armor_head_knight_10: 2851149368615422974
+      character_tools_shovel_armor_head_knight_11: -8306710316628514637
+      character_tools_shovel_armor_head_knight_12: -6342723696196869159
+      character_tools_shovel_armor_head_knight_13: 3887991125353430665
+      character_tools_shovel_armor_head_knight_14: -8387061550052479656
+      character_tools_shovel_armor_head_knight_15: 7452299888896840510
+      character_tools_shovel_armor_head_knight_16: -9076256712192256637
+      character_tools_shovel_armor_head_knight_17: 502315847834501923
+      character_tools_shovel_armor_head_knight_18: -6195223184399067162
+      character_tools_shovel_armor_head_knight_19: 6810801824132964074
+      character_tools_shovel_armor_head_knight_2: -8540768487061559424
+      character_tools_shovel_armor_head_knight_20: -5836147190200002025
+      character_tools_shovel_armor_head_knight_21: 8938618867845748336
+      character_tools_shovel_armor_head_knight_22: 4077822792412340826
+      character_tools_shovel_armor_head_knight_23: 7398741592953793452
+      character_tools_shovel_armor_head_knight_3: 5821792942433447867
+      character_tools_shovel_armor_head_knight_4: 4309541548201891556
+      character_tools_shovel_armor_head_knight_5: -8670093162725325172
+      character_tools_shovel_armor_head_knight_6: 6118957558466446313
+      character_tools_shovel_armor_head_knight_7: -2402093201744928363
+      character_tools_shovel_armor_head_knight_8: -8221650683281813395
+      character_tools_shovel_armor_head_knight_9: -4831682499068520337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

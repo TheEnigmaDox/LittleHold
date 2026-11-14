@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c2584dedfecab83488088d330ae53705
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6758978237650404676
+    second: character_super_slash_armor_chest_blue_robe_0
+  - first:
+      213: 2127642270697649870
+    second: character_super_slash_armor_chest_blue_robe_1
+  - first:
+      213: -5648076394090245541
+    second: character_super_slash_armor_chest_blue_robe_2
+  - first:
+      213: -4032909257852750825
+    second: character_super_slash_armor_chest_blue_robe_3
+  - first:
+      213: 8033888919957799911
+    second: character_super_slash_armor_chest_blue_robe_4
+  - first:
+      213: -1982811872758452707
+    second: character_super_slash_armor_chest_blue_robe_5
+  - first:
+      213: -2340798338277085799
+    second: character_super_slash_armor_chest_blue_robe_6
+  - first:
+      213: -6547375387300783486
+    second: character_super_slash_armor_chest_blue_robe_7
+  - first:
+      213: -5085797946596991669
+    second: character_super_slash_armor_chest_blue_robe_8
+  - first:
+      213: 2812036576693854408
+    second: character_super_slash_armor_chest_blue_robe_9
+  - first:
+      213: 5380019270235082304
+    second: character_super_slash_armor_chest_blue_robe_10
+  - first:
+      213: 1785848184170700677
+    second: character_super_slash_armor_chest_blue_robe_11
+  - first:
+      213: -5754142030104512991
+    second: character_super_slash_armor_chest_blue_robe_12
+  - first:
+      213: 5124245794129585293
+    second: character_super_slash_armor_chest_blue_robe_13
+  - first:
+      213: 3756112336981637313
+    second: character_super_slash_armor_chest_blue_robe_14
+  - first:
+      213: -8602316244562060774
+    second: character_super_slash_armor_chest_blue_robe_15
+  - first:
+      213: 5271946305714167554
+    second: character_super_slash_armor_chest_blue_robe_16
+  - first:
+      213: -2462700829738352374
+    second: character_super_slash_armor_chest_blue_robe_17
+  - first:
+      213: -8889769971023074852
+    second: character_super_slash_armor_chest_blue_robe_18
+  - first:
+      213: 6262493857826680555
+    second: character_super_slash_armor_chest_blue_robe_19
+  - first:
+      213: 4410042762686531640
+    second: character_super_slash_armor_chest_blue_robe_20
+  - first:
+      213: 1900436236798653684
+    second: character_super_slash_armor_chest_blue_robe_21
+  - first:
+      213: -2897641273251158016
+    second: character_super_slash_armor_chest_blue_robe_22
+  - first:
+      213: -8983711715762634803
+    second: character_super_slash_armor_chest_blue_robe_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 217
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba704c7a194332a0800000000000000
+      internalID: -6758978237650404676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 217
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f90a5f57e68d10800000000000000
+      internalID: 2127642270697649870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 218
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b525bf1c1700e91b0800000000000000
+      internalID: -5648076394090245541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 218
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7147d42b56a3808c0800000000000000
+      internalID: -4032909257852750825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 218
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e30807486b1e7f60800000000000000
+      internalID: 8033888919957799911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 217
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e2ecb6b13ab74e0800000000000000
+      internalID: -1982811872758452707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 153
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d6b2c3050d38fd0800000000000000
+      internalID: -2340798338277085799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 153
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a1dc456cc0325a0800000000000000
+      internalID: -6547375387300783486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ddca996bd9b69b0800000000000000
+      internalID: -5085797946596991669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 154
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02e312e5c560720800000000000000
+      internalID: 2812036576693854408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 154
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e4e1f850ba9aa40800000000000000
+      internalID: 5380019270235082304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 153
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f5540367b98c810800000000000000
+      internalID: 1785848184170700677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 89
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b9747f4e2520b0800000000000000
+      internalID: -5754142030104512991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 89
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8422ec766afc1740800000000000000
+      internalID: 5124245794129585293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 90
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b04e0544602430800000000000000
+      internalID: 3756112336981637313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a5e4dd3fe6e9880800000000000000
+      internalID: -8602316244562060774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f960bab37b92940800000000000000
+      internalID: 5271946305714167554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c26fa4aab2ddd0800000000000000
+      internalID: -2462700829738352374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 26
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd92c36bf4131a480800000000000000
+      internalID: -8889769971023074852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 26
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee23dbcbf8d8e650800000000000000
+      internalID: 6262493857826680555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838863af68e933d30800000000000000
+      internalID: 4410042762686531640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f9ac30b4bf5a10800000000000000
+      internalID: 1900436236798653684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 26
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008aa554d9289c7d0800000000000000
+      internalID: -2897641273251158016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_armor_chest_blue_robe_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 26
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcff371dac1735380800000000000000
+      internalID: -8983711715762634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_armor_chest_blue_robe_0: -6758978237650404676
+      character_super_slash_armor_chest_blue_robe_1: 2127642270697649870
+      character_super_slash_armor_chest_blue_robe_10: 5380019270235082304
+      character_super_slash_armor_chest_blue_robe_11: 1785848184170700677
+      character_super_slash_armor_chest_blue_robe_12: -5754142030104512991
+      character_super_slash_armor_chest_blue_robe_13: 5124245794129585293
+      character_super_slash_armor_chest_blue_robe_14: 3756112336981637313
+      character_super_slash_armor_chest_blue_robe_15: -8602316244562060774
+      character_super_slash_armor_chest_blue_robe_16: 5271946305714167554
+      character_super_slash_armor_chest_blue_robe_17: -2462700829738352374
+      character_super_slash_armor_chest_blue_robe_18: -8889769971023074852
+      character_super_slash_armor_chest_blue_robe_19: 6262493857826680555
+      character_super_slash_armor_chest_blue_robe_2: -5648076394090245541
+      character_super_slash_armor_chest_blue_robe_20: 4410042762686531640
+      character_super_slash_armor_chest_blue_robe_21: 1900436236798653684
+      character_super_slash_armor_chest_blue_robe_22: -2897641273251158016
+      character_super_slash_armor_chest_blue_robe_23: -8983711715762634803
+      character_super_slash_armor_chest_blue_robe_3: -4032909257852750825
+      character_super_slash_armor_chest_blue_robe_4: 8033888919957799911
+      character_super_slash_armor_chest_blue_robe_5: -1982811872758452707
+      character_super_slash_armor_chest_blue_robe_6: -2340798338277085799
+      character_super_slash_armor_chest_blue_robe_7: -6547375387300783486
+      character_super_slash_armor_chest_blue_robe_8: -5085797946596991669
+      character_super_slash_armor_chest_blue_robe_9: 2812036576693854408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

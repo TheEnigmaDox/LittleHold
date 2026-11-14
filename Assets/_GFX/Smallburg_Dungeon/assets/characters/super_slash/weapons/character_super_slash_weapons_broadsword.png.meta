@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 42337b81e2b62704b820797f0b652fdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -850891011399187881
+    second: character_super_slash_weapons_broadsword_0
+  - first:
+      213: 121727731169585828
+    second: character_super_slash_weapons_broadsword_1
+  - first:
+      213: -358955535320473896
+    second: character_super_slash_weapons_broadsword_2
+  - first:
+      213: 4788528166029308765
+    second: character_super_slash_weapons_broadsword_3
+  - first:
+      213: -2940829811700857966
+    second: character_super_slash_weapons_broadsword_4
+  - first:
+      213: -4899768602833191025
+    second: character_super_slash_weapons_broadsword_5
+  - first:
+      213: 2763009432045160488
+    second: character_super_slash_weapons_broadsword_6
+  - first:
+      213: 1863703153243509108
+    second: character_super_slash_weapons_broadsword_7
+  - first:
+      213: -3341997676899160975
+    second: character_super_slash_weapons_broadsword_8
+  - first:
+      213: -8899397070902177483
+    second: character_super_slash_weapons_broadsword_9
+  - first:
+      213: 6700240019293935663
+    second: character_super_slash_weapons_broadsword_10
+  - first:
+      213: -5547899921390113805
+    second: character_super_slash_weapons_broadsword_11
+  - first:
+      213: -1253949972083307852
+    second: character_super_slash_weapons_broadsword_12
+  - first:
+      213: 6594207012266015089
+    second: character_super_slash_weapons_broadsword_13
+  - first:
+      213: -609890481339460886
+    second: character_super_slash_weapons_broadsword_14
+  - first:
+      213: 1034417110794018045
+    second: character_super_slash_weapons_broadsword_15
+  - first:
+      213: 3034087947688885354
+    second: character_super_slash_weapons_broadsword_16
+  - first:
+      213: -9093410080943652888
+    second: character_super_slash_weapons_broadsword_17
+  - first:
+      213: 628925185256493060
+    second: character_super_slash_weapons_broadsword_18
+  - first:
+      213: 6372450963430495478
+    second: character_super_slash_weapons_broadsword_19
+  - first:
+      213: 6504377115500784908
+    second: character_super_slash_weapons_broadsword_20
+  - first:
+      213: 82802005121043858
+    second: character_super_slash_weapons_broadsword_21
+  - first:
+      213: -3689824120332990678
+    second: character_super_slash_weapons_broadsword_22
+  - first:
+      213: 4377355406793250979
+    second: character_super_slash_weapons_broadsword_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 222
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7528af222270134f0800000000000000
+      internalID: -850891011399187881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 221
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa6daff9b670b100800000000000000
+      internalID: 121727731169585828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de101ba7dbb40bf0800000000000000
+      internalID: -358955535320473896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53312d0ff4447240800000000000000
+      internalID: 4788528166029308765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29301b01ed21037d0800000000000000
+      internalID: -2940829811700857966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff3827a66800cb0800000000000000
+      internalID: -4899768602833191025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 158
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280b1c707e285620800000000000000
+      internalID: 2763009432045160488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 157
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471dadfb4243dd910800000000000000
+      internalID: 1863703153243509108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cae3cc1d6de91d0800000000000000
+      internalID: -3341997676899160975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53159b9d38dfe7480800000000000000
+      internalID: -8899397070902177483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f281fd35cc80cfc50800000000000000
+      internalID: 6700240019293935663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 142
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbef106a66e103b0800000000000000
+      internalID: -5547899921390113805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 92
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba0dd3e423199ee0800000000000000
+      internalID: -1253949972083307852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 91
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179718d0754538b50800000000000000
+      internalID: 6594207012266015089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 89
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae29edba6db3987f0800000000000000
+      internalID: -609890481339460886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 89
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc9676b1ecfa5e00800000000000000
+      internalID: 1034417110794018045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 89
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3a43c9ee3b1a20800000000000000
+      internalID: 3034087947688885354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 89
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efb568d5b7bdc180800000000000000
+      internalID: -9093410080943652888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 13
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009281bf146ab800800000000000000
+      internalID: 628925185256493060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 28
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ded7736e7f6850800000000000000
+      internalID: 6372450963430495478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 26
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0daa9e5680344a50800000000000000
+      internalID: 6504377115500784908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 26
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d0ee52cfb262100800000000000000
+      internalID: 82802005121043858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 26
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2742e7138c1bccc0800000000000000
+      internalID: -3689824120332990678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_weapons_broadsword_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 26
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81c8ddc8d7fbc30800000000000000
+      internalID: 4377355406793250979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_weapons_broadsword_0: -850891011399187881
+      character_super_slash_weapons_broadsword_1: 121727731169585828
+      character_super_slash_weapons_broadsword_10: 6700240019293935663
+      character_super_slash_weapons_broadsword_11: -5547899921390113805
+      character_super_slash_weapons_broadsword_12: -1253949972083307852
+      character_super_slash_weapons_broadsword_13: 6594207012266015089
+      character_super_slash_weapons_broadsword_14: -609890481339460886
+      character_super_slash_weapons_broadsword_15: 1034417110794018045
+      character_super_slash_weapons_broadsword_16: 3034087947688885354
+      character_super_slash_weapons_broadsword_17: -9093410080943652888
+      character_super_slash_weapons_broadsword_18: 628925185256493060
+      character_super_slash_weapons_broadsword_19: 6372450963430495478
+      character_super_slash_weapons_broadsword_2: -358955535320473896
+      character_super_slash_weapons_broadsword_20: 6504377115500784908
+      character_super_slash_weapons_broadsword_21: 82802005121043858
+      character_super_slash_weapons_broadsword_22: -3689824120332990678
+      character_super_slash_weapons_broadsword_23: 4377355406793250979
+      character_super_slash_weapons_broadsword_3: 4788528166029308765
+      character_super_slash_weapons_broadsword_4: -2940829811700857966
+      character_super_slash_weapons_broadsword_5: -4899768602833191025
+      character_super_slash_weapons_broadsword_6: 2763009432045160488
+      character_super_slash_weapons_broadsword_7: 1863703153243509108
+      character_super_slash_weapons_broadsword_8: -3341997676899160975
+      character_super_slash_weapons_broadsword_9: -8899397070902177483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: c471e3fdc2e3c9a4fbf6e1a0423580a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2093131141292203546
+    second: character_walk_armor_head_headband_0
+  - first:
+      213: -474715656555837897
+    second: character_walk_armor_head_headband_1
+  - first:
+      213: -5399149343647990025
+    second: character_walk_armor_head_headband_2
+  - first:
+      213: -3338034297372195852
+    second: character_walk_armor_head_headband_3
+  - first:
+      213: -8513195021401104336
+    second: character_walk_armor_head_headband_4
+  - first:
+      213: -5420584491457174342
+    second: character_walk_armor_head_headband_5
+  - first:
+      213: 1843677424335266040
+    second: character_walk_armor_head_headband_6
+  - first:
+      213: 8981143597398035991
+    second: character_walk_armor_head_headband_7
+  - first:
+      213: -1546966110429775322
+    second: character_walk_armor_head_headband_8
+  - first:
+      213: 5966462990415010294
+    second: character_walk_armor_head_headband_9
+  - first:
+      213: -9165518563742062468
+    second: character_walk_armor_head_headband_10
+  - first:
+      213: 6322204430178152638
+    second: character_walk_armor_head_headband_11
+  - first:
+      213: -2767253929695555350
+    second: character_walk_armor_head_headband_12
+  - first:
+      213: -3378046469452301799
+    second: character_walk_armor_head_headband_13
+  - first:
+      213: -6639204606540653382
+    second: character_walk_armor_head_headband_14
+  - first:
+      213: -9178575403700269365
+    second: character_walk_armor_head_headband_15
+  - first:
+      213: 4111834606244996715
+    second: character_walk_armor_head_headband_16
+  - first:
+      213: -9024792198727836043
+    second: character_walk_armor_head_headband_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e9701eeab4c0d10800000000000000
+      internalID: 2093131141292203546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 224
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7364ca120a87969f0800000000000000
+      internalID: -474715656555837897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fef392274e5215b0800000000000000
+      internalID: -5399149343647990025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f34f010e7beca1d0800000000000000
+      internalID: -3338034297372195852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 217
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03063cd9b3e0bd980800000000000000
+      internalID: -8513195021401104336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab424bfdf1736c4b0800000000000000
+      internalID: -5420584491457174342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f029e569de069910800000000000000
+      internalID: 1843677424335266040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e0fa7848e63ac70800000000000000
+      internalID: 8981143597398035991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62af34cc482188ae0800000000000000
+      internalID: -1546966110429775322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 152
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f993356a722dc250800000000000000
+      internalID: 5966462990415010294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 153
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78e7e16d698dc080800000000000000
+      internalID: -9165518563742062468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07b2ace6bfcb750800000000000000
+      internalID: 6322204430178152638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae05135663db899d0800000000000000
+      internalID: -2767253929695555350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a788932a4ce11d0800000000000000
+      internalID: -3378046469452301799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcd10c169eccd3a0800000000000000
+      internalID: -6639204606540653382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 32
+        width: 139
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcece4eec462f9080800000000000000
+      internalID: -9178575403700269365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b662468f9cb201930800000000000000
+      internalID: 4111834606244996715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_walk_armor_head_headband_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 33
+        width: 11
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5c178f4f71c280800000000000000
+      internalID: -9024792198727836043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_walk_armor_head_headband_0: 2093131141292203546
+      character_walk_armor_head_headband_1: -474715656555837897
+      character_walk_armor_head_headband_10: -9165518563742062468
+      character_walk_armor_head_headband_11: 6322204430178152638
+      character_walk_armor_head_headband_12: -2767253929695555350
+      character_walk_armor_head_headband_13: -3378046469452301799
+      character_walk_armor_head_headband_14: -6639204606540653382
+      character_walk_armor_head_headband_15: -9178575403700269365
+      character_walk_armor_head_headband_16: 4111834606244996715
+      character_walk_armor_head_headband_17: -9024792198727836043
+      character_walk_armor_head_headband_2: -5399149343647990025
+      character_walk_armor_head_headband_3: -3338034297372195852
+      character_walk_armor_head_headband_4: -8513195021401104336
+      character_walk_armor_head_headband_5: -5420584491457174342
+      character_walk_armor_head_headband_6: 1843677424335266040
+      character_walk_armor_head_headband_7: 8981143597398035991
+      character_walk_armor_head_headband_8: -1546966110429775322
+      character_walk_armor_head_headband_9: 5966462990415010294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

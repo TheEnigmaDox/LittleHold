@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8bcf214122213554299142141a4e2651
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5058528572744725973
+    second: premades_rogue_special_weapon_2_0
+  - first:
+      213: -1068464535891134960
+    second: premades_rogue_special_weapon_2_1
+  - first:
+      213: 1142549794095841320
+    second: premades_rogue_special_weapon_2_2
+  - first:
+      213: 6504884057552268760
+    second: premades_rogue_special_weapon_2_3
+  - first:
+      213: 8316500991443778683
+    second: premades_rogue_special_weapon_2_4
+  - first:
+      213: 7273680880859477032
+    second: premades_rogue_special_weapon_2_5
+  - first:
+      213: 104209130601645799
+    second: premades_rogue_special_weapon_2_6
+  - first:
+      213: 6165444470946539596
+    second: premades_rogue_special_weapon_2_7
+  - first:
+      213: -251351709105264215
+    second: premades_rogue_special_weapon_2_8
+  - first:
+      213: -6185246206974243919
+    second: premades_rogue_special_weapon_2_9
+  - first:
+      213: 6819873977367398518
+    second: premades_rogue_special_weapon_2_10
+  - first:
+      213: -1550413914968013291
+    second: premades_rogue_special_weapon_2_11
+  - first:
+      213: -3249836452267643038
+    second: premades_rogue_special_weapon_2_12
+  - first:
+      213: 5617414772160039208
+    second: premades_rogue_special_weapon_2_13
+  - first:
+      213: -8366828239092789683
+    second: premades_rogue_special_weapon_2_14
+  - first:
+      213: -7793200367982266630
+    second: premades_rogue_special_weapon_2_15
+  - first:
+      213: 209693243135399448
+    second: premades_rogue_special_weapon_2_16
+  - first:
+      213: 366719744975152340
+    second: premades_rogue_special_weapon_2_17
+  - first:
+      213: 2041364816261593829
+    second: premades_rogue_special_weapon_2_18
+  - first:
+      213: 6473469303306453794
+    second: premades_rogue_special_weapon_2_19
+  - first:
+      213: 8334362073209109824
+    second: premades_rogue_special_weapon_2_20
+  - first:
+      213: 1946851266172921975
+    second: premades_rogue_special_weapon_2_21
+  - first:
+      213: 1312003045748590514
+    second: premades_rogue_special_weapon_2_22
+  - first:
+      213: 2266768573439356457
+    second: premades_rogue_special_weapon_2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 213
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0367701f7cc9b0800000000000000
+      internalID: -5058528572744725973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 213
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0163b136a2d0c21f0800000000000000
+      internalID: -1068464535891134960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 206
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8204747fbf62bdf00800000000000000
+      internalID: 1142549794095841320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 206
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd2183069df54a50800000000000000
+      internalID: 6504884057552268760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 206
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb039c6952a6370800000000000000
+      internalID: 8316500991443778683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 206
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824fd29393e41f460800000000000000
+      internalID: 7273680880859477032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e60dd3f6a9327100800000000000000
+      internalID: 104209130601645799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c482a25941f009550800000000000000
+      internalID: 6165444470946539596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 142
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9e719c3f4038cf0800000000000000
+      internalID: -251351709105264215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 142
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc7f87857992aa0800000000000000
+      internalID: -6185246206974243919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 142
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6780ae9cf3f05ae50800000000000000
+      internalID: 6819873977367398518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 142
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516428f32c2db7ae0800000000000000
+      internalID: -1550413914968013291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 85
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa87c07f246e2d0800000000000000
+      internalID: -3249836452267643038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 85
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82981a219f015fd40800000000000000
+      internalID: 5617414772160039208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eca20cb0e03eb80800000000000000
+      internalID: -8366828239092789683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af639f23e8df8d390800000000000000
+      internalID: -7793200367982266630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 78
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81692e4c4eaf8e200800000000000000
+      internalID: 209693243135399448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 78
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4ad534aa9d61500800000000000000
+      internalID: 366719744975152340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eab04a1c72645c10800000000000000
+      internalID: 2041364816261593829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2230aff880266d950800000000000000
+      internalID: 6473469303306453794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 17
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dfd13f52a99a370800000000000000
+      internalID: 8334362073209109824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 17
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a1c669ea940b10800000000000000
+      internalID: 1946851266172921975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 21
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7431e91db253210800000000000000
+      internalID: 1312003045748590514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_rogue_special_weapon_2_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e2fd7f10e257f10800000000000000
+      internalID: 2266768573439356457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_rogue_special_weapon_2_0: -5058528572744725973
+      premades_rogue_special_weapon_2_1: -1068464535891134960
+      premades_rogue_special_weapon_2_10: 6819873977367398518
+      premades_rogue_special_weapon_2_11: -1550413914968013291
+      premades_rogue_special_weapon_2_12: -3249836452267643038
+      premades_rogue_special_weapon_2_13: 5617414772160039208
+      premades_rogue_special_weapon_2_14: -8366828239092789683
+      premades_rogue_special_weapon_2_15: -7793200367982266630
+      premades_rogue_special_weapon_2_16: 209693243135399448
+      premades_rogue_special_weapon_2_17: 366719744975152340
+      premades_rogue_special_weapon_2_18: 2041364816261593829
+      premades_rogue_special_weapon_2_19: 6473469303306453794
+      premades_rogue_special_weapon_2_2: 1142549794095841320
+      premades_rogue_special_weapon_2_20: 8334362073209109824
+      premades_rogue_special_weapon_2_21: 1946851266172921975
+      premades_rogue_special_weapon_2_22: 1312003045748590514
+      premades_rogue_special_weapon_2_23: 2266768573439356457
+      premades_rogue_special_weapon_2_3: 6504884057552268760
+      premades_rogue_special_weapon_2_4: 8316500991443778683
+      premades_rogue_special_weapon_2_5: 7273680880859477032
+      premades_rogue_special_weapon_2_6: 104209130601645799
+      premades_rogue_special_weapon_2_7: 6165444470946539596
+      premades_rogue_special_weapon_2_8: -251351709105264215
+      premades_rogue_special_weapon_2_9: -6185246206974243919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

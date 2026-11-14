@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 2d969f8509b4ab4418608255875a1b1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 167492884468551706
+    second: character_tools_fishing_rod_armor_head_headband_0
+  - first:
+      213: 2077231294564204364
+    second: character_tools_fishing_rod_armor_head_headband_1
+  - first:
+      213: -6569094774713992364
+    second: character_tools_fishing_rod_armor_head_headband_2
+  - first:
+      213: -3369771884865814373
+    second: character_tools_fishing_rod_armor_head_headband_3
+  - first:
+      213: -1323964676879709926
+    second: character_tools_fishing_rod_armor_head_headband_4
+  - first:
+      213: 223398484435969184
+    second: character_tools_fishing_rod_armor_head_headband_5
+  - first:
+      213: 6296421623423450475
+    second: character_tools_fishing_rod_armor_head_headband_6
+  - first:
+      213: 6360033169222409295
+    second: character_tools_fishing_rod_armor_head_headband_7
+  - first:
+      213: 5613795004324153685
+    second: character_tools_fishing_rod_armor_head_headband_8
+  - first:
+      213: 7553824620801951065
+    second: character_tools_fishing_rod_armor_head_headband_9
+  - first:
+      213: -1692544930529782805
+    second: character_tools_fishing_rod_armor_head_headband_10
+  - first:
+      213: 1664519052342947925
+    second: character_tools_fishing_rod_armor_head_headband_11
+  - first:
+      213: -7446833508934695007
+    second: character_tools_fishing_rod_armor_head_headband_12
+  - first:
+      213: -7032568603954907613
+    second: character_tools_fishing_rod_armor_head_headband_13
+  - first:
+      213: 4852052305307684564
+    second: character_tools_fishing_rod_armor_head_headband_14
+  - first:
+      213: 8860499669137439141
+    second: character_tools_fishing_rod_armor_head_headband_15
+  - first:
+      213: -2333600176276603278
+    second: character_tools_fishing_rod_armor_head_headband_16
+  - first:
+      213: 6530656935117461749
+    second: character_tools_fishing_rod_armor_head_headband_17
+  - first:
+      213: -2129649443983871530
+    second: character_tools_fishing_rod_armor_head_headband_18
+  - first:
+      213: -7727349185871329154
+    second: character_tools_fishing_rod_armor_head_headband_19
+  - first:
+      213: -8189899189645175447
+    second: character_tools_fishing_rod_armor_head_headband_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10572914ed035200800000000000000
+      internalID: 167492884468551706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff2d45bdec3dc10800000000000000
+      internalID: 2077231294564204364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b3c416b13e5d4a0800000000000000
+      internalID: -6569094774713992364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b908974135a2c31d0800000000000000
+      internalID: -3369771884865814373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a198b6b142550ade0800000000000000
+      internalID: -1323964676879709926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4aa2cecbba91300800000000000000
+      internalID: 223398484435969184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d3e3c4b12616750800000000000000
+      internalID: 6296421623423450475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c14337870634850800000000000000
+      internalID: 6360033169222409295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5598a9230d438ed40800000000000000
+      internalID: 5613795004324153685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9550082887394d860800000000000000
+      internalID: 7553824620801951065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be352696a5fd288e0800000000000000
+      internalID: -1692544930529782805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55075c4524f891710800000000000000
+      internalID: 1664519052342947925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c87ee06887a890800000000000000
+      internalID: -7446833508934695007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f3b66d1c476e90800000000000000
+      internalID: -7032568603954907613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 12
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deca794dd3f55340800000000000000
+      internalID: 4852052305307684564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 98
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9376f0181d6fa70800000000000000
+      internalID: 8860499669137439141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 32
+        width: 139
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e7e3de0036d9fd0800000000000000
+      internalID: -2333600176276603278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f81e9fa1ed81aa50800000000000000
+      internalID: 6530656935117461749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1bb333d17f172e0800000000000000
+      internalID: -2129649443983871530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 32
+        width: 139
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e784cb05bd0f2c490800000000000000
+      internalID: -7727349185871329154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fishing_rod_armor_head_headband_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96590f63412a75e80800000000000000
+      internalID: -8189899189645175447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fishing_rod_armor_head_headband_0: 167492884468551706
+      character_tools_fishing_rod_armor_head_headband_1: 2077231294564204364
+      character_tools_fishing_rod_armor_head_headband_10: -1692544930529782805
+      character_tools_fishing_rod_armor_head_headband_11: 1664519052342947925
+      character_tools_fishing_rod_armor_head_headband_12: -7446833508934695007
+      character_tools_fishing_rod_armor_head_headband_13: -7032568603954907613
+      character_tools_fishing_rod_armor_head_headband_14: 4852052305307684564
+      character_tools_fishing_rod_armor_head_headband_15: 8860499669137439141
+      character_tools_fishing_rod_armor_head_headband_16: -2333600176276603278
+      character_tools_fishing_rod_armor_head_headband_17: 6530656935117461749
+      character_tools_fishing_rod_armor_head_headband_18: -2129649443983871530
+      character_tools_fishing_rod_armor_head_headband_19: -7727349185871329154
+      character_tools_fishing_rod_armor_head_headband_2: -6569094774713992364
+      character_tools_fishing_rod_armor_head_headband_20: -8189899189645175447
+      character_tools_fishing_rod_armor_head_headband_3: -3369771884865814373
+      character_tools_fishing_rod_armor_head_headband_4: -1323964676879709926
+      character_tools_fishing_rod_armor_head_headband_5: 223398484435969184
+      character_tools_fishing_rod_armor_head_headband_6: 6296421623423450475
+      character_tools_fishing_rod_armor_head_headband_7: 6360033169222409295
+      character_tools_fishing_rod_armor_head_headband_8: 5613795004324153685
+      character_tools_fishing_rod_armor_head_headband_9: 7553824620801951065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

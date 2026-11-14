@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 203a65dbb6c47d04abcee70d4227acc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2399491314395368916
+    second: character_tools_shovel_armor_hands_knight_0
+  - first:
+      213: 7521715538901481975
+    second: character_tools_shovel_armor_hands_knight_1
+  - first:
+      213: -8699839131006314595
+    second: character_tools_shovel_armor_hands_knight_2
+  - first:
+      213: -7550041809240044813
+    second: character_tools_shovel_armor_hands_knight_3
+  - first:
+      213: -2293961496194850320
+    second: character_tools_shovel_armor_hands_knight_4
+  - first:
+      213: -2730040568876728829
+    second: character_tools_shovel_armor_hands_knight_5
+  - first:
+      213: 5435483893914345762
+    second: character_tools_shovel_armor_hands_knight_6
+  - first:
+      213: -4801377928762612812
+    second: character_tools_shovel_armor_hands_knight_7
+  - first:
+      213: 6142090013293697779
+    second: character_tools_shovel_armor_hands_knight_8
+  - first:
+      213: -3005373014936227587
+    second: character_tools_shovel_armor_hands_knight_9
+  - first:
+      213: 6215224007818667592
+    second: character_tools_shovel_armor_hands_knight_10
+  - first:
+      213: 5546114880212771234
+    second: character_tools_shovel_armor_hands_knight_11
+  - first:
+      213: 1039607472723754196
+    second: character_tools_shovel_armor_hands_knight_12
+  - first:
+      213: -5516047463193458351
+    second: character_tools_shovel_armor_hands_knight_13
+  - first:
+      213: -1313901258375150032
+    second: character_tools_shovel_armor_hands_knight_14
+  - first:
+      213: -3125828033680547600
+    second: character_tools_shovel_armor_hands_knight_15
+  - first:
+      213: 6585485750972893364
+    second: character_tools_shovel_armor_hands_knight_16
+  - first:
+      213: 7263184783183924383
+    second: character_tools_shovel_armor_hands_knight_17
+  - first:
+      213: -1933914023118740720
+    second: character_tools_shovel_armor_hands_knight_18
+  - first:
+      213: 5217888893759959024
+    second: character_tools_shovel_armor_hands_knight_19
+  - first:
+      213: 3270100584639637273
+    second: character_tools_shovel_armor_hands_knight_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2234d3dc5b43bed0800000000000000
+      internalID: -2399491314395368916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f932cd4e60826860800000000000000
+      internalID: 7521715538901481975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 216
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9753517766f34780800000000000000
+      internalID: -8699839131006314595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa46e0f9fcd83790800000000000000
+      internalID: -7550041809240044813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1e1e25c263a20e0800000000000000
+      internalID: -2293961496194850320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 218
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e72b52192fc1ad0800000000000000
+      internalID: -2730040568876728829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 218
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2212f179dc7be6b40800000000000000
+      internalID: 5435483893914345762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b324bb66341e5db0800000000000000
+      internalID: -4801377928762612812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa58dc23561d3550800000000000000
+      internalID: 6142090013293697779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df07e238a25ca46d0800000000000000
+      internalID: -3005373014936227587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e2813e49e04650800000000000000
+      internalID: 6215224007818667592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a127965912c7fc40800000000000000
+      internalID: 5546114880212771234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 154
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc7a850d7d6d6e00800000000000000
+      internalID: 1039607472723754196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 154
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c828be001373b0800000000000000
+      internalID: -5516047463193458351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0364c9054c514cde0800000000000000
+      internalID: -1313901258375150032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 12
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f06387f6f3de94d0800000000000000
+      internalID: -3125828033680547600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8c22c2668546b50800000000000000
+      internalID: 6585485750972893364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c43bb04140cc460800000000000000
+      internalID: 7263184783183924383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0136cd9317b5925e0800000000000000
+      internalID: -1933914023118740720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffa406ad4aa96840800000000000000
+      internalID: 5217888893759959024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_hands_knight_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9172e3fe72bb16d20800000000000000
+      internalID: 3270100584639637273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_armor_hands_knight_0: -2399491314395368916
+      character_tools_shovel_armor_hands_knight_1: 7521715538901481975
+      character_tools_shovel_armor_hands_knight_10: 6215224007818667592
+      character_tools_shovel_armor_hands_knight_11: 5546114880212771234
+      character_tools_shovel_armor_hands_knight_12: 1039607472723754196
+      character_tools_shovel_armor_hands_knight_13: -5516047463193458351
+      character_tools_shovel_armor_hands_knight_14: -1313901258375150032
+      character_tools_shovel_armor_hands_knight_15: -3125828033680547600
+      character_tools_shovel_armor_hands_knight_16: 6585485750972893364
+      character_tools_shovel_armor_hands_knight_17: 7263184783183924383
+      character_tools_shovel_armor_hands_knight_18: -1933914023118740720
+      character_tools_shovel_armor_hands_knight_19: 5217888893759959024
+      character_tools_shovel_armor_hands_knight_2: -8699839131006314595
+      character_tools_shovel_armor_hands_knight_20: 3270100584639637273
+      character_tools_shovel_armor_hands_knight_3: -7550041809240044813
+      character_tools_shovel_armor_hands_knight_4: -2293961496194850320
+      character_tools_shovel_armor_hands_knight_5: -2730040568876728829
+      character_tools_shovel_armor_hands_knight_6: 5435483893914345762
+      character_tools_shovel_armor_hands_knight_7: -4801377928762612812
+      character_tools_shovel_armor_hands_knight_8: 6142090013293697779
+      character_tools_shovel_armor_hands_knight_9: -3005373014936227587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

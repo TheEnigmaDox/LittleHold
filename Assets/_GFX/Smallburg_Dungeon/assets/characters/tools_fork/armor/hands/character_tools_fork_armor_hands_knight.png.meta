@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 14247a83e20bab0439aaff073627d14e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8926832121685553561
+    second: character_tools_fork_armor_hands_knight_0
+  - first:
+      213: 6898569745206557604
+    second: character_tools_fork_armor_hands_knight_1
+  - first:
+      213: 8854968068225124507
+    second: character_tools_fork_armor_hands_knight_2
+  - first:
+      213: 1600084963465424081
+    second: character_tools_fork_armor_hands_knight_3
+  - first:
+      213: 6400912733329245121
+    second: character_tools_fork_armor_hands_knight_4
+  - first:
+      213: -8443762251417497636
+    second: character_tools_fork_armor_hands_knight_5
+  - first:
+      213: 448415525818348365
+    second: character_tools_fork_armor_hands_knight_6
+  - first:
+      213: -7729621945111441764
+    second: character_tools_fork_armor_hands_knight_7
+  - first:
+      213: 5203717278190012179
+    second: character_tools_fork_armor_hands_knight_8
+  - first:
+      213: -5388459714999031555
+    second: character_tools_fork_armor_hands_knight_9
+  - first:
+      213: -8164094547899237416
+    second: character_tools_fork_armor_hands_knight_10
+  - first:
+      213: 1828551140117952431
+    second: character_tools_fork_armor_hands_knight_11
+  - first:
+      213: -7574751583875604290
+    second: character_tools_fork_armor_hands_knight_12
+  - first:
+      213: -8353440589189459972
+    second: character_tools_fork_armor_hands_knight_13
+  - first:
+      213: 6557724650888632900
+    second: character_tools_fork_armor_hands_knight_14
+  - first:
+      213: 2119269049534779451
+    second: character_tools_fork_armor_hands_knight_15
+  - first:
+      213: -1957508105607551057
+    second: character_tools_fork_armor_hands_knight_16
+  - first:
+      213: 1445877400389846802
+    second: character_tools_fork_armor_hands_knight_17
+  - first:
+      213: -1710654579841845659
+    second: character_tools_fork_armor_hands_knight_18
+  - first:
+      213: 4972368328986887442
+    second: character_tools_fork_armor_hands_knight_19
+  - first:
+      213: -3442404534756580544
+    second: character_tools_fork_armor_hands_knight_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9913d9ea48a72eb70800000000000000
+      internalID: 8926832121685553561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab3b4112a4acbf50800000000000000
+      internalID: 6898569745206557604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 216
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b984cfbda8a23ea70800000000000000
+      internalID: 8854968068225124507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcecc1fbc4a43610800000000000000
+      internalID: 1600084963465424081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c34d5ca73c94d850800000000000000
+      internalID: 6400912733329245121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 218
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf486428fab1da80800000000000000
+      internalID: -8443762251417497636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 218
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d433c208b87193600800000000000000
+      internalID: 448415525818348365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e81915bcddab490800000000000000
+      internalID: -7729621945111441764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31704164b41573840800000000000000
+      internalID: 5203717278190012179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8eaf040785835b0800000000000000
+      internalID: -5388459714999031555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db33cf834f43be80800000000000000
+      internalID: -8164094547899237416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7bd58e291506910800000000000000
+      internalID: 1828551140117952431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 154
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb06445319311e690800000000000000
+      internalID: -7574751583875604290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 154
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff4805ea0e921c80800000000000000
+      internalID: -8353440589189459972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a1a0f53d7b10b50800000000000000
+      internalID: 6557724650888632900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 26
+        width: 12
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b301001e8f7296d10800000000000000
+      internalID: 2119269049534779451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa76050dfb885d4e0800000000000000
+      internalID: -1957508105607551057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 26
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2178007c5d9c01410800000000000000
+      internalID: 1445877400389846802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566b12b19b88248e0800000000000000
+      internalID: -1710654579841845659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2158aa586a6610540800000000000000
+      internalID: 4972368328986887442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_hands_knight_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e3a4705f1a30d0800000000000000
+      internalID: -3442404534756580544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fork_armor_hands_knight_0: 8926832121685553561
+      character_tools_fork_armor_hands_knight_1: 6898569745206557604
+      character_tools_fork_armor_hands_knight_10: -8164094547899237416
+      character_tools_fork_armor_hands_knight_11: 1828551140117952431
+      character_tools_fork_armor_hands_knight_12: -7574751583875604290
+      character_tools_fork_armor_hands_knight_13: -8353440589189459972
+      character_tools_fork_armor_hands_knight_14: 6557724650888632900
+      character_tools_fork_armor_hands_knight_15: 2119269049534779451
+      character_tools_fork_armor_hands_knight_16: -1957508105607551057
+      character_tools_fork_armor_hands_knight_17: 1445877400389846802
+      character_tools_fork_armor_hands_knight_18: -1710654579841845659
+      character_tools_fork_armor_hands_knight_19: 4972368328986887442
+      character_tools_fork_armor_hands_knight_2: 8854968068225124507
+      character_tools_fork_armor_hands_knight_20: -3442404534756580544
+      character_tools_fork_armor_hands_knight_3: 1600084963465424081
+      character_tools_fork_armor_hands_knight_4: 6400912733329245121
+      character_tools_fork_armor_hands_knight_5: -8443762251417497636
+      character_tools_fork_armor_hands_knight_6: 448415525818348365
+      character_tools_fork_armor_hands_knight_7: -7729621945111441764
+      character_tools_fork_armor_hands_knight_8: 5203717278190012179
+      character_tools_fork_armor_hands_knight_9: -5388459714999031555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

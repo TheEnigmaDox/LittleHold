@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: da6453cde64e7494b94d5b6ee62358fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1383978720119841927
+    second: tools_shovel_hairs_short_brown_0
+  - first:
+      213: -8749329935990697401
+    second: tools_shovel_hairs_short_brown_1
+  - first:
+      213: 540000024991261084
+    second: tools_shovel_hairs_short_brown_2
+  - first:
+      213: -5880722258568426715
+    second: tools_shovel_hairs_short_brown_3
+  - first:
+      213: 4361951083898615650
+    second: tools_shovel_hairs_short_brown_4
+  - first:
+      213: 9088302691989297531
+    second: tools_shovel_hairs_short_brown_5
+  - first:
+      213: 3512629244143538593
+    second: tools_shovel_hairs_short_brown_6
+  - first:
+      213: -9032675260363301706
+    second: tools_shovel_hairs_short_brown_7
+  - first:
+      213: 986469529533433816
+    second: tools_shovel_hairs_short_brown_8
+  - first:
+      213: 5471137781498417680
+    second: tools_shovel_hairs_short_brown_9
+  - first:
+      213: -1334392827320697476
+    second: tools_shovel_hairs_short_brown_10
+  - first:
+      213: 8883196900092873267
+    second: tools_shovel_hairs_short_brown_11
+  - first:
+      213: -7106792571894185634
+    second: tools_shovel_hairs_short_brown_12
+  - first:
+      213: -576362629766980670
+    second: tools_shovel_hairs_short_brown_13
+  - first:
+      213: 1990530901269188604
+    second: tools_shovel_hairs_short_brown_14
+  - first:
+      213: 35632780398224832
+    second: tools_shovel_hairs_short_brown_15
+  - first:
+      213: -2462378586493691864
+    second: tools_shovel_hairs_short_brown_16
+  - first:
+      213: -4131359095723217094
+    second: tools_shovel_hairs_short_brown_17
+  - first:
+      213: -6720531698364238337
+    second: tools_shovel_hairs_short_brown_18
+  - first:
+      213: -1596361426973716262
+    second: tools_shovel_hairs_short_brown_19
+  - first:
+      213: 2595619410100907878
+    second: tools_shovel_hairs_short_brown_20
+  - first:
+      213: 7016502362550563832
+    second: tools_shovel_hairs_short_brown_21
+  - first:
+      213: -8787802257202566202
+    second: tools_shovel_hairs_short_brown_22
+  - first:
+      213: 110933847337510419
+    second: tools_shovel_hairs_short_brown_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b9e8acfae1bcce0800000000000000
+      internalID: -1383978720119841927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 222
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742559677c2249680800000000000000
+      internalID: -8749329935990697401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c916e4469277e7700800000000000000
+      internalID: 540000024991261084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bcb43634a736ea0800000000000000
+      internalID: -5880722258568426715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26738637663c88c30800000000000000
+      internalID: 4361951083898615650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 223
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b799f3f7523202e70800000000000000
+      internalID: 9088302691989297531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a113d4dfad5fb030800000000000000
+      internalID: 3512629244143538593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 158
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc169635bd75a280800000000000000
+      internalID: -9032675260363301706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 158
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d746918fc4a0bd00800000000000000
+      internalID: 986469529533433816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0129e6f23d26deb40800000000000000
+      internalID: 5471137781498417680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d78b02bc84b7de0800000000000000
+      internalID: -1334392827320697476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a03e3f384774b70800000000000000
+      internalID: 8883196900092873267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51ccdb2fc99f5d90800000000000000
+      internalID: -7106792571894185634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbddeeed395008f0800000000000000
+      internalID: -576362629766980670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 94
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff8694fe49cf9b10800000000000000
+      internalID: 1990530901269188604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5eef133d79e7000800000000000000
+      internalID: 35632780398224832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828d389c8bfd3ddd0800000000000000
+      internalID: -2462378586493691864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fa6d39ac67aa6c0800000000000000
+      internalID: -4131359095723217094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff53f39f600ebb2a0800000000000000
+      internalID: -6720531698364238337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad098147db598d9e0800000000000000
+      internalID: -1596361426973716262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f6c2fe91e750420800000000000000
+      internalID: 2595619410100907878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f38549bf9f5160800000000000000
+      internalID: 7016502362550563832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cba01728647b0680800000000000000
+      internalID: -8787802257202566202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_shovel_hairs_short_brown_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 29
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316ae141fbd1a8100800000000000000
+      internalID: 110933847337510419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tools_shovel_hairs_short_brown_0: -1383978720119841927
+      tools_shovel_hairs_short_brown_1: -8749329935990697401
+      tools_shovel_hairs_short_brown_10: -1334392827320697476
+      tools_shovel_hairs_short_brown_11: 8883196900092873267
+      tools_shovel_hairs_short_brown_12: -7106792571894185634
+      tools_shovel_hairs_short_brown_13: -576362629766980670
+      tools_shovel_hairs_short_brown_14: 1990530901269188604
+      tools_shovel_hairs_short_brown_15: 35632780398224832
+      tools_shovel_hairs_short_brown_16: -2462378586493691864
+      tools_shovel_hairs_short_brown_17: -4131359095723217094
+      tools_shovel_hairs_short_brown_18: -6720531698364238337
+      tools_shovel_hairs_short_brown_19: -1596361426973716262
+      tools_shovel_hairs_short_brown_2: 540000024991261084
+      tools_shovel_hairs_short_brown_20: 2595619410100907878
+      tools_shovel_hairs_short_brown_21: 7016502362550563832
+      tools_shovel_hairs_short_brown_22: -8787802257202566202
+      tools_shovel_hairs_short_brown_23: 110933847337510419
+      tools_shovel_hairs_short_brown_3: -5880722258568426715
+      tools_shovel_hairs_short_brown_4: 4361951083898615650
+      tools_shovel_hairs_short_brown_5: 9088302691989297531
+      tools_shovel_hairs_short_brown_6: 3512629244143538593
+      tools_shovel_hairs_short_brown_7: -9032675260363301706
+      tools_shovel_hairs_short_brown_8: 986469529533433816
+      tools_shovel_hairs_short_brown_9: 5471137781498417680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

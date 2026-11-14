@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: ede2e88a816bba941b747a3b60a655cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3808211287794668692
+    second: character_deathblast_light_skin_0
+  - first:
+      213: -987846536839344631
+    second: character_deathblast_light_skin_1
+  - first:
+      213: -7796721214272890518
+    second: character_deathblast_light_skin_2
+  - first:
+      213: -621241740345801258
+    second: character_deathblast_light_skin_3
+  - first:
+      213: 2181139525404475524
+    second: character_deathblast_light_skin_4
+  - first:
+      213: -8839614432818047136
+    second: character_deathblast_light_skin_5
+  - first:
+      213: -2917808665735956571
+    second: character_deathblast_light_skin_6
+  - first:
+      213: -3144438254362275965
+    second: character_deathblast_light_skin_7
+  - first:
+      213: -1587228706454942202
+    second: character_deathblast_light_skin_8
+  - first:
+      213: -3214848790076402329
+    second: character_deathblast_light_skin_9
+  - first:
+      213: -348864402821398005
+    second: character_deathblast_light_skin_10
+  - first:
+      213: -6041519693326516871
+    second: character_deathblast_light_skin_11
+  - first:
+      213: -3898102621063073935
+    second: character_deathblast_light_skin_12
+  - first:
+      213: -6326277860770780322
+    second: character_deathblast_light_skin_13
+  - first:
+      213: 8337134414575453083
+    second: character_deathblast_light_skin_14
+  - first:
+      213: -4474186697694787537
+    second: character_deathblast_light_skin_15
+  - first:
+      213: -1681255858935698818
+    second: character_deathblast_light_skin_16
+  - first:
+      213: 3522027475469148159
+    second: character_deathblast_light_skin_17
+  - first:
+      213: 5422238830088052658
+    second: character_deathblast_light_skin_18
+  - first:
+      213: -1694868169654826575
+    second: character_deathblast_light_skin_19
+  - first:
+      213: 5975479662190464414
+    second: character_deathblast_light_skin_20
+  - first:
+      213: -2949815527891028331
+    second: character_deathblast_light_skin_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49452ae4dfb79d430800000000000000
+      internalID: 3808211287794668692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e471ffec67a42f0800000000000000
+      internalID: -987846536839344631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 85
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69138a4d5b7cc390800000000000000
+      internalID: -7796721214272890518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d50b0bbde7e067f0800000000000000
+      internalID: -621241740345801258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4804c4997d6f44e10800000000000000
+      internalID: 2181139525404475524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067d674f181635580800000000000000
+      internalID: -8839614432818047136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7704c4a7cd187d0800000000000000
+      internalID: -2917808665735956571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 23
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f469e4116bc54d0800000000000000
+      internalID: -3144438254362275965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 87
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e4376a6e709f9e0800000000000000
+      internalID: -1587228706454942202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765d6e4fe009263d0800000000000000
+      internalID: -3214848790076402329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024d0b8ca5982bf0800000000000000
+      internalID: -348864402821398005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dfeb729d5382ca0800000000000000
+      internalID: -6041519693326516871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f2485b15827e9c0800000000000000
+      internalID: -3898102621063073935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5be65ebdcb8438a0800000000000000
+      internalID: -6326277860770780322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 85
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b934479f39373b370800000000000000
+      internalID: 8337134414575453083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 21
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28cf1957ee78e1c0800000000000000
+      internalID: -4474186697694787537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 96
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae79734bafaa8e0800000000000000
+      internalID: -1681255858935698818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 16
+        width: 153
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff11841451c0e030800000000000000
+      internalID: 3522027475469148159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5abadc79af3b40800000000000000
+      internalID: 5422238830088052658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 32
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b98b96216e9a78e0800000000000000
+      internalID: -1694868169654826575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d0f63e71b2de250800000000000000
+      internalID: 5975479662190464414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_light_skin_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596bf1bf7662017d0800000000000000
+      internalID: -2949815527891028331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_deathblast_light_skin_0: 3808211287794668692
+      character_deathblast_light_skin_1: -987846536839344631
+      character_deathblast_light_skin_10: -348864402821398005
+      character_deathblast_light_skin_11: -6041519693326516871
+      character_deathblast_light_skin_12: -3898102621063073935
+      character_deathblast_light_skin_13: -6326277860770780322
+      character_deathblast_light_skin_14: 8337134414575453083
+      character_deathblast_light_skin_15: -4474186697694787537
+      character_deathblast_light_skin_16: -1681255858935698818
+      character_deathblast_light_skin_17: 3522027475469148159
+      character_deathblast_light_skin_18: 5422238830088052658
+      character_deathblast_light_skin_19: -1694868169654826575
+      character_deathblast_light_skin_2: -7796721214272890518
+      character_deathblast_light_skin_20: 5975479662190464414
+      character_deathblast_light_skin_21: -2949815527891028331
+      character_deathblast_light_skin_3: -621241740345801258
+      character_deathblast_light_skin_4: 2181139525404475524
+      character_deathblast_light_skin_5: -8839614432818047136
+      character_deathblast_light_skin_6: -2917808665735956571
+      character_deathblast_light_skin_7: -3144438254362275965
+      character_deathblast_light_skin_8: -1587228706454942202
+      character_deathblast_light_skin_9: -3214848790076402329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

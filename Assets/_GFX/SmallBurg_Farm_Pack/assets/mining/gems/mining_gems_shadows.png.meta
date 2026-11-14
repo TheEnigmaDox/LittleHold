@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 46ee6cafa4f71d9409d4515f338cf205
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3196927314324145865
+    second: mining_gems_shadows_0
+  - first:
+      213: -3839510410354056557
+    second: mining_gems_shadows_1
+  - first:
+      213: 2274919751466213859
+    second: mining_gems_shadows_2
+  - first:
+      213: 887785212442904134
+    second: mining_gems_shadows_3
+  - first:
+      213: 1780607090913508370
+    second: mining_gems_shadows_4
+  - first:
+      213: -2462881641208361320
+    second: mining_gems_shadows_5
+  - first:
+      213: -8152883036810410949
+    second: mining_gems_shadows_6
+  - first:
+      213: -2997780406112085879
+    second: mining_gems_shadows_7
+  - first:
+      213: 2640450670220077688
+    second: mining_gems_shadows_8
+  - first:
+      213: 8616865387184103971
+    second: mining_gems_shadows_9
+  - first:
+      213: 8109899008589369028
+    second: mining_gems_shadows_10
+  - first:
+      213: 5790456339885300746
+    second: mining_gems_shadows_11
+  - first:
+      213: 1383987119405901587
+    second: mining_gems_shadows_12
+  - first:
+      213: -1857705868300232118
+    second: mining_gems_shadows_13
+  - first:
+      213: 6309298382049722784
+    second: mining_gems_shadows_14
+  - first:
+      213: 1948054629907774466
+    second: mining_gems_shadows_15
+  - first:
+      213: 510236865355802736
+    second: mining_gems_shadows_16
+  - first:
+      213: 6823203190408969156
+    second: mining_gems_shadows_17
+  - first:
+      213: -6625185047339470281
+    second: mining_gems_shadows_18
+  - first:
+      213: 926691196578117798
+    second: mining_gems_shadows_19
+  - first:
+      213: -7842507500160640105
+    second: mining_gems_shadows_20
+  - first:
+      213: -7039233592085595599
+    second: mining_gems_shadows_21
+  - first:
+      213: -5705279704899737729
+    second: mining_gems_shadows_22
+  - first:
+      213: -383559362690682627
+    second: mining_gems_shadows_23
+  - first:
+      213: -7315760964778320779
+    second: mining_gems_shadows_24
+  - first:
+      213: 3993824523349449617
+    second: mining_gems_shadows_25
+  - first:
+      213: 6903076684766711538
+    second: mining_gems_shadows_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mining_gems_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73937f0bb8b32a3d0800000000000000
+      internalID: -3196927314324145865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392ae67df9157bac0800000000000000
+      internalID: -3839510410354056557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 208
+        width: 124
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1e9aef573229f10800000000000000
+      internalID: 2274919751466213859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646018072fb025c00800000000000000
+      internalID: 887785212442904134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf07217bcf5b810800000000000000
+      internalID: 1780607090913508370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ec1fb323612ddd0800000000000000
+      internalID: -2462881641208361320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 241
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b348b97e2142bde80800000000000000
+      internalID: -8152883036810410949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 241
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98810138a9eb566d0800000000000000
+      internalID: -2997780406112085879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae86515e3c4a420800000000000000
+      internalID: 2640450670220077688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322a7706a61459770800000000000000
+      internalID: 8616865387184103971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce03432e262c8070800000000000000
+      internalID: 8109899008589369028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 144
+        width: 124
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c954aac55db5050800000000000000
+      internalID: 5790456339885300746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317a7e1d3f8e43310800000000000000
+      internalID: 1383987119405901587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5ec6fa5a1836e0800000000000000
+      internalID: -1857705868300232118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1450c43712f8750800000000000000
+      internalID: 6309298382049722784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c35ba5d51e80b10800000000000000
+      internalID: 1948054629907774466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07867d6c9b9b41700800000000000000
+      internalID: 510236865355802736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb73aa9623e0be50800000000000000
+      internalID: 6823203190408969156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732f91a1d4d9e04a0800000000000000
+      internalID: -6625185047339470281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 113
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a83584cbb44cdc00800000000000000
+      internalID: 926691196578117798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 124
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b9690eaf0d92390800000000000000
+      internalID: -7842507500160640105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 113
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13abdbce75e9f4e90800000000000000
+      internalID: -7039233592085595599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 113
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a4351656c2d0b0800000000000000
+      internalID: -5705279704899737729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 113
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0fb84bac25daaf0800000000000000
+      internalID: -383559362690682627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c18b0c922397a90800000000000000
+      internalID: -7315760964778320779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bdc796e3aec6730800000000000000
+      internalID: 3993824523349449617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mining_gems_shadows_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 113
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe0dc4bba7accf50800000000000000
+      internalID: 6903076684766711538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mining_gems_shadows_0: -3196927314324145865
+      mining_gems_shadows_1: -3839510410354056557
+      mining_gems_shadows_10: 8109899008589369028
+      mining_gems_shadows_11: 5790456339885300746
+      mining_gems_shadows_12: 1383987119405901587
+      mining_gems_shadows_13: -1857705868300232118
+      mining_gems_shadows_14: 6309298382049722784
+      mining_gems_shadows_15: 1948054629907774466
+      mining_gems_shadows_16: 510236865355802736
+      mining_gems_shadows_17: 6823203190408969156
+      mining_gems_shadows_18: -6625185047339470281
+      mining_gems_shadows_19: 926691196578117798
+      mining_gems_shadows_2: 2274919751466213859
+      mining_gems_shadows_20: -7842507500160640105
+      mining_gems_shadows_21: -7039233592085595599
+      mining_gems_shadows_22: -5705279704899737729
+      mining_gems_shadows_23: -383559362690682627
+      mining_gems_shadows_24: -7315760964778320779
+      mining_gems_shadows_25: 3993824523349449617
+      mining_gems_shadows_26: 6903076684766711538
+      mining_gems_shadows_3: 887785212442904134
+      mining_gems_shadows_4: 1780607090913508370
+      mining_gems_shadows_5: -2462881641208361320
+      mining_gems_shadows_6: -8152883036810410949
+      mining_gems_shadows_7: -2997780406112085879
+      mining_gems_shadows_8: 2640450670220077688
+      mining_gems_shadows_9: 8616865387184103971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 9c9e1b59101977845987c5dadc0e8896
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1611333527642404703
+    second: wall_white_wood_0
+  - first:
+      213: -4230636975863174206
+    second: wall_white_wood_1
+  - first:
+      213: 4041906042381854318
+    second: wall_white_wood_2
+  - first:
+      213: 4444276508296557551
+    second: wall_white_wood_3
+  - first:
+      213: 7305077747778126773
+    second: wall_white_wood_4
+  - first:
+      213: 8008230571929062740
+    second: wall_white_wood_5
+  - first:
+      213: -3443456439570887774
+    second: wall_white_wood_6
+  - first:
+      213: -2204997040174779374
+    second: wall_white_wood_7
+  - first:
+      213: 8985177108739588139
+    second: wall_white_wood_8
+  - first:
+      213: 7722631929122474758
+    second: wall_white_wood_9
+  - first:
+      213: -7202822394506172107
+    second: wall_white_wood_10
+  - first:
+      213: -2083000039399664469
+    second: wall_white_wood_11
+  - first:
+      213: -4426817097841283355
+    second: wall_white_wood_12
+  - first:
+      213: 2996873455978044114
+    second: wall_white_wood_13
+  - first:
+      213: -8985972298876800304
+    second: wall_white_wood_14
+  - first:
+      213: 8481492988508964527
+    second: wall_white_wood_15
+  - first:
+      213: 20594602252115623
+    second: wall_white_wood_16
+  - first:
+      213: -949070756777460147
+    second: wall_white_wood_17
+  - first:
+      213: 6733304329089019281
+    second: wall_white_wood_18
+  - first:
+      213: 1056883263143837277
+    second: wall_white_wood_19
+  - first:
+      213: -8088349358549248075
+    second: wall_white_wood_20
+  - first:
+      213: 8227698976034781331
+    second: wall_white_wood_21
+  - first:
+      213: 7588792230387966767
+    second: wall_white_wood_22
+  - first:
+      213: 1960299212376540189
+    second: wall_white_wood_23
+  - first:
+      213: -6382958334579027120
+    second: wall_white_wood_24
+  - first:
+      213: 1543978175242501237
+    second: wall_white_wood_25
+  - first:
+      213: -222253604352696086
+    second: wall_white_wood_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wall_white_wood_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577dc16e4b9c5610800000000000000
+      internalID: 1611333527642404703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 143
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbea08d512c945c0800000000000000
+      internalID: -4230636975863174206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ecaf612cb71830800000000000000
+      internalID: 4041906042381854318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe331a000fd3dad30800000000000000
+      internalID: 4444276508296557551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b30de4f189d06560800000000000000
+      internalID: 7305077747778126773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d41479643f22f60800000000000000
+      internalID: 8008230571929062740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 111
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab88d7cc926630d0800000000000000
+      internalID: -3443456439570887774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 66
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143891efd64661e0800000000000000
+      internalID: -2204997040174779374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 66
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20056299f2c1bc70800000000000000
+      internalID: 8985177108739588139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b4f62c2dc4c2b60800000000000000
+      internalID: 7722631929122474758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_10
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5392b33c13f6a0c90800000000000000
+      internalID: -7202822394506172107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba455781082b713e0800000000000000
+      internalID: -2083000039399664469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6b85cd49c092c0800000000000000
+      internalID: -4426817097841283355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 34
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da5e54b788079920800000000000000
+      internalID: 2996873455978044114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 34
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2b2fbcdc96b4380800000000000000
+      internalID: -8985972298876800304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa60b09afe054b570800000000000000
+      internalID: 8481492988508964527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae178f7eaa294000800000000000000
+      internalID: 20594602252115623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 63
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e7193dc2934d2f0800000000000000
+      internalID: -949070756777460147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 63
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d63fbdc90817d50800000000000000
+      internalID: 6733304329089019281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 50
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e7ebc6abdcaae00800000000000000
+      internalID: 1056883263143837277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 50
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d960cc1960cf80800000000000000
+      internalID: -8088349358549248075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 18
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398f56160a8ae2270800000000000000
+      internalID: 8227698976034781331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 18
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23e48e835ec05960800000000000000
+      internalID: 7588792230387966767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d148e2f5fb1643b10800000000000000
+      internalID: 1960299212376540189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 31
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0535c4b863d2b67a0800000000000000
+      internalID: -6382958334579027120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cf84458ff4d6510800000000000000
+      internalID: 1543978175242501237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_white_wood_26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e18e36856aecf0800000000000000
+      internalID: -222253604352696086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wall_white_wood_0: 1611333527642404703
+      wall_white_wood_1: -4230636975863174206
+      wall_white_wood_10: -7202822394506172107
+      wall_white_wood_11: -2083000039399664469
+      wall_white_wood_12: -4426817097841283355
+      wall_white_wood_13: 2996873455978044114
+      wall_white_wood_14: -8985972298876800304
+      wall_white_wood_15: 8481492988508964527
+      wall_white_wood_16: 20594602252115623
+      wall_white_wood_17: -949070756777460147
+      wall_white_wood_18: 6733304329089019281
+      wall_white_wood_19: 1056883263143837277
+      wall_white_wood_2: 4041906042381854318
+      wall_white_wood_20: -8088349358549248075
+      wall_white_wood_21: 8227698976034781331
+      wall_white_wood_22: 7588792230387966767
+      wall_white_wood_23: 1960299212376540189
+      wall_white_wood_24: -6382958334579027120
+      wall_white_wood_25: 1543978175242501237
+      wall_white_wood_26: -222253604352696086
+      wall_white_wood_3: 4444276508296557551
+      wall_white_wood_4: 7305077747778126773
+      wall_white_wood_5: 8008230571929062740
+      wall_white_wood_6: -3443456439570887774
+      wall_white_wood_7: -2204997040174779374
+      wall_white_wood_8: 8985177108739588139
+      wall_white_wood_9: 7722631929122474758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

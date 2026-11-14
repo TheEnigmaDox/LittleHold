@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 1666de39d04e97846ac5c0a9be06b2c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3356003647334066042
+    second: character_super_slash_hairstyles_bald_brown_light_0
+  - first:
+      213: 3125373260387821688
+    second: character_super_slash_hairstyles_bald_brown_light_1
+  - first:
+      213: 2252485486481073612
+    second: character_super_slash_hairstyles_bald_brown_light_2
+  - first:
+      213: -4200871323434333436
+    second: character_super_slash_hairstyles_bald_brown_light_3
+  - first:
+      213: -7901989151874486771
+    second: character_super_slash_hairstyles_bald_brown_light_4
+  - first:
+      213: 4240107792737074426
+    second: character_super_slash_hairstyles_bald_brown_light_5
+  - first:
+      213: 6433526156622822971
+    second: character_super_slash_hairstyles_bald_brown_light_6
+  - first:
+      213: -1898939264836518477
+    second: character_super_slash_hairstyles_bald_brown_light_7
+  - first:
+      213: -5748035497639088097
+    second: character_super_slash_hairstyles_bald_brown_light_8
+  - first:
+      213: -1183868995460183701
+    second: character_super_slash_hairstyles_bald_brown_light_9
+  - first:
+      213: 3361648196541858298
+    second: character_super_slash_hairstyles_bald_brown_light_10
+  - first:
+      213: -3779302556530819459
+    second: character_super_slash_hairstyles_bald_brown_light_11
+  - first:
+      213: 241917824995023117
+    second: character_super_slash_hairstyles_bald_brown_light_12
+  - first:
+      213: -309890756221314261
+    second: character_super_slash_hairstyles_bald_brown_light_13
+  - first:
+      213: -3285522862384210888
+    second: character_super_slash_hairstyles_bald_brown_light_14
+  - first:
+      213: -2533058707335095017
+    second: character_super_slash_hairstyles_bald_brown_light_15
+  - first:
+      213: -6117886665000387211
+    second: character_super_slash_hairstyles_bald_brown_light_16
+  - first:
+      213: 388948046061209983
+    second: character_super_slash_hairstyles_bald_brown_light_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688dcbfa6741d61d0800000000000000
+      internalID: -3356003647334066042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878abefdb6e8f5b20800000000000000
+      internalID: 3125373260387821688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc56d63ad9f624f10800000000000000
+      internalID: 2252485486481073612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b429bd9c183b5c0800000000000000
+      internalID: -4200871323434333436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee78f9bbe765290800000000000000
+      internalID: -7901989151874486771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc757b8293e7da30800000000000000
+      internalID: 4240107792737074426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3effa204f9784950800000000000000
+      internalID: 6433526156622822971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb065bccc95a5e0800000000000000
+      internalID: -1898939264836518477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10f2e65b20ea30b0800000000000000
+      internalID: -5748035497639088097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b694ff8cb6d029fe0800000000000000
+      internalID: -1183868995460183701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1c5b65939f6ae20800000000000000
+      internalID: 3361648196541858298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e314339583d8bc0800000000000000
+      internalID: -3779302556530819459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d9a7eaf67b5300800000000000000
+      internalID: 241917824995023117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 269
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b5044cffb03bbf0800000000000000
+      internalID: -309890756221314261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c1a263d5a7762d0800000000000000
+      internalID: -3285522862384210888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dd412c684c8dcd0800000000000000
+      internalID: -2533058707335095017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d7d8cfd76e81ba0800000000000000
+      internalID: -6117886665000387211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_super_slash_hairstyles_bald_brown_light_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 30
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f798f89ef22d56500800000000000000
+      internalID: 388948046061209983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_super_slash_hairstyles_bald_brown_light_0: -3356003647334066042
+      character_super_slash_hairstyles_bald_brown_light_1: 3125373260387821688
+      character_super_slash_hairstyles_bald_brown_light_10: 3361648196541858298
+      character_super_slash_hairstyles_bald_brown_light_11: -3779302556530819459
+      character_super_slash_hairstyles_bald_brown_light_12: 241917824995023117
+      character_super_slash_hairstyles_bald_brown_light_13: -309890756221314261
+      character_super_slash_hairstyles_bald_brown_light_14: -3285522862384210888
+      character_super_slash_hairstyles_bald_brown_light_15: -2533058707335095017
+      character_super_slash_hairstyles_bald_brown_light_16: -6117886665000387211
+      character_super_slash_hairstyles_bald_brown_light_17: 388948046061209983
+      character_super_slash_hairstyles_bald_brown_light_2: 2252485486481073612
+      character_super_slash_hairstyles_bald_brown_light_3: -4200871323434333436
+      character_super_slash_hairstyles_bald_brown_light_4: -7901989151874486771
+      character_super_slash_hairstyles_bald_brown_light_5: 4240107792737074426
+      character_super_slash_hairstyles_bald_brown_light_6: 6433526156622822971
+      character_super_slash_hairstyles_bald_brown_light_7: -1898939264836518477
+      character_super_slash_hairstyles_bald_brown_light_8: -5748035497639088097
+      character_super_slash_hairstyles_bald_brown_light_9: -1183868995460183701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

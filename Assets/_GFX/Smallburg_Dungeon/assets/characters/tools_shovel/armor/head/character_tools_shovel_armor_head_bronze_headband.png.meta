@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 46ebc308d13cbe447874df08c95633eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8985085274993959758
+    second: character_tools_shovel_armor_head_bronze_headband_0
+  - first:
+      213: -1125049008345303506
+    second: character_tools_shovel_armor_head_bronze_headband_1
+  - first:
+      213: -5626885239457598224
+    second: character_tools_shovel_armor_head_bronze_headband_2
+  - first:
+      213: -3538200013695516924
+    second: character_tools_shovel_armor_head_bronze_headband_3
+  - first:
+      213: 4662368162445549418
+    second: character_tools_shovel_armor_head_bronze_headband_4
+  - first:
+      213: -2952182353010534608
+    second: character_tools_shovel_armor_head_bronze_headband_5
+  - first:
+      213: 4350432030950027062
+    second: character_tools_shovel_armor_head_bronze_headband_6
+  - first:
+      213: -5054949142678497182
+    second: character_tools_shovel_armor_head_bronze_headband_7
+  - first:
+      213: -5408807652160799131
+    second: character_tools_shovel_armor_head_bronze_headband_8
+  - first:
+      213: -6293604382502700988
+    second: character_tools_shovel_armor_head_bronze_headband_9
+  - first:
+      213: -4153779322004727030
+    second: character_tools_shovel_armor_head_bronze_headband_10
+  - first:
+      213: 3903126775546649646
+    second: character_tools_shovel_armor_head_bronze_headband_11
+  - first:
+      213: 8754320479647285966
+    second: character_tools_shovel_armor_head_bronze_headband_12
+  - first:
+      213: -640121069234058510
+    second: character_tools_shovel_armor_head_bronze_headband_13
+  - first:
+      213: -878228086518140776
+    second: character_tools_shovel_armor_head_bronze_headband_14
+  - first:
+      213: -1392678174231049513
+    second: character_tools_shovel_armor_head_bronze_headband_15
+  - first:
+      213: -6613690462484377712
+    second: character_tools_shovel_armor_head_bronze_headband_16
+  - first:
+      213: 893335402226821413
+    second: character_tools_shovel_armor_head_bronze_headband_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc54632c809e4380800000000000000
+      internalID: -8985085274993959758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 224
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e263cae33e50360f0800000000000000
+      internalID: -1125049008345303506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 224
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4bd3eefa949e1b0800000000000000
+      internalID: -5626885239457598224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f756f65d9c5eec0800000000000000
+      internalID: -3538200013695516924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f58a6342f04b040800000000000000
+      internalID: 4662368162445549418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03751a09acdb707d0800000000000000
+      internalID: -2952182353010534608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fe140f1e6df5c30800000000000000
+      internalID: 4350432030950027062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2689bf8798639d9b0800000000000000
+      internalID: -5054949142678497182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7a82f81e00f4b0800000000000000
+      internalID: -5408807652160799131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b518b820a8a8a0800000000000000
+      internalID: -6293604382502700988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b9b8cd6bfca56c0800000000000000
+      internalID: -4153779322004727030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c16c96f11ba2630800000000000000
+      internalID: 3903126775546649646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2cd4708189d7970800000000000000
+      internalID: 8754320479647285966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa8f0f6745dd17f0800000000000000
+      internalID: -640121069234058510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 32
+        width: 203
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b0575538efc3f0800000000000000
+      internalID: -878228086518140776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 96
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac48a44963cace0800000000000000
+      internalID: -1392678174231049513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fca31b0937734a0800000000000000
+      internalID: -6613690462484377712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_shovel_armor_head_bronze_headband_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a203b0d3c56c00800000000000000
+      internalID: 893335402226821413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_shovel_armor_head_bronze_headband_0: -8985085274993959758
+      character_tools_shovel_armor_head_bronze_headband_1: -1125049008345303506
+      character_tools_shovel_armor_head_bronze_headband_10: -4153779322004727030
+      character_tools_shovel_armor_head_bronze_headband_11: 3903126775546649646
+      character_tools_shovel_armor_head_bronze_headband_12: 8754320479647285966
+      character_tools_shovel_armor_head_bronze_headband_13: -640121069234058510
+      character_tools_shovel_armor_head_bronze_headband_14: -878228086518140776
+      character_tools_shovel_armor_head_bronze_headband_15: -1392678174231049513
+      character_tools_shovel_armor_head_bronze_headband_16: -6613690462484377712
+      character_tools_shovel_armor_head_bronze_headband_17: 893335402226821413
+      character_tools_shovel_armor_head_bronze_headband_2: -5626885239457598224
+      character_tools_shovel_armor_head_bronze_headband_3: -3538200013695516924
+      character_tools_shovel_armor_head_bronze_headband_4: 4662368162445549418
+      character_tools_shovel_armor_head_bronze_headband_5: -2952182353010534608
+      character_tools_shovel_armor_head_bronze_headband_6: 4350432030950027062
+      character_tools_shovel_armor_head_bronze_headband_7: -5054949142678497182
+      character_tools_shovel_armor_head_bronze_headband_8: -5408807652160799131
+      character_tools_shovel_armor_head_bronze_headband_9: -6293604382502700988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

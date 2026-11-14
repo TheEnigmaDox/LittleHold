@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6c9f38026109edb4e91957982c4ef4e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2636814151493566858
+    second: tileset_dungeon_prespective_with_depth_gradient_0
+  - first:
+      213: 3350190797484426097
+    second: tileset_dungeon_prespective_with_depth_gradient_1
+  - first:
+      213: -4140038541978400870
+    second: tileset_dungeon_prespective_with_depth_gradient_2
+  - first:
+      213: -2697161507730642500
+    second: tileset_dungeon_prespective_with_depth_gradient_3
+  - first:
+      213: 5716248339529380907
+    second: tileset_dungeon_prespective_with_depth_gradient_4
+  - first:
+      213: 4158910527475009422
+    second: tileset_dungeon_prespective_with_depth_gradient_5
+  - first:
+      213: -5141515340977951438
+    second: tileset_dungeon_prespective_with_depth_gradient_6
+  - first:
+      213: -2974577415349894187
+    second: tileset_dungeon_prespective_with_depth_gradient_7
+  - first:
+      213: -8192778697125032920
+    second: tileset_dungeon_prespective_with_depth_gradient_8
+  - first:
+      213: 8487361856015794898
+    second: tileset_dungeon_prespective_with_depth_gradient_9
+  - first:
+      213: -4967646974215912193
+    second: tileset_dungeon_prespective_with_depth_gradient_10
+  - first:
+      213: -4369635827767979928
+    second: tileset_dungeon_prespective_with_depth_gradient_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eb089ef77286bd0800000000000000
+      internalID: -2636814151493566858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 335
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17387ddb7c44e7e20800000000000000
+      internalID: 3350190797484426097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9783f481e0ab86c0800000000000000
+      internalID: -4140038541978400870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 335
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9abdd16e1c19ad0800000000000000
+      internalID: -2697161507730642500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24b09d2491345f40800000000000000
+      internalID: 5716248339529380907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87c7c2071b67b930800000000000000
+      internalID: 4158910527475009422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 175
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23da9cdc90ba5a8b0800000000000000
+      internalID: -5141515340977951438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_7
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 175
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38b29c99d28b6d0800000000000000
+      internalID: -2974577415349894187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c8972ae276d4e80800000000000000
+      internalID: -8192778697125032920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2850cd3aa29c570800000000000000
+      internalID: 8487361856015794898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4015c856f5f0bb0800000000000000
+      internalID: -4967646974215912193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_dungeon_prespective_with_depth_gradient_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860d110bd5feb53c0800000000000000
+      internalID: -4369635827767979928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileset_dungeon_prespective_with_depth_gradient_0: -2636814151493566858
+      tileset_dungeon_prespective_with_depth_gradient_1: 3350190797484426097
+      tileset_dungeon_prespective_with_depth_gradient_10: -4967646974215912193
+      tileset_dungeon_prespective_with_depth_gradient_11: -4369635827767979928
+      tileset_dungeon_prespective_with_depth_gradient_2: -4140038541978400870
+      tileset_dungeon_prespective_with_depth_gradient_3: -2697161507730642500
+      tileset_dungeon_prespective_with_depth_gradient_4: 5716248339529380907
+      tileset_dungeon_prespective_with_depth_gradient_5: 4158910527475009422
+      tileset_dungeon_prespective_with_depth_gradient_6: -5141515340977951438
+      tileset_dungeon_prespective_with_depth_gradient_7: -2974577415349894187
+      tileset_dungeon_prespective_with_depth_gradient_8: -8192778697125032920
+      tileset_dungeon_prespective_with_depth_gradient_9: 8487361856015794898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

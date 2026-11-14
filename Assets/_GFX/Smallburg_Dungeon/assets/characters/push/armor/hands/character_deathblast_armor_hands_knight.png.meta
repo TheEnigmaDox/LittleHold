@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 1458a0f11ad04f7498a8c8edb62137ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6999847097444162763
+    second: character_deathblast_armor_hands_knight_0
+  - first:
+      213: 9093521955497282573
+    second: character_deathblast_armor_hands_knight_1
+  - first:
+      213: 7375902165496859171
+    second: character_deathblast_armor_hands_knight_2
+  - first:
+      213: -1220163842357935270
+    second: character_deathblast_armor_hands_knight_3
+  - first:
+      213: 6318325540977997550
+    second: character_deathblast_armor_hands_knight_4
+  - first:
+      213: 4327104724184178071
+    second: character_deathblast_armor_hands_knight_5
+  - first:
+      213: -2890036384883184886
+    second: character_deathblast_armor_hands_knight_6
+  - first:
+      213: 2990360730830486999
+    second: character_deathblast_armor_hands_knight_7
+  - first:
+      213: 4890257038619358561
+    second: character_deathblast_armor_hands_knight_8
+  - first:
+      213: 8918450952078687822
+    second: character_deathblast_armor_hands_knight_9
+  - first:
+      213: 255297315127224190
+    second: character_deathblast_armor_hands_knight_10
+  - first:
+      213: -8671083684693902819
+    second: character_deathblast_armor_hands_knight_11
+  - first:
+      213: 1428960624783524554
+    second: character_deathblast_armor_hands_knight_12
+  - first:
+      213: 2328884006435284679
+    second: character_deathblast_armor_hands_knight_13
+  - first:
+      213: -4670101286908277366
+    second: character_deathblast_armor_hands_knight_14
+  - first:
+      213: -4464660597512205641
+    second: character_deathblast_armor_hands_knight_15
+  - first:
+      213: 1387126583815348379
+    second: character_deathblast_armor_hands_knight_16
+  - first:
+      213: 5580057701575394164
+    second: character_deathblast_armor_hands_knight_17
+  - first:
+      213: 2123549691954900056
+    second: character_deathblast_armor_hands_knight_18
+  - first:
+      213: 1504477618503582587
+    second: character_deathblast_armor_hands_knight_19
+  - first:
+      213: 1364441639015983885
+    second: character_deathblast_armor_hands_knight_20
+  - first:
+      213: -9064482828045854678
+    second: character_deathblast_armor_hands_knight_21
+  - first:
+      213: 6870989855171979731
+    second: character_deathblast_armor_hands_knight_22
+  - first:
+      213: 884574062789396830
+    second: character_deathblast_armor_hands_knight_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc553d29d3742160800000000000000
+      internalID: 6999847097444162763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c81aaf90ea23e70800000000000000
+      internalID: 9093521955497282573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a8978b0f77c5660800000000000000
+      internalID: 7375902165496859171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ca78337b111fe0800000000000000
+      internalID: -1220163842357935270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee675458a933fa750800000000000000
+      internalID: 6318325540977997550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d99e612d6fc0c30800000000000000
+      internalID: 4327104724184178071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6513583784e7d0800000000000000
+      internalID: -2890036384883184886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddbd67bd35ef7920800000000000000
+      internalID: 2990360730830486999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b24feddeadd340800000000000000
+      internalID: 4890257038619358561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ef46193e3b4cb70800000000000000
+      internalID: 8918450952078687822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77e4443e8ffa8300800000000000000
+      internalID: 255297315127224190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a7224845f1aa780800000000000000
+      internalID: -8671083684693902819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20e360e10b4d310800000000000000
+      internalID: 1428960624783524554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 333
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e9a63aabd15020800000000000000
+      internalID: 2328884006435284679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dccb07f97703fb0800000000000000
+      internalID: -4670101286908277366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba0a9267d65a02c0800000000000000
+      internalID: -4464660597512205641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90a0d65740104310800000000000000
+      internalID: 1387126583815348379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47385984ae8507d40800000000000000
+      internalID: 5580057701575394164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cacdb913d587d10800000000000000
+      internalID: 2123549691954900056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b738e674c6af0e410800000000000000
+      internalID: 1504477618503582587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bac4a01787fe210800000000000000
+      internalID: 1364441639015983885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_21
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d2b1c4ec743280800000000000000
+      internalID: -9064482828045854678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9a6d48ed8aa5f50800000000000000
+      internalID: 6870989855171979731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_deathblast_armor_hands_knight_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5906166c63a64c00800000000000000
+      internalID: 884574062789396830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_deathblast_armor_hands_knight_0: 6999847097444162763
+      character_deathblast_armor_hands_knight_1: 9093521955497282573
+      character_deathblast_armor_hands_knight_10: 255297315127224190
+      character_deathblast_armor_hands_knight_11: -8671083684693902819
+      character_deathblast_armor_hands_knight_12: 1428960624783524554
+      character_deathblast_armor_hands_knight_13: 2328884006435284679
+      character_deathblast_armor_hands_knight_14: -4670101286908277366
+      character_deathblast_armor_hands_knight_15: -4464660597512205641
+      character_deathblast_armor_hands_knight_16: 1387126583815348379
+      character_deathblast_armor_hands_knight_17: 5580057701575394164
+      character_deathblast_armor_hands_knight_18: 2123549691954900056
+      character_deathblast_armor_hands_knight_19: 1504477618503582587
+      character_deathblast_armor_hands_knight_2: 7375902165496859171
+      character_deathblast_armor_hands_knight_20: 1364441639015983885
+      character_deathblast_armor_hands_knight_21: -9064482828045854678
+      character_deathblast_armor_hands_knight_22: 6870989855171979731
+      character_deathblast_armor_hands_knight_23: 884574062789396830
+      character_deathblast_armor_hands_knight_3: -1220163842357935270
+      character_deathblast_armor_hands_knight_4: 6318325540977997550
+      character_deathblast_armor_hands_knight_5: 4327104724184178071
+      character_deathblast_armor_hands_knight_6: -2890036384883184886
+      character_deathblast_armor_hands_knight_7: 2990360730830486999
+      character_deathblast_armor_hands_knight_8: 4890257038619358561
+      character_deathblast_armor_hands_knight_9: 8918450952078687822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

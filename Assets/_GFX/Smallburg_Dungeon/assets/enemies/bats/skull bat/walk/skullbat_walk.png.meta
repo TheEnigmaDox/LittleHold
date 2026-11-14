@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: ffafa353a5b02ea45973a7cba49879a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8519684766574714202
+    second: skullbat_walk_0
+  - first:
+      213: -4964778170604240219
+    second: skullbat_walk_1
+  - first:
+      213: -1412568584179210066
+    second: skullbat_walk_2
+  - first:
+      213: 5592644133350834150
+    second: skullbat_walk_3
+  - first:
+      213: 714572879651804646
+    second: skullbat_walk_4
+  - first:
+      213: -1290914441704419139
+    second: skullbat_walk_5
+  - first:
+      213: -185894592537023557
+    second: skullbat_walk_6
+  - first:
+      213: 3662693774224418437
+    second: skullbat_walk_7
+  - first:
+      213: 938502049247885654
+    second: skullbat_walk_8
+  - first:
+      213: 5917399052201453467
+    second: skullbat_walk_9
+  - first:
+      213: -2444156566645811526
+    second: skullbat_walk_10
+  - first:
+      213: 8660112165552621637
+    second: skullbat_walk_11
+  - first:
+      213: -6644936245316492652
+    second: skullbat_walk_12
+  - first:
+      213: -967607043777647886
+    second: skullbat_walk_13
+  - first:
+      213: 2425331273350236270
+    second: skullbat_walk_14
+  - first:
+      213: -6921564458391651218
+    second: skullbat_walk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skullbat_walk_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 224
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2e10218dff3c980800000000000000
+      internalID: -8519684766574714202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 227
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a24580fe80991bb0800000000000000
+      internalID: -4964778170604240219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 223
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82f175b5c856ce0800000000000000
+      internalID: -1412568584179210066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 223
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef7c8b45301d9d40800000000000000
+      internalID: 5592644133350834150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e516c18f3caae900800000000000000
+      internalID: 714572879651804646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 163
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db059c2a720c51ee0800000000000000
+      internalID: -1290914441704419139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb2a2e5ad19b6df0800000000000000
+      internalID: -185894592537023557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5866ea5f49084d230800000000000000
+      internalID: 3662693774224418437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659756234aa360d00800000000000000
+      internalID: 938502049247885654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 96
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9763b41613de1250800000000000000
+      internalID: 5917399052201453467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 92
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab653a56d8c941ed0800000000000000
+      internalID: -2444156566645811526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 93
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5488dce9126ee2870800000000000000
+      internalID: 8660112165552621637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 30
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492eac6f0b178c3a0800000000000000
+      internalID: -6644936245316492652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faa771358e5292f0800000000000000
+      internalID: -967607043777647886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 28
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68cfa271f188a120800000000000000
+      internalID: 2425331273350236270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullbat_walk_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 29
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cb89f0cc9a1ff90800000000000000
+      internalID: -6921564458391651218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skullbat_walk_0: -8519684766574714202
+      skullbat_walk_1: -4964778170604240219
+      skullbat_walk_10: -2444156566645811526
+      skullbat_walk_11: 8660112165552621637
+      skullbat_walk_12: -6644936245316492652
+      skullbat_walk_13: -967607043777647886
+      skullbat_walk_14: 2425331273350236270
+      skullbat_walk_15: -6921564458391651218
+      skullbat_walk_2: -1412568584179210066
+      skullbat_walk_3: 5592644133350834150
+      skullbat_walk_4: 714572879651804646
+      skullbat_walk_5: -1290914441704419139
+      skullbat_walk_6: -185894592537023557
+      skullbat_walk_7: 3662693774224418437
+      skullbat_walk_8: 938502049247885654
+      skullbat_walk_9: 5917399052201453467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

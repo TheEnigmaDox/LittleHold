@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 17d3269282a0585458f6dce958d20d71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 437328994899218623
+    second: character_tools_fork_armor_chest_blue_robe_0
+  - first:
+      213: 6543111733161183512
+    second: character_tools_fork_armor_chest_blue_robe_1
+  - first:
+      213: -305212751623253081
+    second: character_tools_fork_armor_chest_blue_robe_2
+  - first:
+      213: 698789145908606727
+    second: character_tools_fork_armor_chest_blue_robe_3
+  - first:
+      213: 1147822890492241268
+    second: character_tools_fork_armor_chest_blue_robe_4
+  - first:
+      213: -9177935877440728152
+    second: character_tools_fork_armor_chest_blue_robe_5
+  - first:
+      213: 3600805250956901692
+    second: character_tools_fork_armor_chest_blue_robe_6
+  - first:
+      213: -1666277799692028636
+    second: character_tools_fork_armor_chest_blue_robe_7
+  - first:
+      213: 4536913282776114218
+    second: character_tools_fork_armor_chest_blue_robe_8
+  - first:
+      213: -2706034627356957759
+    second: character_tools_fork_armor_chest_blue_robe_9
+  - first:
+      213: -4377703677468366922
+    second: character_tools_fork_armor_chest_blue_robe_10
+  - first:
+      213: -496107654638342565
+    second: character_tools_fork_armor_chest_blue_robe_11
+  - first:
+      213: 1503634821362305786
+    second: character_tools_fork_armor_chest_blue_robe_12
+  - first:
+      213: 1667879075989015383
+    second: character_tools_fork_armor_chest_blue_robe_13
+  - first:
+      213: 3656517620139935444
+    second: character_tools_fork_armor_chest_blue_robe_14
+  - first:
+      213: -7363288842267808469
+    second: character_tools_fork_armor_chest_blue_robe_15
+  - first:
+      213: 1022263201033761553
+    second: character_tools_fork_armor_chest_blue_robe_16
+  - first:
+      213: -7700257124113495706
+    second: character_tools_fork_armor_chest_blue_robe_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 77
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb052fe5764b11600800000000000000
+      internalID: 437328994899218623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 217
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81943c4547dcdca50800000000000000
+      internalID: 6543111733161183512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 217
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a393969e9aa3cbf0800000000000000
+      internalID: -305212751623253081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f7ce960992b900800000000000000
+      internalID: 698789145908606727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 74
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4752ad466d2edef00800000000000000
+      internalID: 1147822890492241268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 153
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a315dd32fb61a080800000000000000
+      internalID: -9177935877440728152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 153
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3db5a04c41a8f130800000000000000
+      internalID: 3600805250956901692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 153
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425bc346b2130e8e0800000000000000
+      internalID: -1666277799692028636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 90
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a242f94d79a56fe30800000000000000
+      internalID: 4536913282776114218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c36b76f7db327ad0800000000000000
+      internalID: -2706034627356957759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 90
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7a39c03b54f33c0800000000000000
+      internalID: -4377703677468366922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 90
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5eede277b87d19f0800000000000000
+      internalID: -496107654638342565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 89
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa453747ebfdd410800000000000000
+      internalID: 1503634821362305786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 89
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bc1acce2f752710800000000000000
+      internalID: 1667879075989015383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 75
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6c567076f8eb230800000000000000
+      internalID: 3656517620139935444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 75
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da7027fc750d990800000000000000
+      internalID: -7363288842267808469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113329417fecf2e00800000000000000
+      internalID: 1022263201033761553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_fork_armor_chest_blue_robe_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6694b0e71f0332590800000000000000
+      internalID: -7700257124113495706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_fork_armor_chest_blue_robe_0: 437328994899218623
+      character_tools_fork_armor_chest_blue_robe_1: 6543111733161183512
+      character_tools_fork_armor_chest_blue_robe_10: -4377703677468366922
+      character_tools_fork_armor_chest_blue_robe_11: -496107654638342565
+      character_tools_fork_armor_chest_blue_robe_12: 1503634821362305786
+      character_tools_fork_armor_chest_blue_robe_13: 1667879075989015383
+      character_tools_fork_armor_chest_blue_robe_14: 3656517620139935444
+      character_tools_fork_armor_chest_blue_robe_15: -7363288842267808469
+      character_tools_fork_armor_chest_blue_robe_16: 1022263201033761553
+      character_tools_fork_armor_chest_blue_robe_17: -7700257124113495706
+      character_tools_fork_armor_chest_blue_robe_2: -305212751623253081
+      character_tools_fork_armor_chest_blue_robe_3: 698789145908606727
+      character_tools_fork_armor_chest_blue_robe_4: 1147822890492241268
+      character_tools_fork_armor_chest_blue_robe_5: -9177935877440728152
+      character_tools_fork_armor_chest_blue_robe_6: 3600805250956901692
+      character_tools_fork_armor_chest_blue_robe_7: -1666277799692028636
+      character_tools_fork_armor_chest_blue_robe_8: 4536913282776114218
+      character_tools_fork_armor_chest_blue_robe_9: -2706034627356957759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: d14b13799f54ec64e826a2460c8aca0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2094194429148635887
+    second: premades_mage_walk_0
+  - first:
+      213: -4352058267863376506
+    second: premades_mage_walk_1
+  - first:
+      213: 7768441693701122424
+    second: premades_mage_walk_2
+  - first:
+      213: 8520923270962257586
+    second: premades_mage_walk_3
+  - first:
+      213: 698749861233338320
+    second: premades_mage_walk_4
+  - first:
+      213: -5604744593917120839
+    second: premades_mage_walk_5
+  - first:
+      213: 5004005511019348503
+    second: premades_mage_walk_6
+  - first:
+      213: -1671969159395570394
+    second: premades_mage_walk_7
+  - first:
+      213: -9193846262988791318
+    second: premades_mage_walk_8
+  - first:
+      213: 3714601069399788836
+    second: premades_mage_walk_9
+  - first:
+      213: 8198338400150046270
+    second: premades_mage_walk_10
+  - first:
+      213: 5781104713204199929
+    second: premades_mage_walk_11
+  - first:
+      213: 6662359631822192247
+    second: premades_mage_walk_12
+  - first:
+      213: 1571494158317149089
+    second: premades_mage_walk_13
+  - first:
+      213: -6884468540096592910
+    second: premades_mage_walk_14
+  - first:
+      213: 2992565340316725760
+    second: premades_mage_walk_15
+  - first:
+      213: 3131781665614772180
+    second: premades_mage_walk_16
+  - first:
+      213: 3075321590093953645
+    second: premades_mage_walk_17
+  - first:
+      213: -1509749943550766037
+    second: premades_mage_walk_18
+  - first:
+      213: -7371298405676584459
+    second: premades_mage_walk_19
+  - first:
+      213: -3393358013676878180
+    second: premades_mage_walk_20
+  - first:
+      213: 7038442691041090053
+    second: premades_mage_walk_21
+  - first:
+      213: -57877791951707422
+    second: premades_mage_walk_22
+  - first:
+      213: 4940722294523057995
+    second: premades_mage_walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_mage_walk_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d5eff134defe2e0800000000000000
+      internalID: -2094194429148635887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 213
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d933640126a93c0800000000000000
+      internalID: -4352058267863376506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a36bbf8c0fcb60800000000000000
+      internalID: 7768441693701122424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be9014b196604670800000000000000
+      internalID: 8520923270962257586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 213
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7aaa1fb4572b900800000000000000
+      internalID: 698749861233338320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 213
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be67ceac72f732b0800000000000000
+      internalID: -5604744593917120839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c76aff7cc17540800000000000000
+      internalID: 5004005511019348503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d81d278e8fbc8e0800000000000000
+      internalID: -1671969159395570394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1200fe885e86080800000000000000
+      internalID: -9193846262988791318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d4cd7edf9ec8330800000000000000
+      internalID: 3714601069399788836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 149
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364369965956c170800000000000000
+      internalID: 8198338400150046270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 149
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f17fd76b1c9a3050800000000000000
+      internalID: 5781104713204199929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 85
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ef9a459c4757c50800000000000000
+      internalID: 6662359631822192247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab58116c911fc510800000000000000
+      internalID: 1571494158317149089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3c03896547570a0800000000000000
+      internalID: -6884468540096592910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 85
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00279bc525ab78920800000000000000
+      internalID: 2992565340316725760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 85
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7bc0df4d2567b20800000000000000
+      internalID: 3131781665614772180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ab3a341bcbdaa20800000000000000
+      internalID: 3075321590093953645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249df2ec6a4c0be0800000000000000
+      internalID: -1509749943550766037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f17e34a723e3b990800000000000000
+      internalID: -7371298405676584459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9680178dde58e0d0800000000000000
+      internalID: -3393358013676878180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ad27316529da160800000000000000
+      internalID: 7038442691041090053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2a5527470623ff0800000000000000
+      internalID: -57877791951707422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_mage_walk_23
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 21
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4756e2ffb8f09440800000000000000
+      internalID: 4940722294523057995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_mage_walk_0: -2094194429148635887
+      premades_mage_walk_1: -4352058267863376506
+      premades_mage_walk_10: 8198338400150046270
+      premades_mage_walk_11: 5781104713204199929
+      premades_mage_walk_12: 6662359631822192247
+      premades_mage_walk_13: 1571494158317149089
+      premades_mage_walk_14: -6884468540096592910
+      premades_mage_walk_15: 2992565340316725760
+      premades_mage_walk_16: 3131781665614772180
+      premades_mage_walk_17: 3075321590093953645
+      premades_mage_walk_18: -1509749943550766037
+      premades_mage_walk_19: -7371298405676584459
+      premades_mage_walk_2: 7768441693701122424
+      premades_mage_walk_20: -3393358013676878180
+      premades_mage_walk_21: 7038442691041090053
+      premades_mage_walk_22: -57877791951707422
+      premades_mage_walk_23: 4940722294523057995
+      premades_mage_walk_3: 8520923270962257586
+      premades_mage_walk_4: 698749861233338320
+      premades_mage_walk_5: -5604744593917120839
+      premades_mage_walk_6: 5004005511019348503
+      premades_mage_walk_7: -1671969159395570394
+      premades_mage_walk_8: -9193846262988791318
+      premades_mage_walk_9: 3714601069399788836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

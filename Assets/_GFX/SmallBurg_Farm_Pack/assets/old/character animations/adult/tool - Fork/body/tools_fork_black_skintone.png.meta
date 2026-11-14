@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 149a005c6ac64fa4da82fdd716ff8312
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7543373785380513959
+    second: tools_fork_black_skintone_0
+  - first:
+      213: 5480414329900494419
+    second: tools_fork_black_skintone_1
+  - first:
+      213: 1422864574546448492
+    second: tools_fork_black_skintone_2
+  - first:
+      213: -5326102818121150808
+    second: tools_fork_black_skintone_3
+  - first:
+      213: -827378990398492515
+    second: tools_fork_black_skintone_4
+  - first:
+      213: -8760815448950572534
+    second: tools_fork_black_skintone_5
+  - first:
+      213: 844033866408880351
+    second: tools_fork_black_skintone_6
+  - first:
+      213: -3812163086559211316
+    second: tools_fork_black_skintone_7
+  - first:
+      213: -8167587295656389206
+    second: tools_fork_black_skintone_8
+  - first:
+      213: 3926815762647213354
+    second: tools_fork_black_skintone_9
+  - first:
+      213: 4573788055162757816
+    second: tools_fork_black_skintone_10
+  - first:
+      213: -9788632056732083
+    second: tools_fork_black_skintone_11
+  - first:
+      213: 5139373005538422371
+    second: tools_fork_black_skintone_12
+  - first:
+      213: -6278926844841498345
+    second: tools_fork_black_skintone_13
+  - first:
+      213: -5541390695750970226
+    second: tools_fork_black_skintone_14
+  - first:
+      213: 8474117596670568736
+    second: tools_fork_black_skintone_15
+  - first:
+      213: 4044448414061221385
+    second: tools_fork_black_skintone_16
+  - first:
+      213: -5359158538756442426
+    second: tools_fork_black_skintone_17
+  - first:
+      213: 3101366523622187876
+    second: tools_fork_black_skintone_18
+  - first:
+      213: 8474691667573366623
+    second: tools_fork_black_skintone_19
+  - first:
+      213: -8155491852009509209
+    second: tools_fork_black_skintone_20
+  - first:
+      213: 4717437487224651061
+    second: tools_fork_black_skintone_21
+  - first:
+      213: 8515412322259304155
+    second: tools_fork_black_skintone_22
+  - first:
+      213: -3348950267624582324
+    second: tools_fork_black_skintone_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957966a328d805790800000000000000
+      internalID: -7543373785380513959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 211
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eedabebc75e0c40800000000000000
+      internalID: 5480414329900494419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 212
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601459bac70fb310800000000000000
+      internalID: 1422864574546448492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae8ea0b4b1e516b0800000000000000
+      internalID: -5326102818121150808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 212
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d903dae113f8484f0800000000000000
+      internalID: -827378990398492515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 216
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0afb8614c45b6680800000000000000
+      internalID: -8760815448950572534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd863b1645c96bb00800000000000000
+      internalID: 844033866408880351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 147
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc018c7ded9781bc0800000000000000
+      internalID: -3812163086559211316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5586ad0a6e6ae80800000000000000
+      internalID: -8167587295656389206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 152
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25edf6812ade7630800000000000000
+      internalID: 3926815762647213354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 148
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a6e1d00c597f30800000000000000
+      internalID: 4573788055162757816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 152
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46eb6f7a493ddff0800000000000000
+      internalID: -9788632056732083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e695bd488b25740800000000000000
+      internalID: 5139373005538422371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ee824d45ccd8a0800000000000000
+      internalID: -6278926844841498345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 82
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84db1295860913b0800000000000000
+      internalID: -5541390695750970226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 87
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029af6e6e0d1a9570800000000000000
+      internalID: 8474117596670568736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 88
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906d2887764c02830800000000000000
+      internalID: 4044448414061221385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 87
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6bb6af3b170a5b0800000000000000
+      internalID: -5359158538756442426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e9c6eb644a0b20800000000000000
+      internalID: 3101366523622187876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 24
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f5caabb272c9570800000000000000
+      internalID: 8474691667573366623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 24
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae6168ce5fd1de80800000000000000
+      internalID: -8155491852009509209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 24
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df22c8664b77140800000000000000
+      internalID: 4717437487224651061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeff38f362dc2670800000000000000
+      internalID: 8515412322259304155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tools_fork_black_skintone_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4399cf99732681d0800000000000000
+      internalID: -3348950267624582324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tools_fork_black_skintone_0: -7543373785380513959
+      tools_fork_black_skintone_1: 5480414329900494419
+      tools_fork_black_skintone_10: 4573788055162757816
+      tools_fork_black_skintone_11: -9788632056732083
+      tools_fork_black_skintone_12: 5139373005538422371
+      tools_fork_black_skintone_13: -6278926844841498345
+      tools_fork_black_skintone_14: -5541390695750970226
+      tools_fork_black_skintone_15: 8474117596670568736
+      tools_fork_black_skintone_16: 4044448414061221385
+      tools_fork_black_skintone_17: -5359158538756442426
+      tools_fork_black_skintone_18: 3101366523622187876
+      tools_fork_black_skintone_19: 8474691667573366623
+      tools_fork_black_skintone_2: 1422864574546448492
+      tools_fork_black_skintone_20: -8155491852009509209
+      tools_fork_black_skintone_21: 4717437487224651061
+      tools_fork_black_skintone_22: 8515412322259304155
+      tools_fork_black_skintone_23: -3348950267624582324
+      tools_fork_black_skintone_3: -5326102818121150808
+      tools_fork_black_skintone_4: -827378990398492515
+      tools_fork_black_skintone_5: -8760815448950572534
+      tools_fork_black_skintone_6: 844033866408880351
+      tools_fork_black_skintone_7: -3812163086559211316
+      tools_fork_black_skintone_8: -8167587295656389206
+      tools_fork_black_skintone_9: 3926815762647213354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

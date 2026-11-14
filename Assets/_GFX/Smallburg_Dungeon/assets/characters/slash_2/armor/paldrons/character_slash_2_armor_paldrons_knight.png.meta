@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 9f1b1bbd40ddfbc459f4c99e99b396d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5435375576569100031
+    second: character_slash_2_armor_paldrons_knight_0
+  - first:
+      213: 6700899024406444760
+    second: character_slash_2_armor_paldrons_knight_1
+  - first:
+      213: 7255350627159450525
+    second: character_slash_2_armor_paldrons_knight_2
+  - first:
+      213: 2247821428016034723
+    second: character_slash_2_armor_paldrons_knight_3
+  - first:
+      213: 4947252197987854852
+    second: character_slash_2_armor_paldrons_knight_4
+  - first:
+      213: -7970292190793443180
+    second: character_slash_2_armor_paldrons_knight_5
+  - first:
+      213: -9055080377060748616
+    second: character_slash_2_armor_paldrons_knight_6
+  - first:
+      213: 2952136971667014353
+    second: character_slash_2_armor_paldrons_knight_7
+  - first:
+      213: 617345799201539856
+    second: character_slash_2_armor_paldrons_knight_8
+  - first:
+      213: -2422873778869147617
+    second: character_slash_2_armor_paldrons_knight_9
+  - first:
+      213: -281728712520595570
+    second: character_slash_2_armor_paldrons_knight_10
+  - first:
+      213: 5443067906668972476
+    second: character_slash_2_armor_paldrons_knight_11
+  - first:
+      213: -5896294425806047601
+    second: character_slash_2_armor_paldrons_knight_12
+  - first:
+      213: -1751082104270151252
+    second: character_slash_2_armor_paldrons_knight_13
+  - first:
+      213: -7841279105678329069
+    second: character_slash_2_armor_paldrons_knight_14
+  - first:
+      213: -5467543079847587668
+    second: character_slash_2_armor_paldrons_knight_15
+  - first:
+      213: 5576060614017986297
+    second: character_slash_2_armor_paldrons_knight_16
+  - first:
+      213: 4729550418169145801
+    second: character_slash_2_armor_paldrons_knight_17
+  - first:
+      213: -7204850009169938710
+    second: character_slash_2_armor_paldrons_knight_18
+  - first:
+      213: -7736578363874608914
+    second: character_slash_2_armor_paldrons_knight_19
+  - first:
+      213: -1100777760839728109
+    second: character_slash_2_armor_paldrons_knight_20
+  - first:
+      213: 1203439911993472802
+    second: character_slash_2_armor_paldrons_knight_21
+  - first:
+      213: 476747637480004803
+    second: character_slash_2_armor_paldrons_knight_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 70
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109c3c106baa194b0800000000000000
+      internalID: -5435375576569100031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 220
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daf189e8206efc50800000000000000
+      internalID: 6700899024406444760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 220
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932fb474fe20b460800000000000000
+      internalID: 7255350627159450525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a33867edadd13f10800000000000000
+      internalID: 2247821428016034723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a265399ab28a440800000000000000
+      internalID: 4947252197987854852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 155
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498dfab1b75d36190800000000000000
+      internalID: -7970292190793443180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 71
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b21fa87f54e55280800000000000000
+      internalID: -9055080377060748616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d282844fe818f820800000000000000
+      internalID: 2952136971667014353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017ccf8cbb0419800800000000000000
+      internalID: 617345799201539856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1865e29229306ed0800000000000000
+      internalID: -2422873778869147617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 92
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e878e278a39171cf0800000000000000
+      internalID: -281728712520595570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 91
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb945592c69a98b40800000000000000
+      internalID: 5443067906668972476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86f6baa5772c2ea0800000000000000
+      internalID: -5896294425806047601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca12f629a18e2b7e0800000000000000
+      internalID: -1751082104270151252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bb951c23e2e2390800000000000000
+      internalID: -7841279105678329069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca01a8389826f14b0800000000000000
+      internalID: -5467543079847587668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fea690d595226d40800000000000000
+      internalID: 5576060614017986297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9a54e0c0db2a140800000000000000
+      internalID: 4729550418169145801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b47fe61b330c90800000000000000
+      internalID: -7204850009169938710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8f74cd7f622a490800000000000000
+      internalID: -7736578363874608914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3148f7c657049b0f0800000000000000
+      internalID: -1100777760839728109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227f5ee493a73b010800000000000000
+      internalID: 1203439911993472802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_slash_2_armor_paldrons_knight_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc908b437fbd9600800000000000000
+      internalID: 476747637480004803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_slash_2_armor_paldrons_knight_0: -5435375576569100031
+      character_slash_2_armor_paldrons_knight_1: 6700899024406444760
+      character_slash_2_armor_paldrons_knight_10: -281728712520595570
+      character_slash_2_armor_paldrons_knight_11: 5443067906668972476
+      character_slash_2_armor_paldrons_knight_12: -5896294425806047601
+      character_slash_2_armor_paldrons_knight_13: -1751082104270151252
+      character_slash_2_armor_paldrons_knight_14: -7841279105678329069
+      character_slash_2_armor_paldrons_knight_15: -5467543079847587668
+      character_slash_2_armor_paldrons_knight_16: 5576060614017986297
+      character_slash_2_armor_paldrons_knight_17: 4729550418169145801
+      character_slash_2_armor_paldrons_knight_18: -7204850009169938710
+      character_slash_2_armor_paldrons_knight_19: -7736578363874608914
+      character_slash_2_armor_paldrons_knight_2: 7255350627159450525
+      character_slash_2_armor_paldrons_knight_20: -1100777760839728109
+      character_slash_2_armor_paldrons_knight_21: 1203439911993472802
+      character_slash_2_armor_paldrons_knight_22: 476747637480004803
+      character_slash_2_armor_paldrons_knight_3: 2247821428016034723
+      character_slash_2_armor_paldrons_knight_4: 4947252197987854852
+      character_slash_2_armor_paldrons_knight_5: -7970292190793443180
+      character_slash_2_armor_paldrons_knight_6: -9055080377060748616
+      character_slash_2_armor_paldrons_knight_7: 2952136971667014353
+      character_slash_2_armor_paldrons_knight_8: 617345799201539856
+      character_slash_2_armor_paldrons_knight_9: -2422873778869147617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

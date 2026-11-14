@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 8f59c75e478b8fc42ad2371e43e783e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8185328678544662451
+    second: character_tools_pickaxe_armor_head_bronze_headband_0
+  - first:
+      213: -3911894356524839212
+    second: character_tools_pickaxe_armor_head_bronze_headband_1
+  - first:
+      213: -2996300214529161400
+    second: character_tools_pickaxe_armor_head_bronze_headband_2
+  - first:
+      213: -6430129788531164297
+    second: character_tools_pickaxe_armor_head_bronze_headband_3
+  - first:
+      213: 4232590984983581202
+    second: character_tools_pickaxe_armor_head_bronze_headband_4
+  - first:
+      213: -4486902097939252633
+    second: character_tools_pickaxe_armor_head_bronze_headband_5
+  - first:
+      213: -7887481527566964455
+    second: character_tools_pickaxe_armor_head_bronze_headband_6
+  - first:
+      213: -8279945576234013153
+    second: character_tools_pickaxe_armor_head_bronze_headband_7
+  - first:
+      213: 5332857520197962458
+    second: character_tools_pickaxe_armor_head_bronze_headband_8
+  - first:
+      213: 8313881250032684944
+    second: character_tools_pickaxe_armor_head_bronze_headband_9
+  - first:
+      213: 2559687969346433276
+    second: character_tools_pickaxe_armor_head_bronze_headband_10
+  - first:
+      213: 4929628041267263171
+    second: character_tools_pickaxe_armor_head_bronze_headband_11
+  - first:
+      213: -3679172794606586985
+    second: character_tools_pickaxe_armor_head_bronze_headband_12
+  - first:
+      213: 6305982321975022550
+    second: character_tools_pickaxe_armor_head_bronze_headband_13
+  - first:
+      213: -6898257155359429635
+    second: character_tools_pickaxe_armor_head_bronze_headband_14
+  - first:
+      213: -5277730913476337745
+    second: character_tools_pickaxe_armor_head_bronze_headband_15
+  - first:
+      213: -4112711689586792299
+    second: character_tools_pickaxe_armor_head_bronze_headband_16
+  - first:
+      213: -83891132917879594
+    second: character_tools_pickaxe_armor_head_bronze_headband_17
+  - first:
+      213: 7970549189542649114
+    second: character_tools_pickaxe_armor_head_bronze_headband_18
+  - first:
+      213: -6146422625549161803
+    second: character_tools_pickaxe_armor_head_bronze_headband_19
+  - first:
+      213: -3742553075614252488
+    second: character_tools_pickaxe_armor_head_bronze_headband_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 225
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfd87eb011289170800000000000000
+      internalID: 8185328678544662451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 225
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de4b701fc826b9c0800000000000000
+      internalID: -3911894356524839212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 225
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847009874d00b66d0800000000000000
+      internalID: -2996300214529161400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 226
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b31fe860793c6a0800000000000000
+      internalID: -6430129788531164297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 226
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212977b531f2dba30800000000000000
+      internalID: 4232590984983581202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 226
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a306680525bb1c0800000000000000
+      internalID: -4486902097939252633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 226
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9196ae027590a8290800000000000000
+      internalID: -7887481527566964455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 161
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e21011e59b71d80800000000000000
+      internalID: -8279945576234013153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8b21f8ad120a40800000000000000
+      internalID: 5332857520197962458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 161
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f8af4b2f6d06370800000000000000
+      internalID: 8313881250032684944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 162
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf03cb475a6d58320800000000000000
+      internalID: 2559687969346433276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 162
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c63a82d59e896440800000000000000
+      internalID: 4929628041267263171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 162
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793713e16d3f0fcc0800000000000000
+      internalID: -3679172794606586985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 162
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d635e289538750800000000000000
+      internalID: 6305982321975022550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb218d6aa77440a0800000000000000
+      internalID: -6898257155359429635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 98
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf152262bbb1c6b0800000000000000
+      internalID: -5277730913476337745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 33
+        width: 138
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59825962286bce6c0800000000000000
+      internalID: -4112711689586792299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 97
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcef968575f5def0800000000000000
+      internalID: -83891132917879594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 98
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d977312441d9e60800000000000000
+      internalID: 7970549189542649114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 98
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae7bcef2583baa0800000000000000
+      internalID: -6146422625549161803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tools_pickaxe_armor_head_bronze_headband_20
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 33
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83287fe7ec7cf0cc0800000000000000
+      internalID: -3742553075614252488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_tools_pickaxe_armor_head_bronze_headband_0: 8185328678544662451
+      character_tools_pickaxe_armor_head_bronze_headband_1: -3911894356524839212
+      character_tools_pickaxe_armor_head_bronze_headband_10: 2559687969346433276
+      character_tools_pickaxe_armor_head_bronze_headband_11: 4929628041267263171
+      character_tools_pickaxe_armor_head_bronze_headband_12: -3679172794606586985
+      character_tools_pickaxe_armor_head_bronze_headband_13: 6305982321975022550
+      character_tools_pickaxe_armor_head_bronze_headband_14: -6898257155359429635
+      character_tools_pickaxe_armor_head_bronze_headband_15: -5277730913476337745
+      character_tools_pickaxe_armor_head_bronze_headband_16: -4112711689586792299
+      character_tools_pickaxe_armor_head_bronze_headband_17: -83891132917879594
+      character_tools_pickaxe_armor_head_bronze_headband_18: 7970549189542649114
+      character_tools_pickaxe_armor_head_bronze_headband_19: -6146422625549161803
+      character_tools_pickaxe_armor_head_bronze_headband_2: -2996300214529161400
+      character_tools_pickaxe_armor_head_bronze_headband_20: -3742553075614252488
+      character_tools_pickaxe_armor_head_bronze_headband_3: -6430129788531164297
+      character_tools_pickaxe_armor_head_bronze_headband_4: 4232590984983581202
+      character_tools_pickaxe_armor_head_bronze_headband_5: -4486902097939252633
+      character_tools_pickaxe_armor_head_bronze_headband_6: -7887481527566964455
+      character_tools_pickaxe_armor_head_bronze_headband_7: -8279945576234013153
+      character_tools_pickaxe_armor_head_bronze_headband_8: 5332857520197962458
+      character_tools_pickaxe_armor_head_bronze_headband_9: 8313881250032684944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 6a628d654c9c93947998a3becd1b56dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2759716626724296251
+    second: character_jump_armor_chest_blue_robe_0
+  - first:
+      213: 4148308797545932418
+    second: character_jump_armor_chest_blue_robe_1
+  - first:
+      213: -912224885259269688
+    second: character_jump_armor_chest_blue_robe_2
+  - first:
+      213: -6843094498824548838
+    second: character_jump_armor_chest_blue_robe_3
+  - first:
+      213: -1909082613593586732
+    second: character_jump_armor_chest_blue_robe_4
+  - first:
+      213: 5997006107210873986
+    second: character_jump_armor_chest_blue_robe_5
+  - first:
+      213: 3171973607340840471
+    second: character_jump_armor_chest_blue_robe_6
+  - first:
+      213: 1473586792811092843
+    second: character_jump_armor_chest_blue_robe_7
+  - first:
+      213: 3474654889053341356
+    second: character_jump_armor_chest_blue_robe_8
+  - first:
+      213: -8420565292468506023
+    second: character_jump_armor_chest_blue_robe_9
+  - first:
+      213: 1787480342527506637
+    second: character_jump_armor_chest_blue_robe_10
+  - first:
+      213: 606937293631792620
+    second: character_jump_armor_chest_blue_robe_11
+  - first:
+      213: 3985848966422091227
+    second: character_jump_armor_chest_blue_robe_12
+  - first:
+      213: -3772478784336758169
+    second: character_jump_armor_chest_blue_robe_13
+  - first:
+      213: -938699665079114285
+    second: character_jump_armor_chest_blue_robe_14
+  - first:
+      213: 6316083737502500614
+    second: character_jump_armor_chest_blue_robe_15
+  - first:
+      213: -8171649216815856111
+    second: character_jump_armor_chest_blue_robe_16
+  - first:
+      213: 2682380810133227827
+    second: character_jump_armor_chest_blue_robe_17
+  - first:
+      213: 1195193032614746020
+    second: character_jump_armor_chest_blue_robe_18
+  - first:
+      213: 2720815881499880680
+    second: character_jump_armor_chest_blue_robe_19
+  - first:
+      213: -4738064333835637931
+    second: character_jump_armor_chest_blue_robe_20
+  - first:
+      213: -6886738423863294203
+    second: character_jump_armor_chest_blue_robe_21
+  - first:
+      213: -8917728812437073655
+    second: character_jump_armor_chest_blue_robe_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3614a086ab7c4620800000000000000
+      internalID: 2759716626724296251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 222
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2866a586fd0c19930800000000000000
+      internalID: 4148308797545932418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 220
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c989decc402753f0800000000000000
+      internalID: -912224885259269688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 218
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e02214fc17801a0800000000000000
+      internalID: -6843094498824548838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 216
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d341e94a739185e0800000000000000
+      internalID: -1909082613593586732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 217
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cf620f745a93350800000000000000
+      internalID: 5997006107210873986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 155
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7161776a03d150c20800000000000000
+      internalID: 3171973607340840471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 158
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b5633716b337410800000000000000
+      internalID: 1473586792811092843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 156
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6491b4634783030800000000000000
+      internalID: 3474654889053341356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9527e660b74242b80800000000000000
+      internalID: -8420565292468506023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8785ba6e76ec810800000000000000
+      internalID: 1787480342527506637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 153
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce52cdbb0464c6800800000000000000
+      internalID: 606937293631792620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 91
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd552fb5484905730800000000000000
+      internalID: 3985848966422091227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 94
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76af8e8788675abc0800000000000000
+      internalID: -3772478784336758169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 92
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d56e28c0a119f2f0800000000000000
+      internalID: -938699665079114285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 90
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074579f1bc37a750800000000000000
+      internalID: 6316083737502500614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 88
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11687922558789e80800000000000000
+      internalID: -8171649216815856111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_17
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 89
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339c05c822bb93520800000000000000
+      internalID: 2682380810133227827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a716031bbd269010800000000000000
+      internalID: 1195193032614746020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecaa04f0a742c520800000000000000
+      internalID: 2720815881499880680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b67ca77930f3eb0800000000000000
+      internalID: -4738064333835637931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507489814e36d60a0800000000000000
+      internalID: -6886738423863294203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_jump_armor_chest_blue_robe_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 25
+        width: 77
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9011c6ba4ecdd3480800000000000000
+      internalID: -8917728812437073655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      character_jump_armor_chest_blue_robe_0: 2759716626724296251
+      character_jump_armor_chest_blue_robe_1: 4148308797545932418
+      character_jump_armor_chest_blue_robe_10: 1787480342527506637
+      character_jump_armor_chest_blue_robe_11: 606937293631792620
+      character_jump_armor_chest_blue_robe_12: 3985848966422091227
+      character_jump_armor_chest_blue_robe_13: -3772478784336758169
+      character_jump_armor_chest_blue_robe_14: -938699665079114285
+      character_jump_armor_chest_blue_robe_15: 6316083737502500614
+      character_jump_armor_chest_blue_robe_16: -8171649216815856111
+      character_jump_armor_chest_blue_robe_17: 2682380810133227827
+      character_jump_armor_chest_blue_robe_18: 1195193032614746020
+      character_jump_armor_chest_blue_robe_19: 2720815881499880680
+      character_jump_armor_chest_blue_robe_2: -912224885259269688
+      character_jump_armor_chest_blue_robe_20: -4738064333835637931
+      character_jump_armor_chest_blue_robe_21: -6886738423863294203
+      character_jump_armor_chest_blue_robe_22: -8917728812437073655
+      character_jump_armor_chest_blue_robe_3: -6843094498824548838
+      character_jump_armor_chest_blue_robe_4: -1909082613593586732
+      character_jump_armor_chest_blue_robe_5: 5997006107210873986
+      character_jump_armor_chest_blue_robe_6: 3171973607340840471
+      character_jump_armor_chest_blue_robe_7: 1473586792811092843
+      character_jump_armor_chest_blue_robe_8: 3474654889053341356
+      character_jump_armor_chest_blue_robe_9: -8420565292468506023
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

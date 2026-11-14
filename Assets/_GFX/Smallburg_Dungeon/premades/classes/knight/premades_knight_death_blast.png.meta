@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 197188e6994d3ba48880fdae2a3250d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1103473154413336185
+    second: premades_knight_death_blast_0
+  - first:
+      213: -5930166330559503772
+    second: premades_knight_death_blast_1
+  - first:
+      213: -7340626990586302693
+    second: premades_knight_death_blast_2
+  - first:
+      213: 3366907470215347680
+    second: premades_knight_death_blast_3
+  - first:
+      213: 4150460148228305338
+    second: premades_knight_death_blast_4
+  - first:
+      213: -9396787462673419
+    second: premades_knight_death_blast_5
+  - first:
+      213: -5216131393782580796
+    second: premades_knight_death_blast_6
+  - first:
+      213: 7447097477890329355
+    second: premades_knight_death_blast_7
+  - first:
+      213: -2126070288619985294
+    second: premades_knight_death_blast_8
+  - first:
+      213: 4338245936839144222
+    second: premades_knight_death_blast_9
+  - first:
+      213: -8209441229037866499
+    second: premades_knight_death_blast_10
+  - first:
+      213: -906163892522287681
+    second: premades_knight_death_blast_11
+  - first:
+      213: -8183950827960686113
+    second: premades_knight_death_blast_12
+  - first:
+      213: 1066131305897513058
+    second: premades_knight_death_blast_13
+  - first:
+      213: 6644114019781609859
+    second: premades_knight_death_blast_14
+  - first:
+      213: 7938883744422816840
+    second: premades_knight_death_blast_15
+  - first:
+      213: 3203303976853329199
+    second: premades_knight_death_blast_16
+  - first:
+      213: -3235754386925011193
+    second: premades_knight_death_blast_17
+  - first:
+      213: -198928897210305145
+    second: premades_knight_death_blast_18
+  - first:
+      213: -847149869258956959
+    second: premades_knight_death_blast_19
+  - first:
+      213: 689267808322176908
+    second: premades_knight_death_blast_20
+  - first:
+      213: 5101305237971953868
+    second: premades_knight_death_blast_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: premades_knight_death_blast_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 85
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769cfbccf2505f00800000000000000
+      internalID: 1103473154413336185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462e4084421d3bda0800000000000000
+      internalID: -5930166330559503772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6575f4aad02a90800000000000000
+      internalID: -7340626990586302693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed7bc96188a9be20800000000000000
+      internalID: 3366907470215347680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab13095c385699930800000000000000
+      internalID: 4150460148228305338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbe14debad9edff0800000000000000
+      internalID: -9396787462673419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c973d332249c97b0800000000000000
+      internalID: -5216131393782580796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 23
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4c5123b7695760800000000000000
+      internalID: 7447097477890329355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 87
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2762b4f365eae72e0800000000000000
+      internalID: -2126070288619985294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13349dc1bb843c30800000000000000
+      internalID: 4338245936839144222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df170ca92b4321e80800000000000000
+      internalID: -8209441229037866499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd7ce5adb8ac63f0800000000000000
+      internalID: -906163892522287681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 87
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a3281514cc6e80800000000000000
+      internalID: -8183950827960686113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 23
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260d1fb26c8abce00800000000000000
+      internalID: 1066131305897513058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 85
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389864cbf72a43c50800000000000000
+      internalID: 6644114019781609859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 21
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce17b14b49c2e60800000000000000
+      internalID: 7938883744422816840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 96
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2550ffbefb647c20800000000000000
+      internalID: 3203303976853329199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 16
+        width: 153
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f3ce2678a4813d0800000000000000
+      internalID: -3235754386925011193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7853832d8334d3df0800000000000000
+      internalID: -198928897210305145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 32
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f1d4baea15e34f0800000000000000
+      internalID: -847149869258956959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_20
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87c7267b65c09900800000000000000
+      internalID: 689267808322176908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: premades_knight_death_blast_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc86828061a7bc640800000000000000
+      internalID: 5101305237971953868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      premades_knight_death_blast_0: 1103473154413336185
+      premades_knight_death_blast_1: -5930166330559503772
+      premades_knight_death_blast_10: -8209441229037866499
+      premades_knight_death_blast_11: -906163892522287681
+      premades_knight_death_blast_12: -8183950827960686113
+      premades_knight_death_blast_13: 1066131305897513058
+      premades_knight_death_blast_14: 6644114019781609859
+      premades_knight_death_blast_15: 7938883744422816840
+      premades_knight_death_blast_16: 3203303976853329199
+      premades_knight_death_blast_17: -3235754386925011193
+      premades_knight_death_blast_18: -198928897210305145
+      premades_knight_death_blast_19: -847149869258956959
+      premades_knight_death_blast_2: -7340626990586302693
+      premades_knight_death_blast_20: 689267808322176908
+      premades_knight_death_blast_21: 5101305237971953868
+      premades_knight_death_blast_3: 3366907470215347680
+      premades_knight_death_blast_4: 4150460148228305338
+      premades_knight_death_blast_5: -9396787462673419
+      premades_knight_death_blast_6: -5216131393782580796
+      premades_knight_death_blast_7: 7447097477890329355
+      premades_knight_death_blast_8: -2126070288619985294
+      premades_knight_death_blast_9: 4338245936839144222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

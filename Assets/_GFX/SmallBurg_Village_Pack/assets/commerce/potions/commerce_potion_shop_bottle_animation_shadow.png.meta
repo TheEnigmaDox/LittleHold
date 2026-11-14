@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: e6b50cd72afefac4db75c4e377493117
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1788236630125068140
+    second: commerce_potion_shop_bottle_animation_shadow_0
+  - first:
+      213: -2472814525178172883
+    second: commerce_potion_shop_bottle_animation_shadow_1
+  - first:
+      213: -1006532657279227847
+    second: commerce_potion_shop_bottle_animation_shadow_2
+  - first:
+      213: 1496391565925190703
+    second: commerce_potion_shop_bottle_animation_shadow_3
+  - first:
+      213: 8208443223287077343
+    second: commerce_potion_shop_bottle_animation_shadow_4
+  - first:
+      213: -2073226349072022607
+    second: commerce_potion_shop_bottle_animation_shadow_5
+  - first:
+      213: -7515819613186861496
+    second: commerce_potion_shop_bottle_animation_shadow_6
+  - first:
+      213: -1602613226182250419
+    second: commerce_potion_shop_bottle_animation_shadow_7
+  - first:
+      213: -1798632209777445508
+    second: commerce_potion_shop_bottle_animation_shadow_8
+  - first:
+      213: 3164352007345282704
+    second: commerce_potion_shop_bottle_animation_shadow_9
+  - first:
+      213: 7207807298580392917
+    second: commerce_potion_shop_bottle_animation_shadow_10
+  - first:
+      213: -8373243793728175545
+    second: commerce_potion_shop_bottle_animation_shadow_11
+  - first:
+      213: -2192117445098337150
+    second: commerce_potion_shop_bottle_animation_shadow_12
+  - first:
+      213: -662785960159696483
+    second: commerce_potion_shop_bottle_animation_shadow_13
+  - first:
+      213: 6502473090673891422
+    second: commerce_potion_shop_bottle_animation_shadow_14
+  - first:
+      213: -1826349633792798206
+    second: commerce_potion_shop_bottle_animation_shadow_15
+  - first:
+      213: 4077634622245277873
+    second: commerce_potion_shop_bottle_animation_shadow_16
+  - first:
+      213: 6460299716928271420
+    second: commerce_potion_shop_bottle_animation_shadow_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f32f89db711d810800000000000000
+      internalID: 1788236630125068140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a24577a4cceadd0800000000000000
+      internalID: -2472814525178172883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 26
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938aa0c81e31802f0800000000000000
+      internalID: -1006532657279227847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 30
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c8cd3733044c410800000000000000
+      internalID: 1496391565925190703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 17
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd91df21f9f3ae170800000000000000
+      internalID: 8208443223287077343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 26
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b30594be9b6a33e0800000000000000
+      internalID: -2073226349072022607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 30
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465510e1e172b790800000000000000
+      internalID: -7515819613186861496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 17
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40701503cf52c9e0800000000000000
+      internalID: -1602613226182250419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 26
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b3a6e889f907e0800000000000000
+      internalID: -1798632209777445508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 30
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e1c1e92690aeb20800000000000000
+      internalID: 3164352007345282704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 17
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2a59ac86470460800000000000000
+      internalID: 7207807298580392917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 26
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742861902234ccb80800000000000000
+      internalID: -8373243793728175545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 30
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c0afa4cc80491e0800000000000000
+      internalID: -2192117445098337150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 17
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a09a4eaf4dc6f0800000000000000
+      internalID: -662785960159696483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 26
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58572b03dc6d3a50800000000000000
+      internalID: 6502473090673891422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 30
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2029d1a3fa087a6e0800000000000000
+      internalID: -1826349633792798206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 17
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b093cea51ba69830800000000000000
+      internalID: 4077634622245277873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commerce_potion_shop_bottle_animation_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 26
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34f01a4d5897a950800000000000000
+      internalID: 6460299716928271420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      commerce_potion_shop_bottle_animation_shadow_0: 1788236630125068140
+      commerce_potion_shop_bottle_animation_shadow_1: -2472814525178172883
+      commerce_potion_shop_bottle_animation_shadow_10: 7207807298580392917
+      commerce_potion_shop_bottle_animation_shadow_11: -8373243793728175545
+      commerce_potion_shop_bottle_animation_shadow_12: -2192117445098337150
+      commerce_potion_shop_bottle_animation_shadow_13: -662785960159696483
+      commerce_potion_shop_bottle_animation_shadow_14: 6502473090673891422
+      commerce_potion_shop_bottle_animation_shadow_15: -1826349633792798206
+      commerce_potion_shop_bottle_animation_shadow_16: 4077634622245277873
+      commerce_potion_shop_bottle_animation_shadow_17: 6460299716928271420
+      commerce_potion_shop_bottle_animation_shadow_2: -1006532657279227847
+      commerce_potion_shop_bottle_animation_shadow_3: 1496391565925190703
+      commerce_potion_shop_bottle_animation_shadow_4: 8208443223287077343
+      commerce_potion_shop_bottle_animation_shadow_5: -2073226349072022607
+      commerce_potion_shop_bottle_animation_shadow_6: -7515819613186861496
+      commerce_potion_shop_bottle_animation_shadow_7: -1602613226182250419
+      commerce_potion_shop_bottle_animation_shadow_8: -1798632209777445508
+      commerce_potion_shop_bottle_animation_shadow_9: 3164352007345282704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

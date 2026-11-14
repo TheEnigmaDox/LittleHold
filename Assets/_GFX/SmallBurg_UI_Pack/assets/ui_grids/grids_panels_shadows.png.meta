@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 73194dd8af3642147820932d1ac2f19b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6883277318179409201
+    second: grids_panels_shadows_0
+  - first:
+      213: -7118188190681825989
+    second: grids_panels_shadows_1
+  - first:
+      213: 838990274419743690
+    second: grids_panels_shadows_2
+  - first:
+      213: -907223178886392062
+    second: grids_panels_shadows_3
+  - first:
+      213: -9026694965283537393
+    second: grids_panels_shadows_4
+  - first:
+      213: -4217828426386972878
+    second: grids_panels_shadows_5
+  - first:
+      213: -7363278039958841084
+    second: grids_panels_shadows_6
+  - first:
+      213: -7581048930260844402
+    second: grids_panels_shadows_7
+  - first:
+      213: -7245940683931515814
+    second: grids_panels_shadows_8
+  - first:
+      213: 4252325832291205992
+    second: grids_panels_shadows_9
+  - first:
+      213: 1124067882320784347
+    second: grids_panels_shadows_10
+  - first:
+      213: 2973410344900918184
+    second: grids_panels_shadows_11
+  - first:
+      213: 2505751011058853842
+    second: grids_panels_shadows_12
+  - first:
+      213: -3158727021332019139
+    second: grids_panels_shadows_13
+  - first:
+      213: -4966408662731352904
+    second: grids_panels_shadows_14
+  - first:
+      213: 8090475974930119144
+    second: grids_panels_shadows_15
+  - first:
+      213: 8820657680006564733
+    second: grids_panels_shadows_16
+  - first:
+      213: -2819179947307171536
+    second: grids_panels_shadows_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grids_panels_shadows_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 86
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d46907040568f50800000000000000
+      internalID: 6883277318179409201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 86
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d770aed8d173d90800000000000000
+      internalID: -7118188190681825989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 86
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbdbcc9531b4ab00800000000000000
+      internalID: 838990274419743690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207d9725355e863f0800000000000000
+      internalID: -907223178886392062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 86
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb77a21ccbab280800000000000000
+      internalID: -9026694965283537393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 86
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fd8a9a4634775c0800000000000000
+      internalID: -4217828426386972878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 46
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40991dd82a160d990800000000000000
+      internalID: -7363278039958841084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 46
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8082fef924bac690800000000000000
+      internalID: -7581048930260844402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 46
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5406bea65f317b90800000000000000
+      internalID: -7245940683931515814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 46
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8634fee80db430b30800000000000000
+      internalID: 4252325832291205992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe72d88cd799f00800000000000000
+      internalID: 1124067882320784347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 46
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab7a4374fca34920800000000000000
+      internalID: 2973410344900918184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d72dbdb44736c220800000000000000
+      internalID: 2505751011058853842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c31f7282f924d0800000000000000
+      internalID: -3158727021332019139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4997862a5c31bb0800000000000000
+      internalID: -4966408662731352904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9ba85b805274070800000000000000
+      internalID: 8090475974930119144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bcc161d65496a70800000000000000
+      internalID: 8820657680006564733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grids_panels_shadows_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0310ada46c240e8d0800000000000000
+      internalID: -2819179947307171536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      grids_panels_shadows_0: 6883277318179409201
+      grids_panels_shadows_1: -7118188190681825989
+      grids_panels_shadows_10: 1124067882320784347
+      grids_panels_shadows_11: 2973410344900918184
+      grids_panels_shadows_12: 2505751011058853842
+      grids_panels_shadows_13: -3158727021332019139
+      grids_panels_shadows_14: -4966408662731352904
+      grids_panels_shadows_15: 8090475974930119144
+      grids_panels_shadows_16: 8820657680006564733
+      grids_panels_shadows_17: -2819179947307171536
+      grids_panels_shadows_2: 838990274419743690
+      grids_panels_shadows_3: -907223178886392062
+      grids_panels_shadows_4: -9026694965283537393
+      grids_panels_shadows_5: -4217828426386972878
+      grids_panels_shadows_6: -7363278039958841084
+      grids_panels_shadows_7: -7581048930260844402
+      grids_panels_shadows_8: -7245940683931515814
+      grids_panels_shadows_9: 4252325832291205992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
