@@ -38,11 +38,13 @@ public class ResourceNode : MonoBehaviour, IResource
         {
             harvested = true;
 
-            int drops = Random.Range(1, data.maxDrops);
+            int drops = Random.Range(1, data.maxDrops + 1);
 
             for (int i = 0; i < drops; i++)
             {
-                Instantiate(data.material, this.transform.position, Quaternion.identity);
+                GameObject obj = Instantiate(data.material, this.transform.position, Quaternion.identity);
+                Vector2 randomOffset = Random.insideUnitCircle;
+                obj.GetComponent<Resource>().targetPos = (Vector2)transform.position + randomOffset;
             }
 
             health = 3;

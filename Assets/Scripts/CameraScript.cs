@@ -1,3 +1,4 @@
+using UnityEditor.Rendering;
 using UnityEngine;
 using UnityEngine.Rendering;
 
@@ -11,6 +12,11 @@ public class CameraScript : MonoBehaviour
 
     [SerializeField]
     private Vector2 maxPos;
+
+    private void Awake()
+    {
+        Settings.SetFrameRate();
+    }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

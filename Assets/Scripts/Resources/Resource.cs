@@ -2,7 +2,10 @@ using UnityEngine;
 
 public class Resource : MonoBehaviour
 {
-    Vector2 targetPos;
+    private float fastSpeed = 3f;
+    private float slowSpeed = 1f;
+
+    public Vector2 targetPos;
 
     public ResourceType resourceType { get; private set; }
 
@@ -11,15 +14,15 @@ public class Resource : MonoBehaviour
     {
         resourceType = ResourceType.Wood;
 
-        Vector3 randomDir = new Vector3(Random.value, Random.value, 0);
-
-        Debug.Log($"Random Direction : {randomDir + Vector3.one}");
-        targetPos = transform.position += (Vector3)Random.insideUnitCircle.normalized;
+        Debug.Log($"Target pos : {targetPos}");
     }
 
     // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
-        transform.position = Vector2.Lerp(transform.position, targetPos, 0.5f); 
+        if(Vector2.Distance(transform.position, targetPos) > 0.25f)
+            transform.position = Vector2.MoveTowards(transform.position, targetPos, fastSpeed * Time.deltaTime);
+        else
+            transform.position = Vector2.MoveTowards(transform.position, targetPos, slowSpeed * Time.deltaTime);
     }
 }
