@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2dff802d7299df47bb48fe2b5343c7f, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: Assembly-CSharp::ResourceData
+  resourceID: basicwood
+  resourceName: wood
+  resourceType: 0
+  unharvested: {fileID: -1850148291412574852, guid: 0a37eee46c2335a4990affcc1884c787, type: 3}
+  harvested: {fileID: 3703432384914050020, guid: 0a37eee46c2335a4990affcc1884c787, type: 3}
+  respawnTime: 0.2929386
+  maxSpawnTime: 2
+  maxHealth: 3
+  material: {fileID: 3467483342256543796, guid: db5b91f34c6df7749b7f2a2e527e3251, type: 3}
+  maxDrops: 3
