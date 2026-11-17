@@ -40,11 +40,26 @@ public class CameraScript : MonoBehaviour
         {
             Vector2 mousePos = Camera.main.ScreenToWorldPoint(InputManager.Instance.MousePosition());
 
-            var resourceNode = Physics2D.OverlapPoint(mousePos);
-
-            if (resourceNode != null)
+            var overlap = Physics2D.OverlapPointAll(mousePos);
+            
+            if(overlap != null)
             {
-                resourceNode.GetComponent<ResourceNode>().Harvest(1);
+                for(int i = 0; i < overlap.Length; i++)
+                {
+                    if (overlap[i].TryGetComponent<Resource>(out Resource resource))
+                    {
+                        resource.PickUpMaterial();
+                        return;
+                    }
+                }
+
+                for (int j = 0; j < overlap.Length; j++)
+                {
+                    if (overlap[j].TryGetComponent<ResourceNode>(out ResourceNode resourceNode))
+                    {
+                        resourceNode.Harvest(1);
+                    }
+                }
             }
         }
     }
